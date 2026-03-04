@@ -1,0 +1,7 @@
+raw_grants.json
+html/
+*.log
+*.xlsx
+~$*
+__pycache__/
+.DS_Store
