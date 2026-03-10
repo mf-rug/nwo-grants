@@ -32,7 +32,7 @@ while True:
     found = 0
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        if re.match(r"^/en/calls/[^?#/]+$", href):
+        if re.match(r"^/en/calls/[^?#]+$", href):
             full_url = BASE + href
             title = a.get_text(strip=True)
             if full_url not in grants and title:

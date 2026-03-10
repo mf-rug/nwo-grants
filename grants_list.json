@@ -112,12 +112,16 @@
     "title": "Dutch Research Agenda - Research along Routes by Consortia 2025 (NWA-ORC 2025)"
   },
   {
-    "url": "https://www.nwo.nl/en/calls/extreme-heat-and-water-events-the-adverse-health-effects-of-climate-change-in-cities-2024",
-    "title": "Extreme Heat and Water Events: The Adverse Health Effects of Climate Change in Cities 2024"
+    "url": "https://www.nwo.nl/en/calls/dutch-research-agenda-research-along-routes-by-consortia-2026",
+    "title": "Dutch Research Agenda - Research along Routes by Consortia 2026"
   },
   {
     "url": "https://www.nwo.nl/en/calls/faculty-of-impact-2026",
     "title": "Faculty of Impact 2026"
+  },
+  {
+    "url": "https://www.nwo.nl/en/calls/fellowships-for-lecturers/researchers-at-universities-of-applied-sciences",
+    "title": "Fellowships for lecturers/researchers at universities of applied sciences"
   },
   {
     "url": "https://www.nwo.nl/en/calls/financiering-bestaande-lectorenplatforms",
@@ -178,10 +182,6 @@
   {
     "url": "https://www.nwo.nl/en/calls/innofest-x-sia-sport",
     "title": "Innofest X SIA Sport"
-  },
-  {
-    "url": "https://www.nwo.nl/en/calls/interdisciplinary-earth-and-environmental-science-with-use-of-atmospheric-instrumentation-in-space",
-    "title": "Interdisciplinary Earth and Environmental Science with use of Atmospheric Instrumentation in Space"
   },
   {
     "url": "https://www.nwo.nl/en/calls/isaac-newton-group-telescopes-26a",
@@ -572,6 +572,14 @@
     "title": "Open Access Books"
   },
   {
+    "url": "https://www.nwo.nl/en/calls/open-competition-domain-science-m-2024/2025",
+    "title": "Open Competition Domain Science - M 2024/2025"
+  },
+  {
+    "url": "https://www.nwo.nl/en/calls/open-competition-domain-science-m-2025/2026",
+    "title": "Open Competition Domain Science – M 2025/2026"
+  },
+  {
     "url": "https://www.nwo.nl/en/calls/open-competition-domain-science-xl-round-2025-2026",
     "title": "Open Competition Domain Science–XL round 2025–2026"
   },
@@ -608,12 +616,20 @@
     "title": "Open Technology Programme 2026"
   },
   {
+    "url": "https://www.nwo.nl/en/calls/participation-of-people-with-a-brain-and/or-mental-disorder-in-education-and-employment",
+    "title": "Participation of people with a  brain and/or mental disorder in education and employment"
+  },
+  {
     "url": "https://www.nwo.nl/en/calls/partnership-water4all-water-and-health-call-4",
     "title": "Partnership Water4All – Water and Health Call 4"
   },
   {
     "url": "https://www.nwo.nl/en/calls/partnership-water4all-water-for-circular-economy",
     "title": "Partnership Water4All – Water For Circular Economy"
+  },
+  {
+    "url": "https://www.nwo.nl/en/calls/perspectief-round-2024/2025",
+    "title": "Perspectief round 2024/2025"
   },
   {
     "url": "https://www.nwo.nl/en/calls/perspectief-round-2025-2026",
@@ -656,10 +672,6 @@
     "title": "Quantum Delta NL Quantum Technology 2025"
   },
   {
-    "url": "https://www.nwo.nl/en/calls/raak-mkb",
-    "title": "RAAK-mkb"
-  },
-  {
     "url": "https://www.nwo.nl/en/calls/raak-mkb-0",
     "title": "RAAK-mkb"
   },
@@ -674,10 +686,6 @@
   {
     "url": "https://www.nwo.nl/en/calls/raak-publiek",
     "title": "RAAK-publiek"
-  },
-  {
-    "url": "https://www.nwo.nl/en/calls/research-along-routes-by-consortia-2026",
-    "title": "Research along Routes by Consortia 2026"
   },
   {
     "url": "https://www.nwo.nl/en/calls/research-infrastructure-ri-national-consortia-0",
@@ -744,10 +752,6 @@
     "title": "SSH Open Competition L 2025"
   },
   {
-    "url": "https://www.nwo.nl/en/calls/ssh-open-competition-xs-2025-round-1",
-    "title": "SSH Open Competition XS 2025 - round 1"
-  },
-  {
     "url": "https://www.nwo.nl/en/calls/ssh-open-competition-xs-2025-round-2",
     "title": "SSH Open Competition XS 2025 - round 2"
   },
@@ -786,6 +790,10 @@
   {
     "url": "https://www.nwo.nl/en/calls/take-off-phase-1-feasibility-studies-wo-autumn-2025",
     "title": "Take off phase 1 - Feasibility studies WO Autumn 2025"
+  },
+  {
+    "url": "https://www.nwo.nl/en/calls/take-off-phase-2-vroegefasetrajecten-wo/hbo/to2-spring-2026",
+    "title": "Take-off phase 2 - Vroegefasetrajecten WO/HBO/TO2 Spring 2026"
   },
   {
     "url": "https://www.nwo.nl/en/calls/technology-development-for-circular-batteries",
@@ -848,16 +856,20 @@
     "title": "Use of space infrastructure for vegetation research"
   },
   {
-    "url": "https://www.nwo.nl/en/calls/van-moorsel-and-rijnierse-2025",
-    "title": "Van Moorsel and Rijnierse 2025"
-  },
-  {
     "url": "https://www.nwo.nl/en/calls/venture-challenge-fall-2025",
     "title": "Venture Challenge Fall 2025"
   },
   {
     "url": "https://www.nwo.nl/en/calls/venture-challenge-spring-2026",
     "title": "Venture Challenge Spring 2026"
+  },
+  {
+    "url": "https://www.nwo.nl/en/calls/weave-with-nwo-as-partner-agency-2024/2025",
+    "title": "Weave with NWO as partner agency 2024/2025"
+  },
+  {
+    "url": "https://www.nwo.nl/en/calls/weave-with-nwo-as-partner-agency-2025/2026",
+    "title": "Weave with NWO as partner agency 2025/2026"
   },
   {
     "url": "https://www.nwo.nl/en/calls/working-together-towards-an-inclusive-society-implementing-a-social-model-of-disability",

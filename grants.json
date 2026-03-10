@@ -1,182 +1,5 @@
 [
   {
-    "id": "2026-international-joint-initiative-for-research-harnessing-disruptive-technologies-to-address-global-challenges",
-    "url": "https://www.nwo.nl/en/calls/2026-international-joint-initiative-for-research-harnessing-disruptive-technologies-to-address-global-challenges",
-    "title": "2026 International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges",
-    "status": "open",
-    "status_raw": "Open calls Open for pre-proposals",
-    "budget": "€3,800,000",
-    "finance_type": "Collaboration with Partners",
-    "programme": "International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges",
-    "target_groups": "Interdisciplinary Collaboration International Collaboration",
-    "deadline_iso": "2026-03-04T12:00:00Z",
-    "deadline_dates": [
-      "2026-03-03T23:59:00",
-      "2026-03-04T12:00:00Z",
-      "2026-03-04T23:59:00",
-      "2026-06-09T23:59:00",
-      "2026-11-03T12:00:00Z",
-      "2026-11-03T23:59:00",
-      "2026-11-04T23:59:00"
-    ],
-    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/CfP-NFRFI-and-NWOannex_030326_0.pdf",
-    "pdf_urls": [
-      "https://www.eur.nl/sites/corporate/files/manual_security_guidelines_def_2.dd_juli_2016.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/CfP-NFRFI-and-NWOannex_030326_0.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/call_overview.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/full_application_guide.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/funding_organisations.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/specification_of_eligible_costs_belonging_to_the_national_annex.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/nwo_national_annex.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/noi_guide.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/loi_guide.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/evaluation_matrices.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/review_process.pdf"
-    ],
-    "characteristics": {
-      "Status": "Open calls Open for pre-proposals",
-      "Closing date for pre-proposals": {
-        "display": "4 March 2026",
-        "iso": [
-          "2026-03-04T12:00:00Z"
-        ]
-      },
-      "Closing date full application": {
-        "display": "3 November 2026",
-        "iso": [
-          "2026-11-03T12:00:00Z"
-        ]
-      },
-      "Finance type": "Collaboration with Partners",
-      "For specific groups": "Interdisciplinary Collaboration International Collaboration",
-      "Budget": "€3,800,000",
-      "Research programme": "International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges",
-      "Themes": "Sustainable Cities Energy Climate Ruimtelijke en sociale transformaties Food Water"
-    },
-    "sections": {
-      "purpose": {
-        "title": "Purpose",
-        "text": "This call aims to harness the potential of disruptive technologies to deliver novel solutions to global challenges and accelerate progress toward achieving the Sustainable Development Goals (SDGs). More research is needed on how disruptive technologies can have transformative, economic, or societal impacts, improving people's lives and the planet through contextually appropriate interventions. Please note! NWO funding can only be requested for projects addressing the following SDGs: Zero Hunger (SDG 2), Clean Water and Sanitation (SDG 6), Affordable and Clean Energy (SDG 7), Sustainable Cities and Communities (SDG 11)."
-      },
-      "who_can_apply": {
-        "title": "Who can apply",
-        "text": "Researchers may submit an application if all applicants (= co-PI(s) and co-applicant(s)) have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the following research organisations: Universities and universities of applied sciences (UAS) as referred to in Article 1.8 paragraph 1 of the Higher Education and Scientific Research Act and universities listed in the Policy Rules for Universities located in the Kingdom of the Netherlands; University medical centres by which is meant academic hospitals as referred to in Article 1.13 paragraph 1 of the Higher Education and Scientific Research Act; Institutes affiliated to the Royal Netherlands Academy of Arts and Sciences (KNAW) or NWO; Netherlands Cancer Institute; The Max Planck Institute for Psycholinguistics in Nijmegen; Naturalis Biodiversity Center; Advanced Research Centre for NanoLithography (ARCNL); Princess Máxima Center; National Institute for Public Health and the Environment (RIVM); TO2-institutions (Deltares, MARIN, NLR, TNO,WUR); IHE Delft Institute for Water Education. Lectors employed at a university of applied sciences and researchers employed at a TO2-institution may also submit as a co-PI provided that they have at least a salaried position for the duration of the project. Persons with a zero-hour employment agreement or with a contract for a limited period of time (other than a tenure track appointment or the exception for lectors and TO2 institutes) may not submit a proposal. It could be the case that the applicant’s tenure track agreement ends before the intended completion date of the project for which funding is applied for, or that before that date, the applicant’s tenured contract ends due to the applicant reaching retirement age. In that case, the applicant needs to include a statement from their employer in which the research organisation concerned guarantees that the project and all project members for whom funding has been requested will receive adequate supervision for the full duration of the project. Applicants with a part-time contract should guarantee adequate supervision of the project and all project members for whom funding is requested. An application for funding from NWO may consider the following roles: National co-PI (mandatory): the applicant who submits the application to NWO and is the foreseen national project leader, in case a project is granted. National co-applicant (optional): national applicants in addition to the national co-PI with an active role and responsibility in realising the project and requesting funding from NWO. The national co-PI or co-applicant from a Dutch organisation may only request NWO funding for one project (part of a transnational consortium) in this call in which he or she is involved. See the full Call Documents on the NFRF website for more details and an overview of participating countries and the transnational eligibility requirements. These documents are available in English only. Please note that each project team must be eligible to receive funds from at least three Funding Organizations. To fulfill this requirement, the project team must include a minimum of three Principal Investigators, each eligible to receive funding from a different participating funding organisation. At least one of the three Principal Investigators must be eligible to apply to the NFRF program ."
-      },
-      "what_to_apply_for": {
-        "title": "What to apply for",
-        "text": "The total NWO budget for this call is €3,800,000. A maximum of €760,000 can be awarded per project. The NWO budget modules (including the maximum amount) available for this Call for proposals are listed below. Apply only for funding that is vital to realize the project. A more detailed explanation of the budget modules and the financial details form can be found in the document: “Specification of eligible costs”. Money follows cooperation The budget module Money follows cooperation cannot be applied for in this call. Personnel Funding may be requested for salary costs of personnel contributing to the project. The amount depends on the type of appointment and the organisation where the personnel is employed. Personnel at a university in the Kingdom of the Netherlands, umc or a research organisation For personnel working at a university in the Kingdom of the Netherlands, university medical centre (umc) or another research organisation, as referred to in Article 1.1, first paragraph, subparagraphs c to h of the NWO Grant Rules salary costs can be claimed for the following positions: postdoc - at least 12 full-time months and at most 36 full-time months; Engineering Doctorate (Eng): Funding for the Engineering Doctorate (EngD) position can only be applied for if funding for a PhD student or postdoc is also applied for; non-scientific staff at (NSS) universities; research leave – for up to 5% of the grant amount. The rates are determined using the salary tables of UNL and NFU. Personnel of universities of applied sciences, TO2 institutes, educational institutions and other organisations It is possible to claim salary costs of personnel of universities of applied sciences, TO2 institutes, educational institutions and other organisations. The rates are determined using the Government Tariff Manual (HOT), Table 2 average total salary cost per salary scale, column 'Hourly rate productive hours, excluding VAT'. The salary scale of the requested position determines the rate from the HOT table. Students It is possible to engage students in the project if they are studying at a research organisation. You can enter the costs of these students as material costs within the project. There is no maximum number of students who can participate in the project. Funding may not be requested for PhD students. If students contribute as a secondary job alongside their study as student assistants, the rate according to HOT table 2, under 2.2 ‘average total salary cost per salary scale’, column 'Hourly rate productive hours, excluding VAT', scale 1 applies. Material Funding may be requested for all project-specific material costs. These costs are subject to a maximum of 30% of the grant amount allocated for personnel costs. Knowledge utilization Funding can be requested for activities that promote the use of knowledge from the research , in order to increase the societal impact of the research. It is mandatory to include an amount for knowledge utilisation. These costs are at least 5% and maximum 20% of the grant amount. Project management Funding can be requested for project management that is at most 5% of the total budget requested from NWO. This budget can only be used for activities that solely support the project for which the grant is requested. The applicant must satisfactorily justify this budget. At the Full proposal phase, it is required to submit a financial detail form separately to NWO. This form will be available via the NWO website. Do not hesitate to contact the national contact person in case of questions."
-      },
-      "when_to_apply": {
-        "title": "When to apply",
-        "text": "3 March 2026 (Canadian Time, 8:00 p.m. (eastern)): Deadline for submission of the required Notice of Intent to apply (NOI) in the portal of the NFRF.  Please check the website of the NFRF for exact details and ensure that you comply with all additional requirements in the annexes of the funders you are requesting funds from. 4 March 2026 (CET, 14:00): Deadline for the NOI additional information needed for NWO in ISAAC.  (On the right-hand side of this website it is stated “pre-proposal”; this is the NOI-additional information deadline). This concerns some information regarding the project (same as in the NFRF convergence portal) as well as a signed authorized letter to confirm the positions of the Dutch co-PI and Dutch co-applicants. Important! Due to maintenance, ISAAC will not be available on 3 March between 5:30 pm and 11:59 pm (CET). We apologize for the inconvenience. Applicants (= co-PI(s) and co-applicant(s)) requesting funding from NWO are required to submit an authorised mandatory signed letter from their organisation in which their position, tenured/tenure track or salaried position for the duration of the project is confirmed. Please check ISAAC for exact details. 9 June 2026 (Canadian Time, 8:00 p.m. (eastern)): Deadline for submission of the required Letter of Intent to apply (LOI) in the portal of the NFRF. Please check the website of the NFRF for exact details. 3 November 2026 (Canadian Time, 8:00 p.m. (eastern)): Deadline for submission of the full proposals in the portal of the NFRF. Please check the website of the NFRF for exact details. 4 November 2026 (CET, 14:00): Deadline for the full proposal additional information needed for NWO in ISAAC. This concerns some information regarding the project as well as a NWO budget form and a signed statement on the knowledge security policy. Applicants from Dutch organisations are required to submit a mandatory NWO budget form in ISAAC in the Full proposal stage. In addition, the co-PI must declare by means of a signed statement that the proposal has been drawn up in accordance with the knowledge security policy of the research organisation and that the officer responsible for knowledge security within the research organisation has been consulted for this purpose. This statement must be submitted at the full proposal stage in ISAAC."
-      },
-      "assessment": {
-        "title": "Assessment",
-        "text": "Criteria There are seven selection criteria for this, namely Fit-to-program, Interdisciplinarity, Equity, diversity and inclusion in research practice, Strength of the Project Consortium, High risk – novelty of approach/scientific rigour, High reward – anticipated societal impact, Feasibility – capacity to execute the project. The criteria for the LOI stage are: fit to program (pass/fail), interdisciplinarity (pass/fail), strength of project consortium (30%), high risk (25%), high reward (25%), feasibility (20%). The criteria for the full proposals are: Fit-to-program (pass/fail), EDI in research practice(pass/fail), Interdisciplinarity (pass/fail), Strength of project consortium (20%), High risk (25%), High reward (25%), Feasibility (30%). Procedure To apply to this call, teams must submit a notice of intent to apply (NOI) by March 3, 2026. This is a mandatory step in the application process. The NOI is used for administrative purposes and is not assessed. After the NOI deadline has passed, the research team will immediately be able to work on their Letter of Intent to apply (LOI). The team must submit the Letter of Intent to apply (LOI) by June 9, 2026. Submitted LOIs will be evaluated, for the purpose of identifying selected teams to be invited to the full application stage."
-      },
-      "more_information": {
-        "title": "More information",
-        "text": "See the full Call Documents on the NFRF website for more details and an overview of participating countries and the transnational eligibility requirements. These documents are available in English only. Please note that each project team must be eligible to receive funds from at least three Funding Organizations. To fulfill this requirement, the project team must include a minimum of three Principal Investigators, each eligible to receive funding from a different participating funding organisation. At least one of the three Principal Investigators must be eligible to apply to the NFRF program . Please be aware! Applications submitted to NFRF are subject to Canada’s Policy on Sensitive Technology Research and Affiliations of Concern. Dutch applicants should familiarize themselves with the list of universities, research institutes or laboratories connected to military, national defence, or state security entities that could pose a risk to Canada’s national security, to avoid possible research security issues."
-      },
-      "write_proposal": {
-        "title": "Write proposal",
-        "text": "The International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges call will support research projects focused on harnessing disruptive technologies to address at least one of the Sustainable Development Goals or another recognized global challenge. Projects may be focused on developing or implementing a disruptive technology, or research on the impact of a disruptive technology on society and/or economies. NWO funding can be requested for projects addressing the following SDGs: Zero Hunger (SDG 2), Clean Water and Sanitation (SDG 6), Affordable and Clean Energy (SDG 7), Sustainable Cities and Communities (SDG 11). Projects must be interdisciplinary, integrating information, data, techniques, tools, perspectives, concepts or theories from two or more disciplines or bodies of specialized knowledge. Projects must involve disciplines from at least two of the following three areas: natural sciences & engineering; social sciences and humanities; and health and life sciences. Projects are expected to include appropriate stakeholders and end-users in the co-development and co-leadership of the project. Engagement with other sectors, as appropriate, will help identify barriers to implementation and develop strategies to overcome them. A trans-sectoral approach, involving the academic, research, economic (businesses), societal (governmental and non-governmental organizations), and/or community sectors, as appropriate, ensures relevant outcomes and positions research for uptake and use, which will maximize impact in the long-term. Non-academic stakeholders may be included as team members or collaborators. For NWO funded research the NWO Grant Rules apply. In accordance with the NWO Grant Rules , the project that NWO funds must be carried out in accordance with the nationally and internationally accepted standards for scientific conduct as stated in the Netherlands Code of Conduct for Research Integrity (2018) and the Global Code of Conduct for Equitable Research Partnerships . In case research is conducted in fragile states, it is advised to consult the Security Guidelines for field research in complex, remote and hazardous places . By submitting the proposal, the applicant commits to these codes. In the case of a (possible) violation of these standards during a project funded by NWO, the applicant should immediately inform NWO of this and should submit all relevant documents to NWO. More information about the code of conduct and the policy regarding research integrity can be found on the website: Scientific integrity | NWO Applicants are required to submit a mandatory NWO budget form in the Full Proposal stage. For full details of the general NWO funding process, please refer to the NWO website . Information about lodging an objection at NWO is available on our website . NWO strives to achieve an inclusive culture in which there is no place for conscious or unconscious barriers due to cultural, ethnic or religious background, gender, sexual orientation, health or age ( www.nwo.nl/en/diversity-and-inclusion ). Compliance with the National Knowledge Security Guidelines In the National Knowledge Security Guidelines, the Dutch knowledge sector (including NWO) and various government departments have laid down guidelines for those within research organisations who are involved in international collaboration and who need to weigh up the opportunities and (security) risks involved. Self-regulation by the knowledge sector is central to the approach to knowledge security within the Netherlands. NWO expects applicants to comply with the knowledge security policy of their research organisation. If NWO receives indications that a proposal or an allocated project entails knowledge security risks, NWO may request the applicant or project leader to provide insight into the risk mitigation measures. In addition, NWO may decide to include further conditions in the award letter to protect knowledge security. The National Knowledge Security Guidelines can be found on the website of the Dutch government: Home | National Contact Point for Knowledge Security (loketkennisveiligheid.nl) . The co-PI must declare by means of a signed statement that the proposal has been drawn up in accordance with the knowledge security policy of the research organisation and that the officer responsible for knowledge security within the research organisation has been consulted for this purpose. This statement must be enclosed with the complete proposal. The NWO data management protocol applies to projects funded by NWO. NWO processes data from applicants received in the context of this Call in accordance with the NWO Privacy Statement, Privacy Statement | NWO . The system used by the Canadian New Frontiers in Research Fund contains optional questions regarding race and ethnicity. These questions are part of the standard questions asked in Canada and cannot be removed. We ask all applicants applying funding from NWO not to fill in these questions, since according to our legal regulations we are not allowed to ask these questions. Not filling in these questions will have no affect on the assessment of your proposal. Furthermore, submission of financial and substantive reports at national level is required in accordance with the rules of NWO."
-      },
-      "fill_in_forms": {
-        "title": "Fill in forms",
-        "text": "Applicants (co-PI(s) and co-applicants) applying for funding from NWO must submit a mandatory, signed letter from their organization confirming their position, whether it is a permanent position, an appointment with the prospect of a permanent position, or a paid position, for the duration of the project. Applicants from Dutch organizations must submit a mandatory NWO budget form in ISAAC during the full proposal phase."
-      }
-    },
-    "downloads": [
-      {
-        "name": "Security Guidelines for field research in complex, remote and hazardous places",
-        "url": "https://www.eur.nl/sites/corporate/files/manual_security_guidelines_def_2.dd_juli_2016.pdf",
-        "type": "pdf",
-        "size": null
-      },
-      {
-        "name": "International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | call for proposals",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/CfP-NFRFI-and-NWOannex_030326_0.pdf",
-        "type": "pdf",
-        "size": "543.42 KB"
-      },
-      {
-        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | call overview",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/call_overview.pdf",
-        "type": "pdf",
-        "size": "365.72 KB"
-      },
-      {
-        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | full application guide",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/full_application_guide.pdf",
-        "type": "pdf",
-        "size": "186.19 KB"
-      },
-      {
-        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | funding organisations",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/funding_organisations.pdf",
-        "type": "pdf",
-        "size": "111.93 KB"
-      },
-      {
-        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | eligable costs",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/specification_of_eligible_costs_belonging_to_the_national_annex.pdf",
-        "type": "pdf",
-        "size": "135.23 KB"
-      },
-      {
-        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | nwo nationale annex",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/nwo_national_annex.pdf",
-        "type": "pdf",
-        "size": "196.43 KB"
-      },
-      {
-        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | noi guide",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/noi_guide.pdf",
-        "type": "pdf",
-        "size": "233.77 KB"
-      },
-      {
-        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | loi guide",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/loi_guide.pdf",
-        "type": "pdf",
-        "size": "188.44 KB"
-      },
-      {
-        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | evaluation matrices",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/evaluation_matrices.pdf",
-        "type": "pdf",
-        "size": "356.11 KB"
-      },
-      {
-        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | review proces",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/review_process.pdf",
-        "type": "pdf",
-        "size": "519.68 KB"
-      }
-    ],
-    "contacts": [
-      {
-        "name": "Cheryl Roumen",
-        "role": "Senior Programme Officer",
-        "phone": "+31 6 47038275",
-        "email": "eagle@nwo.nl"
-      },
-      {
-        "name": "Julia Ratter",
-        "role": "Senior programme officer",
-        "phone": "+31 6 51803778",
-        "email": "eagle@nwo.nl"
-      },
-      {
-        "name": "Kata Balogh",
-        "role": "Programme/policy officer",
-        "phone": "+31 (0)70 3494740",
-        "email": "eagle@nwo.nl"
-      }
-    ]
-  },
-  {
     "id": "open-mind-2026",
     "url": "https://www.nwo.nl/en/calls/open-mind-2026",
     "title": "Open Mind 2026",
@@ -1373,6 +1196,148 @@
         "url": "https://www.nwo.nl/sites/nwo/files/media-files/NWAORC2026_Call-for-Proposals_EN.pdf",
         "type": "pdf",
         "size": "1.64 MB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Jos Wendrich",
+        "role": "Round coordinator NWA ORC 2026",
+        "phone": "+31 (0)70 3494601",
+        "email": "nwa-orc2026@nwo.nl"
+      },
+      {
+        "name": "Nienke Klomp",
+        "role": "Coordinator NWA ORC programme",
+        "phone": "+31 (0)70 3494327",
+        "email": "nwa-orc2026@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "dutch-research-agenda-research-along-routes-by-consortia-2026",
+    "url": "https://www.nwo.nl/en/calls/dutch-research-agenda-research-along-routes-by-consortia-2026",
+    "title": "Dutch Research Agenda - Research along Routes by Consortia 2026",
+    "status": "open",
+    "status_raw": "Open calls Open for applications",
+    "budget": "€87,000,000",
+    "finance_type": "Collaboration with Partners",
+    "programme": "NWA ORC 2026",
+    "target_groups": "Interdisciplinary Collaboration International Collaboration Collaboration with social partners Applied Sciences Research Researchers from Abroad Collaboration with Industry",
+    "deadline_iso": "2026-03-17T23:59:00",
+    "deadline_dates": [
+      "2026-03-17T23:59:00",
+      "2026-10-06T12:00:00Z",
+      "2026-10-06T14:00:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/NWAORC2026_Call-for-Proposals_EN.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/NWAORC2026_Call-for-Proposals_EN.pdf"
+    ],
+    "characteristics": {
+      "Status": "Open calls Open for applications",
+      "Closing date full application": {
+        "display": "6 October 2026",
+        "iso": [
+          "2026-10-06T12:00:00Z"
+        ]
+      },
+      "Finance type": "Collaboration with Partners",
+      "For specific groups": "Interdisciplinary Collaboration International Collaboration Collaboration with social partners Applied Sciences Research Researchers from Abroad Collaboration with Industry",
+      "Budget": "€87,000,000",
+      "Research programme": "NWA ORC 2026"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "The aim of the NWA ORC 2026 call for proposals is to encourage research that is set up and carried out by inter- and transdisciplinary consortia that include representatives from the full breadth of the knowledge chain as well as relevant societal (public and/or private) partners, including citizens. The research will address so called wicked problems, focused on themes that are proposed by NWA-route networks and based on one or more of the 140 cluster questions."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Proposals should be submitted by a consortium in which the various types of research in the knowledge chain (fundamental, applied and practice-oriented) are represented. There are four categories of participant within a consortium: Main applicant; Co-applicant(s); Cooperating partner(s); Co-funder(s) (optional). The main applicant submits the application on behalf of the consortium. More information about the four categories of participants as well as specific requirements regarding who can apply, can be found in paragraph 3.1 of the call for proposals."
+      },
+      "consortium_building": {
+        "title": "Consortium building",
+        "text": "In this Call for Proposals, consortium formation is encouraged through the use of collaborative workshops. The main applicant must have participated in both collaborative workshops on the relevant theme, or a substitute must have been present."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "In this round, proposals can be submitted that are based on a theme as described in Annex 7.5 of the Call for proposals. Project duration should be 4-8 years, and maximum available budget is €7,250,000. The budget is built up using the NWO-wide standardised building blocks, the so-called modules. Seven modules are available in this call: Personnel; Material; Investments; Knowledge utilisation; Project management. Extensive information about the modules can be found in section 3.2 and annex 7.1 of the call for proposals."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "The NWA-ORC 2026 round has two phases: Registration for and participation in collaborative workshops (mandatory for main applicants) Between 6 February and 17 March 2026, NWO organises collaborative workshops with the aim of bringing together interested parties (researchers and public and/or private social parties) around a specific theme, combining research ideas (joining forces) and forming broad innovative consortia. You can register for the workshops via this page . Submitting a proposal The deadline for submission of proposals via ISAAC is 6 October 2026, at 14:00:00 CEST ."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria Proposals submitted within this Call for proposals will be substantially assessed on the basis of the following criteria: Problem definition and analysis, contribution to a solution (20%) Envisaged impact and route to impact  (20%) Quality of the consortium (30%) Quality of the research (30%) Each assessment criterion consists of several aspects. More information on the criteria can be found in paragraph 4.3 of the call for proposals. Procedure The application procedure consists of the following steps: registration for collaborative workshops; participation in the collaborative workshops (mandatory for the main applicant or a deputy (see paragraph 3.3.2)); submission of the proposal; admissibility of the proposal; peer review by referees; rebuttal; pre advice assessment committee; interview selection; interview; assessment committee meeting; decision-making. Detailed information about the procedure can be found in the Call for Proposals, Section 4.2."
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "The proposal is submitted by a knowledge-chain-wide, inter- and transdisciplinary consortium (see section 3.1 of the Call for Proposals). Research is based on themes proposed by and with support from the broad network of the NWA route networks and involves innovative, demand-driven research with the aim of achieving scientific and social breakthroughs."
+      },
+      "mandatory_consortium_building_activities": {
+        "title": "Mandatory consortium-building activities",
+        "text": "In this Call for Proposals, consortium formation is encouraged through the use of collaborative workshops. The main applicant must have participated in both collaborative workshops on the relevant theme, or a substitute must have been present. The aim of the workshops is bringing together interested parties (researchers and public and/or private social parties) around a specific theme, combining research ideas (joining forces) and forming broad innovative consortia. You can register for the workshops via this page ."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "To participate in the collaborative workshops, you must have read the Call for Proposals and registered via this page . After the collaborative workshops, you will find the forms for your proposal on this page and in ISAAC."
+      }
+    },
+    "downloads": [
+      {
+        "name": "NWA-ORC 2026 | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/NWAORC2026_Call-for-Proposals_EN.pdf",
+        "type": "pdf",
+        "size": "1.64 MB"
+      },
+      {
+        "name": "NWA-ORC 2026 | application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/1-Application-form_NWAORC2026.docx",
+        "type": "docx",
+        "size": "136.78 KB"
+      },
+      {
+        "name": "NWA-ORC 2026 | declaration of support (without co-funding)",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/2-Declaration-of-support-NWA-without-co-funding-NWAORC2026.docx",
+        "type": "docx",
+        "size": "146.13 KB"
+      },
+      {
+        "name": "NWA-ORC 2026 | declaration co-funding",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/3-Declaration-co-funding_NWAORC2026.docx",
+        "type": "docx",
+        "size": "145.69 KB"
+      },
+      {
+        "name": "NWA-ORC 2026 | contribution to investments",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/4-Contribution-to-investments_NWAORC2026.docx",
+        "type": "docx",
+        "size": "46.23 KB"
+      },
+      {
+        "name": "NWA-ORC 2026 | guarantee continuity project supervision",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/5-Guarantee-continuity-project-supervision-NWAORC2026-1.docx",
+        "type": "docx",
+        "size": "25.93 KB"
+      },
+      {
+        "name": "NWA-ORC 2026 | declaration research organisations",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/6-Declaration-Research-Organisations_NWAORC2026.docx",
+        "type": "docx",
+        "size": "131.51 KB"
+      },
+      {
+        "name": "NWA-ORC 2026 | budget sheet preliminary",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/7-Budget-sheet_preliminary_NWAORC-2026.xlsx",
+        "type": "xlsx",
+        "size": "317.62 KB"
+      },
+      {
+        "name": "NWA-ORC 2026 | form statements and signature",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/8-Form-Statements-and-signature_NWAORC2026.docx",
+        "type": "docx",
+        "size": "63.61 KB"
       }
     ],
     "contacts": [
@@ -3414,6 +3379,120 @@
         "role": "Programme/ policy officer",
         "phone": "+31 (0)70 3494451",
         "email": "tulp@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "weave-with-nwo-as-partner-agency-2025--2026",
+    "url": "https://www.nwo.nl/en/calls/weave-with-nwo-as-partner-agency-2025/2026",
+    "title": "Weave with NWO as partner agency 2025/2026",
+    "status": "open",
+    "status_raw": "Open calls Continuous",
+    "budget": "€11,000,000",
+    "finance_type": "Curiosity Driven Research",
+    "programme": "",
+    "target_groups": "International Collaboration",
+    "deadline_iso": "2026-04-01T17:00:00",
+    "deadline_dates": [
+      "2025-08-07T23:59:00",
+      "2026-04-01T17:00:00",
+      "2026-04-21T14:00:00",
+      "2026-07-31T23:59:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2025-26_EN%20%282%29.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2025-26_EN%20%282%29.pdf"
+    ],
+    "characteristics": {
+      "Status": "Open calls Continuous",
+      "Finance type": "Curiosity Driven Research",
+      "For specific groups": "International Collaboration",
+      "Budget": "€11,000,000"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "As part of the Open Competition ENW-M, researchers from the Netherlands can be involved in a bilateral research proposal that is submitted to DFG, FNR or FWO. Together with partners from Germany, Luxembourg or Flanders they can submit a Weave proposal. This foreign research funder will act as lead agency and is responsible for the scientific evaluation. In such case, NWO will acts as partner agency. The bilateral application and the foreign researchers must meet the conditions of the funding instrument designated by DFG, FNR or FWO. The applicant from the Netherlands and the Dutch part of the requested budget must meet the conditions of the call OC ENW-M (the Dutch designated funding instrument). Note! For Weave applications in which the Dutch applicant acts as main applicant, NOW will act as the lead agency. In such cases, the application should be submitted as an ENW-M-1-Weave application via https://www.nwo.nl/en/calls/open-competition-domain-science-m-2025/2026 ."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. An additional condition is a.o. that a main or co-applicant may only submit an ENW-M proposal, including a Weave proposal, regardless of whether NWO or DFG/FNR/FWO is lead agency, for substantive consideration once every twelve months. For a description of this and other conditions, please refer to the Call for Proposals OC ENW-M, round 2025-2026 (Annex 7.4)."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "In a Weave proposal, the NWO side may apply for the equivalent of an ENW-M-1 proposal. This means that a maximum of one Dutch applicant and that a maximum of €400,000 may be applied for, from which one temporary scientific position (PhD student (not possible in case of a Weave proposal with DFG*) or postdoc) will be funded in combination with the other available budget modules. The module for Money follows Cooperation is not available in this funding form. Only apply for what is essential to carry out the project."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 7 August 2025 to 31 July 2026 . If a proposal is submitted to DFG, the deadline for submitting the administrative submission to NWO is five working days after submission to DFG, at 14:00:00 CE(S)T. The deadline for submitting applications with FNR as lead agency and NWO as partner agency follows the deadline of the FNR CORE Programme. The deadline for submitting applications with FNR as lead agency and NWO as partner agency is 21 April 2026, at 14:00:00 CEST. If a proposal is submitted to FNR, the deadline for submitting the administrative submission to NWO is five working days after submission to FNR, at 14:00:00 CE(S)T. The deadline for submitting applications with FWO as lead agency and NWO as partner agency is 1 April 2026, at 17:00:00 CEST. If an application is submitted to FWO, the deadline for submitting the administrative submission to NWO is five working days after submission to FWO, at 14:00:00 CE(S)T."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The lead agency assessment procedure is followed, as set out in the designated Weave funding channels at the respective lead agencies. NWO has no further role in the assessment. Procedure The foreign lead agency submits the advice of their assessment committee to the NWO domain Science board. The domain Science board decides whether to accept or reject the Dutch part of the proposal. It follows from the agreed Weave principles that Weave applications submitted abroad must be among the top 20% of proposals to be eligible for allocation. Funding a Weave proposal is only possible if the foreign lead agency and NWO as partner agency reach the same decision. If the lead agency rejects the proposal, the domain Science board will also reject the proposal."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "For this Call for proposals, your Weave proposal must fit within the Science domain and be submitted to one of the selected review boards (DFG)/ research areas (FNR)/ expert panels (FWO). If in doubt about the suitability of the content, you are advised to contact the programme's contact person at NWO, DFG, FNR or FWO well before the deadline. This person can advise you on the substantive fit of your application to this call. Contact persons at partners DFG: Michael Sommerhof, phone +49 228 885-2017, michael.sommerhof@dfg.de FNR: Dr. Helena Burg Phone: +352 691 362 812 Helena.burg@fnr.lu FWO: weave@fwo.be more information about Weave"
+      },
+      "write_proposal": {
+        "title": "Voorstel schrijven",
+        "text": "The proposal should be drafted according to the terms and conditions of DFG, FNR or FWO, respectively. For DFG, see www.dfg.de/en/news/news-topics/announcements-proposals/2024/ifr-24-64 There is currently no web page with instructions available for preparing and submitting the application to FNR and FWO. We recommend you to keep an eye on the general Weave page on the FNR and FWO website. For FNR, see www.fnr.lu/international-cooperation/weave/ For FWO, see www.fwo.be/en/support-programmes/international-projects/"
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "The lead applicant from Germany, Luxembourg or Flanders submits the joint proposal to DFG, FNR or FWO according to the terms and conditions of DFG, FNR or FWO. To prepare the administrative submission to NWO, the Dutch co-applicant goes through the following steps: submits the original application as submitted to DFG, FNR or FWO, saved as pdf, with the attachments required at NWO in ISAAC; enters data requested online in ISAAC;"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Weave with NWO as partner agency 2025/2026 | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2025-26_EN%20%282%29.pdf",
+        "type": "pdf",
+        "size": "731.51 KB"
+      },
+      {
+        "name": "Weave with NWO as partner agency 2025/2026 | budget table",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget-Table-OC-ENW-M-2025_2026_Weave.xlsx",
+        "type": "xlsx",
+        "size": "236.73 KB"
+      },
+      {
+        "name": "Weave with NWO as partner agency 2025/2026 | weave NWO partner form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Weave%20NWO%20partner%20form_def_0.docx",
+        "type": "docx",
+        "size": "57.04 KB"
+      },
+      {
+        "name": "Weave with NWO as partner agency 2025/2026 | oc m weave partner checklist",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/OC%20M%20Weave%20partner%20checklist%20-%20EN_def_0.docx",
+        "type": "docx",
+        "size": "24.8 KB"
+      },
+      {
+        "name": "Weave with NWO as partner agency 2025/2026 | template letter statement appointment and project guidance",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Template%20Letter%20Statement%20Appointment%20and%20Project%20Guidance_v3_0.docx",
+        "type": "docx",
+        "size": "28.69 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Julia Bakx (ENW-M)",
+        "role": "Programme Officer",
+        "phone": "+31703494116",
+        "email": "enw-m@nwo.nl"
+      },
+      {
+        "name": "dr. Marjolein Bulk",
+        "role": "Programme Officer",
+        "phone": "+31 (0)70 3440763",
+        "email": "enw-m@nwo.nl"
+      },
+      {
+        "name": "Dr. Olivia Muthsam (ENW Open Competition-M)",
+        "role": "Programme officer",
+        "phone": "+31703494399",
+        "email": "enw-m@nwo.nl"
       }
     ]
   },
@@ -6604,6 +6683,183 @@
     ]
   },
   {
+    "id": "2026-international-joint-initiative-for-research-harnessing-disruptive-technologies-to-address-global-challenges",
+    "url": "https://www.nwo.nl/en/calls/2026-international-joint-initiative-for-research-harnessing-disruptive-technologies-to-address-global-challenges",
+    "title": "2026 International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges",
+    "status": "open",
+    "status_raw": "Open calls Open for pre-proposals",
+    "budget": "€3,800,000",
+    "finance_type": "Collaboration with Partners",
+    "programme": "International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges",
+    "target_groups": "Interdisciplinary Collaboration International Collaboration",
+    "deadline_iso": "2026-06-09T23:59:00",
+    "deadline_dates": [
+      "2026-03-03T23:59:00",
+      "2026-03-04T12:00:00Z",
+      "2026-03-04T23:59:00",
+      "2026-06-09T23:59:00",
+      "2026-11-03T12:00:00Z",
+      "2026-11-03T23:59:00",
+      "2026-11-04T23:59:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/CfP-NFRFI-and-NWOannex_030326_0.pdf",
+    "pdf_urls": [
+      "https://www.eur.nl/sites/corporate/files/manual_security_guidelines_def_2.dd_juli_2016.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/CfP-NFRFI-and-NWOannex_030326_0.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/call_overview.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/full_application_guide.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/funding_organisations.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/specification_of_eligible_costs_belonging_to_the_national_annex.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/nwo_national_annex.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/noi_guide.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/loi_guide.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/evaluation_matrices.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/review_process.pdf"
+    ],
+    "characteristics": {
+      "Status": "Open calls Open for pre-proposals",
+      "Closing date for pre-proposals": {
+        "display": "4 March 2026",
+        "iso": [
+          "2026-03-04T12:00:00Z"
+        ]
+      },
+      "Closing date full application": {
+        "display": "3 November 2026",
+        "iso": [
+          "2026-11-03T12:00:00Z"
+        ]
+      },
+      "Finance type": "Collaboration with Partners",
+      "For specific groups": "Interdisciplinary Collaboration International Collaboration",
+      "Budget": "€3,800,000",
+      "Research programme": "International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges",
+      "Themes": "Sustainable Cities Energy Climate Ruimtelijke en sociale transformaties Food Water"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "This call aims to harness the potential of disruptive technologies to deliver novel solutions to global challenges and accelerate progress toward achieving the Sustainable Development Goals (SDGs). More research is needed on how disruptive technologies can have transformative, economic, or societal impacts, improving people's lives and the planet through contextually appropriate interventions. Please note! NWO funding can only be requested for projects addressing the following SDGs: Zero Hunger (SDG 2), Clean Water and Sanitation (SDG 6), Affordable and Clean Energy (SDG 7), Sustainable Cities and Communities (SDG 11)."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Researchers may submit an application if all applicants (= co-PI(s) and co-applicant(s)) have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the following research organisations: Universities and universities of applied sciences (UAS) as referred to in Article 1.8 paragraph 1 of the Higher Education and Scientific Research Act and universities listed in the Policy Rules for Universities located in the Kingdom of the Netherlands; University medical centres by which is meant academic hospitals as referred to in Article 1.13 paragraph 1 of the Higher Education and Scientific Research Act; Institutes affiliated to the Royal Netherlands Academy of Arts and Sciences (KNAW) or NWO; Netherlands Cancer Institute; The Max Planck Institute for Psycholinguistics in Nijmegen; Naturalis Biodiversity Center; Advanced Research Centre for NanoLithography (ARCNL); Princess Máxima Center; National Institute for Public Health and the Environment (RIVM); TO2-institutions (Deltares, MARIN, NLR, TNO,WUR); IHE Delft Institute for Water Education. Lectors employed at a university of applied sciences and researchers employed at a TO2-institution may also submit as a co-PI provided that they have at least a salaried position for the duration of the project. Persons with a zero-hour employment agreement or with a contract for a limited period of time (other than a tenure track appointment or the exception for lectors and TO2 institutes) may not submit a proposal. It could be the case that the applicant’s tenure track agreement ends before the intended completion date of the project for which funding is applied for, or that before that date, the applicant’s tenured contract ends due to the applicant reaching retirement age. In that case, the applicant needs to include a statement from their employer in which the research organisation concerned guarantees that the project and all project members for whom funding has been requested will receive adequate supervision for the full duration of the project. Applicants with a part-time contract should guarantee adequate supervision of the project and all project members for whom funding is requested. An application for funding from NWO may consider the following roles: National co-PI (mandatory): the applicant who submits the application to NWO and is the foreseen national project leader, in case a project is granted. National co-applicant (optional): national applicants in addition to the national co-PI with an active role and responsibility in realising the project and requesting funding from NWO. The national co-PI or co-applicant from a Dutch organisation may only request NWO funding for one project (part of a transnational consortium) in this call in which he or she is involved. See the full Call Documents on the NFRF website for more details and an overview of participating countries and the transnational eligibility requirements. These documents are available in English only. Please note that each project team must be eligible to receive funds from at least three Funding Organizations. To fulfill this requirement, the project team must include a minimum of three Principal Investigators, each eligible to receive funding from a different participating funding organisation. At least one of the three Principal Investigators must be eligible to apply to the NFRF program ."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "The total NWO budget for this call is €3,800,000. A maximum of €760,000 can be awarded per project. The NWO budget modules (including the maximum amount) available for this Call for proposals are listed below. Apply only for funding that is vital to realize the project. A more detailed explanation of the budget modules and the financial details form can be found in the document: “Specification of eligible costs”. Money follows cooperation The budget module Money follows cooperation cannot be applied for in this call. Personnel Funding may be requested for salary costs of personnel contributing to the project. The amount depends on the type of appointment and the organisation where the personnel is employed. Personnel at a university in the Kingdom of the Netherlands, umc or a research organisation For personnel working at a university in the Kingdom of the Netherlands, university medical centre (umc) or another research organisation, as referred to in Article 1.1, first paragraph, subparagraphs c to h of the NWO Grant Rules salary costs can be claimed for the following positions: postdoc - at least 12 full-time months and at most 36 full-time months; Engineering Doctorate (Eng): Funding for the Engineering Doctorate (EngD) position can only be applied for if funding for a PhD student or postdoc is also applied for; non-scientific staff at (NSS) universities; research leave – for up to 5% of the grant amount. The rates are determined using the salary tables of UNL and NFU. Personnel of universities of applied sciences, TO2 institutes, educational institutions and other organisations It is possible to claim salary costs of personnel of universities of applied sciences, TO2 institutes, educational institutions and other organisations. The rates are determined using the Government Tariff Manual (HOT), Table 2 average total salary cost per salary scale, column 'Hourly rate productive hours, excluding VAT'. The salary scale of the requested position determines the rate from the HOT table. Students It is possible to engage students in the project if they are studying at a research organisation. You can enter the costs of these students as material costs within the project. There is no maximum number of students who can participate in the project. Funding may not be requested for PhD students. If students contribute as a secondary job alongside their study as student assistants, the rate according to HOT table 2, under 2.2 ‘average total salary cost per salary scale’, column 'Hourly rate productive hours, excluding VAT', scale 1 applies. Material Funding may be requested for all project-specific material costs. These costs are subject to a maximum of 30% of the grant amount allocated for personnel costs. Knowledge utilization Funding can be requested for activities that promote the use of knowledge from the research , in order to increase the societal impact of the research. It is mandatory to include an amount for knowledge utilisation. These costs are at least 5% and maximum 20% of the grant amount. Project management Funding can be requested for project management that is at most 5% of the total budget requested from NWO. This budget can only be used for activities that solely support the project for which the grant is requested. The applicant must satisfactorily justify this budget. At the Full proposal phase, it is required to submit a financial detail form separately to NWO. This form will be available via the NWO website. Do not hesitate to contact the national contact person in case of questions."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "3 March 2026 (Canadian Time, 8:00 p.m. (eastern)): Deadline for submission of the required Notice of Intent to apply (NOI) in the portal of the NFRF.  Please check the website of the NFRF for exact details and ensure that you comply with all additional requirements in the annexes of the funders you are requesting funds from. 4 March 2026 (CET, 14:00): Deadline for the NOI additional information needed for NWO in ISAAC.  (On the right-hand side of this website it is stated “pre-proposal”; this is the NOI-additional information deadline). This concerns some information regarding the project (same as in the NFRF convergence portal) as well as a signed authorized letter to confirm the positions of the Dutch co-PI and Dutch co-applicants. Important! Due to maintenance, ISAAC will not be available on 3 March between 5:30 pm and 11:59 pm (CET). We apologize for the inconvenience. Applicants (= co-PI(s) and co-applicant(s)) requesting funding from NWO are required to submit an authorised mandatory signed letter from their organisation in which their position, tenured/tenure track or salaried position for the duration of the project is confirmed. Please check ISAAC for exact details. 9 June 2026 (Canadian Time, 8:00 p.m. (eastern)): Deadline for submission of the required Letter of Intent to apply (LOI) in the portal of the NFRF. Please check the website of the NFRF for exact details. 3 November 2026 (Canadian Time, 8:00 p.m. (eastern)): Deadline for submission of the full proposals in the portal of the NFRF. Please check the website of the NFRF for exact details. 4 November 2026 (CET, 14:00): Deadline for the full proposal additional information needed for NWO in ISAAC. This concerns some information regarding the project as well as a NWO budget form and a signed statement on the knowledge security policy. Applicants from Dutch organisations are required to submit a mandatory NWO budget form in ISAAC in the Full proposal stage. In addition, the co-PI must declare by means of a signed statement that the proposal has been drawn up in accordance with the knowledge security policy of the research organisation and that the officer responsible for knowledge security within the research organisation has been consulted for this purpose. This statement must be submitted at the full proposal stage in ISAAC."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria There are seven selection criteria for this, namely Fit-to-program, Interdisciplinarity, Equity, diversity and inclusion in research practice, Strength of the Project Consortium, High risk – novelty of approach/scientific rigour, High reward – anticipated societal impact, Feasibility – capacity to execute the project. The criteria for the LOI stage are: fit to program (pass/fail), interdisciplinarity (pass/fail), strength of project consortium (30%), high risk (25%), high reward (25%), feasibility (20%). The criteria for the full proposals are: Fit-to-program (pass/fail), EDI in research practice(pass/fail), Interdisciplinarity (pass/fail), Strength of project consortium (20%), High risk (25%), High reward (25%), Feasibility (30%). Procedure To apply to this call, teams must submit a notice of intent to apply (NOI) by March 3, 2026. This is a mandatory step in the application process. The NOI is used for administrative purposes and is not assessed. After the NOI deadline has passed, the research team will immediately be able to work on their Letter of Intent to apply (LOI). The team must submit the Letter of Intent to apply (LOI) by June 9, 2026. Submitted LOIs will be evaluated, for the purpose of identifying selected teams to be invited to the full application stage."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "See the full Call Documents on the NFRF website for more details and an overview of participating countries and the transnational eligibility requirements. These documents are available in English only. Please note that each project team must be eligible to receive funds from at least three Funding Organizations. To fulfill this requirement, the project team must include a minimum of three Principal Investigators, each eligible to receive funding from a different participating funding organisation. At least one of the three Principal Investigators must be eligible to apply to the NFRF program . Please be aware! Applications submitted to NFRF are subject to Canada’s Policy on Sensitive Technology Research and Affiliations of Concern. Dutch applicants should familiarize themselves with the list of universities, research institutes or laboratories connected to military, national defence, or state security entities that could pose a risk to Canada’s national security, to avoid possible research security issues."
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "The International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges call will support research projects focused on harnessing disruptive technologies to address at least one of the Sustainable Development Goals or another recognized global challenge. Projects may be focused on developing or implementing a disruptive technology, or research on the impact of a disruptive technology on society and/or economies. NWO funding can be requested for projects addressing the following SDGs: Zero Hunger (SDG 2), Clean Water and Sanitation (SDG 6), Affordable and Clean Energy (SDG 7), Sustainable Cities and Communities (SDG 11). Projects must be interdisciplinary, integrating information, data, techniques, tools, perspectives, concepts or theories from two or more disciplines or bodies of specialized knowledge. Projects must involve disciplines from at least two of the following three areas: natural sciences & engineering; social sciences and humanities; and health and life sciences. Projects are expected to include appropriate stakeholders and end-users in the co-development and co-leadership of the project. Engagement with other sectors, as appropriate, will help identify barriers to implementation and develop strategies to overcome them. A trans-sectoral approach, involving the academic, research, economic (businesses), societal (governmental and non-governmental organizations), and/or community sectors, as appropriate, ensures relevant outcomes and positions research for uptake and use, which will maximize impact in the long-term. Non-academic stakeholders may be included as team members or collaborators. For NWO funded research the NWO Grant Rules apply. In accordance with the NWO Grant Rules , the project that NWO funds must be carried out in accordance with the nationally and internationally accepted standards for scientific conduct as stated in the Netherlands Code of Conduct for Research Integrity (2018) and the Global Code of Conduct for Equitable Research Partnerships . In case research is conducted in fragile states, it is advised to consult the Security Guidelines for field research in complex, remote and hazardous places . By submitting the proposal, the applicant commits to these codes. In the case of a (possible) violation of these standards during a project funded by NWO, the applicant should immediately inform NWO of this and should submit all relevant documents to NWO. More information about the code of conduct and the policy regarding research integrity can be found on the website: Scientific integrity | NWO Applicants are required to submit a mandatory NWO budget form in the Full Proposal stage. For full details of the general NWO funding process, please refer to the NWO website . Information about lodging an objection at NWO is available on our website . NWO strives to achieve an inclusive culture in which there is no place for conscious or unconscious barriers due to cultural, ethnic or religious background, gender, sexual orientation, health or age ( www.nwo.nl/en/diversity-and-inclusion ). Compliance with the National Knowledge Security Guidelines In the National Knowledge Security Guidelines, the Dutch knowledge sector (including NWO) and various government departments have laid down guidelines for those within research organisations who are involved in international collaboration and who need to weigh up the opportunities and (security) risks involved. Self-regulation by the knowledge sector is central to the approach to knowledge security within the Netherlands. NWO expects applicants to comply with the knowledge security policy of their research organisation. If NWO receives indications that a proposal or an allocated project entails knowledge security risks, NWO may request the applicant or project leader to provide insight into the risk mitigation measures. In addition, NWO may decide to include further conditions in the award letter to protect knowledge security. The National Knowledge Security Guidelines can be found on the website of the Dutch government: Home | National Contact Point for Knowledge Security (loketkennisveiligheid.nl) . The co-PI must declare by means of a signed statement that the proposal has been drawn up in accordance with the knowledge security policy of the research organisation and that the officer responsible for knowledge security within the research organisation has been consulted for this purpose. This statement must be enclosed with the complete proposal. The NWO data management protocol applies to projects funded by NWO. NWO processes data from applicants received in the context of this Call in accordance with the NWO Privacy Statement, Privacy Statement | NWO . The system used by the Canadian New Frontiers in Research Fund contains optional questions regarding race and ethnicity. These questions are part of the standard questions asked in Canada and cannot be removed. We ask all applicants applying funding from NWO not to fill in these questions, since according to our legal regulations we are not allowed to ask these questions. Not filling in these questions will have no affect on the assessment of your proposal. Furthermore, submission of financial and substantive reports at national level is required in accordance with the rules of NWO."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "Applicants (co-PI(s) and co-applicants) applying for funding from NWO must submit a mandatory, signed letter from their organization confirming their position, whether it is a permanent position, an appointment with the prospect of a permanent position, or a paid position, for the duration of the project. Applicants from Dutch organizations must submit a mandatory NWO budget form in ISAAC during the full proposal phase."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Security Guidelines for field research in complex, remote and hazardous places",
+        "url": "https://www.eur.nl/sites/corporate/files/manual_security_guidelines_def_2.dd_juli_2016.pdf",
+        "type": "pdf",
+        "size": null
+      },
+      {
+        "name": "International Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/CfP-NFRFI-and-NWOannex_030326_0.pdf",
+        "type": "pdf",
+        "size": "543.42 KB"
+      },
+      {
+        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | call overview",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/call_overview.pdf",
+        "type": "pdf",
+        "size": "365.72 KB"
+      },
+      {
+        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | full application guide",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/full_application_guide.pdf",
+        "type": "pdf",
+        "size": "186.19 KB"
+      },
+      {
+        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | funding organisations",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/funding_organisations.pdf",
+        "type": "pdf",
+        "size": "111.93 KB"
+      },
+      {
+        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | eligable costs",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/specification_of_eligible_costs_belonging_to_the_national_annex.pdf",
+        "type": "pdf",
+        "size": "135.23 KB"
+      },
+      {
+        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | nwo nationale annex",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/nwo_national_annex.pdf",
+        "type": "pdf",
+        "size": "196.43 KB"
+      },
+      {
+        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | noi guide",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/noi_guide.pdf",
+        "type": "pdf",
+        "size": "233.77 KB"
+      },
+      {
+        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | loi guide",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/loi_guide.pdf",
+        "type": "pdf",
+        "size": "188.44 KB"
+      },
+      {
+        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | evaluation matrices",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/evaluation_matrices.pdf",
+        "type": "pdf",
+        "size": "356.11 KB"
+      },
+      {
+        "name": "INT - Joint Initiative for Research Harnessing Disruptive Technologies to Address Global Challenges | review proces",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/review_process.pdf",
+        "type": "pdf",
+        "size": "519.68 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cheryl Roumen",
+        "role": "Senior Programme Officer",
+        "phone": "+31 6 47038275",
+        "email": "eagle@nwo.nl"
+      },
+      {
+        "name": "Julia Ratter",
+        "role": "Senior programme officer",
+        "phone": "+31 6 51803778",
+        "email": "eagle@nwo.nl"
+      },
+      {
+        "name": "Kata Balogh",
+        "role": "Programme/policy officer",
+        "phone": "+31 (0)70 3494740",
+        "email": "eagle@nwo.nl"
+      }
+    ]
+  },
+  {
     "id": "understanding-and-preventing-overweight-and-obesity-prevent-oo",
     "url": "https://www.nwo.nl/en/calls/understanding-and-preventing-overweight-and-obesity-prevent-oo",
     "title": "Understanding and Preventing Overweight and Obesity (PREVENT-OO)",
@@ -7587,6 +7843,185 @@
         "role": "Programma-/beleidsmedewerker",
         "phone": "+31 (0)70 3440534",
         "email": "futurefoods@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "open-competition-domain-science-m-2025--2026",
+    "url": "https://www.nwo.nl/en/calls/open-competition-domain-science-m-2025/2026",
+    "title": "Open Competition Domain Science – M 2025/2026",
+    "status": "open",
+    "status_raw": "Open calls Continuous",
+    "budget": "€40,000,000",
+    "finance_type": "Curiosity Driven Research",
+    "programme": "Open Competition ENW",
+    "target_groups": "International Collaboration",
+    "deadline_iso": "2026-07-31T23:59:00",
+    "deadline_dates": [
+      "2026-02-24T14:00:00",
+      "2026-07-31T23:59:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-OC-ENW-M-ronde-25-26_EN_feb2026.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-OC-ENW-M-ronde-25-26_EN_feb2026.pdf"
+    ],
+    "characteristics": {
+      "Status": "Open calls Continuous",
+      "Finance type": "Curiosity Driven Research",
+      "For specific groups": "International Collaboration",
+      "Budget": "€40,000,000",
+      "Research programme": "Open Competition ENW"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "ENW-M grants are intended for curiosity-driven scientific research with impact. The ENW-M grants offer researchers the opportunity and freedom to start, and/or strengthen excellent, challenging and innovative lines of research, both mono disciplinary, multidisciplinary and interdisciplinary. For this call for proposals, your application must fit in the NWO Domain Science. Consider at an early point in time if the contents of your application meet this condition. In case of any doubts, for instance because your application is (partially) multidisciplinary, please contact one of the contact persons for this programme. This person can advise you about the substantive connection between your application and this Call for Proposals."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. An additional condition is a.o. that a main or co-applicant may only submit an ENW-M proposal for substantive consideration once every twelve months. For a description of this and other conditions, please refer to the Call for Proposals."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "The Open Competition Domain Science - M consists of multiple categories: An ENW-M-1 grant has a maximum size of € 400,000 and has a single main applicant and no co-applicants. The grant must be used for a single scientific position in combination with the other budget modules available. An ENW-M-1X grant concerns projects with an investment character, for which a top-up is possible. If more than €150,000 in investment is requested, the maximum budget is increased from €400,000 to €400,000 plus the value of the investment, up to a maximum size of €800,000. An ENW-M-1X has one main applicant and no co-applicants. The grant must be used for a single temporary scientific position and an investment between 150,000 and 500,000 euros in combination with the other available budget modules. An ENW-M-1-Weave grant has a single main Dutch applicant and one or more co-applicants from Germany/Luxembourg/Flanders who work together to realise the proposed research. The budget requested from NWO has a maximum size of 400,000 euro and must be used for a single temporary scientific position in combination with the other available budget modules. Note! This concerns Weave applications in which the Dutch applicant acts as main applicant and NWO as the lead agency. In case of Weave-proposals where the German/Luxembourgish/Flemish researcher acts as main applicant and the Dutch researcher as co-applicant NWO will act as partner agency, see in this case the websites from NWO ( https://www.nwo.nl/en/calls/weave-with-nwo-as-partner-agency-2025/2026 ), DFG ( https://www.dfg.de/en/research-funding/funding-opportunities/countries-… ), FNR ( https://www.fnr.lu/international-cooperation/weave/ ) and FWO ( https://www.fwo.be/en/support-programmes/international-projects/ ). An ENW-M-2 grant has a maximum size of 800,000 euros and has a single main applicant and a single co-applicant who work together to realise the proposed research. It should be clear from the application that their expertise is complementary. The grant must be used for two temporary scientific positions in combination with the other budget modules available."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "The Open Competition Domain Science - M is a continuous call, meaning that applications can be submitted on a continuous basis. A new round of this call is opened annually. A round consists of 5 sets of 75 (package 1 till 3) or 84 (package 4 and 5) admissible proposals each. The current round (2025/2026) is closing: Once 393 (3x75 and 2x84) applications have been received OR No later than 31 July 2026 Applications for the current round (2025/2026) can therefore be submitted until 31 July 2026 at the latest, as long as the maximum number of 419 applications has not yet been reached. The new round, year 2026/2027, will be opened in August 2026, in which applications can again be submitted continuously. Note! ENW-M-1-Weave proposals with a Flemish co-applicant should be submitted no later than 24 February 2026, 14:00:00 CET ."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria Proposals are assessed for: Scientific quality of the proposal (What) Scientific and/or societal impact (Why) Scientific quality of the proposal contributes 75% of the final score, the scientific and/or societal impact 25%. Procedure Admissible proposals are assessed by independent external experts. The referees' reports are sent to the applicant for a written rebuttal. A maximum of five packages of 75 proposals each, will be assessed per round. Per package a maximum of three cluster committees will be formed. On the basis of the assessment criteria, each cluster committee ranks the proposals with accompanying referees' reports and rebuttals within that cluster. Each cluster committee agrees on a prioritisation of the proposal and advises the NWO Domain Science Board about the quality of the proposals. Based on this advice and the available funding, the Domain Science Board decides whether to grant or reject the proposals. Composition committee Committee composition of OC-M package 24-5 Please note: Not all committee or jury members listed on this page may have assessed all preliminary applications or applications, for example in the context of the NWO Code of Conduct for Personal Interests. Please contact the round secretary if you have any questions about this. Dr. S. Agten, Dr. W. Albrecht, Dr. N. Artrith, Prof. Dr. A. Barychev, Dr. M. Bayraktar, Dr. F. Béen, Dr. D. Beringer, Dr. S. Buschow, Dr. I. Çanakçı, Dr. L. Chang, Dr. B. Čule, Dr. H. Diliën, Dr. F. Hasabi, Dr. J. Kamenz, Dr. L. Kohl, Dr. N. Kohn, Dr. R. Levato, Dr. M. Mihalák, Dr. C. Osorio, Prof. Dr. A. Ram, Dr. C. Ramanan, Prof. Dr. V. Robu, Technical Chair, Dr. R. Schulz, Dr. B. Smeets, Prof. Dr. M. Stech, Dr. R. Szabó, Dr. R. Van Raaphorst, Prof. Dr. J. Van Ruitenbeek, Dr. R. Van Wezel, Technical Chair, Dr. F. Veerman, Dr. J. Zhou, Technical Chair."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "For further information about Weave, please visit https://www.nwo.nl/en/researchprogrammes/open-competition-enw/weave-research-funding-for-international-collaboration In case of ENW-M-1-Weave applications, to accommodate the assessment, the involved funding agencies will share Personal Data of the applicant. This may include: Name of the applicant(s) (first name, last name) Affiliation of the applicant(s) Title of the application Name of the external reviewer (first name, last name) Affiliation of the external reviewer Motivation for the decision (to fund or not to fund) By submitting an application, you agree to this."
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "For this call for proposals, your application must fit in the NWO Domain Science. Consider at an early point in time if the contents of your application meet this condition. In case of any doubts, for instance because your application is (partially) multidisciplinary, please contact one of the contact persons for this programme. This person can advise you about the substantive connection between your application and this call for proposals."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "Download the application form, the budget table and other required templates; Prepare the application in English; Use the application form and the budget table for the 2025/2026 round; Save the budget table as Excel and the other forms as pdf files and upload them in ISAAC. For every proposal submitted, NWO assumes that the applicant has informed the host institution and that the university or institute has accepted the funding conditions of this programme."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Open Competition Domain Science – M 2025/2026 | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-OC-ENW-M-ronde-25-26_EN_feb2026.pdf",
+        "type": "pdf",
+        "size": "548.25 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | application form ENW-M-1",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Application-Form-OC-ENW-M-1_2025%20%281%29_0.docx",
+        "type": "docx",
+        "size": "78.62 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | application form ENW-M-2",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Application-Form-OC-ENW-M-2_2025_0.docx",
+        "type": "docx",
+        "size": "77.15 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | application form ENW-M-1X",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Application-Form-OC-ENW-M-1X_2025_0.docx",
+        "type": "docx",
+        "size": "76.51 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | application form ENW-M-1-WEAVE",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Application-Form-OC-ENW-M-1-WEAVE_2025.docx",
+        "type": "docx",
+        "size": "77.88 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | application forms in LaTeX",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/LaTeX%20formulieren_0.zip",
+        "type": "zip",
+        "size": "93.47 KB"
+      },
+      {
+        "name": "Open Competition Domain Science – M 2025/2026 | template letter preferential treatment",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Template%20Letter%20Preferential%20Treatment_1.docx",
+        "type": "docx",
+        "size": "22.84 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | template letter statement appointment and project guidance",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Template%20Letter%20Statement%20Appointment%20and%20Project%20Guidance_v3%20%281%29.docx",
+        "type": "docx",
+        "size": "28.69 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | review form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Review%20Form%20Open%20Competition%20Science-M%202025-2026_0.docx",
+        "type": "docx",
+        "size": "29.21 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | budget table",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget-Table-OC-ENW-M-2025_2026_v2.xlsx",
+        "type": "xlsx",
+        "size": "250.5 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | budget table Weave FWO",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget%20table%20Weave%20FWO_0.xlsx",
+        "type": "xlsx",
+        "size": "45.7 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | budget table Weave DFG budget and justification of resources",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget-Table-Weave%20DFG%20Budget%20and%20Justification%20of%20Resources_upd_2.docx",
+        "type": "docx",
+        "size": "24.97 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | budget FNR",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget_FNR.xlsx",
+        "type": "xlsx",
+        "size": "129.57 KB"
+      },
+      {
+        "name": "Open Competition Domain Science - M 2025/2026 | budget justification FNR",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget%20Justification%20FNR.docx",
+        "type": "docx",
+        "size": "912.08 KB"
+      },
+      {
+        "name": "Open Competition Domain Science – M 2025-2026 | checklist before submission",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Checklist%20OC-M%20before%20submission%20-%202025_def.docx",
+        "type": "docx",
+        "size": "25.31 KB"
+      },
+      {
+        "name": "Open Competition Domain Science – M 2025/2026 | declaration research organisations",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Declaration%20Research%20Organisations%20%282%29.docx",
+        "type": "docx",
+        "size": "130.93 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "dr. Dieke Boezen (ENW Open Competition-M)",
+        "role": "Programme officer",
+        "phone": "+31 70 349 4620",
+        "email": "enw-m@nwo.nl"
+      },
+      {
+        "name": "dr. Marjolein Bulk",
+        "role": "Programme Officer",
+        "phone": "+31 (0)70 3440763",
+        "email": "enw-m@nwo.nl"
+      },
+      {
+        "name": "Dr. Olivia Muthsam (ENW Open Competition-M)",
+        "role": "Programme officer",
+        "phone": "+31703494399",
+        "email": "enw-m@nwo.nl"
       }
     ]
   },
@@ -8599,6 +9034,144 @@
         "role": "Policy officer",
         "phone": "+31 (0)70 3440682",
         "email": "kic-humancapital@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "participation-of-people-with-a-brain-and--or-mental-disorder-in-education-and-employment",
+    "url": "https://www.nwo.nl/en/calls/participation-of-people-with-a-brain-and/or-mental-disorder-in-education-and-employment",
+    "title": "Participation of people with a  brain and/or mental disorder in education and employment",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "€3,200,000",
+    "finance_type": "Collaboration with Partners",
+    "programme": "Participation of people with a  brain and/or psychological condition in education and employment Dutch Research Agenda (NWA)",
+    "target_groups": "Interdisciplinary Collaboration Collaboration with social partners",
+    "deadline_iso": "2027-04-27T23:59:00",
+    "deadline_dates": [
+      "2025-01-14T23:59:00",
+      "2025-02-06T23:59:00",
+      "2025-06-12T12:00:00Z",
+      "2025-06-12T23:59:00",
+      "2027-04-27T23:59:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/CfP_nwa-nph_English_DEF.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/CfP_nwa-nph_English_DEF.pdf"
+    ],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date full application": {
+        "display": "12 June 2025",
+        "iso": [
+          "2025-06-12T12:00:00Z"
+        ]
+      },
+      "Finance type": "Collaboration with Partners",
+      "For specific groups": "Interdisciplinary Collaboration Collaboration with social partners",
+      "Budget": "€3,200,000",
+      "Research programme": "Participation of people with a  brain and/or psychological condition in education and employment Dutch Research Agenda (NWA)"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "This programme focuses on 1) gaining insight into factors that influence participation in education and work for people with brain and/or mental disorders – including people with a lower socio-economic position (SEP) or migration background; 2) developing effective support methods and action perspectives for this group of people; and 3) increasing awareness and cooperation between stakeholders to ultimately contribute to a positive image (reducing taboo and combating stigmatisation)."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "An application must be submitted by a consortium. A consortium should consist of at least one main applicant, co-applicant and collaboration partner, of which at least one collaboration partner must come from the healthcare sector. All participants should play an active role in formulating the research questions and in the design and implementation of the project. The conditions per participant are further explained in the Call for proposals."
+      },
+      "consortium_building": {
+        "title": "Consortium building",
+        "text": "This Call for proposals entails three phases: the submission of a research idea and participation in two collaborative workshops (phase I), submitting the full application submission (phase II), and the submission of the overarching application submission (phase III). Following the submission of the research idea, two consecutive collaborative workshops will be organised by NWO. The person who submits the research idea will automatically be registered for the collaborative workshops. The workshops will take place Thursday 13 February and Tuesday 4 March 2025. Participation in the workshops is mandatory for the main applicant who wants to submit an application in phase II. Should this person be unable to attend, a replacement must be arranged, working within the same organisation. All parties involved in a submitted research idea can apply for the workshops. In addition, the workshops are open to other interested parties. Parties not yet affiliated with a research idea before the workshop can view the submitted ideas on the NWO website. This allows them to determine whether affiliation with a research idea might be useful. Registration for the workshops is possible via the form on the programme page on the NWO website. Deadline for registration for the workshops is Thursday 6 February2025 before 14:00:00. Civil society organisations are specifically invited to submit a research idea and/or participate in the workshops."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "The available budget for this Call for proposals is €4,400,000. This budget will be distributed as follows: 4x €800,000 for phase II proposals and €1,200,000 for the phase II overarching proposal. The intended duration of all projects together (phase II and phase III) is 5 years, with phase II covering the first 4 years and phase III the last 3 years. This means that phase II and phase III will overlap for two years, allowing for interaction between phases II and III. The applicant and co-applicants can include costs for personnel, equipment, investments and knowledge utilisation. The available budget modules (including maximum amounts) are listed in the Call for proposals. Apply only for what is essential to carry out the project. The rates and an explanation of these budget modules are given in Annex 7.1 of the Call for proposals."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "The deadline for the submission of research ideas is Tuesday 14 January 2025, before 14:00:00 CET . The deadline to register for the collaborative workshops is Thursday 6 February 2025, before 14:00:00 CET . The deadline for the submission of proposals in phase II is Thursday 12 June 2025, before 14:00:00 CEST . The deadline for the submission of the overarching proposal in phase III is Tuesday 27 April 2027, before 14:00:00 CEST ."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The applications submitted within this call for proposals will be substantially assessed on the basis of the following criteria: Problem posed and problem analysis, contribution to solution, Expected impact and route to impact, Quality of the consortium, Quality of the research. Criteria 1 and 2 each carry a weighting of 20% in the overall assessment, and criteria 3 and 4 each carry a weighting of 30%. Procedure The deadline for submitting proposals in phase II is Thursday 12 June 2025, before 14:00:00 CEST. For the assessment of the proposals, the committee will make use of pre-advices and interviews will be conducted. A final decision on funding by the NWO Executive Board is expected in November 2025. The deadline for submitting the overarching proposal is Tuesday 27 April 2027, before 14:00:00 CEST. For the assessment of the proposal, the committee will make use of pre-advices and an opportunity for response. A final decision on funding by the NWO Executive Board is expected in June 2027. Composition of committee/jury Please note that it is possible that not all committee or jury members mentioned on this page have assessed all pre-proposals or applications, for example in the context of the NWO Code for Dealing with Personal Interests. Please contact the round secretary if you have any questions about this. The composition of the assessment committee may change between the phase in which preliminary applications are assessed and the phase in which full applications are assessed. For this reason, committee members who have assessed preliminary applications may not sit on the assessment committee that assesses applications. Please contact the round secretary if you have any questions about this. J. van Bockel M. van Bockel N. Borgers Professor D. Cath (vice-chair) Doctor J. Dikkers (chair) Doctor J.S. Jukema Doctor B. Kroon H. Lindeman Professor A. Popma Professor J. van Weeghel (vice-chair)"
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "An application is prepared after the collaborative workshops, where research ideas were brought together, possible collaborations with other workshop participants were explored and where crucial initial agreements for joint development of the application were made."
+      },
+      "mandatory_consortium_building_activities": {
+        "title": "Mandatory consortium-building activities",
+        "text": "The (eventual) lead applicant must have participated in both collaborative workshops."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "The form for submitting a research idea (phase I) can be found on the website. There is also a form for registering for the workshops. To prepare your application (phase II), please follow the steps below: download the application form from the online application system ISAAC or from the NWO website (on the website of the relevant financing instrument); complete the application form; save the form as a PDF file and submit it to ISAAC with any mandatory attachments; complete the information requested online in ISAAC. Mandatory attachments: budget;"
+      }
+    },
+    "downloads": [
+      {
+        "name": "NWA-NPH | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/CfP_nwa-nph_English_DEF.pdf",
+        "type": "pdf",
+        "size": "933.88 KB"
+      },
+      {
+        "name": "NWA-NPH | application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/application_form_-_nwa_nph_participation_2.docx",
+        "type": "docx",
+        "size": "116.38 KB"
+      },
+      {
+        "name": "NWA-NPH | budget form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/begrotingsformulier_nwa-nph_participatieV4_0.xlsx",
+        "type": "xlsx",
+        "size": "391.71 KB"
+      },
+      {
+        "name": "NWA-NPH | form statements and signature",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/form_statements_and_signature_-_nwa_nph_participation.docx",
+        "type": "docx",
+        "size": "82.12 KB"
+      },
+      {
+        "name": "NWA-NPH | statement appointment and project supervision",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/statement_appointment_and_project_supervision_nwa_nph_participation.docx",
+        "type": "docx",
+        "size": "25.44 KB"
+      },
+      {
+        "name": "NWA-NPH | declaration co-funding",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/declaration_co-funding_nwa_nph_participation.docx",
+        "type": "docx",
+        "size": "144.42 KB"
+      },
+      {
+        "name": "NWA-NPH | declaration of support without co-funding",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/declaration_of_support_without_co-funding_-_nwa_nph_participation.docx",
+        "type": "docx",
+        "size": "142.7 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dr. Merel Pannebakker",
+        "role": "Programme-/ policy officer",
+        "phone": "+31 (0)70 3494684",
+        "email": "Nwa-nph@nwo.nl"
+      },
+      {
+        "name": "Madelief Zwaan",
+        "role": "Programme-/ policy officer",
+        "phone": "+31 (0)70 3440572",
+        "email": "Nwa-nph@nwo.nl"
+      },
+      {
+        "name": "Dr. Melanie Neijts",
+        "role": "Programme-/ policy officer",
+        "phone": "+31 (0)70 3494033",
+        "email": "Nwa-nph@nwo.nl"
       }
     ]
   },
@@ -21581,6 +22154,481 @@
         "name": "Dr. Marije Behet",
         "role": "Programme coordinator",
         "email": "hestia@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "perspectief-round-2024--2025",
+    "url": "https://www.nwo.nl/en/calls/perspectief-round-2024/2025",
+    "title": "Perspectief round 2024/2025",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "€26,000,000",
+    "finance_type": "Collaboration with Partners",
+    "programme": "Perspectief 2024-2025",
+    "target_groups": "Interdisciplinary Collaboration",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2024-10-08T12:00:00Z",
+      "2024-11-19T12:00:00Z",
+      "2025-05-13T12:00:00Z"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20Proposals%20Perspectief%202024-2025_EN.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20Proposals%20Perspectief%202024-2025_EN.pdf"
+    ],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date for letter of intent": {
+        "display": "8 October 2024",
+        "iso": [
+          "2024-10-08T12:00:00Z"
+        ]
+      },
+      "Closing date for pre-proposals": {
+        "display": "19 November 2024",
+        "iso": [
+          "2024-11-19T12:00:00Z"
+        ]
+      },
+      "Closing date full application": {
+        "display": "13 May 2025",
+        "iso": [
+          "2025-05-13T12:00:00Z"
+        ]
+      },
+      "Finance type": "Collaboration with Partners",
+      "For specific groups": "Interdisciplinary Collaboration",
+      "Budget": "€26,000,000",
+      "Research programme": "Perspectief 2024-2025"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "Innovation that has an economic and social impact often requires a large-scale approach. Developing new technology requires setting up new lines of research, transcending old networks and creating close collaboration between scientists and industry. The financing instrument Perspectief focuses on stimulating this collaboration in order to solve innovation bottlenecks. Innovative knowledge takes shape in an application that contributes to technological innovation with potential economic and social impact for the Netherlands."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Scientists, companies and social organisations can apply a comprehensive research project concerning new technology through consortia. Such a project usually consists of four to eight work packages which approach the overarching theme from various research directions, with an explicit focus on application. At least three knowledge institutions and four users must be represented in the consortium. In addition to academic parties, TO2 institutes and universities of applied sciences can also apply for funding under certain conditions. For each program, users must contribute to the program costs of at least 30%, of which at least 10% in cash. More information about the conditions can be read in the call for proposals."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "A total budget of 26 million euros is available for this Perspectief round. The minimum monetary value of the NWO contribution for each project is 2 million Euros. The maximum NWO contribution for each project is 5 million Euros. More information about the conditions can be read in the call for proposals."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "Submission of statement of intent: Tuesday October 8th, 2024 - 14:00:00 CEST Submission of pre-proposal: Tuesday November 19th, 2024 - 14:00:00 CET Submission of proposal: Tuesday May 13th, 2025 - 14:00:00 CEST"
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The assessment committee assesses the pre-proposals and proposals on the two criteria Scientific quality and Societal impact. These two assessment criteria carry equal weight. Procedure Submitting a Perspectief application has three phases: Phase 1: Deadline for submitting statement of intent on website: Tuesday 8th October 2024, 14.00:00 CEST (see tab 3. Submit) Phase 2: Deadline for submitting pre-proposal and form ‘Review form KIA’: Tuesday 19th November 2024, 14.00:00 CET (see tab 3. Submit) Phase 3: Deadline for submitting full proposal: Tuesday 13th May 2025, 14.00:00 CEST (see tab 3. Submit)"
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "Changes compared to previous round: The mandatory cash co-financing has been reduced from 15% to 10% of the required financial resources for this Perspectief Round. This Perspectief Round is open to the 7 new KIAs This Perspectief Round uses the recalibrated key technologies (see 1.1.2). One form is available for assessing suitability within the KIA, which can be used for every KIA."
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "A pre-proposal should contain an outline describing the research lines, the pathway towards societal impact, and the type and number of work packages that would be required to achieve the project objective(s). Your pre-proposal should contain an estimate and justification of the financial resources required to achieve the proposed research objective."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "For this call, in addition to completing and uploading the application form for the preproposal, please upload the following attachment: Completed form ‘Review form KIA'"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Perspectief round 2024/2025 | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20Proposals%20Perspectief%202024-2025_EN.pdf",
+        "type": "pdf",
+        "size": "869.41 KB"
+      },
+      {
+        "name": "Perspectief round 2024/2025 | format application form full proposal",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Perspectief%202024-2025%20-%20Fase%203%20-%20Format%20aanvraagformulier.docx",
+        "type": "docx",
+        "size": "139.44 KB"
+      },
+      {
+        "name": "Perspectief round 2024/2025 | template declaration of co-funding",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Declaration%20co-funding%20%28only%20req%20for%20full%20application%29_0.docx",
+        "type": "docx",
+        "size": "145.09 KB"
+      },
+      {
+        "name": "Perspectief round 2024/2025 | template consortium agreement",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Perspectief_P24_Consortium%20Agreement_AES_EN_0.docx",
+        "type": "docx",
+        "size": "120.85 KB"
+      },
+      {
+        "name": "Perspectief round 2024/2025 | form response points of attention committee",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Perspectief%202024-2025%20-%20Fase%203%20-%20Form%20Response%20points%20of%20attention%20committee.docx",
+        "type": "docx",
+        "size": "136.35 KB"
+      },
+      {
+        "name": "Perspectief round 2024/2025 | form perspectief KIA_KET",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Perspectief%202024-2025%20-%20Fase%203%20-%20Form%20Perspectief%20KIA_KET.docx",
+        "type": "docx",
+        "size": "140.89 KB"
+      },
+      {
+        "name": "Perspectief round 2024/2025 | statement and signing by the main applicant",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Perspectief%202024-2025%20-%20Fase%203%20-%20Statement%20and%20signing%20by%20the%20main%20applicant.docx",
+        "type": "docx",
+        "size": "164.93 KB"
+      },
+      {
+        "name": "Perspectief round 2024/2025 | budget format (version with latest rates)",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget%20form%20P24.xlsx",
+        "type": "xlsx",
+        "size": "148.92 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ms. dr. ir. Anke Stekelenburg (Perspectief)",
+        "role": "Senior programme officer",
+        "phone": "+31 (0)30 6001314",
+        "email": "ttw-perspectief@nwo.nl"
+      },
+      {
+        "name": "Dr. ir. Arjen Bergsma",
+        "role": "Programme officer",
+        "phone": "+31 (0)30 6001241",
+        "email": "ttw-perspectief@nwo.nl"
+      },
+      {
+        "name": "René Joosten",
+        "role": "Policy officer",
+        "phone": "+31 (0)30 6001367",
+        "email": "ttw-perspectief@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "open-competition-domain-science-m-2024--2025",
+    "url": "https://www.nwo.nl/en/calls/open-competition-domain-science-m-2024/2025",
+    "title": "Open Competition Domain Science - M 2024/2025",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "€50,000,000",
+    "finance_type": "Curiosity Driven Research",
+    "programme": "Open Competition ENW",
+    "target_groups": "International Collaboration",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2025-02-28T14:00:00",
+      "2025-07-31T12:00:00Z",
+      "2025-07-31T23:59:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2024-25_EN_nov2024.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2024-25_EN_nov2024.pdf"
+    ],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date full application": {
+        "display": "31 July 2025",
+        "iso": [
+          "2025-07-31T12:00:00Z"
+        ]
+      },
+      "Finance type": "Curiosity Driven Research",
+      "For specific groups": "International Collaboration",
+      "Budget": "€50,000,000",
+      "Research programme": "Open Competition ENW"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "ENW-M grants are intended for curiosity-driven scientific research with impact. The ENW-M grants offer researchers the opportunity and freedom to start, and/or strengthen excellent, challenging and innovative lines of research, both mono disciplinary, multidisciplinary and interdisciplinary. For this call for proposals, your application must fit in the NWO Domain Science. Consider at an early point in time if the contents of your application meet this condition. In case of any doubts, for instance because your application is (partially) multidisciplinary, please contact one of the contact persons for this programme. This person can advise you about the substantive connection between your application and this Call for Proposals."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. An additional condition is a.o. that a main or co-applicant may only submit an ENW-M proposal for substantive consideration once every twelve months. For a description of this and other conditions, please refer to the Call for Proposals."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "The Open Competition Domain Science - M consists of multiple categories: An ENW-M-1 grant has a maximum size of 400,000 euro and has a single main applicant, no co-applicant. The grant must be used for a single temporary scientific position in combination with material budget, a small investment (equipment) and/or non-scientific support, as needed. An ENW-M-1X grant has a maximum size of 800,000 euro and has a single main applicant, no co-applicant. The grant must be used for a single temporary scientific position and an investment between 150,000 and 500,000 euros in combination with material budget, and/or non-scientific support, as needed. An ENW-M-1-WEAVE or ENW-M-1-LUX grant has a single main Dutch applicant and one or more co-applicants from Germany/Flandres/Luxembourg who work together to realise the proposed research. The budget requested from NWO has a maximum size of 400,000 euro and must be used for a single temporary scientific position in combination with material budget, a small investment (equipment) and/or non-scientific support, as needed. agency. Note! This concerns Weave applications in which the Dutch applicant acts as main applicant and NWO as the lead agency. In case of Weave-proposals where the German/Flemish researcher acts as main applicant and the Dutch researcher as co-applicant NWO will act as partner agency, see https://www.nwo.nl/en/calls/weave-with-nwo-as-partner-agency-2024/2025 and https://www.fwo.be/en/support-programmes/all-calls/senior-researchersresearch-teams/weave-fwo-lead/ (FWO) and http://www.dfg.de/nwo (DFG). An ENW-M-2 grant has a maximum size of 800,000 euros and has a single main applicant and a single co-applicant who work together to realise the proposed research. It should be clear from the application that their expertise is complementary. The grant must be used for two temporary scientific positions in combination with material budget, small investments (equipment) and/or non-scientific support, as needed."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "The Open Competition Domain Science - M is a continuous call, meaning that applications can be submitted on a continuous basis. A new round of this call is opened annually. A round consists of 5 sets of 84 admissible proposals each. The current round (2024/2025) is closing: Once 420 (5x84) applications have been received OR No later than 31 July 2025 Applications for the current round (2024/2025) can therefore be submitted until 31 July 2025 at the latest, as long as the maximum number of 336 applications has not yet been reached. The new round, year 2025/2026, will be opened in August 2025, in which applications can again be submitted continuously. Note! ENW-M-1-WEAVE proposals with a Flemish co-applicant should be submitted no later than 28 February 2025, 14:00:00 CET ."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria Proposals are assessed for: Scientific quality of the proposal (What) Scientific and/or societal impact (Why) Scientific quality of the proposal contributes 70% of the final score, the scientific and/or societal impact 30%. Procedure Admissible proposals are assessed by independent external experts. The referees' reports are sent to the applicant for a written rebuttal. A maximum of four packages of 84 proposals each, will be assessed per round. Per package a maximum of three cluster committees will be formed. On the basis of the assessment criteria, each cluster committee ranks the proposals with accompanying referees' reports and rebuttals within that cluster. Each cluster committee agrees on a prioritisation of the proposal and advises the NWO Domain Science Board about the quality of the proposals. Based on this advice and the available funding, the Domain Science Board decides whether to grant or reject the proposals."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "For further information about Weave, please visit https://www.nwo.nl/en/researchprogrammes/open-competition-enw/weave-research-funding-for-international-collaboration In case of ENW-M-1-WEAVE and ENW-M-1-LUX applications, to accommodate the assessment, the involved funding agencies will share Personal Data of the applicant. This may include: Name of the applicant(s) (first name, last name) Affiliation of the applicant(s) Title of the application Name of the external reviewer (first name, last name) Affiliation of the external reviewer Motivation for the decision (to fund or not to fund) By submitting an application, you agree to this."
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "For this call for proposals, your application must fit in the NWO Domain Science. Consider at an early point in time if the contents of your application meet this condition. In case of any doubts, for instance because your application is (partially) multidisciplinary, please contact one of the contact persons for this programme. This person can advise you about the substantive connection between your application and this call for proposals."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "Download the application form, the budget table and other required templates; P repare the application in English; Use the application form and the budget table for the 2024/2025 round; Save the budget table as Excel and the other forms as pdf files and upload them in ISAAC. For every proposal submitted, NWO assumes that the applicant has informed the host institution and that the university or institute has accepted the funding conditions of this programme."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Open Competition Domain Science - M 2024/2025 | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2024-25_EN_nov2024.pdf",
+        "type": "pdf",
+        "size": "476.68 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "dr. Dieke Boezen (ENW Open Competition-M)",
+        "role": "Programme officer",
+        "phone": "+31 70 349 4620",
+        "email": "enw-m@nwo.nl"
+      },
+      {
+        "name": "dr. Marjolein Bulk",
+        "role": "Programme Officer",
+        "phone": "+31 (0)70 3440763",
+        "email": "enw-m@nwo.nl"
+      },
+      {
+        "name": "Dr. Olivia Muthsam (ENW Open Competition-M)",
+        "role": "Programme officer",
+        "phone": "+31703494399",
+        "email": "enw-m@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "weave-with-nwo-as-partner-agency-2024--2025",
+    "url": "https://www.nwo.nl/en/calls/weave-with-nwo-as-partner-agency-2024/2025",
+    "title": "Weave with NWO as partner agency 2024/2025",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "",
+    "finance_type": "Curiosity Driven Research",
+    "programme": "Open competitie Open Competition ENW",
+    "target_groups": "International Collaboration",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2024-08-06T23:59:00",
+      "2025-04-01T17:00:00",
+      "2025-07-31T23:59:00",
+      "2025-08-07T12:00:00Z"
+    ],
+    "primary_pdf": null,
+    "pdf_urls": [],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date full application": {
+        "display": "7 August 2025",
+        "iso": [
+          "2025-08-07T12:00:00Z"
+        ]
+      },
+      "Finance type": "Curiosity Driven Research",
+      "For specific groups": "International Collaboration",
+      "Research programme": "Open competitie Open Competition ENW"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "As part of the Open Competition ENW-M, researchers from the Netherlands can be involved in a bilateral research proposal that is submitted to DFG or FWO. Together with partners from Germany or Flanders they can submit a Weave proposal. This foreign research funder will act as lead agency and is responsible for the scientific evaluation. In such case, NWO will acts as partner agency. The bilateral application and the foreign researchers must meet the conditions of the funding instrument designated by DFG or FWO. The applicant from the Netherlands and the Dutch part of the requested budget must meet the conditions of the call OC ENW-M (the Dutch designated funding instrument). Note! For Weave applications in which the Dutch applicant acts as main applicant, NWO will act as the lead agency. In such cases, the application should be submitted as an ENW-M-1-WEAVE application ."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Full, associate and assistant professors and other researchers with a comparable position may submit an Weave-application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. An additional condition is a.o. that a main or co-applicant may only submit an ENW-M proposal, including a Weave proposal, regardless of whether NWO or DFG/FWO is lead agency, for substantive consideration once every twelve months. For a description of this and other conditions, please refer to the Call for Proposals OC ENW-M, round 2024-2025 (Annex 7.3)."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "The Dutch component of a Weave-application corresponds to the equivalent of an ENW-M-1 grant application. Hence, the budget requested from NWO has a maximum size of 400,000 euro and must be used for a single temporary scientific position in combination with material budget, a small investment (equipment) and/or non-scientific support, as needed. The modules Investment (between 150,000 and 500,000 euros) and Money follows Cooperation are not available. Apply only for funding that is vital to realise the project."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 6 August 2024 to 31 July 2025 . If a proposal is submitted to DFG , the deadline for submitting the administrative submission (see section 7.3.3) to NWO is five working days after submission to DFG, at 14:00:00 CE(S)T . The deadline for submitting applications with FWO as lead agency and NWO as partner agency is 1 April 2025, at 17:00:00 CEST . If an application is submitted to FWO , the deadline for submitting the administrative submission (see section 7.3.3) to NWO is five working days after submission to FWO, at 14:00:00 CE(S)T ."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The lead agency assessment procedure is followed, as set out in the designated Weave funding channels at the respective lead agencies. NWO has no further role in the assessment. Procedure The foreign lead agency submits the advice of their assessment committee to the NWO domain Science board. The domain Science board decides whether to accept or reject the Dutch part of the proposal. It follows from the agreed Weave principles that Weave applications submitted abroad must be among the top 20% of proposals to be eligible for allocation. Funding a Weave proposal is only possible if the foreign lead agency and NWO as partner agency reach the same decision. If the lead agency rejects the proposal, the domain Science board will also reject the proposal."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "The Weave proposal must fit within the Science domain and hence needs to be submitted to one of the selected review boards (DFG)/expert panels (FWO). If in doubt about the suitability of the content, you are advised to contact the programme's contact person at NWO, DFG or FWO well before the deadline. This person can advise you on the substantive fit of your application to this call. For more information about Weave Contact persons at partners DFG : Michael Sommerhof, phone +49 228 885-2017, michael.sommerhof@dfg.de FWO : weave@fwo.be"
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "The proposal should be drafted according to the terms and conditions of DFG or FWO, respectively. DFG FWO"
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "The lead applicant from Germany or Flanders submits the joint proposal to DFG or FWO according to the terms and conditions of DFG or FWO. To prepare the administrative submission to NWO, the Dutch co-applicant goes through the following steps: submits the original application as submitted to DFG or FWO, saved as pdf, with the attachments required at NWO in ISAAC; enters data requested online in ISAAC."
+      }
+    },
+    "downloads": [],
+    "contacts": [
+      {
+        "name": "dr. Dieke Boezen (ENW Open Competition-M)",
+        "role": "Programme officer",
+        "phone": "+31 70 349 4620",
+        "email": "enw-m@nwo.nl"
+      },
+      {
+        "name": "Dr. Merijn Blaakmeer (ENW Open Competition-M)",
+        "role": "Programme officer",
+        "phone": "+31 70 349 41 82",
+        "email": "enw-m@nwo.nl"
+      },
+      {
+        "name": "Dr. Olivia Muthsam (ENW Open Competition-M)",
+        "role": "Programme officer",
+        "phone": "+31703494399",
+        "email": "enw-m@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "fellowships-for-lecturers--researchers-at-universities-of-applied-sciences",
+    "url": "https://www.nwo.nl/en/calls/fellowships-for-lecturers/researchers-at-universities-of-applied-sciences",
+    "title": "Fellowships for lecturers/researchers at universities of applied sciences",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "€2,000,000",
+    "finance_type": "Applied Science",
+    "programme": "Fellowships voor docent-onderzoekers 2025-2026",
+    "target_groups": "Applied Sciences Research",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2026-01-20T12:00:00Z"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-Fellowships-voor-docent-onderzoekers-1.0-1512025_0.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-Fellowships-voor-docent-onderzoekers-1.0-1512025_0.pdf"
+    ],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date full application": {
+        "display": "20 January 2026",
+        "iso": [
+          "2026-01-20T12:00:00Z"
+        ]
+      },
+      "Finance type": "Applied Science",
+      "For specific groups": "Applied Sciences Research",
+      "Budget": "€2,000,000",
+      "Research programme": "Fellowships voor docent-onderzoekers 2025-2026"
+    },
+    "sections": {},
+    "downloads": [
+      {
+        "name": "Download call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-Fellowships-voor-docent-onderzoekers-1.0-1512025_0.pdf",
+        "type": "pdf",
+        "size": null
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Mel Major",
+        "role": "Programmemanager Health & Healthcare",
+        "phone": "06-21158555",
+        "email": "mel-major@regieorgaan-sia.nl"
+      }
+    ]
+  },
+  {
+    "id": "take-off-phase-2-vroegefasetrajecten-wo--hbo--to2-spring-2026",
+    "url": "https://www.nwo.nl/en/calls/take-off-phase-2-vroegefasetrajecten-wo/hbo/to2-spring-2026",
+    "title": "Take-off phase 2 - Vroegefasetrajecten WO/HBO/TO2 Spring 2026",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "€4,950,000",
+    "finance_type": "",
+    "programme": "Take-off Take-off  fase 2 - Vroegefasetraject",
+    "target_groups": "",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2026-02-24T12:00:00Z"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposal-Take-Fase-2-2026-voorjaar-Website_0.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposal-Take-Fase-2-2026-voorjaar-Website_0.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/Instructions-application-form-phase2-vroegefasetrajecten-2026-spring-EN-only-1.pdf"
+    ],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date full application": {
+        "display": "24 February 2026",
+        "iso": [
+          "2026-02-24T12:00:00Z"
+        ]
+      },
+      "Budget": "€4,950,000",
+      "Research programme": "Take-off Take-off  fase 2 - Vroegefasetraject"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "Take-off focuses on facilitating and stimulating activity and entrepreneurship from Dutch universities, NWO-acknowledged research institutes, universities of applied sciences and TO2 knowledge institutes. This involves the creation of innovative (commcercial) activities are based on knowledge from above described knowledge institutes, that are being exploited by innovative start-up companies/ entrepreneurs. This can involve product, process, care or service innovation, from all scientific fields (beta/technology, life sciences and alpha/gamma)."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "For the Take-off phase 2 financing, start-up companies (max 5 years old from registration at Dutch Chamber of Commerce) can apply that have adopted knowledge from a Dutch university, a NWO-acknowledged research institute, a Dutch university of applied sciences or a TO2 knowledge institute."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "Take-off phase 2 financing is a subsidy in the form of a loan, with a maximum of €450.000, to start-up companies, for the execution of an early phase plan. This loan includes an interest rate. The project duration of the project is 2 years. Terms and conditions of the loan are further specified in the call for proposals."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "A full proposal must be submitted via our ISAAC system before Tuesday 24th February 2026 14:00:00 CEST . Please use the correct form (spring 2026, see tab 2 “Prepare”). In the ISAAC system, a pre-proposal can be converted into a full proposal."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The ranking criteria for the Take-off phase 2 - Vroegefasetrajecten WO/HBO/TO2 are: Knowledge base and innovativeness knowledge that forms the basis of the business idea; innovative elements; Commercial potential application possibilities and added value; market and commercial perspectives; Qualities of the team scientific expertise applicant(s) and support staff; entrepreneurial and commercial skills; motivation and level of ambition of the team involved Quality of the project plan practical and economic approach; activity plan; project budget, broken down by project activity; Procedure Your proposal will be assessed in one of the clusters (Bèta/Techniek, Alfa/Gamma, Life Sciences) by a cluster committee. Take-off luster committees consists of a group of independent experts, including entrepreneurial scientists (from various scientific fields) and private financiers. In the interview round, applicants are given the opportunity to present their application to the cluster committee. The committee subsequently has the opportunity to ask questions for further clarification of the application. Each interview day is overseen by a distinct cluster committee. Per cluster, a final funding advice is given to the board of NWO-domain Applied and Engineering Sciences."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Take-off phase 2 - Vroegefasetrajecten WO/HBO/TO2 Spring 2026 | call for proposals, in Dutch",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposal-Take-Fase-2-2026-voorjaar-Website_0.pdf",
+        "type": "pdf",
+        "size": "571.11 KB"
+      },
+      {
+        "name": "Take-off phase 2 - Vroegefasetrajecten WO/HBO/TO2 Spring 2026 | application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Take-off-applicationform-phase2-vroegefasetrajecten-2026-spring-EN-2_0.docx",
+        "type": "docx",
+        "size": "115.91 KB"
+      },
+      {
+        "name": "Take-off phase 2 - Vroegefasetrajecten WO/HBO/TO2 Spring 2026 | instructions application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Instructions-application-form-phase2-vroegefasetrajecten-2026-spring-EN-only-1.pdf",
+        "type": "pdf",
+        "size": "399.49 KB"
+      },
+      {
+        "name": "Take-off phase 2 - Vroegefasetrajecten WO/HBO/TO2 Spring 2026 |  statement GBER",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Statement-GBER-Take-off-phase-2-EN.docx",
+        "type": "docx",
+        "size": "76.23 KB"
+      },
+      {
+        "name": "Take-off phase 2 - Vroegefasetrajecten WO/HBO/TO2 Spring 2026 | budget form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/budgetform-phase2-vroegefasetrajecten-2026-spring-EN.xlsx",
+        "type": "xlsx",
+        "size": "15.29 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Anouk Borsboom",
+        "role": "Policy officer",
+        "phone": "+31 (0)70 3494348",
+        "email": "aanvragentake-off@nwo.nl"
       }
     ]
   }

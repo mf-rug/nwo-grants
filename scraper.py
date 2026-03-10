@@ -58,8 +58,8 @@ def get_grant_urls(session):
 
         found = 0
         for a in soup.find_all("a", href=True):
-            if re.match(r"^/en/calls/[^?#/]+$", a["href"]):
-                slug = a["href"].split("/en/calls/")[-1]
+            if re.match(r"^/en/calls/[^?#]+$", a["href"]):
+                slug = a["href"].split("/en/calls/")[-1].replace("/", "--")
                 if slug not in SKIP_SLUGS and slug not in urls:
                     urls[slug] = BASE + a["href"]
                     found += 1
