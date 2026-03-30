@@ -32,6 +32,8 @@ st.html("""
 [data-testid="stSidebar"]{background:var(--surface)!important;border-right:1px solid var(--border)!important;}
 [data-testid="stSidebar"]>div:first-child{padding:.5rem .8rem .8rem!important;}
 [data-testid="stSidebarHeader"]{padding:.3rem .5rem!important;min-height:0!important;}
+/* Hide collapse/expand controls — sidebar is always visible */
+[data-testid="stSidebarCollapseButton"],[data-testid="collapsedControl"]{display:none!important;}
 /* Title */
 [data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:.9rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.15em!important;text-transform:uppercase!important;margin:.1rem 0 .4rem!important;}
 /* Section labels */
@@ -113,36 +115,6 @@ code{font-family:var(--fm)!important;font-size:.7rem!important;padding:2px 6px!i
 </style>
 """)
 
-# Floating hamburger — appears when sidebar is collapsed, clicks the native toggle
-st.html("""
-<button id="nwo-sb-btn" title="Open filters" style="
-  position:fixed;top:14px;left:14px;z-index:99999;
-  width:34px;height:34px;
-  background:#e8a838;color:#0f1117;
-  border:none;border-radius:8px;
-  font-size:16px;cursor:pointer;
-  display:none;align-items:center;justify-content:center;
-  box-shadow:0 4px 16px rgba(0,0,0,.6);
-  line-height:1;
-">☰</button>
-<script>
-(function(){
-  var btn=document.getElementById('nwo-sb-btn');
-  function update(){
-    var sb=document.querySelector('[data-testid="stSidebar"]');
-    if(!sb||!btn)return;
-    btn.style.display=sb.getBoundingClientRect().width<60?'flex':'none';
-  }
-  if(btn) btn.onclick=function(){
-    var t=document.querySelector('[data-testid="stSidebarCollapseButton"] button')||
-          document.querySelector('[data-testid="collapsedControl"] button')||
-          document.querySelector('[data-testid="collapsedControl"]');
-    if(t)t.click();
-  };
-  setInterval(update,250);
-})();
-</script>
-""")
 
 # ── Load data ──────────────────────────────────────────────────────────────────
 GRANTS_URL = "https://raw.githubusercontent.com/mf-rug/nwo-grants/main/grants.json"
@@ -500,8 +472,8 @@ def _purpose_snippet(g):
     txt = (purpose.get("text", "") if isinstance(purpose, dict) else "").strip()
     if not txt:
         return ""
-    m = _re.search(r".{40,300}?[.!?]", txt)
-    snippet = m.group(0) if m else txt[:200]
+    m = _re.match(r"(.{40,300}?[.!?])", txt)
+    snippet = m.group(1) if m else txt[:200]
     return snippet.strip()
 
 def render_cards(grants, now, extended):
