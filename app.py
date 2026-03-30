@@ -30,33 +30,33 @@ st.html("""
 
 /* ── Sidebar ── */
 [data-testid="stSidebar"]{background:var(--surface)!important;border-right:1px solid var(--border)!important;}
-[data-testid="stSidebar"]>div:first-child{padding:1rem .9rem!important;}
-/* Expand arrow — bright so it's visible after collapse */
-[data-testid="collapsedControl"]{background:var(--accent)!important;border-radius:0 8px 8px 0!important;opacity:1!important;visibility:visible!important;}
-[data-testid="collapsedControl"] svg{fill:var(--bg)!important;}
+[data-testid="stSidebar"]>div:first-child{padding:.5rem .8rem .8rem!important;}
+[data-testid="stSidebarHeader"]{padding:.3rem .5rem!important;min-height:0!important;}
 /* Title */
-[data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:.95rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.15em!important;text-transform:uppercase!important;margin:0 0 .6rem!important;}
+[data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:.9rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.15em!important;text-transform:uppercase!important;margin:.1rem 0 .4rem!important;}
 /* Section labels */
-[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p,[data-testid="stSidebar"] [data-testid="stWidgetLabel"] p{font-size:.58rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.12em!important;text-transform:uppercase!important;margin:.55rem 0 .1rem!important;}
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p,[data-testid="stSidebar"] [data-testid="stWidgetLabel"] p{font-size:.56rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.12em!important;text-transform:uppercase!important;margin:.4rem 0 .05rem!important;}
 /* Inputs */
-[data-testid="stSidebar"] input[type="text"]{background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:6px!important;color:var(--text)!important;font-family:var(--fb)!important;font-size:.82rem!important;padding:.3rem .6rem!important;}
+[data-testid="stSidebar"] input[type="text"]{background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:6px!important;color:var(--text)!important;font-family:var(--fb)!important;font-size:.82rem!important;padding:.25rem .55rem!important;}
 [data-testid="stSidebar"] input[type="text"]:focus{border-color:var(--accent)!important;box-shadow:0 0 0 2px var(--accent-lo)!important;outline:none!important;}
-/* Checkboxes — tighter */
+/* Checkboxes — very tight */
 [data-testid="stSidebar"] [data-testid="stCheckbox"]{margin-bottom:0!important;min-height:0!important;}
-[data-testid="stSidebar"] [data-testid="stCheckbox"] label{padding:.1rem 0!important;}
-[data-testid="stSidebar"] [data-testid="stCheckbox"] label p,[data-testid="stSidebar"] [data-testid="stCheckbox"] label span{color:var(--text)!important;font-size:.8rem!important;font-family:var(--fb)!important;}
+[data-testid="stSidebar"] [data-testid="stCheckbox"] label{padding:.05rem 0!important;gap:.35rem!important;}
+[data-testid="stSidebar"] [data-testid="stCheckbox"] label p,[data-testid="stSidebar"] [data-testid="stCheckbox"] label span{color:var(--text)!important;font-size:.79rem!important;font-family:var(--fb)!important;}
 /* Segmented controls */
 [data-testid="stSidebar"] [data-testid="stSegmentedControl"]{width:100%!important;}
 [data-testid="stSidebar"] [data-testid="stSegmentedControl"] div[role="group"]{background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:7px!important;padding:2px!important;gap:2px!important;}
-[data-testid="stSidebar"] [data-testid="stSegmentedControl"] button{font-family:var(--fb)!important;font-size:.77rem!important;border-radius:5px!important;color:var(--text-dim)!important;border:none!important;background:transparent!important;transition:all .12s!important;white-space:nowrap!important;}
+[data-testid="stSidebar"] [data-testid="stSegmentedControl"] button{font-family:var(--fb)!important;font-size:.75rem!important;border-radius:5px!important;color:var(--text-dim)!important;border:none!important;background:transparent!important;transition:all .12s!important;white-space:nowrap!important;padding:.3rem .5rem!important;}
 [data-testid="stSidebar"] [data-testid="stSegmentedControl"] button[aria-checked="true"]{background:var(--accent-lo)!important;color:var(--accent)!important;font-weight:600!important;}
 [data-testid="stSidebar"] [data-testid="stSegmentedControl"] button:hover{color:var(--text)!important;background:var(--surface2)!important;}
 /* Toggle switches */
-[data-testid="stSidebar"] [data-testid="stToggle"] label p,[data-testid="stSidebar"] [data-testid="stToggle"] span{color:var(--text)!important;font-size:.8rem!important;font-family:var(--fb)!important;}
-[data-testid="stSidebar"] [data-testid="stToggle"]{margin:.1rem 0!important;}
+[data-testid="stSidebar"] [data-testid="stToggle"] label p,[data-testid="stSidebar"] [data-testid="stToggle"] span{color:var(--text)!important;font-size:.79rem!important;font-family:var(--fb)!important;}
+[data-testid="stSidebar"] [data-testid="stToggle"]{margin:.05rem 0!important;}
 /* Select / multiselect */
-[data-testid="stSidebar"] [data-testid="stSelectbox"]>div>div,[data-testid="stSidebar"] [data-testid="stMultiSelect"]>div>div{background:var(--bg)!important;border-color:var(--border)!important;border-radius:6px!important;font-size:.82rem!important;}
-[data-testid="stSidebar"] hr{border-color:var(--border)!important;margin:.4rem 0!important;}
+[data-testid="stSidebar"] [data-testid="stSelectbox"]>div>div,[data-testid="stSidebar"] [data-testid="stMultiSelect"]>div>div{background:var(--bg)!important;border-color:var(--border)!important;border-radius:6px!important;font-size:.81rem!important;}
+[data-testid="stSidebar"] hr{border-color:var(--border)!important;margin:.3rem 0!important;}
+/* 2-column layout for checkboxes in sidebar */
+[data-testid="stSidebar"] [data-testid="column"]{padding:0!important;}
 
 /* ── Main ── */
 .main .block-container{padding-top:1.5rem!important;}
@@ -111,6 +111,37 @@ code{font-family:var(--fm)!important;font-size:.7rem!important;padding:2px 6px!i
 .gr-links a{color:var(--accent)!important;text-decoration:none!important;font-size:.78rem;font-weight:500;}
 .gr-links a:hover{text-decoration:underline!important;}
 </style>
+""")
+
+# Floating hamburger — appears when sidebar is collapsed, clicks the native toggle
+st.html("""
+<button id="nwo-sb-btn" title="Open filters" style="
+  position:fixed;top:14px;left:14px;z-index:99999;
+  width:34px;height:34px;
+  background:#e8a838;color:#0f1117;
+  border:none;border-radius:8px;
+  font-size:16px;cursor:pointer;
+  display:none;align-items:center;justify-content:center;
+  box-shadow:0 4px 16px rgba(0,0,0,.6);
+  line-height:1;
+">☰</button>
+<script>
+(function(){
+  var btn=document.getElementById('nwo-sb-btn');
+  function update(){
+    var sb=document.querySelector('[data-testid="stSidebar"]');
+    if(!sb||!btn)return;
+    btn.style.display=sb.getBoundingClientRect().width<60?'flex':'none';
+  }
+  if(btn) btn.onclick=function(){
+    var t=document.querySelector('[data-testid="stSidebarCollapseButton"] button')||
+          document.querySelector('[data-testid="collapsedControl"] button')||
+          document.querySelector('[data-testid="collapsedControl"]');
+    if(t)t.click();
+  };
+  setInterval(update,250);
+})();
+</script>
 """)
 
 # ── Load data ──────────────────────────────────────────────────────────────────
@@ -274,9 +305,12 @@ st.sidebar.title("NWO Grants")
 query = st.sidebar.text_input("Search", placeholder="Keywords…", label_visibility="collapsed")
 
 st.sidebar.markdown("**Status**")
+_scols = st.sidebar.columns(2)
+_slabels = {"open":"Open","upcoming":"Upcoming","in_preparation":"In Prep",
+            "in_progress":"In Progress","closed":"Closed"}
 selected_statuses = [
-    s for s in ALL_STATUSES
-    if st.sidebar.checkbox(s.replace("_", " ").title(), value=(s in ("open", "upcoming")), key=s)
+    s for i, s in enumerate(ALL_STATUSES)
+    if _scols[i % 2].checkbox(_slabels[s], value=(s in ("open","upcoming")), key=s)
 ]
 
 st.sidebar.markdown("**Finance type**")
