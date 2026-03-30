@@ -30,31 +30,33 @@ st.html("""
 
 /* ── Sidebar ── */
 [data-testid="stSidebar"]{background:var(--surface)!important;border-right:1px solid var(--border)!important;}
-/* Expand arrow when sidebar is collapsed */
-[data-testid="collapsedControl"]{background:var(--surface)!important;border:1px solid var(--border-hi)!important;border-left:none!important;border-radius:0 8px 8px 0!important;transition:all .15s!important;}
-[data-testid="collapsedControl"]:hover{border-color:var(--accent)!important;background:var(--accent-lo)!important;}
-[data-testid="collapsedControl"] svg{fill:var(--accent)!important;}
+[data-testid="stSidebar"]>div:first-child{padding:1rem .9rem!important;}
+/* Expand arrow — bright so it's visible after collapse */
+[data-testid="collapsedControl"]{background:var(--accent)!important;border-radius:0 8px 8px 0!important;opacity:1!important;visibility:visible!important;}
+[data-testid="collapsedControl"] svg{fill:var(--bg)!important;}
 /* Title */
-[data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:1rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.15em!important;text-transform:uppercase!important;margin-bottom:.5rem!important;}
+[data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:.95rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.15em!important;text-transform:uppercase!important;margin:0 0 .6rem!important;}
 /* Section labels */
-[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p,[data-testid="stSidebar"] [data-testid="stWidgetLabel"] p{font-size:.6rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.12em!important;text-transform:uppercase!important;margin:.8rem 0 .2rem!important;}
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p,[data-testid="stSidebar"] [data-testid="stWidgetLabel"] p{font-size:.58rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.12em!important;text-transform:uppercase!important;margin:.55rem 0 .1rem!important;}
 /* Inputs */
-[data-testid="stSidebar"] input[type="text"]{background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:6px!important;color:var(--text)!important;font-family:var(--fb)!important;font-size:.83rem!important;}
+[data-testid="stSidebar"] input[type="text"]{background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:6px!important;color:var(--text)!important;font-family:var(--fb)!important;font-size:.82rem!important;padding:.3rem .6rem!important;}
 [data-testid="stSidebar"] input[type="text"]:focus{border-color:var(--accent)!important;box-shadow:0 0 0 2px var(--accent-lo)!important;outline:none!important;}
-/* Checkboxes */
-[data-testid="stSidebar"] [data-testid="stCheckbox"]{margin-bottom:.05rem!important;}
-[data-testid="stSidebar"] [data-testid="stCheckbox"] label p,[data-testid="stSidebar"] [data-testid="stCheckbox"] label span{color:var(--text)!important;font-size:.83rem!important;font-family:var(--fb)!important;}
-/* Radio → segmented pill control */
-[data-testid="stSidebar"] [data-testid="stRadio"] [role="radiogroup"]{display:flex!important;gap:3px!important;background:var(--bg)!important;padding:3px!important;border-radius:7px!important;border:1px solid var(--border)!important;margin-top:.15rem!important;}
-[data-testid="stSidebar"] [data-testid="stRadio"] [role="radiogroup"] label{flex:1!important;display:flex!important;align-items:center!important;justify-content:center!important;padding:5px 4px!important;border-radius:5px!important;cursor:pointer!important;transition:all .12s!important;font-size:.77rem!important;font-family:var(--fb)!important;color:var(--text-dim)!important;}
-[data-testid="stSidebar"] [data-testid="stRadio"] [role="radiogroup"] label:hover{color:var(--text)!important;background:var(--surface2)!important;}
-[data-testid="stSidebar"] [data-testid="stRadio"] [role="radiogroup"] label:has(input:checked){background:var(--accent-lo)!important;color:var(--accent)!important;font-weight:600!important;}
-[data-testid="stSidebar"] [data-testid="stRadio"] input[type="radio"]{display:none!important;}
+/* Checkboxes — tighter */
+[data-testid="stSidebar"] [data-testid="stCheckbox"]{margin-bottom:0!important;min-height:0!important;}
+[data-testid="stSidebar"] [data-testid="stCheckbox"] label{padding:.1rem 0!important;}
+[data-testid="stSidebar"] [data-testid="stCheckbox"] label p,[data-testid="stSidebar"] [data-testid="stCheckbox"] label span{color:var(--text)!important;font-size:.8rem!important;font-family:var(--fb)!important;}
+/* Segmented controls */
+[data-testid="stSidebar"] [data-testid="stSegmentedControl"]{width:100%!important;}
+[data-testid="stSidebar"] [data-testid="stSegmentedControl"] div[role="group"]{background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:7px!important;padding:2px!important;gap:2px!important;}
+[data-testid="stSidebar"] [data-testid="stSegmentedControl"] button{font-family:var(--fb)!important;font-size:.77rem!important;border-radius:5px!important;color:var(--text-dim)!important;border:none!important;background:transparent!important;transition:all .12s!important;white-space:nowrap!important;}
+[data-testid="stSidebar"] [data-testid="stSegmentedControl"] button[aria-checked="true"]{background:var(--accent-lo)!important;color:var(--accent)!important;font-weight:600!important;}
+[data-testid="stSidebar"] [data-testid="stSegmentedControl"] button:hover{color:var(--text)!important;background:var(--surface2)!important;}
 /* Toggle switches */
-[data-testid="stSidebar"] [data-testid="stToggle"] label p,[data-testid="stSidebar"] [data-testid="stToggle"] span{color:var(--text)!important;font-size:.83rem!important;font-family:var(--fb)!important;}
+[data-testid="stSidebar"] [data-testid="stToggle"] label p,[data-testid="stSidebar"] [data-testid="stToggle"] span{color:var(--text)!important;font-size:.8rem!important;font-family:var(--fb)!important;}
+[data-testid="stSidebar"] [data-testid="stToggle"]{margin:.1rem 0!important;}
 /* Select / multiselect */
-[data-testid="stSidebar"] [data-testid="stSelectbox"]>div>div,[data-testid="stSidebar"] [data-testid="stMultiSelect"]>div>div{background:var(--bg)!important;border-color:var(--border)!important;border-radius:6px!important;font-size:.83rem!important;}
-[data-testid="stSidebar"] hr{border-color:var(--border)!important;margin:.5rem 0!important;}
+[data-testid="stSidebar"] [data-testid="stSelectbox"]>div>div,[data-testid="stSidebar"] [data-testid="stMultiSelect"]>div>div{background:var(--bg)!important;border-color:var(--border)!important;border-radius:6px!important;font-size:.82rem!important;}
+[data-testid="stSidebar"] hr{border-color:var(--border)!important;margin:.4rem 0!important;}
 
 /* ── Main ── */
 .main .block-container{padding-top:1.5rem!important;}
@@ -95,6 +97,7 @@ code{font-family:var(--fm)!important;font-size:.7rem!important;padding:2px 6px!i
 .gc-title{font-family:var(--fb);font-weight:600;font-size:.86rem;color:var(--text-bright);line-height:1.45;flex:1;}
 .gc-title a{color:inherit!important;text-decoration:none!important;}
 .gc-title a:hover{color:var(--accent)!important;}
+.gc-snippet{font-size:.78rem;color:var(--text);line-height:1.55;opacity:.8;}
 .gc-meta{font-size:.73rem;color:var(--text-dim);line-height:1.4;}
 .gc-links{font-size:.75rem;padding-top:.4rem;border-top:1px solid var(--border);margin-top:auto;}
 .gc-links a{color:var(--accent)!important;text-decoration:none!important;font-weight:500;}
@@ -299,11 +302,17 @@ has_pdf = st.sidebar.toggle("Has PDF only", value=False)
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("**Sort**")
-sort_by = st.sidebar.radio("Sort", ["Nearest deadline", "Title"], horizontal=True, label_visibility="collapsed")
+sort_by = st.sidebar.segmented_control(
+    "Sort", ["Nearest deadline", "Title"], default="Nearest deadline", label_visibility="collapsed"
+) or "Nearest deadline"
 st.sidebar.markdown("**View**")
-view_mode    = st.sidebar.radio("View",   ["List", "Cards"],         horizontal=True, label_visibility="collapsed")
+view_mode = st.sidebar.segmented_control(
+    "View", ["List", "Cards"], default="List", label_visibility="collapsed"
+) or "List"
 st.sidebar.markdown("**Detail**")
-detail_level = st.sidebar.radio("Detail", ["Tight", "Extended"],     horizontal=True, label_visibility="collapsed")
+detail_level = st.sidebar.segmented_control(
+    "Detail", ["Tight", "Extended"], default="Tight", label_visibility="collapsed"
+) or "Tight"
 
 # ── Filter ─────────────────────────────────────────────────────────────────────
 def section_text(g):
@@ -450,15 +459,28 @@ def render_list_extended(grants, now):
             _render_sections(g)
             _render_contacts(g)
 
+def _purpose_snippet(g):
+    """Return first sentence of the purpose section, or ''."""
+    import re as _re
+    purpose = g.get("sections", {}).get("purpose") or {}
+    txt = (purpose.get("text", "") if isinstance(purpose, dict) else "").strip()
+    if not txt:
+        return ""
+    m = _re.search(r".{40,300}?[.!?]", txt)
+    snippet = m.group(0) if m else txt[:200]
+    return snippet.strip()
+
 def render_cards(grants, now, extended):
     html = '<div class="cgrid">'
     for g in grants:
-        status = g.get("status", "")
-        meta   = f'<div class="gc-meta">{_meta_line(g)}</div>' if extended else ""
-        html  += (
+        status  = g.get("status", "")
+        snippet = f'<div class="gc-snippet">{_purpose_snippet(g)}</div>' if extended and _purpose_snippet(g) else ""
+        meta    = f'<div class="gc-meta">{_meta_line(g)}</div>' if extended else ""
+        html   += (
             f'<div class="gc">'
             f'<div>{_badge(status)} {_day_pill(g, now)}</div>'
             f'<div class="gc-title"><a href="?grant={g["id"]}">{g["title"]}</a></div>'
+            f'{snippet}'
             f'{meta}'
             f'<div class="gc-links">{_links_html(g," · ")}</div>'
             f'</div>'
