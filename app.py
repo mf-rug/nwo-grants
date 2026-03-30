@@ -7,7 +7,7 @@ import streamlit as st
 
 st.set_page_config(page_title="NWO Grants", layout="wide")
 
-st.markdown("""
+st.html("""
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root {
@@ -90,7 +90,7 @@ code{font-family:var(--fm)!important;font-size:.7rem!important;padding:2px 6px!i
 .gr-links a{color:var(--accent)!important;text-decoration:none!important;font-size:.78rem;font-weight:500;}
 .gr-links a:hover{text-decoration:underline!important;}
 </style>
-""", unsafe_allow_html=True)
+""")
 
 # ── Load data ──────────────────────────────────────────────────────────────────
 GRANTS_URL = "https://raw.githubusercontent.com/mf-rug/nwo-grants/main/grants.json"
