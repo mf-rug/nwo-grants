@@ -30,13 +30,31 @@ st.html("""
 
 /* ── Sidebar ── */
 [data-testid="stSidebar"]{background:var(--surface)!important;border-right:1px solid var(--border)!important;}
-[data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:1.25rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.1em!important;text-transform:uppercase!important;}
-[data-testid="stSidebar"] p{font-size:.68rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.1em!important;text-transform:uppercase!important;}
-[data-testid="stSidebar"] label{color:var(--text)!important;font-size:.82rem!important;}
-[data-testid="stSidebar"] input{background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:6px!important;color:var(--text)!important;font-family:var(--fb)!important;font-size:.82rem!important;}
-[data-testid="stSidebar"] input:focus{border-color:var(--accent)!important;box-shadow:0 0 0 2px var(--accent-lo)!important;outline:none!important;}
-[data-testid="stSidebar"] hr{border-color:var(--border)!important;}
-[data-testid="stSidebar"] [data-testid="stSelectbox"]>div>div,[data-testid="stSidebar"] [data-testid="stMultiSelect"]>div>div{background:var(--bg)!important;border-color:var(--border)!important;border-radius:6px!important;}
+/* Expand arrow when sidebar is collapsed */
+[data-testid="collapsedControl"]{background:var(--surface)!important;border:1px solid var(--border-hi)!important;border-left:none!important;border-radius:0 8px 8px 0!important;transition:all .15s!important;}
+[data-testid="collapsedControl"]:hover{border-color:var(--accent)!important;background:var(--accent-lo)!important;}
+[data-testid="collapsedControl"] svg{fill:var(--accent)!important;}
+/* Title */
+[data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:1rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.15em!important;text-transform:uppercase!important;margin-bottom:.5rem!important;}
+/* Section labels */
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p,[data-testid="stSidebar"] [data-testid="stWidgetLabel"] p{font-size:.6rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.12em!important;text-transform:uppercase!important;margin:.8rem 0 .2rem!important;}
+/* Inputs */
+[data-testid="stSidebar"] input[type="text"]{background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:6px!important;color:var(--text)!important;font-family:var(--fb)!important;font-size:.83rem!important;}
+[data-testid="stSidebar"] input[type="text"]:focus{border-color:var(--accent)!important;box-shadow:0 0 0 2px var(--accent-lo)!important;outline:none!important;}
+/* Checkboxes */
+[data-testid="stSidebar"] [data-testid="stCheckbox"]{margin-bottom:.05rem!important;}
+[data-testid="stSidebar"] [data-testid="stCheckbox"] label p,[data-testid="stSidebar"] [data-testid="stCheckbox"] label span{color:var(--text)!important;font-size:.83rem!important;font-family:var(--fb)!important;}
+/* Radio → segmented pill control */
+[data-testid="stSidebar"] [data-testid="stRadio"] [role="radiogroup"]{display:flex!important;gap:3px!important;background:var(--bg)!important;padding:3px!important;border-radius:7px!important;border:1px solid var(--border)!important;margin-top:.15rem!important;}
+[data-testid="stSidebar"] [data-testid="stRadio"] [role="radiogroup"] label{flex:1!important;display:flex!important;align-items:center!important;justify-content:center!important;padding:5px 4px!important;border-radius:5px!important;cursor:pointer!important;transition:all .12s!important;font-size:.77rem!important;font-family:var(--fb)!important;color:var(--text-dim)!important;}
+[data-testid="stSidebar"] [data-testid="stRadio"] [role="radiogroup"] label:hover{color:var(--text)!important;background:var(--surface2)!important;}
+[data-testid="stSidebar"] [data-testid="stRadio"] [role="radiogroup"] label:has(input:checked){background:var(--accent-lo)!important;color:var(--accent)!important;font-weight:600!important;}
+[data-testid="stSidebar"] [data-testid="stRadio"] input[type="radio"]{display:none!important;}
+/* Toggle switches */
+[data-testid="stSidebar"] [data-testid="stToggle"] label p,[data-testid="stSidebar"] [data-testid="stToggle"] span{color:var(--text)!important;font-size:.83rem!important;font-family:var(--fb)!important;}
+/* Select / multiselect */
+[data-testid="stSidebar"] [data-testid="stSelectbox"]>div>div,[data-testid="stSidebar"] [data-testid="stMultiSelect"]>div>div{background:var(--bg)!important;border-color:var(--border)!important;border-radius:6px!important;font-size:.83rem!important;}
+[data-testid="stSidebar"] hr{border-color:var(--border)!important;margin:.5rem 0!important;}
 
 /* ── Main ── */
 .main .block-container{padding-top:1.5rem!important;}
@@ -248,9 +266,9 @@ if detail_id:
     st.stop()
 
 # ── Sidebar ────────────────────────────────────────────────────────────────────
-st.sidebar.title("Filters")
+st.sidebar.title("NWO Grants")
 
-query = st.sidebar.text_input("Search", placeholder="Keywords…")
+query = st.sidebar.text_input("Search", placeholder="Keywords…", label_visibility="collapsed")
 
 st.sidebar.markdown("**Status**")
 selected_statuses = [
@@ -258,11 +276,14 @@ selected_statuses = [
     if st.sidebar.checkbox(s.replace("_", " ").title(), value=(s in ("open", "upcoming")), key=s)
 ]
 
-finance_filter = st.sidebar.multiselect("Finance type", ALL_FINANCE)
+st.sidebar.markdown("**Finance type**")
+finance_filter = st.sidebar.multiselect(
+    "Finance type", ALL_FINANCE, label_visibility="collapsed"
+)
 
-consortium_only = st.sidebar.toggle("Collaboration / consortium grants only", value=False)
+consortium_only = st.sidebar.toggle("Consortium grants only", value=False)
 
-st.sidebar.markdown("**Next deadline within**")
+st.sidebar.markdown("**Deadline within**")
 DEADLINE_WINDOWS = {
     "Any": None,
     "2 weeks": 14,
@@ -271,16 +292,18 @@ DEADLINE_WINDOWS = {
     "6 months": 180,
 }
 deadline_window = st.sidebar.selectbox(
-    "Next deadline within", list(DEADLINE_WINDOWS.keys()), label_visibility="collapsed"
+    "Deadline within", list(DEADLINE_WINDOWS.keys()), label_visibility="collapsed"
 )
 
-has_pdf = st.sidebar.toggle("Has PDF", value=False)
-
-sort_by = st.sidebar.radio("Sort by", ["Nearest deadline", "Title"], horizontal=True)
+has_pdf = st.sidebar.toggle("Has PDF only", value=False)
 
 st.sidebar.markdown("---")
-view_mode    = st.sidebar.radio("View",   ["List", "Cards"], horizontal=True)
-detail_level = st.sidebar.radio("Detail", ["Tight", "Extended"], horizontal=True)
+st.sidebar.markdown("**Sort**")
+sort_by = st.sidebar.radio("Sort", ["Nearest deadline", "Title"], horizontal=True, label_visibility="collapsed")
+st.sidebar.markdown("**View**")
+view_mode    = st.sidebar.radio("View",   ["List", "Cards"],         horizontal=True, label_visibility="collapsed")
+st.sidebar.markdown("**Detail**")
+detail_level = st.sidebar.radio("Detail", ["Tight", "Extended"],     horizontal=True, label_visibility="collapsed")
 
 # ── Filter ─────────────────────────────────────────────────────────────────────
 def section_text(g):
