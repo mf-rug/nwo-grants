@@ -38,6 +38,9 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes — grants.json is up to date."
           else
+            # Touch requirements.txt so Streamlit Cloud detects the commit and redeploys
+            touch requirements.txt
+            git add requirements.txt
             git commit -m "Auto-update grants.json ($(date -u +%Y-%m-%d))"
             git push
           fi
