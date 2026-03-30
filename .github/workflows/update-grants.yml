@@ -30,11 +30,14 @@ jobs:
       - name: Process into grants.json
         run: python process.py
 
+      - name: Convert HTML to Markdown
+        run: python html_to_md.py
+
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add grants.json grants_list.json
+          git add grants.json grants_list.json md/
           if git diff --staged --quiet; then
             echo "No changes — grants.json is up to date."
           else

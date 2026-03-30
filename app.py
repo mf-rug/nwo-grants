@@ -9,6 +9,7 @@ st.set_page_config(page_title="NWO Grants", layout="wide")
 
 # ── Load data ──────────────────────────────────────────────────────────────────
 GRANTS_URL = "https://raw.githubusercontent.com/mf-rug/nwo-grants/main/grants.json"
+MD_BASE    = "https://raw.githubusercontent.com/mf-rug/nwo-grants/main/md"
 
 @st.cache_data(ttl=3600)
 def load_grants():
@@ -16,7 +17,16 @@ def load_grants():
     r.raise_for_status()
     return r.json()
 
+@st.cache_data(ttl=3600)
+def load_md(grant_id: str):
+    r = requests.get(f"{MD_BASE}/{grant_id}.md", timeout=15)
+    if r.status_code == 404:
+        return None
+    r.raise_for_status()
+    return r.text
+
 grants = load_grants()
+grants_by_id = {g["id"]: g for g in grants}
 
 STATUS_COLORS = {
     "open": "🟢",
@@ -90,6 +100,67 @@ def is_consortium(g):
         return True
     sections = g.get("sections", {})
     return "consortium_building" in sections or "mandatory_consortium_building_activities" in sections
+
+# ── Detail page ───────────────────────────────────────────────────────────────
+detail_id = st.query_params.get("grant")
+if detail_id:
+    g = grants_by_id.get(detail_id)
+    if g is None:
+        st.error(f"Grant '{detail_id}' not found.")
+        st.stop()
+
+    if st.button("← Back to all grants"):
+        st.query_params.clear()
+        st.rerun()
+
+    status = g.get("status", "")
+    icon   = STATUS_COLORS.get(status, "⚪")
+    ft     = g.get("finance_type", "")
+    badge  = " · 🤝 consortium" if is_consortium(g) else ""
+    st.caption(f"{icon} `{status}`  {ft}{badge}  ·  **{g.get('budget') or '—'}**")
+
+    stages = extract_deadlines(g)
+    now_d  = datetime.utcnow()
+    if stages:
+        rows = []
+        for lbl, dt, disp in stages:
+            if dt:
+                d_left   = (dt - now_d).days
+                marker   = f"⏳ {d_left}d" if d_left >= 0 else "✓ past"
+                style    = "" if d_left >= 0 else "color:#888;"
+                date_str = dt.strftime("%d %b %Y")
+            else:
+                date_str, marker, style = disp, "", "color:#888;"
+            rows.append(f'<span style="{style}">**{lbl}:** {date_str} &nbsp; {marker}</span>')
+        st.markdown("  \n".join(rows), unsafe_allow_html=True)
+
+    links = []
+    if g.get("url"):        links.append(f"[NWO page]({g['url']})")
+    if g.get("primary_pdf"): links.append(f"[PDF]({g['primary_pdf']})")
+    if links: st.markdown("  |  ".join(links))
+
+    st.divider()
+
+    md = load_md(detail_id)
+    if md:
+        st.markdown(md)
+    else:
+        st.info("Detailed markdown not yet available — showing extracted sections.")
+        sections = g.get("sections", {})
+        for key in PRIMARY_SECTIONS + [k for k in sections if k not in PRIMARY_SECTIONS]:
+            sec = sections.get(key)
+            if sec and sec.get("text"):
+                st.subheader(sec.get("title") or key.replace("_", " ").title())
+                st.markdown(sec["text"].strip())
+
+    contacts = g.get("contacts") or []
+    if contacts:
+        st.divider()
+        parts = [f"{c.get('name','')} [{c.get('email','')}](mailto:{c.get('email','')})"
+                 if c.get("email") else c.get("name", "") for c in contacts]
+        st.caption("📧 " + "  ·  ".join(parts))
+
+    st.stop()
 
 # ── Sidebar ────────────────────────────────────────────────────────────────────
 st.sidebar.title("Filters")
@@ -184,13 +255,12 @@ for g in filtered:
         with col2:
             pass  # deadlines shown below
         with col3:
-            links = []
+            links = [f"[Details](?grant={g['id']})"]
             if g.get("url"):
                 links.append(f"[NWO page]({g['url']})")
             if g.get("primary_pdf"):
                 links.append(f"[PDF]({g['primary_pdf']})")
-            if links:
-                st.markdown("  |  ".join(links))
+            st.markdown("  |  ".join(links))
 
         # ── Deadline timeline ──
         stages = extract_deadlines(g)
