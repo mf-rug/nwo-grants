@@ -193,6 +193,10 @@ has_pdf = st.sidebar.toggle("Has PDF", value=False)
 
 sort_by = st.sidebar.radio("Sort by", ["Nearest deadline", "Title"], horizontal=True)
 
+st.sidebar.markdown("---")
+view_mode    = st.sidebar.radio("View",   ["List", "Cards"], horizontal=True)
+detail_level = st.sidebar.radio("Detail", ["Tight", "Extended"], horizontal=True)
+
 # ── Filter ─────────────────────────────────────────────────────────────────────
 def section_text(g):
     return " ".join(
@@ -233,93 +237,118 @@ if not filtered:
     st.info("No grants match the current filters.")
     st.stop()
 
-for g in filtered:
-    status   = g.get("status", "")
-    icon     = STATUS_COLORS.get(status, "⚪")
-    nd       = next_deadline(g, now)
-    days_left = (nd - now).days if nd != SENTINEL else None
+# ── Render helpers ────────────────────────────────────────────────────────────
+def _label(g, now):
+    icon = STATUS_COLORS.get(g.get("status", ""), "⚪")
+    nd   = next_deadline(g, now)
+    days = (nd - now).days if nd != SENTINEL else None
+    s = f"{icon} {g['title']}"
+    if days is not None and days >= 0: s += f"  ·  ⏳ {days}d"
+    elif nd != SENTINEL:               s += "  ·  ⌛ past"
+    return s
 
-    label = f"{icon} {g['title']}"
-    if days_left is not None and days_left >= 0:
-        label += f"  ·  ⏳ {days_left}d"
-    elif nd != SENTINEL:
-        label += "  ·  ⌛ past"
+def _meta_str(g):
+    ft     = g.get("finance_type", "") or ""
+    budget = g.get("budget", "") or "—"
+    badge  = " · 🤝 consortium" if is_consortium(g) else ""
+    return f"`{g.get('status','')}`  {ft}{badge}  ·  **{budget}**"
 
-    with st.expander(label):
-        # ── Header row ──
-        col1, col2, col3 = st.columns([3, 1, 1])
-        with col1:
-            ft = g.get("finance_type", "")
-            consortium_badge = " · 🤝 consortium" if is_consortium(g) else ""
-            st.markdown(f"`{status}`  {ft}{consortium_badge}  ·  **{g.get('budget') or '—'}**")
-        with col2:
-            pass  # deadlines shown below
-        with col3:
-            links = [f"[Details](?grant={g['id']})"]
-            if g.get("url"):
-                links.append(f"[NWO page]({g['url']})")
-            if g.get("primary_pdf"):
-                links.append(f"[PDF]({g['primary_pdf']})")
-            st.markdown("  |  ".join(links))
+def _links_str(g):
+    parts = [f"[Details](?grant={g['id']})"]
+    if g.get("url"):         parts.append(f"[NWO page]({g['url']})")
+    if g.get("primary_pdf"): parts.append(f"[PDF]({g['primary_pdf']})")
+    return "  |  ".join(parts)
 
-        # ── Deadline timeline ──
-        stages = extract_deadlines(g)
-        if stages:
-            rows = []
-            for lbl, dt, disp in stages:
-                if dt:
-                    d_left = (dt - now).days
-                    if d_left < 0:
-                        marker = "✓ past"
-                        style  = "color: #888;"
-                    else:
-                        marker = f"⏳ {d_left}d"
-                        style  = ""
-                    date_str = dt.strftime("%d %b %Y")
-                else:
-                    date_str = disp
-                    marker   = ""
-                    style    = "color: #888;"
-                rows.append(f'<span style="{style}">**{lbl}:** {date_str} &nbsp; {marker}</span>')
-            st.markdown("  \n".join(rows), unsafe_allow_html=True)
-        else:
-            # fallback: show deadline_iso
-            iso = g.get("deadline_iso")
-            if iso:
-                try:
-                    dt = _parse_iso(iso)
-                    st.markdown(f"**Deadline:** {dt.strftime('%d %b %Y')}")
-                except (ValueError, AttributeError):
-                    pass
+def _render_deadlines(g, now):
+    stages = extract_deadlines(g)
+    if stages:
+        rows = []
+        for lbl, dt, disp in stages:
+            if dt:
+                d_left   = (dt - now).days
+                marker   = f"⏳ {d_left}d" if d_left >= 0 else "✓ past"
+                style    = "" if d_left >= 0 else "color:#888;"
+                date_str = dt.strftime("%d %b %Y")
+            else:
+                date_str, marker, style = disp, "", "color:#888;"
+            rows.append(f'<span style="{style}">**{lbl}:** {date_str} &nbsp; {marker}</span>')
+        st.markdown("  \n".join(rows), unsafe_allow_html=True)
+    else:
+        iso = g.get("deadline_iso")
+        if iso:
+            try:
+                st.markdown(f"**Deadline:** {_parse_iso(iso).strftime('%d %b %Y')}")
+            except (ValueError, AttributeError):
+                pass
 
-        st.divider()
-
-        # ── Sections ──
-        sections = g.get("sections", {})
-        all_keys = list(sections.keys())
-
-        def show_section_expander(key, expanded):
-            sec = sections.get(key)
-            if not (sec and sec.get("text")):
-                return
-            heading = sec.get("title") or key.replace("_", " ").title()
-            with st.expander(heading, expanded=expanded):
+def _render_sections(g):
+    sections = g.get("sections", {})
+    all_keys = list(sections.keys())
+    for key in PRIMARY_SECTIONS:
+        sec = sections.get(key)
+        if sec and sec.get("text"):
+            with st.expander(sec.get("title") or key.replace("_", " ").title(), expanded=True):
+                st.markdown(sec["text"].strip())
+    for key in [k for k in all_keys if k not in PRIMARY_SECTIONS]:
+        sec = sections.get(key)
+        if sec and sec.get("text"):
+            with st.expander(sec.get("title") or key.replace("_", " ").title(), expanded=False):
                 st.markdown(sec["text"].strip())
 
-        for key in PRIMARY_SECTIONS:
-            if key in sections:
-                show_section_expander(key, expanded=True)
+def _render_contacts(g):
+    contacts = g.get("contacts") or []
+    if contacts:
+        parts = [f"{c.get('name','')} [{c.get('email','')}](mailto:{c.get('email','')})"
+                 if c.get("email") else c.get("name", "") for c in contacts]
+        st.caption("📧 " + "  ·  ".join(parts))
 
-        secondary = [k for k in all_keys if k not in PRIMARY_SECTIONS]
-        for key in secondary:
-            show_section_expander(key, expanded=False)
+# ── Render modes ───────────────────────────────────────────────────────────────
+def render_list_tight(grants, now):
+    for g in grants:
+        with st.expander(_label(g, now)):
+            col1, col2 = st.columns([3, 1])
+            with col1: st.markdown(_meta_str(g))
+            with col2: st.markdown(_links_str(g))
+            _render_deadlines(g, now)
+            st.divider()
+            _render_sections(g)
+            _render_contacts(g)
 
-        # ── Contacts (demoted) ──
-        contacts = g.get("contacts") or []
-        if contacts:
-            parts = []
-            for c in contacts:
-                name  = c.get("name", "")
-                email = c.get("email", "")
-                parts.append(f"{name} [{email}](mailto:{email})" if email else name)
-            st.caption("📧 " + "  ·  ".join(parts))
+def render_list_extended(grants, now):
+    for g in grants:
+        col_title, col_links = st.columns([3, 1])
+        with col_title:
+            st.markdown(f"##### {_label(g, now)}")
+        with col_links:
+            st.markdown(_links_str(g))
+        ft     = g.get("finance_type", "") or ""
+        budget = g.get("budget", "") or "—"
+        badge  = "🤝 consortium · " if is_consortium(g) else ""
+        st.caption(f"{ft}  ·  {badge}{budget}")
+        with st.expander("Sections", expanded=False):
+            _render_deadlines(g, now)
+            st.divider()
+            _render_sections(g)
+            _render_contacts(g)
+        st.divider()
+
+def render_cards(grants, now, extended):
+    N = 3
+    for i in range(0, len(grants), N):
+        cols = st.columns(N)
+        for col, g in zip(cols, grants[i:i+N]):
+            with col:
+                with st.container(border=True):
+                    st.markdown(f"**{_label(g, now)}**")
+                    if extended:
+                        ft     = g.get("finance_type", "") or ""
+                        budget = g.get("budget", "") or "—"
+                        badge  = "🤝 consortium · " if is_consortium(g) else ""
+                        st.caption(f"{ft}  ·  {badge}{budget}")
+                        st.markdown(_links_str(g))
+
+# ── Dispatch ───────────────────────────────────────────────────────────────────
+if   view_mode == "List"  and detail_level == "Tight":    render_list_tight(filtered, now)
+elif view_mode == "List"  and detail_level == "Extended":  render_list_extended(filtered, now)
+elif view_mode == "Cards" and detail_level == "Tight":    render_cards(filtered, now, extended=False)
+else:                                                      render_cards(filtered, now, extended=True)
