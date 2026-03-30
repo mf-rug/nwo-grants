@@ -2,15 +2,19 @@ import json
 from datetime import datetime, timedelta
 from pathlib import Path
 
+import requests
 import streamlit as st
 
 st.set_page_config(page_title="NWO Grants", layout="wide")
 
 # ── Load data ──────────────────────────────────────────────────────────────────
-@st.cache_data
+GRANTS_URL = "https://raw.githubusercontent.com/mf-rug/nwo-grants/main/grants.json"
+
+@st.cache_data(ttl=3600)
 def load_grants():
-    with open(Path(__file__).parent / "grants.json") as f:
-        return json.load(f)
+    r = requests.get(GRANTS_URL, timeout=15)
+    r.raise_for_status()
+    return r.json()
 
 grants = load_grants()
 
