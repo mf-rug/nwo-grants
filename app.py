@@ -10,7 +10,7 @@ st.set_page_config(page_title="NWO Grants", layout="wide")
 # ── Load data ──────────────────────────────────────────────────────────────────
 GRANTS_URL = "https://raw.githubusercontent.com/mf-rug/nwo-grants/main/grants.json"
 
-@st.cache_data(ttl=60)
+@st.cache_data(ttl=3600)
 def load_grants():
     r = requests.get(GRANTS_URL, timeout=15)
     r.raise_for_status()
