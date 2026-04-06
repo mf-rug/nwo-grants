@@ -1,472 +1,5 @@
 [
   {
-    "id": "tulip-fund",
-    "url": "https://www.nwo.nl/en/calls/tulip-fund",
-    "title": "Tulip Fund",
-    "status": "open",
-    "status_raw": "Open calls Continuous",
-    "budget": "€50,000,000",
-    "finance_type": "",
-    "programme": "Tulip Fund",
-    "target_groups": "",
-    "deadline_iso": "2026-03-31T14:00:00",
-    "deadline_dates": [
-      "2026-03-31T14:00:00"
-    ],
-    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20Proposals%20Tulp%20Fonds_EN%20%282%29.pdf",
-    "pdf_urls": [
-      "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20Proposals%20Tulp%20Fonds_EN%20%282%29.pdf"
-    ],
-    "characteristics": {
-      "Status": "Open calls Continuous",
-      "Budget": "€50,000,000",
-      "Research programme": "Tulip Fund"
-    },
-    "sections": {
-      "purpose": {
-        "title": "Purpose",
-        "text": "The objective of this fund is to enable research organisations to recruit top researchers and top talents from abroad who want to continue their research in the Netherlands due to growing threats to academic freedom. This will both boost and reinforce the Netherlands’ position at the forefront of international scientific research. The research carried out by these researchers will lead to scientific and social strengthening of the Netherlands and Europe. The research may be fundamental, applied or practice-oriented. There are no restrictions on the content."
-      },
-      "who_can_apply": {
-        "title": "Who can apply",
-        "text": "Each of the research organisations in the Netherlands listed below may nominate a maximum of two candidates for each position via their board, for funding amounts of up to €1,000,000: public and private universities and the Open University; university medical centres; NWOi on behalf of NWO institutes (jointly); KNAW on behalf of institutes affiliated with KNAW (jointly). Each of the research organisations listed below may nominate a maximum of one candidate for each position via their board, for funding amounts of up to €1,000,000: Netherlands Cancer Institute; NCB Naturalis (Naturalis Biodiversity Center). The Netherlands Association of Universities of Applied Sciences can jointly nominate candidates for up to four positions, for funding amounts of up to €500,000. The boards of the research institutions should confirm the nomination by means of the required letter of submission. The technical submission in ISAAC should be made by a board member of the board of the nominating research organization, or a person mendated by this member. This person is the first point of contact for the programme."
-      },
-      "what_to_apply_for": {
-        "title": "What to apply for",
-        "text": "A maximum of €1,000,000 in funding is available to the research organisation for each researcher; a maximum of €500,000 in funding is available to the research organisation for each researcher nominated by the Netherlands Association of Universities of Applied Sciences. The funding must be spent in five years. The funding must be used for the benefit of science in the Netherlands. The researcher enjoys broad freedom of spending, such as on personnel (scientific and non-scientific), equipment, investments, travel and accommodation expenses, knowledge utilization)."
-      },
-      "when_to_apply": {
-        "title": "When to apply",
-        "text": "The deadline for submitting nominations is provisionally set at 31 March 2026, 14:00:00 CEST . Submissions are accepted continuously."
-      },
-      "assessment": {
-        "title": "Assessment",
-        "text": "Criteria It should be clear from the nomination that the researcher fits within the defined target group. A top researcher is an established researcher (conducting fundamental, applied or practice-oriented research) at the stage of consolidation of their own research group. A top talent is a researcher who is ready to establish a research group or expand a recently established research group. It should be clear from the nomination that the researcher’s planned research activities are aligned with relevant strategic knowledge agendas in the Netherlands and/or the EU such as – but not confined to – strategic priorities of research organisations, NWA or KIC. Procedure The nomination procedure consists of the following steps: submission of the nomination; admissibility check of the nomination; assessment of the assessment committee; meeting of the assessment committee; rebuttal in case of a negative recommendation; decision making. For this fund, an external, independent assessment committee will be installed, consisting of representatives from science with knowledge of diverse academic fields. The task given to this assessment committee is to assess the submitted nominations and thereto pertaining documents, in light of its individual merits, based on the assessment criteria outlined in the Call for proposals."
-      },
-      "more_information": {
-        "title": "More information",
-        "text": "It is mandatory to write your nomination in English. More information can be found in the Call for proposals."
-      },
-      "write_nomination": {
-        "title": "Write nomination",
-        "text": "To write your proposal, you make use of the nomination form. This form can be downloaded from ISAAC or this webpage. The nomination form consists of (among others): A description of the quality of the researcher and their projected contribution to Dutch/European science (max. 3 pages); A description of the researcher’s 10 most important key outputs (max. 1000 words); The researcher’s CV (max. 4 pages). Furthermore, you are required to attach a letter of submission of the board of the nominating research institute. If applicable, in this letter a mandate can be given to another person to serve as the first point of contact for the nomination. Both the nomination and the letter of submission need to be written in English and make use of the NWO-supplied forms."
-      }
-    },
-    "downloads": [
-      {
-        "name": "Tulip Fund | call for proposals",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20Proposals%20Tulp%20Fonds_EN%20%282%29.pdf",
-        "type": "pdf",
-        "size": "511.22 KB"
-      },
-      {
-        "name": "Tulip Fund | letter of submission",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Aanbiedingsbrief_EN.docx",
-        "type": "docx",
-        "size": "76.14 KB"
-      },
-      {
-        "name": "Tulip Fund | nomination form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/NWO%20Tulip%20fund%20nomination%20form%202025_final_1_0.docx",
-        "type": "docx",
-        "size": "102.23 KB"
-      }
-    ],
-    "contacts": [
-      {
-        "name": "Dr. Nadine Mascini",
-        "phone": "+31 (0)70 3494713",
-        "email": "tulp@nwo.nl"
-      },
-      {
-        "name": "Dr Tessa de Boer",
-        "role": "Programme/ policy officer",
-        "phone": "+31 (0)70 3494451",
-        "email": "tulp@nwo.nl"
-      }
-    ]
-  },
-  {
-    "id": "weave-with-nwo-as-partner-agency-2025--2026",
-    "url": "https://www.nwo.nl/en/calls/weave-with-nwo-as-partner-agency-2025/2026",
-    "title": "Weave with NWO as partner agency 2025/2026",
-    "status": "open",
-    "status_raw": "Open calls Continuous",
-    "budget": "€13,000,000",
-    "finance_type": "Curiosity Driven Research",
-    "programme": "",
-    "target_groups": "International Collaboration",
-    "deadline_iso": "2026-04-01T17:00:00",
-    "deadline_dates": [
-      "2025-08-07T23:59:00",
-      "2026-04-01T17:00:00",
-      "2026-04-21T14:00:00",
-      "2026-07-31T23:59:00"
-    ],
-    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2025-26_EN%20%282%29.pdf",
-    "pdf_urls": [
-      "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2025-26_EN%20%282%29.pdf"
-    ],
-    "characteristics": {
-      "Status": "Open calls Continuous",
-      "Finance type": "Curiosity Driven Research",
-      "For specific groups": "International Collaboration",
-      "Budget": "€13,000,000"
-    },
-    "sections": {
-      "purpose": {
-        "title": "Purpose",
-        "text": "As part of the Open Competition ENW-M, researchers from the Netherlands can be involved in a bilateral research proposal that is submitted to DFG, FNR or FWO. Together with partners from Germany, Luxembourg or Flanders they can submit a Weave proposal. This foreign research funder will act as lead agency and is responsible for the scientific evaluation. In such case, NWO will acts as partner agency. The bilateral application and the foreign researchers must meet the conditions of the funding instrument designated by DFG, FNR or FWO. The applicant from the Netherlands and the Dutch part of the requested budget must meet the conditions of the call OC ENW-M (the Dutch designated funding instrument). Note! For Weave applications in which the Dutch applicant acts as main applicant, NOW will act as the lead agency. In such cases, the application should be submitted as an ENW-M-1-Weave application via https://www.nwo.nl/en/calls/open-competition-domain-science-m-2025/2026 ."
-      },
-      "who_can_apply": {
-        "title": "Who can apply",
-        "text": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. An additional condition is a.o. that a main or co-applicant may only submit an ENW-M proposal, including a Weave proposal, regardless of whether NWO or DFG/FNR/FWO is lead agency, for substantive consideration once every twelve months. For a description of this and other conditions, please refer to the Call for Proposals OC ENW-M, round 2025-2026 (Annex 7.4)."
-      },
-      "what_to_apply_for": {
-        "title": "What to apply for",
-        "text": "In a Weave proposal, the NWO side may apply for the equivalent of an ENW-M-1 proposal. This means that a maximum of one Dutch applicant and that a maximum of €400,000 may be applied for, from which one temporary scientific position (PhD student (not possible in case of a Weave proposal with DFG*) or postdoc) will be funded in combination with the other available budget modules. The module for Money follows Cooperation is not available in this funding form. Only apply for what is essential to carry out the project."
-      },
-      "when_to_apply": {
-        "title": "When to apply",
-        "text": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 7 August 2025 to 31 July 2026 . If a proposal is submitted to DFG, the deadline for submitting the administrative submission to NWO is five working days after submission to DFG, at 14:00:00 CE(S)T. The deadline for submitting applications with FNR as lead agency and NWO as partner agency follows the deadline of the FNR CORE Programme. The deadline for submitting applications with FNR as lead agency and NWO as partner agency is 21 April 2026, at 14:00:00 CEST. If a proposal is submitted to FNR, the deadline for submitting the administrative submission to NWO is five working days after submission to FNR, at 14:00:00 CE(S)T. The deadline for submitting applications with FWO as lead agency and NWO as partner agency is 1 April 2026, at 17:00:00 CEST. If an application is submitted to FWO, the deadline for submitting the administrative submission to NWO is five working days after submission to FWO, at 14:00:00 CE(S)T."
-      },
-      "assessment": {
-        "title": "Assessment",
-        "text": "Criteria The lead agency assessment procedure is followed, as set out in the designated Weave funding channels at the respective lead agencies. NWO has no further role in the assessment. Procedure The foreign lead agency submits the advice of their assessment committee to the NWO domain Science board. The domain Science board decides whether to accept or reject the Dutch part of the proposal. It follows from the agreed Weave principles that Weave applications submitted abroad must be among the top 20% of proposals to be eligible for allocation. Funding a Weave proposal is only possible if the foreign lead agency and NWO as partner agency reach the same decision. If the lead agency rejects the proposal, the domain Science board will also reject the proposal."
-      },
-      "more_information": {
-        "title": "More information",
-        "text": "For this Call for proposals, your Weave proposal must fit within the Science domain and be submitted to one of the selected review boards (DFG)/ research areas (FNR)/ expert panels (FWO). If in doubt about the suitability of the content, you are advised to contact the programme's contact person at NWO, DFG, FNR or FWO well before the deadline. This person can advise you on the substantive fit of your application to this call. Contact persons at partners DFG: Michael Sommerhof, phone +49 228 885-2017, michael.sommerhof@dfg.de FNR: Dr. Helena Burg Phone: +352 691 362 812 Helena.burg@fnr.lu FWO: weave@fwo.be more information about Weave"
-      },
-      "write_proposal": {
-        "title": "Voorstel schrijven",
-        "text": "The proposal should be drafted according to the terms and conditions of DFG, FNR or FWO, respectively. For DFG, see www.dfg.de/en/news/news-topics/announcements-proposals/2024/ifr-24-64 There is currently no web page with instructions available for preparing and submitting the application to FNR and FWO. We recommend you to keep an eye on the general Weave page on the FNR and FWO website. For FNR, see www.fnr.lu/international-cooperation/weave/ For FWO, see www.fwo.be/en/support-programmes/international-projects/"
-      },
-      "fill_in_forms": {
-        "title": "Fill in forms",
-        "text": "The lead applicant from Germany, Luxembourg or Flanders submits the joint proposal to DFG, FNR or FWO according to the terms and conditions of DFG, FNR or FWO. To prepare the administrative submission to NWO, the Dutch co-applicant goes through the following steps: submits the original application as submitted to DFG, FNR or FWO, saved as pdf, with the attachments required at NWO in ISAAC; enters data requested online in ISAAC;"
-      }
-    },
-    "downloads": [
-      {
-        "name": "Weave with NWO as partner agency 2025/2026 | call for proposals",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2025-26_EN%20%282%29.pdf",
-        "type": "pdf",
-        "size": "731.51 KB"
-      },
-      {
-        "name": "Weave with NWO as partner agency 2025/2026 | budget table",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget-Table-OC-ENW-M-2025_2026_Weave.xlsx",
-        "type": "xlsx",
-        "size": "236.73 KB"
-      },
-      {
-        "name": "Weave with NWO as partner agency 2025/2026 | weave NWO partner form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Weave%20NWO%20partner%20form_def_0.docx",
-        "type": "docx",
-        "size": "57.04 KB"
-      },
-      {
-        "name": "Weave with NWO as partner agency 2025/2026 | oc m weave partner checklist",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/OC%20M%20Weave%20partner%20checklist%20-%20EN_def_0.docx",
-        "type": "docx",
-        "size": "24.8 KB"
-      },
-      {
-        "name": "Weave with NWO as partner agency 2025/2026 | template letter statement appointment and project guidance",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Template%20Letter%20Statement%20Appointment%20and%20Project%20Guidance_v3_0.docx",
-        "type": "docx",
-        "size": "28.69 KB"
-      }
-    ],
-    "contacts": [
-      {
-        "name": "Julia Bakx (ENW-M)",
-        "role": "Programme Officer",
-        "phone": "+31703494116",
-        "email": "enw-m@nwo.nl"
-      },
-      {
-        "name": "dr. Marjolein Bulk",
-        "role": "Programme Officer",
-        "phone": "+31 (0)70 3440763",
-        "email": "enw-m@nwo.nl"
-      },
-      {
-        "name": "Dr. Olivia Muthsam (ENW Open Competition-M)",
-        "role": "Programme officer",
-        "phone": "+31703494399",
-        "email": "enw-m@nwo.nl"
-      }
-    ]
-  },
-  {
-    "id": "kic-robust-and-resilient-space-infrastructure-for-a-secure-netherlands",
-    "url": "https://www.nwo.nl/en/calls/kic-robust-and-resilient-space-infrastructure-for-a-secure-netherlands",
-    "title": "KIC Robust and resilient space infrastructure for a secure Netherlands",
-    "status": "open",
-    "status_raw": "Open calls Open for applications",
-    "budget": "€7,000,000",
-    "finance_type": "",
-    "programme": "Knowledge and Innovation Covenant Mission 2024-2027 Robust and resilient space infrastructure for a safe Netherlands",
-    "target_groups": "",
-    "deadline_iso": "2026-04-02T12:00:00Z",
-    "deadline_dates": [
-      "2026-03-19T23:59:00",
-      "2026-04-02T12:00:00Z",
-      "2026-04-02T23:59:00"
-    ],
-    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/1-CfP-Robust-and-resilient-space-infrastructure-for-a-secure-Netherlands_ENG2.pdf",
-    "pdf_urls": [
-      "https://www.nwo.nl/sites/nwo/files/media-files/1-CfP-Robust-and-resilient-space-infrastructure-for-a-secure-Netherlands_ENG2.pdf"
-    ],
-    "characteristics": {
-      "Status": "Open calls Open for applications",
-      "Closing date full application": {
-        "display": "2 April 2026",
-        "iso": [
-          "2026-04-02T12:00:00Z"
-        ]
-      },
-      "Budget": "€7,000,000",
-      "Research programme": "Knowledge and Innovation Covenant Mission 2024-2027 Robust and resilient space infrastructure for a safe Netherlands"
-    },
-    "sections": {
-      "purpose": {
-        "title": "Purpose",
-        "text": "Space infrastructure is essential for communication, remote sensing, positioning, and time information, but it is also vulnerable to sabotage, espionage, and collisions with space debris from decommissioned or non-functioning satellites, as well as to natural disruptions. To strengthen the resilience of space infrastructure, it is important that the Dutch research community, industry, and government are well prepared and protect this infrastructure through innovative technologies, based on solid legal, ethical, and strategic security frameworks. This Call for proposals focuses on strengthening a robust and resilient space infrastructure for a secure Netherlands. This Call for proposals specifically invites research proposals addressing the following themes: Critical technologies to enhance the resilience and protection of space infrastructure (consortia are required to address this aspect in their proposal). Associated legal, ethical, and strategic security frameworks (consortia must explicitly describe in their proposal how these frameworks are integrated into the design, implementation, and application of their research)."
-      },
-      "who_can_apply": {
-        "title": "Who can apply",
-        "text": "Proposals are submitted by the main applicant and one or more co-applicants. A proposal is written by a consortium in which besides the applicants other participants are involved as well. Four categories of participants can be distinguished in the consortium: Main applicant Co-applicant(s) Co-funder(s) Cooperation partner(s) A consortium must consist of at least one main applicant, one co-applicant, and two co-funders, possibly supplemented by one or more cooperation partners. The conditions for each participant are explained in more detail in the following sections. All consortium partners must play an active role in formulating the research questions and in the design and implementation of the project."
-      },
-      "consortium_building": {
-        "title": "Consortium building",
-        "text": "At 4th of February 2026, NWO will organize a matchmaking event for this Call for Proposals. Participation in this event is recommended but not mandatory."
-      },
-      "what_to_apply_for": {
-        "title": "What to apply for",
-        "text": "For a proposal submitted in this Call for proposals, applicants can request a minimum of €1.000,000 and a maximum of €2,000,000 in NWO funding. NWO will fund up to 80% of the total project budget; the remaining portion must be covered through mandatory co-funding (see section 3.5.6). NWO will never fund less than 50% of the total project budget. Applicants and co-applicants may include costs for personnel, materials, investments, knowledge utilization, and project management."
-      },
-      "when_to_apply": {
-        "title": "When to apply",
-        "text": "The deadline for submitting proposals is 2 April 2026 , before 14:00:00 CEST. The deadline for submitting a request for the assessment of foreign organizations (see section 7.1.1) is 19 March 2026 , before 14:00:00 CEST."
-      },
-      "assessment": {
-        "title": "Assessment",
-        "text": "Criteria The pre-proposals submitted within this Call for proposals will be substantially assessed on the basis of the following criteria: Problem definition and analysis (20%) Envisaged impact and route to impact (20%) Quality of the consortium (30%) Quality of the research (30%) Procedure The application procedure consists of the following steps: submission research idea (not obligatory) matchmaking; submission of the proposal; admissibility of the proposal; peer review by referees; rebuttal; pre-advice assessment committee; interview selection; interview; assessment committee meeting; decision-making. An external, independent assessment committee will be assigned for this Call for proposals, consisting of representatives from the research field and society with knowledge of (partial aspects of) the topic."
-      },
-      "write_proposal": {
-        "title": "Write proposal",
-        "text": "These conditions are: the main applicant and co-applicant(s) meet the conditions stated in Section 3.1 and Section 7.1.1; the applying consortium contains two or more co-funders; the application complies with the DORA guidelines as described in Section 4.1; the application is submitted via the main applicant’s ISAAC account; the application is received before the deadline; the application is written in English; the proposed project has a duration of at most 6 years; all of the required annexes and forms are, after a possible request to make additions or changes, have been completed and submitted completely and according to the instructions and in accordance with the terms of this Call for proposals. the budget in the application has been prepared according to the terms of this Call for proposals (using the format made available which includes the most recent rates); the required co-financing has been correctly and fully committed through co-financing statements."
-      },
-      "fill_in_forms": {
-        "title": "Fill in forms",
-        "text": "Compulsory annexes: budget form; declarations co-funding from co-funders (see Section 3.1.2 and 3.5.6); form ‘Statement and signature’; letter guaranteeing the continuity of project supervision (if applicable, see Section 3.1 of the Call for Proposals ); confirmation of own contribution to investments (only if applicable, see section 7.1 of the Call for Proposals); Knowledge security statement. The proposal and the appendix(es) must be drawn up in accordance with the template provided by NWO. Annexes must be uploaded in ISAAC separately from the application. All of the annexes, except for the budget, must be submitted as PDF files (without encryption). The budget must be submitted in ISAAC as an Excel file. When submitting the proposal, the attached declarations co-funding should guarantee the full required amount of co-funding in line with the conditions of Section 3.5.6. Any annexes other than those above-mentioned are not permitted."
-      }
-    },
-    "downloads": [
-      {
-        "name": "Robust and resilient space infrastructure for a secure Netherlands | call for proposals",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/1-CfP-Robust-and-resilient-space-infrastructure-for-a-secure-Netherlands_ENG2.pdf",
-        "type": "pdf",
-        "size": "546.16 KB"
-      },
-      {
-        "name": "Robust and resilient space infrastructure for a secure Netherlands | application form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/2-Application-form-Robust-and-resilient-space-infrastructure-for-a-safe-Netherlands_ENG.docx",
-        "type": "docx",
-        "size": "135.69 KB"
-      },
-      {
-        "name": "Robust and resilient space infrastructure for a secure Netherlands | budget form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/3-Budget-form-Robust-and-resilient-space-infrastructure-for-a-secure-Netherlands_ENG.xlsx",
-        "type": "xlsx",
-        "size": "381.4 KB"
-      },
-      {
-        "name": "Robust and resilient space infrastructure for a secure Netherlands | declaration co-funding",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/4-Declaration-co-funding_ENG.docx",
-        "type": "docx",
-        "size": "148.08 KB"
-      },
-      {
-        "name": "Robust and resilient space infrastructure for a secure Netherlands | statement appointment and project supervision",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/5-Statement_appointment_and_project_supervision_ENG.docx",
-        "type": "docx",
-        "size": "24.2 KB"
-      },
-      {
-        "name": "Robust and resilient space infrastructure for a secure Netherlands | form statements and signature",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/6-Form-Statements-and-signature_ENG.docx",
-        "type": "docx",
-        "size": "53.81 KB"
-      },
-      {
-        "name": "Robust and resilient space infrastructure for a secure Netherlands | declaration knowledge security",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/7-Declaration-Knowledge-Security_ENG.docx",
-        "type": "docx",
-        "size": "134.01 KB"
-      },
-      {
-        "name": "RRobust and resilient space infrastructure for a secure Netherlands | declaration research organisation",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/otp_2026_declaration_research_organisation_0.docx",
-        "type": "docx",
-        "size": "141.34 KB"
-      }
-    ],
-    "contacts": [
-      {
-        "name": "Elvin 't Hart",
-        "role": "Programme officer",
-        "phone": "+31 6 30410823",
-        "email": "KIC-Space2025@nwo.nl"
-      },
-      {
-        "name": "Daniël Muller",
-        "role": "Policy officer",
-        "phone": "+31 6 44219805",
-        "email": "kic-space2025@nwo.nl"
-      }
-    ]
-  },
-  {
-    "id": "kic-ai-for-agriculture-horticulture-water-and-food-2026",
-    "url": "https://www.nwo.nl/en/calls/kic-ai-for-agriculture-horticulture-water-and-food-2026",
-    "title": "KIC AI for agriculture, horticulture, water and food 2026",
-    "status": "open",
-    "status_raw": "Open calls Open for letter of intent",
-    "budget": "€7,000,000",
-    "finance_type": "Collaboration with Partners",
-    "programme": "Knowledge and Innovation Covenant AI for agriculture, horticulture, water and food 2026 KIC - Missie 24/27 - KIC 2024-2027",
-    "target_groups": "Interdisciplinary Collaboration Collaboration with social partners Applied Sciences Research Collaboration with Industry",
-    "deadline_iso": "2026-04-02T23:59:00",
-    "deadline_dates": [
-      "2026-04-02T23:59:00",
-      "2026-06-30T12:00:00Z",
-      "2026-06-30T23:59:00",
-      "2026-09-29T23:59:00",
-      "2026-10-13T12:00:00Z",
-      "2026-10-13T23:59:00"
-    ],
-    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/KIC-AI-for-agriculture-horticulture-water-and-food_2026_Call-for-Proposals_EN.pdf",
-    "pdf_urls": [
-      "https://www.nwo.nl/sites/nwo/files/media-files/KIC-AI-for-agriculture-horticulture-water-and-food_2026_Call-for-Proposals_EN.pdf"
-    ],
-    "characteristics": {
-      "Status": "Open calls Open for letter of intent",
-      "Closing date for letter of intent": {
-        "display": "30 June 2026",
-        "iso": [
-          "2026-06-30T12:00:00Z"
-        ]
-      },
-      "Closing date full application": {
-        "display": "13 October 2026",
-        "iso": [
-          "2026-10-13T12:00:00Z"
-        ]
-      },
-      "Finance type": "Collaboration with Partners",
-      "For specific groups": "Interdisciplinary Collaboration Collaboration with social partners Applied Sciences Research Collaboration with Industry",
-      "Budget": "€7,000,000",
-      "Research programme": "Knowledge and Innovation Covenant AI for agriculture, horticulture, water and food 2026 KIC - Missie 24/27 - KIC 2024-2027",
-      "Themes": "Biodiversity Circulaire economie Sustainability Energy Health Artificial Intelligence Key Technologies Food Water"
-    },
-    "sections": {
-      "purpose": {
-        "title": "Purpose",
-        "text": "The aim of this research programme is to develop, apply, and expand AI methods that can contribute to finding solutions to urgent societal challenges within the agriculture, horticulture, water, and food sectors. AI technology can support these sectors, for example in improving and making production in agriculture and horticulture more sustainable, improving water management, allocation, and safety, and ensuring a healthy, nutritious, and safe food supply. The focus of research proposals within this programme can vary from the application and further development of existing AI algorithms to demonstrating a proof-of-principle that is relevant to the agriculture, horticulture, water, and food sectors. This programme also emphasizes the importance of considering relevant societal aspects and involving relevant stakeholders and end users."
-      },
-      "who_can_apply": {
-        "title": "Who can apply",
-        "text": "Proposals are submitted by the main applicant and one or more co-applicants. Researchers may submit an application if they have a tenured position (and therefore a paid position for an indefinite period*) or a tenure track agreement at a research organisation. A proposal is written by a consortium in which besides the applicants two or more co-funders, and potentially one or more cooperation partners, are involved as well. All consortiumpartners should play an active role in the formulation of the research questions and in the design and implementation of the project. For more information: see section in the Call for Proposals."
-      },
-      "consortium_building": {
-        "title": "Consortium building",
-        "text": "In the period prior to the deadline for submitting the proposal, NWO facilitates a matchmaking event for this Call for proposals. Participation to this event is strongly recommended but is not compulsory to submitting an application. The matchmaking events in the KIC aim to bring together and connect researchers from different scientific disciplines and persons from societal organisations and companies."
-      },
-      "what_to_apply_for": {
-        "title": "What to apply for",
-        "text": "The budget for this research programme is 7 million euro. NWO will fund each project within this programme with a minimum of 600,000 and a maximum of 1,840,000 euro. With this, NWO finances maximally 80% of the total project budget; the rest of the funding must be contributed by the compulsory co-funding (in kind and/or in cash). Successful projects will have a maximum duration of six years."
-      },
-      "when_to_apply": {
-        "title": "When to apply",
-        "text": "The matchmaking event will take place on 2 April 2026 . The deadline for submitting a statement of intent 30 June 2026. The deadline for submitting a full proposal is 13 October 2026 . The deadline for a request to review foreign organisations is 29 September 2026 ."
-      },
-      "assessment": {
-        "title": "Assessment",
-        "text": "Criteria The full proposal is assessed on the basis of four criteria: Problem definition and analysis (20%), Envisaged impact and route to impact (20%), Quality of the consortium (30%), Quality of the research (30%). Procedure After submitting a proposal it is first assessed by referees. The applicant will be given the opportunity to write a rebuttal on the reports of the referees. On the basis of the proposal, the referee reports, and the rebuttal the assessment committee selects consortia for an interview. After the interview, the assessment committee advices NWO on the ranking of the research proposal."
-      },
-      "write_proposal": {
-        "title": "Write proposal",
-        "text": "The application should indicate how the proposed research answers the Call for proposals, which societal problem/challenge the project addresses, as well as what the goals, hypotheses, research methods and scientific feasibility of the project are. Also, in the proposal needs to be described how the consortium is built up, and how the research is carried out to aid in the application of the research results. The Impact Plan approach needs to be applied and described in the proposal."
-      },
-      "fill_in_forms": {
-        "title": "Fill in forms",
-        "text": "In this program, obligatory annexes to a research proposal are: budget; declaration of cofunding; a ‘statements and signature’ form. If applicable, a guarantee for continuity in the project management (see section 3.1 in the call for proposals)."
-      }
-    },
-    "downloads": [
-      {
-        "name": "KIC AI for agriculture, horticulture, water and food | call for proposals",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/KIC-AI-for-agriculture-horticulture-water-and-food_2026_Call-for-Proposals_EN.pdf",
-        "type": "pdf",
-        "size": "830.65 KB"
-      },
-      {
-        "name": "KIC AI for agriculture, horticulture, water and food | application form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/aanvraagformulier_kic_ai_in_lhwv_2026.docx",
-        "type": "docx",
-        "size": "135.76 KB"
-      },
-      {
-        "name": "KIC AI for agriculture, horticulture, water and food | declaration co-funding",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Declaration-co-funding_KIC_v5.docx",
-        "type": "docx",
-        "size": "148.7 KB"
-      },
-      {
-        "name": "KIC AI for agriculture, horticulture, water and food | declaration research organisation",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Declaration-Research-Organisations-v4-2.docx",
-        "type": "docx",
-        "size": "138.25 KB"
-      },
-      {
-        "name": "KIC AI for agriculture, horticulture, water and food | statement appointment and project supervision",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Statement_appointment_and_project_supervision_v2_0.docx",
-        "type": "docx",
-        "size": "24.2 KB"
-      },
-      {
-        "name": "KIC AI for agriculture, horticulture, water and food 2026 | statements & signature form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/formulier_statements_and_signature_kic_ai_in_lhwv_2026.docx",
-        "type": "docx",
-        "size": "67.5 KB"
-      }
-    ],
-    "contacts": [
-      {
-        "name": "Lies Zandberg",
-        "role": "Programme-/ policy officer",
-        "phone": "+31 6 44396998",
-        "email": "kic-ai-lhwv@NWO.NL"
-      },
-      {
-        "name": "Tijmen van Butselaar",
-        "role": "Programme Officer",
-        "phone": "+31 (0)30 6001280",
-        "email": "kic-ai-lhwv@NWO.NL"
-      },
-      {
-        "name": "Dr. Maarten Moes",
-        "role": "Programme Officer",
-        "phone": "+31 (0)30 2594069",
-        "email": "m.moes@nwo.nl"
-      }
-    ]
-  },
-  {
     "id": "praktijkkennis-voor-voedsel-en-groen-thematische-vraagstukken-indieningsronde-april-2026",
     "url": "https://www.nwo.nl/en/calls/praktijkkennis-voor-voedsel-en-groen-thematische-vraagstukken-indieningsronde-april-2026",
     "title": "Praktijkkennis voor Voedsel en Groen: Thematische vraagstukken, indieningsronde april 2026",
@@ -2453,6 +1986,120 @@
     ]
   },
   {
+    "id": "weave-with-nwo-as-partner-agency-2025--2026",
+    "url": "https://www.nwo.nl/en/calls/weave-with-nwo-as-partner-agency-2025/2026",
+    "title": "Weave with NWO as partner agency 2025/2026",
+    "status": "open",
+    "status_raw": "Open calls Continuous",
+    "budget": "€13,000,000",
+    "finance_type": "Curiosity Driven Research",
+    "programme": "",
+    "target_groups": "International Collaboration",
+    "deadline_iso": "2026-04-21T14:00:00",
+    "deadline_dates": [
+      "2025-08-07T23:59:00",
+      "2026-04-01T17:00:00",
+      "2026-04-21T14:00:00",
+      "2026-07-31T23:59:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2025-26_EN%20%282%29.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2025-26_EN%20%282%29.pdf"
+    ],
+    "characteristics": {
+      "Status": "Open calls Continuous",
+      "Finance type": "Curiosity Driven Research",
+      "For specific groups": "International Collaboration",
+      "Budget": "€13,000,000"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "As part of the Open Competition ENW-M, researchers from the Netherlands can be involved in a bilateral research proposal that is submitted to DFG, FNR or FWO. Together with partners from Germany, Luxembourg or Flanders they can submit a Weave proposal. This foreign research funder will act as lead agency and is responsible for the scientific evaluation. In such case, NWO will acts as partner agency. The bilateral application and the foreign researchers must meet the conditions of the funding instrument designated by DFG, FNR or FWO. The applicant from the Netherlands and the Dutch part of the requested budget must meet the conditions of the call OC ENW-M (the Dutch designated funding instrument). Note! For Weave applications in which the Dutch applicant acts as main applicant, NOW will act as the lead agency. In such cases, the application should be submitted as an ENW-M-1-Weave application via https://www.nwo.nl/en/calls/open-competition-domain-science-m-2025/2026 ."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. An additional condition is a.o. that a main or co-applicant may only submit an ENW-M proposal, including a Weave proposal, regardless of whether NWO or DFG/FNR/FWO is lead agency, for substantive consideration once every twelve months. For a description of this and other conditions, please refer to the Call for Proposals OC ENW-M, round 2025-2026 (Annex 7.4)."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "In a Weave proposal, the NWO side may apply for the equivalent of an ENW-M-1 proposal. This means that a maximum of one Dutch applicant and that a maximum of €400,000 may be applied for, from which one temporary scientific position (PhD student (not possible in case of a Weave proposal with DFG*) or postdoc) will be funded in combination with the other available budget modules. The module for Money follows Cooperation is not available in this funding form. Only apply for what is essential to carry out the project."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 7 August 2025 to 31 July 2026 . If a proposal is submitted to DFG, the deadline for submitting the administrative submission to NWO is five working days after submission to DFG, at 14:00:00 CE(S)T. The deadline for submitting applications with FNR as lead agency and NWO as partner agency follows the deadline of the FNR CORE Programme. The deadline for submitting applications with FNR as lead agency and NWO as partner agency is 21 April 2026, at 14:00:00 CEST. If a proposal is submitted to FNR, the deadline for submitting the administrative submission to NWO is five working days after submission to FNR, at 14:00:00 CE(S)T. The deadline for submitting applications with FWO as lead agency and NWO as partner agency is 1 April 2026, at 17:00:00 CEST. If an application is submitted to FWO, the deadline for submitting the administrative submission to NWO is five working days after submission to FWO, at 14:00:00 CE(S)T."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The lead agency assessment procedure is followed, as set out in the designated Weave funding channels at the respective lead agencies. NWO has no further role in the assessment. Procedure The foreign lead agency submits the advice of their assessment committee to the NWO domain Science board. The domain Science board decides whether to accept or reject the Dutch part of the proposal. It follows from the agreed Weave principles that Weave applications submitted abroad must be among the top 20% of proposals to be eligible for allocation. Funding a Weave proposal is only possible if the foreign lead agency and NWO as partner agency reach the same decision. If the lead agency rejects the proposal, the domain Science board will also reject the proposal."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "For this Call for proposals, your Weave proposal must fit within the Science domain and be submitted to one of the selected review boards (DFG)/ research areas (FNR)/ expert panels (FWO). If in doubt about the suitability of the content, you are advised to contact the programme's contact person at NWO, DFG, FNR or FWO well before the deadline. This person can advise you on the substantive fit of your application to this call. Contact persons at partners DFG: Michael Sommerhof, phone +49 228 885-2017, michael.sommerhof@dfg.de FNR: Dr. Helena Burg Phone: +352 691 362 812 Helena.burg@fnr.lu FWO: weave@fwo.be more information about Weave"
+      },
+      "write_proposal": {
+        "title": "Voorstel schrijven",
+        "text": "The proposal should be drafted according to the terms and conditions of DFG, FNR or FWO, respectively. For DFG, see www.dfg.de/en/news/news-topics/announcements-proposals/2024/ifr-24-64 There is currently no web page with instructions available for preparing and submitting the application to FNR and FWO. We recommend you to keep an eye on the general Weave page on the FNR and FWO website. For FNR, see www.fnr.lu/international-cooperation/weave/ For FWO, see www.fwo.be/en/support-programmes/international-projects/"
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "The lead applicant from Germany, Luxembourg or Flanders submits the joint proposal to DFG, FNR or FWO according to the terms and conditions of DFG, FNR or FWO. To prepare the administrative submission to NWO, the Dutch co-applicant goes through the following steps: submits the original application as submitted to DFG, FNR or FWO, saved as pdf, with the attachments required at NWO in ISAAC; enters data requested online in ISAAC;"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Weave with NWO as partner agency 2025/2026 | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20proposals%20OC%20ENW-M%20ronde%2025-26_EN%20%282%29.pdf",
+        "type": "pdf",
+        "size": "731.51 KB"
+      },
+      {
+        "name": "Weave with NWO as partner agency 2025/2026 | budget table",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget-Table-OC-ENW-M-2025_2026_Weave.xlsx",
+        "type": "xlsx",
+        "size": "236.73 KB"
+      },
+      {
+        "name": "Weave with NWO as partner agency 2025/2026 | weave NWO partner form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Weave%20NWO%20partner%20form_def_0.docx",
+        "type": "docx",
+        "size": "57.04 KB"
+      },
+      {
+        "name": "Weave with NWO as partner agency 2025/2026 | oc m weave partner checklist",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/OC%20M%20Weave%20partner%20checklist%20-%20EN_def_0.docx",
+        "type": "docx",
+        "size": "24.8 KB"
+      },
+      {
+        "name": "Weave with NWO as partner agency 2025/2026 | template letter statement appointment and project guidance",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Template%20Letter%20Statement%20Appointment%20and%20Project%20Guidance_v3_0.docx",
+        "type": "docx",
+        "size": "28.69 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Julia Bakx (ENW-M)",
+        "role": "Programme Officer",
+        "phone": "+31703494116",
+        "email": "enw-m@nwo.nl"
+      },
+      {
+        "name": "dr. Marjolein Bulk",
+        "role": "Programme Officer",
+        "phone": "+31 (0)70 3440763",
+        "email": "enw-m@nwo.nl"
+      },
+      {
+        "name": "Dr. Olivia Muthsam (ENW Open Competition-M)",
+        "role": "Programme officer",
+        "phone": "+31703494399",
+        "email": "enw-m@nwo.nl"
+      }
+    ]
+  },
+  {
     "id": "driving-urban-transitions-call-2025",
     "url": "https://www.nwo.nl/en/calls/driving-urban-transitions-call-2025",
     "title": "Driving Urban Transitions Call 2025",
@@ -3660,9 +3307,9 @@
       "2026-05-26T12:00:00Z",
       "2026-05-26T23:59:00"
     ],
-    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/foi-2026-call_for_proposals-eng-def.pdf",
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/FoI-2026-Call-for-Proposals-ENG-DEF-UPDATE_0.pdf",
     "pdf_urls": [
-      "https://www.nwo.nl/sites/nwo/files/media-files/foi-2026-call_for_proposals-eng-def.pdf"
+      "https://www.nwo.nl/sites/nwo/files/media-files/FoI-2026-Call-for-Proposals-ENG-DEF-UPDATE_0.pdf"
     ],
     "characteristics": {
       "Status": "Open calls Open for applications",
@@ -3715,9 +3362,9 @@
     "downloads": [
       {
         "name": "Faculty of Impact | call for proposals",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/foi-2026-call_for_proposals-eng-def.pdf",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/FoI-2026-Call-for-Proposals-ENG-DEF-UPDATE_0.pdf",
         "type": "pdf",
-        "size": "448.42 KB"
+        "size": "448.2 KB"
       },
       {
         "name": "Faculty of Impact | application form",
@@ -4216,15 +3863,15 @@
       },
       "who_can_apply": {
         "title": "Who can apply",
-        "text": "This Call for Proposals consists of two phases. In phase 1, consortia submit a pre-application with an idea for a Living Lab. In phase 2, the applicants of the selected pre-applications jointly develop the full application through synergy workshops, which is submitted by a main applicant appointed in phase 2 on behalf of the consortium. There are three categories of participants within a consortium: Lead and co-applicants Collaboration partners Co-financier(s) (not mandatory). The pre-application is submitted by a main applicant on behalf of the consortium. The consortium for a preapplication must consist of at least one main applicant and two co-applicants. The full application is submitted by a main applicant on behalf of the consortium. The consortium for the full proposal must consist of one main applicant, six co-applicants and two collaboration partners per Living Lab. The involvement of co-applicants from foreign institutions is encouraged, in particular from Arctic communities (if the Living Lab is located in an inhabited part of the Arctic). The involvement of researchers from universities of applied sciences is also encouraged. All participants must play an active role in formulating the research questions and in the design and implementation of the project. The conditions for each participant are explained in more detail in Chapter 3 of the Call for Proposals. The early involvement of local rights holders and stakeholders in the Arctic region for Arctic Living Lab ideas is recommended."
+        "text": "This Call for Proposals consists of two phases. In phase 1, consortia submit a pre-application with an idea for a Living Lab. In phase 2, the applicants of the selected pre-proposals jointly develop the full proposal through synergy workshops, which is submitted by a main applicant chosen in phase 2 on behalf of the consortium. There are three categories of participants within a consortium: Lead and co-applicants Collaboration partners Co-financier(s) (not mandatory). The pre-proposal is submitted by a main applicant on behalf of the consortium. The consortium for a pre-proposal must consist of at least one main applicant and two co-applicants. The full proposal is submitted by a main applicant on behalf of the consortium. The consortium for the full proposal must consist of one main applicant, six co-applicants and two cooperation partners per Living Lab. The involvement of co-applicants from foreign institutions is encouraged, in particular from Arctic communities (if the Living Lab is located in an inhabited part of the Arctic). The involvement of researchers from universities of applied sciences is also encouraged. All participants must play an active role in formulating the research questions and in the design and implementation of the project. The conditions for each participant are explained in more detail in Chapter 3 of the Call for Proposals. The early involvement of local rights holders and stakeholders in the Arctic region for Arctic Living Lab ideas is recommended."
       },
       "consortium_building": {
         "title": "Consortium building",
-        "text": "The aim of the matchmaking workshop (2 June 2026) is to bring together potential applicants and their ideas for Living Labs, to stimulate collaboration in broad, innovative consortia and to limit the number of preliminary applications. NWO supports mutual exploration, but ultimately it is up to the parties themselves to decide whether and with whom they want to collaborate. After the workshops, the consortia will further develop the pre-proposals. Participation in the ideas workshop is mandatory for main applicants. After the selection of pre-proposals, five consortia will in principle be invited to the synergy workshops (February-April 2027). The aim of the synergy workshops is to form a new interdisciplinary and transdisciplinary consortium that develops a single proposal based on different areas of knowledge and expertise in order to achieve maximum results and impact. Facilitators hired by NWO will guide the formation of the consortium and the integration of the pre-proposals into a single proposal to be submitted. Participation is mandatory for the main applicant. Local stakeholders should be involved at the earliest possible stage in the process of developing the full application."
+        "text": "The goal of matchmaking (2 June 2026) is to bring together potential applicants, researchers, cooperation partners, and stakeholders from various fields and sectors to exchange ideas for, or needs for, research on the theme and impact described in the Call for proposals. During the one-time matchmaking meeting, participants will have the opportunity to exchange ideas, network, and identify any missing expertise. Participants will be responsible for shaping the next steps based on the matchmaking results. Participation in the matchmaking process is not mandatory After the workshops, the consortia will further develop the pre-proposals. Participation in the ideas workshop is mandatory for main applicants. After the selection of pre-proposals, five consortia will in principle be invited to the synergy workshops (February-April 2027). The aim of the synergy workshops is to form a new interdisciplinary and transdisciplinary consortium that develops a single proposal based on different areas of knowledge and expertise in order to achieve maximum results and impact. Facilitators hired by NWO will guide the formation of the consortium and the integration of the pre-proposals into a single full proposal. Participation is mandatory for the main applicant."
       },
       "what_to_apply_for": {
         "title": "What to apply for",
-        "text": "No subsidy is requested in the preliminary application. To give direction to the structure of the idea, a target amount of €1.5 to €2.7 million can be used. A maximum of €9,606,000 can be requested in the full application in this Call for Proposals. The minimum duration of the project is 6 years. The maximum duration of the project is 8 years. The budget modules available for this Call for Proposals (including the maximum amounts) can be found in section 3.4 of the Call for Proposals."
+        "text": "No subsidy is requested in the preliminary application. To give direction to the structure of the idea, a target amount of €1.5 to €2.7 million can be used. A maximum of € 9,606,000 can be requested in the full application in this Call for Proposals. The minimum duration of the project is 6 years. The maximum duration of the project is 8 years. The budget modules available for this Call for Proposals (including the maximum amounts) can be found in section 3.4 of the Call for Proposals."
       },
       "when_to_apply": {
         "title": "When to apply",
@@ -4232,19 +3879,19 @@
       },
       "assessment": {
         "title": "Assessment",
-        "text": "Criteria For this round, preliminary applications must fit within: Problem definition and analysis (33.33%), Expected impact and route to impact (33.33%), Quality of the consortium (33.34%). For this round, applications must fit within: Problem definition and analysis (20%), Expected impact and route to impact (30%), Quality of the consortium (25%), Quality of the research (25%). Procedure Phase 1 registration for and participation in the matchmaking workshop; submission of the pre-proposal; processing of the pre-proposal; interview selection (if applicable); interview; meeting of the assessment committee; decision on selection or rejection. In principle, five pre-proposals, and thus five ideas for Living Labs, will be selected and invited to develop a full proposal in phase 2. The five consortia will together form one large consortium that will develop two or three Living Labs, at least one of which will be in the North Pole region and one in the South Pole region. Phase 2 participation in synergy workshops; submission of the application; processing of the application; preliminary advice from the assessment committee; opportunity for correction (if applicable); Interview; meeting of the assessment committee; decision-making. Access to the fieldwork facilities of the British Antarctic Survey and the Dirck Gerritsz Lab requires approval of a so-called Pre-Award OSPQ"
+        "text": "Criteria For this round, preliminary applications must fit within: Problem definition and analysis (33.33%), Expected impact and route to impact (33.33%), Quality of the consortium (33.34%). For this round, applications must fit within: Problem definition and analysis (20%), Expected impact and route to impact (30%), Quality of the consortium (25%), Quality of the research (25%). Procedure Phase 1 registration for and participation in the matchmaking workshop; submission of the pre-proposal; processing of the pre-proposal; interview selection (if applicable); interview; meeting of the assessment committee; decision on selection or rejection. In principle, five pre-proposals, and thus five ideas for Living Labs, will be selected and invited to develop a full proposal in phase 2. The five consortia will together form one large consortium that will develop two or three Living Labs, at least one of which will be in the North Pole region and one in the South Pole region. Phase 2 participation in synergy workshops; submission of the application; processing of the application; Interview; meeting of the assessment committee; recovery option (if applicable); decision-making. Access to the fieldwork facilities of the British Antarctic Survey and the Dirck Gerritsz Lab requires approval of a so-called Pre-Award OSPQ"
       },
       "write_proposal": {
         "title": "Write proposal",
-        "text": "Pre-proposal A consortium for a pre-proposal must consist of: a main applicant; at least two co-applicants; together, the lead and co-applicants must represent at least three different Dutch institutions. Collaborative partners and co-funders are not permitted in a pre-application. The research proposal in the pre-application phase focuses on a knowledge chain-wide research idea that takes place in a living lab in the polar region. This proposal must encompass all three interactions between the three planetary crises. Full proposal After three Synergy workshops, for which five pre-registrations will be invited, a joint research proposal will be written that includes at least one Arctic and one Antarctic living lab. The research proposal must cover the entire knowledge chain and there must be sufficient integration for local stakeholders and rights holders. The consortium must consist of: a main applicant; at least six co-applicants; together, the main and co-applicants must represent at least five different Dutch institutions; for each detailed Living Lab in the proposal, at least one applicant from the relevant original pre-registration must be involved in the application as a lead or co-applicant; at least two collaboration partners per detailed Living Lab. new co-applicants who have not previously been involved in a (selected) pre-proposal may participate in the application at the invitation of the main applicants of selected pre-proposals;"
+        "text": "Pre-proposal A consortium for a pre-proposal must consist of: a main applicant; at least two co-applicants; together, the lead and co-applicants must represent at least three different Dutch institutions; the consortium must have an interdisciplinary composition. Collaborative partners and co-funders are not permitted in a pre-application. The research proposal in the pre-application phase focuses on a knowledge chain-wide research idea that takes place in a living lab in the polar region. This proposal must encompass all three interactions between the three planetary crises. Full proposal After three Synergy workshops, for which five pre-registrations will be invited, a joint research proposal will be written that includes at least one Arctic and one Antarctic living lab. The research proposal must cover the entire knowledge chain and there must be sufficient integration for local stakeholders and rights holders. The consortium must consist of: a main applicant; at least six co-applicants; combined, the main and co-applicants need to represent at least five different Dutch organisations; combined, the main and co-applicants must represent each pre-proposal of which the Living Lab is developed in the full proposal; at least two collaboration partners per detailed Living Lab; the consortium must have an interdisciplinary and knowledge-chain-wide composition; The applicants of selected pre-proposals can jointly decide to invite new, not yet involved co-applicants to participate in the proposal."
       },
       "mandatory_consortium_building_activities": {
         "title": "Mandatory consortium-building activities",
-        "text": "In the consortium formation process, only the Synergy Workshops in phase two are mandatory for applicants and co-applicants. The matchmaking workshop in phase 1 is not mandatory, but participation is recommended."
+        "text": "In the consortium formation process, only the Synergy Workshops in phase 2 are mandatory for the main applicant. The matchmaking workshop in phase 1 is not mandatory, but participation is recommended."
       },
       "fill_in_forms": {
         "title": "Fill in forms",
-        "text": "For the pre-application, only the application form and any embedding guarantee, project supervision guarantee and Pre-Award OSPQ are required."
+        "text": "For the pre-application, only the application form and any project supervision guarantee, declaration de-minimis support and Pre-Award OSPQ are required."
       }
     },
     "downloads": [
@@ -5143,6 +4790,56 @@
     ]
   },
   {
+    "id": "raak-public-june-2026",
+    "url": "https://www.nwo.nl/en/calls/raak-public-june-2026",
+    "title": "RAAK-public June 2026",
+    "status": "open",
+    "status_raw": "Open calls Open for applications",
+    "budget": "€7,125,000",
+    "finance_type": "Applied Science",
+    "programme": "RAAK-publiek",
+    "target_groups": "Applied Sciences Research",
+    "deadline_iso": "2026-06-16T12:00:00Z",
+    "deadline_dates": [
+      "2026-06-16T12:00:00Z"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/1-call_for_proposals_raak-publiek_juni_2026.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/1-call_for_proposals_raak-publiek_juni_2026.pdf"
+    ],
+    "characteristics": {
+      "Status": "Open calls Open for applications",
+      "Closing date full application": {
+        "display": "16 June 2026",
+        "iso": [
+          "2026-06-16T12:00:00Z"
+        ]
+      },
+      "Finance type": "Applied Science",
+      "For specific groups": "Applied Sciences Research",
+      "Budget": "€7,125,000",
+      "Research programme": "RAAK-publiek",
+      "Theme": "The Researcher (column)"
+    },
+    "sections": {},
+    "downloads": [
+      {
+        "name": "Download call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/1-call_for_proposals_raak-publiek_juni_2026.pdf",
+        "type": "pdf",
+        "size": null
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Evelien Kooiman-Dijkstra",
+        "role": "Programme Manager",
+        "phone": "+31616073888",
+        "email": "evelien.kooiman@regieorgaan-sia.nl"
+      }
+    ]
+  },
+  {
     "id": "treatments-and-adherence-to-treatment-protocols-oh-treat",
     "url": "https://www.nwo.nl/en/calls/treatments-and-adherence-to-treatment-protocols-oh-treat",
     "title": "Treatments and adherence to treatment protocols (OH-TREAT)",
@@ -5741,6 +5438,142 @@
     ]
   },
   {
+    "id": "kic-ai-for-agriculture-horticulture-water-and-food-2026",
+    "url": "https://www.nwo.nl/en/calls/kic-ai-for-agriculture-horticulture-water-and-food-2026",
+    "title": "KIC AI for agriculture, horticulture, water and food 2026",
+    "status": "open",
+    "status_raw": "Open calls Open for letter of intent",
+    "budget": "€7,000,000",
+    "finance_type": "Collaboration with Partners",
+    "programme": "Knowledge and Innovation Covenant AI for agriculture, horticulture, water and food 2026 KIC - Missie 24/27 - KIC 2024-2027",
+    "target_groups": "Interdisciplinary Collaboration Collaboration with social partners Applied Sciences Research Collaboration with Industry",
+    "deadline_iso": "2026-06-30T12:00:00Z",
+    "deadline_dates": [
+      "2026-04-02T23:59:00",
+      "2026-06-30T12:00:00Z",
+      "2026-06-30T23:59:00",
+      "2026-09-29T23:59:00",
+      "2026-10-13T12:00:00Z",
+      "2026-10-13T23:59:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/KIC-AI-for-agriculture-horticulture-water-and-food_2026_Call-for-Proposals_EN.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/KIC-AI-for-agriculture-horticulture-water-and-food_2026_Call-for-Proposals_EN.pdf"
+    ],
+    "characteristics": {
+      "Status": "Open calls Open for letter of intent",
+      "Closing date for letter of intent": {
+        "display": "30 June 2026",
+        "iso": [
+          "2026-06-30T12:00:00Z"
+        ]
+      },
+      "Closing date full application": {
+        "display": "13 October 2026",
+        "iso": [
+          "2026-10-13T12:00:00Z"
+        ]
+      },
+      "Finance type": "Collaboration with Partners",
+      "For specific groups": "Interdisciplinary Collaboration Collaboration with social partners Applied Sciences Research Collaboration with Industry",
+      "Budget": "€7,000,000",
+      "Research programme": "Knowledge and Innovation Covenant AI for agriculture, horticulture, water and food 2026 KIC - Missie 24/27 - KIC 2024-2027",
+      "Themes": "Biodiversity Circulaire economie Sustainability Energy Health Artificial Intelligence Key Technologies Food Water"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "The aim of this research programme is to develop, apply, and expand AI methods that can contribute to finding solutions to urgent societal challenges within the agriculture, horticulture, water, and food sectors. AI technology can support these sectors, for example in improving and making production in agriculture and horticulture more sustainable, improving water management, allocation, and safety, and ensuring a healthy, nutritious, and safe food supply. The focus of research proposals within this programme can vary from the application and further development of existing AI algorithms to demonstrating a proof-of-principle that is relevant to the agriculture, horticulture, water, and food sectors. This programme also emphasizes the importance of considering relevant societal aspects and involving relevant stakeholders and end users."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Proposals are submitted by the main applicant and one or more co-applicants. Researchers may submit an application if they have a tenured position (and therefore a paid position for an indefinite period*) or a tenure track agreement at a research organisation. A proposal is written by a consortium in which besides the applicants two or more co-funders, and potentially one or more cooperation partners, are involved as well. All consortiumpartners should play an active role in the formulation of the research questions and in the design and implementation of the project. For more information: see section in the Call for Proposals."
+      },
+      "consortium_building": {
+        "title": "Consortium building",
+        "text": "In the period prior to the deadline for submitting the proposal, NWO facilitates a matchmaking event for this Call for proposals. Participation to this event is strongly recommended but is not compulsory to submitting an application. The matchmaking events in the KIC aim to bring together and connect researchers from different scientific disciplines and persons from societal organisations and companies."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "The budget for this research programme is 7 million euro. NWO will fund each project within this programme with a minimum of 600,000 and a maximum of 1,840,000 euro. With this, NWO finances maximally 80% of the total project budget; the rest of the funding must be contributed by the compulsory co-funding (in kind and/or in cash). Successful projects will have a maximum duration of six years."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "The matchmaking event will take place on 2 April 2026 . The deadline for submitting a statement of intent 30 June 2026. The deadline for submitting a full proposal is 13 October 2026 . The deadline for a request to review foreign organisations is 29 September 2026 ."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The full proposal is assessed on the basis of four criteria: Problem definition and analysis (20%), Envisaged impact and route to impact (20%), Quality of the consortium (30%), Quality of the research (30%). Procedure After submitting a proposal it is first assessed by referees. The applicant will be given the opportunity to write a rebuttal on the reports of the referees. On the basis of the proposal, the referee reports, and the rebuttal the assessment committee selects consortia for an interview. After the interview, the assessment committee advices NWO on the ranking of the research proposal."
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "The application should indicate how the proposed research answers the Call for proposals, which societal problem/challenge the project addresses, as well as what the goals, hypotheses, research methods and scientific feasibility of the project are. Also, in the proposal needs to be described how the consortium is built up, and how the research is carried out to aid in the application of the research results. The Impact Plan approach needs to be applied and described in the proposal."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "In this program, obligatory annexes to a research proposal are: budget; declaration of cofunding; a ‘statements and signature’ form. If applicable, a guarantee for continuity in the project management (see section 3.1 in the call for proposals)."
+      }
+    },
+    "downloads": [
+      {
+        "name": "KIC AI for agriculture, horticulture, water and food | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/KIC-AI-for-agriculture-horticulture-water-and-food_2026_Call-for-Proposals_EN.pdf",
+        "type": "pdf",
+        "size": "830.65 KB"
+      },
+      {
+        "name": "KIC AI for agriculture, horticulture, water and food | application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/aanvraagformulier_kic_ai_in_lhwv_2026.docx",
+        "type": "docx",
+        "size": "135.76 KB"
+      },
+      {
+        "name": "KIC AI for agriculture, horticulture, water and food | declaration co-funding",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Declaration-co-funding_KIC_v5.docx",
+        "type": "docx",
+        "size": "148.7 KB"
+      },
+      {
+        "name": "KIC AI for agriculture, horticulture, water and food | declaration research organisation",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Declaration-Research-Organisations-v4-2.docx",
+        "type": "docx",
+        "size": "138.25 KB"
+      },
+      {
+        "name": "KIC AI for agriculture, horticulture, water and food | statement appointment and project supervision",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Statement_appointment_and_project_supervision_v2_0.docx",
+        "type": "docx",
+        "size": "24.2 KB"
+      },
+      {
+        "name": "KIC AI for agriculture, horticulture, water and food 2026 | statements & signature form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/formulier_statements_and_signature_kic_ai_in_lhwv_2026.docx",
+        "type": "docx",
+        "size": "67.5 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Lies Zandberg",
+        "role": "Programme-/ policy officer",
+        "phone": "+31 6 44396998",
+        "email": "kic-ai-lhwv@NWO.NL"
+      },
+      {
+        "name": "Tijmen van Butselaar",
+        "role": "Programme Officer",
+        "phone": "+31 (0)30 6001280",
+        "email": "kic-ai-lhwv@NWO.NL"
+      },
+      {
+        "name": "Dr. Maarten Moes",
+        "role": "Programme Officer",
+        "phone": "+31 (0)30 2594069",
+        "email": "m.moes@nwo.nl"
+      }
+    ]
+  },
+  {
     "id": "groenvermogennl-hydrogen-hydrogen-carriers-import-conversion-transport-storage",
     "url": "https://www.nwo.nl/en/calls/groenvermogennl-hydrogen-hydrogen-carriers-import-conversion-transport-storage",
     "title": "GroenvermogenNL: Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage",
@@ -5824,28 +5657,46 @@
     },
     "downloads": [
       {
-        "name": "GroenvermogenNL: Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | call for proposals",
+        "name": "Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | call for proposals",
         "url": "https://www.nwo.nl/sites/nwo/files/media-files/CfP_NGF-GroenvermogenNL-WP2_Hydrogen-and-hydrogen-carriers-import-conversion-transport-and-storage_DEF.pdf",
         "type": "pdf",
         "size": "1002.65 KB"
       },
       {
-        "name": "GroenvermogenNL: Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | application form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Application_form_workshops_GVNL_WP2_DEF.docx",
+        "name": "Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/1-Application-form-GVNL-WP2.docx",
         "type": "docx",
-        "size": "114.46 KB"
+        "size": "120.57 KB"
       },
       {
-        "name": "GroenvermogenNL: Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | declaration research organisations",
+        "name": "Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | declaration research organisations",
         "url": "https://www.nwo.nl/sites/nwo/files/media-files/Declaration-Research-Organisations-v4-1_0.docx",
         "type": "docx",
         "size": "138.25 KB"
       },
       {
-        "name": "GroenvermogenNL: Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | statement general condition GBER",
+        "name": "Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | statement general condition GBER",
         "url": "https://www.nwo.nl/sites/nwo/files/media-files/Statement-General-Condition-GBER_0.docx",
         "type": "docx",
         "size": "56.69 KB"
+      },
+      {
+        "name": "Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | budget format",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/4-NGF-begrotingsformat-Groenvermogen-NL-WP2.xlsx",
+        "type": "xlsx",
+        "size": "1.57 MB"
+      },
+      {
+        "name": "Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | statement and project supervision",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Statement_appointment_and_project_supervision_v2-3.docx",
+        "type": "docx",
+        "size": "24.2 KB"
+      },
+      {
+        "name": "Hydrogen & Hydrogen Carriers: Import, Conversion, Transport & Storage | declaration co-funding",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Declaration-co-funding_v5.docx",
+        "type": "docx",
+        "size": "145.78 KB"
       }
     ],
     "contacts": [
@@ -5912,7 +5763,7 @@
       },
       "who_can_apply": {
         "title": "Who can apply",
-        "text": "The proposal can be submitted by a consortium existing of: Researchers from universities, universities of applied science, TO2 institutions and other research organisations. Employees of businesses and other public and private organisations provided that: - They have a tenured position for at least 0.6 fte; - Their organisation has demonstrable Research & Development (R&D) activities in the Netherlands; - They hold a master’s degree."
+        "text": "The proposal can be submitted by a consortium existing of: Researchers from universities, universities of applied science, TO2 institutions and other research organisations. Employees of businesses and other public and private organisations provided that: They have a tenured position for at least 0.6 fte; Their organisation has demonstrable Research & Development (R&D) activities in the Netherlands; They hold a master’s degree."
       },
       "consortium_building": {
         "title": "Consortium building",
@@ -5924,11 +5775,15 @@
       },
       "when_to_apply": {
         "title": "When to apply",
-        "text": "Deadline registration workshops: Thursday 16 July 2026, 14:00:00 CEST. Deadline request for review of research organisations based in the Netherlands or abroad: Thursday 10 December 2026, 14:00:00 CET. Deadline for full proposal: Thursday 21 January 2027, 14:00:00 CET."
+        "text": "Deadline registration workshops: Thursday 16 July 2026, 14:00:00 CEST . Deadline request for review of research organisations based in the Netherlands or abroad: Thursday 10 December 2026, 14:00:00 CET . Deadline for full proposal: Thursday 21 January 2027, 14:00:00 CET ."
       },
       "assessment": {
         "title": "Assessment",
-        "text": "Criteria The proposal will be assessed on the basis of three criteria: Comply with the Framework for State aid for research and development and innovation for research organisations Quality of the consortium Quality of the research plan Procedure The procedure fort his Call for proposals consists of 3 steps: Registration of organisations for the workshops (deadline 16 July 2026, 14:00:00 CEST) Workshops (16-18 September en 26-28 October 2026) Submission of the grant proposal (deadline 21 January 2027, 14:00:00 CET) After submission, the proposal will be assessed by the selection committee, which will advise the NWO Domain Science Board about whether or not to award funding. The decision of the Domain Science board is expected in the second quarter of 2027. More information https://www.groenvermogennl.org/en"
+        "text": "Criteria The proposal will be assessed on the basis of three criteria: Comply with the Framework for State aid for research and development and innovation for research organisations Quality of the consortium Quality of the research plan Procedure The procedure fort his Call for proposals consists of 3 steps: Registration of organisations for the workshops (deadline 16 July 2026, 14:00:00 CEST) Workshops (16-18 September en 26-28 October 2026) Submission of the grant proposal (deadline 21 January 2027, 14:00:00 CET) After submission, the proposal will be assessed by the selection committee, which will advise the NWO Domain Science Board about whether or not to award funding. The decision of the Domain Science board is expected in the second quarter of 2027."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "For more information: https://www.groenvermogennl.org/en"
       },
       "write_proposal": {
         "title": "Write proposal",
@@ -8772,6 +8627,172 @@
     ]
   },
   {
+    "id": "take-off-phase-1-feasibility-studies-wo-2026",
+    "url": "https://www.nwo.nl/en/calls/take-off-phase-1-feasibility-studies-wo-2026",
+    "title": "Take-off phase 1 – Feasibility studies WO 2026",
+    "status": "open",
+    "status_raw": "Open calls Continuous",
+    "budget": "€4,500,000",
+    "finance_type": "",
+    "programme": "Take-off Take-off fase 1 - Haalbaarheidsstudies WO",
+    "target_groups": "",
+    "deadline_iso": null,
+    "deadline_dates": [],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-Take-off-phase-1-WO-2026_0.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-Take-off-phase-1-WO-2026_0.pdf",
+      "https://www.nwo.nl/sites/nwo/files/media-files/instructions-application-form-phase1wo-feasibility_studies-2026.pdf"
+    ],
+    "characteristics": {
+      "Status": "Open calls Continuous",
+      "Budget": "€4,500,000",
+      "Research programme": "Take-off Take-off fase 1 - Haalbaarheidsstudies WO"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "Take-off focuses on facilitating and stimulating activity and entrepreneurship from Dutch universities and research institutes recognized by NWO. This involves creating innovative new activities that follow knowledge development and utilization by researchers at these knowledge institutions. This may concern product, process, care or service innovation in the broadest sense of the word, within all scientific fields."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Researchers from the following research institutes can submit applications: Dutch universities (or comparable positions at university medical centers); KNAW and NWO institutes; the Netherlands Cancer Institute; the Max Planck Institute for Psycholinguistics in Nijmegen; NCB Naturalis; Advanced Research Center for NanoLithography (ARCNL); Princess Máxima Center for Pediatric Oncology."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "NWO provides funding for Take-off feasibility studies in the form of grants with a maximum size of 60,000 euros for a maximum period of six months for the performance of a study into the feasibility for commercial application of specific innovative knowledge that has arisen within these research institutions."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "Applications can be submitted continuously via ISAAC until December 10, 2026, at 14:00:00 CET at the latest . Unlike previous Take-off Phase 1 rounds, this Call for Proposals applies to the whole of 2026. Separate Calls for Proposals will no longer be published for spring and fall rounds. Applications can be submitted on an ongoing basis. Applications will be assessed in batches of 40, with 15 applications per batch being awarded funding, provided they meet the required quality standards. A maximum of five batches will be considered. There will no longer be a cluster classification in the assessment; applications will be assessed by a broad committee. See the Call for Proposals for more information."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The ranking criteria for Take-off WO phase 1 - feasibility studies are: Knowledge base and innovativeness knowledge that forms the basis of the business idea; innovative elements. Commercial potential application possibilities and added value. Team quality scientific expertise applicant(s) and support staff; entrepreneurial and commercial skills; team involvement in the implementation of the project plan. Quality of the project plan practical and economic approach; activity plan; project budget, broken down by project activity."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Take-off phase 1 – Feasibility studies WO | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-Take-off-phase-1-WO-2026_0.pdf",
+        "type": "pdf",
+        "size": "680.99 KB"
+      },
+      {
+        "name": "Take-off phase 1 – Feasibility studies WO | application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Take-off-applicationform-phase1-WO-feasibility-studies-2026-1_0.docx",
+        "type": "docx",
+        "size": "424.39 KB"
+      },
+      {
+        "name": "Take-off phase 1 – Feasibility studies WO | instructions application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/instructions-application-form-phase1wo-feasibility_studies-2026.pdf",
+        "type": "pdf",
+        "size": "260.71 KB"
+      },
+      {
+        "name": "Take-off phase 1 – Feasibility studies WO | budget form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/budgetform-phase1-feasibility-studies-2026-1.xlsx",
+        "type": "xlsx",
+        "size": "15.23 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Anouk Borsboom",
+        "role": "Policy officer",
+        "phone": "+31 (0)70 3494348",
+        "email": "aanvragentake-off@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "tulip-fund",
+    "url": "https://www.nwo.nl/en/calls/tulip-fund",
+    "title": "Tulip Fund",
+    "status": "open",
+    "status_raw": "Open calls Continuous",
+    "budget": "€50,000,000",
+    "finance_type": "",
+    "programme": "Tulip Fund",
+    "target_groups": "",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2026-03-31T14:00:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20Proposals%20Tulp%20Fonds_EN%20%282%29.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20Proposals%20Tulp%20Fonds_EN%20%282%29.pdf"
+    ],
+    "characteristics": {
+      "Status": "Open calls Continuous",
+      "Budget": "€50,000,000",
+      "Research programme": "Tulip Fund"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "The objective of this fund is to enable research organisations to recruit top researchers and top talents from abroad who want to continue their research in the Netherlands due to growing threats to academic freedom. This will both boost and reinforce the Netherlands’ position at the forefront of international scientific research. The research carried out by these researchers will lead to scientific and social strengthening of the Netherlands and Europe. The research may be fundamental, applied or practice-oriented. There are no restrictions on the content."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Each of the research organisations in the Netherlands listed below may nominate a maximum of two candidates for each position via their board, for funding amounts of up to €1,000,000: public and private universities and the Open University; university medical centres; NWOi on behalf of NWO institutes (jointly); KNAW on behalf of institutes affiliated with KNAW (jointly). Each of the research organisations listed below may nominate a maximum of one candidate for each position via their board, for funding amounts of up to €1,000,000: Netherlands Cancer Institute; NCB Naturalis (Naturalis Biodiversity Center). The Netherlands Association of Universities of Applied Sciences can jointly nominate candidates for up to four positions, for funding amounts of up to €500,000. The boards of the research institutions should confirm the nomination by means of the required letter of submission. The technical submission in ISAAC should be made by a board member of the board of the nominating research organization, or a person mendated by this member. This person is the first point of contact for the programme."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "A maximum of €1,000,000 in funding is available to the research organisation for each researcher; a maximum of €500,000 in funding is available to the research organisation for each researcher nominated by the Netherlands Association of Universities of Applied Sciences. The funding must be spent in five years. The funding must be used for the benefit of science in the Netherlands. The researcher enjoys broad freedom of spending, such as on personnel (scientific and non-scientific), equipment, investments, travel and accommodation expenses, knowledge utilization)."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "The deadline for submitting nominations is provisionally set at 31 March 2026, 14:00:00 CEST . Submissions are accepted continuously."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria It should be clear from the nomination that the researcher fits within the defined target group. A top researcher is an established researcher (conducting fundamental, applied or practice-oriented research) at the stage of consolidation of their own research group. A top talent is a researcher who is ready to establish a research group or expand a recently established research group. It should be clear from the nomination that the researcher’s planned research activities are aligned with relevant strategic knowledge agendas in the Netherlands and/or the EU such as – but not confined to – strategic priorities of research organisations, NWA or KIC. Procedure The nomination procedure consists of the following steps: submission of the nomination; admissibility check of the nomination; assessment of the assessment committee; meeting of the assessment committee; rebuttal in case of a negative recommendation; decision making. For this fund, an external, independent assessment committee will be installed, consisting of representatives from science with knowledge of diverse academic fields. The task given to this assessment committee is to assess the submitted nominations and thereto pertaining documents, in light of its individual merits, based on the assessment criteria outlined in the Call for proposals."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "It is mandatory to write your nomination in English. More information can be found in the Call for proposals."
+      },
+      "write_nomination": {
+        "title": "Write nomination",
+        "text": "To write your proposal, you make use of the nomination form. This form can be downloaded from ISAAC or this webpage. The nomination form consists of (among others): A description of the quality of the researcher and their projected contribution to Dutch/European science (max. 3 pages); A description of the researcher’s 10 most important key outputs (max. 1000 words); The researcher’s CV (max. 4 pages). Furthermore, you are required to attach a letter of submission of the board of the nominating research institute. If applicable, in this letter a mandate can be given to another person to serve as the first point of contact for the nomination. Both the nomination and the letter of submission need to be written in English and make use of the NWO-supplied forms."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Tulip Fund | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call%20for%20Proposals%20Tulp%20Fonds_EN%20%282%29.pdf",
+        "type": "pdf",
+        "size": "511.22 KB"
+      },
+      {
+        "name": "Tulip Fund | letter of submission",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Aanbiedingsbrief_EN.docx",
+        "type": "docx",
+        "size": "76.14 KB"
+      },
+      {
+        "name": "Tulip Fund | nomination form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/NWO%20Tulip%20fund%20nomination%20form%202025_final_1_0.docx",
+        "type": "docx",
+        "size": "102.23 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dr. Nadine Mascini",
+        "phone": "+31 (0)70 3494713",
+        "email": "tulp@nwo.nl"
+      },
+      {
+        "name": "Dr Tessa de Boer",
+        "role": "Programme/ policy officer",
+        "phone": "+31 (0)70 3494451",
+        "email": "tulp@nwo.nl"
+      }
+    ]
+  },
+  {
     "id": "computing-time-on-national-computing-facilities-0",
     "url": "https://www.nwo.nl/en/calls/computing-time-on-national-computing-facilities-0",
     "title": "Computing Time on National Computing Facilities",
@@ -8853,85 +8874,6 @@
         "role": "Programme Officer",
         "phone": "+31 6 30369904",
         "email": "rekentijd@nwo.nl"
-      }
-    ]
-  },
-  {
-    "id": "take-off-phase-1-feasibility-studies-wo-2026",
-    "url": "https://www.nwo.nl/en/calls/take-off-phase-1-feasibility-studies-wo-2026",
-    "title": "Take-off phase 1 – Feasibility studies WO 2026",
-    "status": "open",
-    "status_raw": "Open calls Continuous",
-    "budget": "€4,500,000",
-    "finance_type": "",
-    "programme": "Take-off Take-off fase 1 - Haalbaarheidsstudies WO",
-    "target_groups": "",
-    "deadline_iso": null,
-    "deadline_dates": [],
-    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-Take-off-phase-1-WO-2026_0.pdf",
-    "pdf_urls": [
-      "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-Take-off-phase-1-WO-2026_0.pdf",
-      "https://www.nwo.nl/sites/nwo/files/media-files/instructions-application-form-phase1wo-feasibility_studies-2026.pdf"
-    ],
-    "characteristics": {
-      "Status": "Open calls Continuous",
-      "Budget": "€4,500,000",
-      "Research programme": "Take-off Take-off fase 1 - Haalbaarheidsstudies WO"
-    },
-    "sections": {
-      "purpose": {
-        "title": "Purpose",
-        "text": "Take-off focuses on facilitating and stimulating activity and entrepreneurship from Dutch universities and research institutes recognized by NWO. This involves creating innovative new activities that follow knowledge development and utilization by researchers at these knowledge institutions. This may concern product, process, care or service innovation in the broadest sense of the word, within all scientific fields."
-      },
-      "who_can_apply": {
-        "title": "Who can apply",
-        "text": "Researchers from the following research institutes can submit applications: Dutch universities (or comparable positions at university medical centers); KNAW and NWO institutes; the Netherlands Cancer Institute; the Max Planck Institute for Psycholinguistics in Nijmegen; NCB Naturalis; Advanced Research Center for NanoLithography (ARCNL); Princess Máxima Center for Pediatric Oncology."
-      },
-      "what_to_apply_for": {
-        "title": "What to apply for",
-        "text": "NWO provides funding for Take-off feasibility studies in the form of grants with a maximum size of 60,000 euros for a maximum period of six months for the performance of a study into the feasibility for commercial application of specific innovative knowledge that has arisen within these research institutions."
-      },
-      "when_to_apply": {
-        "title": "When to apply",
-        "text": "Applications can be submitted continuously via ISAAC until December 10, 2026, at 14:00:00 CET at the latest . Unlike previous Take-off Phase 1 rounds, this Call for Proposals applies to the whole of 2026. Separate Calls for Proposals will no longer be published for spring and fall rounds. Applications can be submitted on an ongoing basis. Applications will be assessed in batches of 40, with 15 applications per batch being awarded funding, provided they meet the required quality standards. A maximum of five batches will be considered. There will no longer be a cluster classification in the assessment; applications will be assessed by a broad committee. See the Call for Proposals for more information."
-      },
-      "assessment": {
-        "title": "Assessment",
-        "text": "Criteria The ranking criteria for Take-off WO phase 1 - feasibility studies are: Knowledge base and innovativeness knowledge that forms the basis of the business idea; innovative elements. Commercial potential application possibilities and added value. Team quality scientific expertise applicant(s) and support staff; entrepreneurial and commercial skills; team involvement in the implementation of the project plan. Quality of the project plan practical and economic approach; activity plan; project budget, broken down by project activity."
-      }
-    },
-    "downloads": [
-      {
-        "name": "Take-off phase 1 – Feasibility studies WO | call for proposals",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-proposals-Take-off-phase-1-WO-2026_0.pdf",
-        "type": "pdf",
-        "size": "680.99 KB"
-      },
-      {
-        "name": "Take-off phase 1 – Feasibility studies WO | application form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Take-off-applicationform-phase1-WO-feasibility-studies-2026-1_0.docx",
-        "type": "docx",
-        "size": "424.39 KB"
-      },
-      {
-        "name": "Take-off phase 1 – Feasibility studies WO | instructions application form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/instructions-application-form-phase1wo-feasibility_studies-2026.pdf",
-        "type": "pdf",
-        "size": "260.71 KB"
-      },
-      {
-        "name": "Take-off phase 1 – Feasibility studies WO | budget form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/budgetform-phase1-feasibility-studies-2026-1.xlsx",
-        "type": "xlsx",
-        "size": "15.23 KB"
-      }
-    ],
-    "contacts": [
-      {
-        "name": "Anouk Borsboom",
-        "role": "Policy officer",
-        "phone": "+31 (0)70 3494348",
-        "email": "aanvragentake-off@nwo.nl"
       }
     ]
   },
@@ -9487,127 +9429,6 @@
     ]
   },
   {
-    "id": "ngf-hydrogen-green-electrons-for-carbon-based-chemistry",
-    "url": "https://www.nwo.nl/en/calls/ngf-hydrogen-green-electrons-for-carbon-based-chemistry",
-    "title": "NGF: Hydrogen & green electrons for carbon-based chemistry",
-    "status": "closed",
-    "status_raw": "Closed",
-    "budget": "€35,317,355",
-    "finance_type": "Applied Science",
-    "programme": "GroenvermogenNL NGF - GroenvermogenNL Hydrogen & green electrons for carbon-based chemistry",
-    "target_groups": "Interdisciplinary Collaboration Collaboration with social partners Applied Sciences Research Collaboration with Industry Knowledge Utilisation",
-    "deadline_iso": null,
-    "deadline_dates": [
-      "2024-11-12T12:00:00Z",
-      "2024-11-12T14:00:00",
-      "2025-03-25T12:00:00Z",
-      "2025-03-25T14:00:00"
-    ],
-    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/ENG%202024_11_08_CfP_Hydrogen%20and%20green%20electrons%20for%20carbon-based%20chemistry_v2.pdf",
-    "pdf_urls": [
-      "https://www.nwo.nl/sites/nwo/files/media-files/ENG%202024_11_08_CfP_Hydrogen%20and%20green%20electrons%20for%20carbon-based%20chemistry_v2.pdf"
-    ],
-    "characteristics": {
-      "Status": "Closed",
-      "Closing date for pre-proposals": {
-        "display": "12 November 2024",
-        "iso": [
-          "2024-11-12T12:00:00Z"
-        ]
-      },
-      "Closing date full application": {
-        "display": "25 March 2025",
-        "iso": [
-          "2025-03-25T12:00:00Z"
-        ]
-      },
-      "Finance type": "Applied Science",
-      "For specific groups": "Interdisciplinary Collaboration Collaboration with social partners Applied Sciences Research Collaboration with Industry Knowledge Utilisation",
-      "Budget": "€35,317,355",
-      "Research programme": "GroenvermogenNL NGF - GroenvermogenNL Hydrogen & green electrons for carbon-based chemistry"
-    },
-    "sections": {
-      "purpose": {
-        "title": "Purpose",
-        "text": "This Call for Proposals intends to come to a grant proposal for the realization of work package 4 of GroenvermogenNL: “NGF: Hydrogen & green electrons for carbon-based chemistry. Through workshops, a consortium will be formed which focusses on innovations to make the carbon-based chemical industry more sustainable. Due to the use of green hydrogen and green electrons the greenhouse gas emissions of the chemical industry will decline."
-      },
-      "who_can_apply": {
-        "title": "Who can apply",
-        "text": "Researchers from universities, universities of applied and TO2 institutions. Employees of businesses and other public and private organisations provided that: They have a tenured position for at least 0.6 fte; Their organisation has demonstrable Research & Development (R&D) activities in the Netherlands; They hold a master’s degree."
-      },
-      "what_to_apply_for": {
-        "title": "What to apply for",
-        "text": "In this Call for proposals, a maximum of €35,317,355 can be applied for. This amount will be supplemented by the businesses and civil society organisations in the consortium with ‘Funding other than that provided by NWO’. ‘Funding other than that provided by NWO’ consists of: The own contribution, i.e. the non-fundable part of the eligible costs contributed by businesses and civil society organisations, plus; Possible in cash (excl. Dutch VAT) or in-kind co-funding. Financing can amongst other be used for personal and material costs."
-      },
-      "when_to_apply": {
-        "title": "When to apply",
-        "text": "Deadline application workshops: Tuesday 12 November 2024, 14:00 CET Deadline proposal: Tuesday 25 March 2025, 14:00 CET"
-      },
-      "assessment": {
-        "title": "Assessment",
-        "text": "Criteria The assessment of the full proposal is based on satisfying the ‘Framework for State aid for research and development and innovation’ and the GBER, as well as the quality of the consortium and the research plan. Procedure The procedure for this Call for proposals consists of 3 steps: Registration of organisations for the workshops (12 November 2024) Workshops (December 2024/January 2025) Developing grant proposal (deadline 25 March 2025) After submission, the proposal will be assessed by the selection committee, which will advise the NWO Domain Science Board about whether or not to award funding (End of June 2025)."
-      },
-      "more_information": {
-        "title": "More information",
-        "text": "https://www.groenvermogennl.org/en"
-      },
-      "write_proposal": {
-        "title": "Write proposal",
-        "text": "Organisations that want to participate in the grant proposal within this Call for proposals are required to submit an Application form Workshops to participate in the procedure (Step 1). For each organisation, a maximum of one Application form Workshops may be submitted. This means a maximum of one Application form Workshops for the entire organisation at the highest level (e.g. at university level and not at faculty or department level). The main applicant submits the proposal via the NWO web application ISAAC. During the assessment process, NWO will communicate with the main applicant."
-      },
-      "fill_in_forms": {
-        "title": "Fill in forms",
-        "text": "The application form including the mandatory annexes will become available in the future."
-      }
-    },
-    "downloads": [
-      {
-        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | call for proposals",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/ENG%202024_11_08_CfP_Hydrogen%20and%20green%20electrons%20for%20carbon-based%20chemistry_v2.pdf",
-        "type": "pdf",
-        "size": "1.28 MB"
-      },
-      {
-        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | application form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/1._application_form_groenvermogennl_work_package_4.docx",
-        "type": "docx",
-        "size": "119.21 KB"
-      },
-      {
-        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | budget form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/2._budget_form_groenvermogennl_work_package_4.xlsx",
-        "type": "xlsx",
-        "size": "681.71 KB"
-      },
-      {
-        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | guarantee of continuity in project",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/5b.%20Guarantee%20of%20continuity%20in%20project%20supervision.docx",
-        "type": "docx",
-        "size": "25.83 KB"
-      },
-      {
-        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | declaration co-funding",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/4b.%20Declaration%20co-funding.docx",
-        "type": "docx",
-        "size": "144.41 KB"
-      },
-      {
-        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | declaration of general terms and conditions",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/3b.%20Declaration%20of%20General%20Terms%20and%20Conditions%20under%20the%20GBER.docx",
-        "type": "docx",
-        "size": "56.41 KB"
-      }
-    ],
-    "contacts": [
-      {
-        "name": "Manon van Asselt",
-        "role": "Programme officer",
-        "phone": "+31 (0)70 3494031",
-        "email": "groenvermogennl_wp4@nwo.nl"
-      }
-    ]
-  },
-  {
     "id": "rubicon-2025-1",
     "url": "https://www.nwo.nl/en/calls/rubicon-2025-1",
     "title": "Rubicon 2025-1",
@@ -9753,6 +9574,127 @@
         "role": "program manager",
         "phone": "+31 (0) 6 16 16 08 06",
         "email": "erik.knol@regieorgaan-sia.nl"
+      }
+    ]
+  },
+  {
+    "id": "ngf-hydrogen-green-electrons-for-carbon-based-chemistry",
+    "url": "https://www.nwo.nl/en/calls/ngf-hydrogen-green-electrons-for-carbon-based-chemistry",
+    "title": "NGF: Hydrogen & green electrons for carbon-based chemistry",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "€35,317,355",
+    "finance_type": "Applied Science",
+    "programme": "GroenvermogenNL NGF - GroenvermogenNL Hydrogen & green electrons for carbon-based chemistry",
+    "target_groups": "Interdisciplinary Collaboration Collaboration with social partners Applied Sciences Research Collaboration with Industry Knowledge Utilisation",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2024-11-12T12:00:00Z",
+      "2024-11-12T14:00:00",
+      "2025-03-25T12:00:00Z",
+      "2025-03-25T14:00:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/ENG%202024_11_08_CfP_Hydrogen%20and%20green%20electrons%20for%20carbon-based%20chemistry_v2.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/ENG%202024_11_08_CfP_Hydrogen%20and%20green%20electrons%20for%20carbon-based%20chemistry_v2.pdf"
+    ],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date for pre-proposals": {
+        "display": "12 November 2024",
+        "iso": [
+          "2024-11-12T12:00:00Z"
+        ]
+      },
+      "Closing date full application": {
+        "display": "25 March 2025",
+        "iso": [
+          "2025-03-25T12:00:00Z"
+        ]
+      },
+      "Finance type": "Applied Science",
+      "For specific groups": "Interdisciplinary Collaboration Collaboration with social partners Applied Sciences Research Collaboration with Industry Knowledge Utilisation",
+      "Budget": "€35,317,355",
+      "Research programme": "GroenvermogenNL NGF - GroenvermogenNL Hydrogen & green electrons for carbon-based chemistry"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "This Call for Proposals intends to come to a grant proposal for the realization of work package 4 of GroenvermogenNL: “NGF: Hydrogen & green electrons for carbon-based chemistry. Through workshops, a consortium will be formed which focusses on innovations to make the carbon-based chemical industry more sustainable. Due to the use of green hydrogen and green electrons the greenhouse gas emissions of the chemical industry will decline."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Researchers from universities, universities of applied and TO2 institutions. Employees of businesses and other public and private organisations provided that: They have a tenured position for at least 0.6 fte; Their organisation has demonstrable Research & Development (R&D) activities in the Netherlands; They hold a master’s degree."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "In this Call for proposals, a maximum of €35,317,355 can be applied for. This amount will be supplemented by the businesses and civil society organisations in the consortium with ‘Funding other than that provided by NWO’. ‘Funding other than that provided by NWO’ consists of: The own contribution, i.e. the non-fundable part of the eligible costs contributed by businesses and civil society organisations, plus; Possible in cash (excl. Dutch VAT) or in-kind co-funding. Financing can amongst other be used for personal and material costs."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "Deadline application workshops: Tuesday 12 November 2024, 14:00 CET Deadline proposal: Tuesday 25 March 2025, 14:00 CET"
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The assessment of the full proposal is based on satisfying the ‘Framework for State aid for research and development and innovation’ and the GBER, as well as the quality of the consortium and the research plan. Procedure The procedure for this Call for proposals consists of 3 steps: Registration of organisations for the workshops (12 November 2024) Workshops (December 2024/January 2025) Developing grant proposal (deadline 25 March 2025) After submission, the proposal will be assessed by the selection committee, which will advise the NWO Domain Science Board about whether or not to award funding (End of June 2025)."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "https://www.groenvermogennl.org/en"
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "Organisations that want to participate in the grant proposal within this Call for proposals are required to submit an Application form Workshops to participate in the procedure (Step 1). For each organisation, a maximum of one Application form Workshops may be submitted. This means a maximum of one Application form Workshops for the entire organisation at the highest level (e.g. at university level and not at faculty or department level). The main applicant submits the proposal via the NWO web application ISAAC. During the assessment process, NWO will communicate with the main applicant."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "The application form including the mandatory annexes will become available in the future."
+      }
+    },
+    "downloads": [
+      {
+        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/ENG%202024_11_08_CfP_Hydrogen%20and%20green%20electrons%20for%20carbon-based%20chemistry_v2.pdf",
+        "type": "pdf",
+        "size": "1.28 MB"
+      },
+      {
+        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/1._application_form_groenvermogennl_work_package_4.docx",
+        "type": "docx",
+        "size": "119.21 KB"
+      },
+      {
+        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | budget form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/2._budget_form_groenvermogennl_work_package_4.xlsx",
+        "type": "xlsx",
+        "size": "681.71 KB"
+      },
+      {
+        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | guarantee of continuity in project",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/5b.%20Guarantee%20of%20continuity%20in%20project%20supervision.docx",
+        "type": "docx",
+        "size": "25.83 KB"
+      },
+      {
+        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | declaration co-funding",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/4b.%20Declaration%20co-funding.docx",
+        "type": "docx",
+        "size": "144.41 KB"
+      },
+      {
+        "name": "NGF: Hydrogen & green electrons for carbon-based chemistry | declaration of general terms and conditions",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/3b.%20Declaration%20of%20General%20Terms%20and%20Conditions%20under%20the%20GBER.docx",
+        "type": "docx",
+        "size": "56.41 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Manon van Asselt",
+        "role": "Programme officer",
+        "phone": "+31 (0)70 3494031",
+        "email": "groenvermogennl_wp4@nwo.nl"
       }
     ]
   },
@@ -10758,7 +10700,7 @@
     "status_raw": "Closed",
     "budget": "€3,500,000",
     "finance_type": "Applied Science",
-    "programme": "Praktijkkennis voor Voedsel en GroenPVG Thematische calls 2025",
+    "programme": "PVG Thematische calls 2025",
     "target_groups": "Interdisciplinary Collaboration Applied Sciences Research Collaboration with Industry",
     "deadline_iso": null,
     "deadline_dates": [
@@ -10779,7 +10721,7 @@
       "Finance type": "Applied Science",
       "For specific groups": "Interdisciplinary Collaboration Applied Sciences Research Collaboration with Industry",
       "Budget": "€3,500,000",
-      "Research programme": "Praktijkkennis voor Voedsel en GroenPVG Thematische calls 2025"
+      "Research programme": "PVG Thematische calls 2025"
     },
     "sections": {},
     "downloads": [
@@ -15502,108 +15444,6 @@
     ]
   },
   {
-    "id": "ssh-open-competition-xs-2025-round-3",
-    "url": "https://www.nwo.nl/en/calls/ssh-open-competition-xs-2025-round-3",
-    "title": "SSH Open Competition XS 2025 - round 3",
-    "status": "closed",
-    "status_raw": "Closed",
-    "budget": "€6,000,000",
-    "finance_type": "Curiosity Driven Research",
-    "programme": "Open Competition SSH XS",
-    "target_groups": "",
-    "deadline_iso": null,
-    "deadline_dates": [
-      "2025-03-06T23:59:00",
-      "2025-05-08T23:59:00",
-      "2025-09-18T12:00:00Z",
-      "2025-09-18T23:59:00"
-    ],
-    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposals-SSH-OC-XS-2025---EN.pdf",
-    "pdf_urls": [
-      "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposals-SSH-OC-XS-2025---EN.pdf"
-    ],
-    "characteristics": {
-      "Status": "Closed",
-      "Closing date full application": {
-        "display": "18 September 2025",
-        "iso": [
-          "2025-09-18T12:00:00Z"
-        ]
-      },
-      "Finance type": "Curiosity Driven Research",
-      "Budget": "€6,000,000",
-      "Research programme": "Open Competition SSH XS"
-    },
-    "sections": {
-      "purpose": {
-        "title": "Purpose",
-        "text": "The SSH Open Competition XS Call for proposals is specifically intended to encourage curiosity-driven and innovative research that involves the relatively rapid exploration of a promising idea. The characteristics of SSH-XS research are: the proposed research is innovative; it is not certain in advance whether the intended objectives will be achieved; the result of each project contributes to the advancement of existing science and new scientific insights."
-      },
-      "who_can_apply": {
-        "title": "Who can apply",
-        "text": "Researchers with a promising idea who obtained their PhD between 5 and 10 years ago may submit an application if they have a paid appointment for at least the duration of the application process and the duration of the proposed project. The submission deadline for the round is the reference date of the graduation date. The graduation date on the PhD diploma (degree) is leading. For round 3, the applicant must have obtained their PhD between 19 September 2015 and 18 September 2020. Extra conditions: an SSH-XS application has a single applicant and no co-applicants; an applicant may submit a maximum of one application in the SSH-XS, call round 2025; an applicant - when using the extension scheme - may not submit an application for multiple types of funding instruments within the NWO Open Competition programme during the same calendar year (2025); applicants may not be part of an XS project for which the end date has not yet passed at the time of submission. Please note: the extension scheme applies to the SSH Open Competition XS in 2025. For more information and the online application form for extension see: https://www.nwo.nl/en/extension-clause ."
-      },
-      "what_to_apply_for": {
-        "title": "What to apply for",
-        "text": "For an application in this Call for proposals a maximum of 50,000 euro can be applied for. The minimum duration of the proposed project is 6 months and the maximum duration is 12 months. Applicants are required to draw up a realistic budget and explain why the spending choices are relevant to the project. This explanation must cover all of the personnel requested. Please only apply for funding that is vital to realise the project. A more detailed explanation of the budget modules can be found in the annexe to this Call for proposals (Section 7.1)."
-      },
-      "when_to_apply": {
-        "title": "When to apply",
-        "text": "For 2025, 3 deadlines for submitting applications are specified: Round 1: 6 March 2025, before 14:00:00 CET (closed) Round 2: 8 May 2025, before 14:00:00 CEST (closed) Round 3: 18 September 2025, before 14:00:00 CEST When you submit your application in ISAAC, you will also need to enter some details online. Therefore, please start submitting your application at least one day before the deadline of the round. Applications that are submitted after the deadline will not be taken into consideration."
-      },
-      "assessment": {
-        "title": "Assessment",
-        "text": "Criteria The assessors who rank the applications will focus on the following criteria. These criteria are not weighted. At the discretion of an assessor, both of these aspects may be used for the purposes of ranking. However, that ranking must be accompanied by a short written explanation to substantiate the given rank based on the assessment criteria listed below. Innovative aspect Is the proposed research innovative and groundbreaking? Does the proposed research contribute to existing and new scientific insights? Does the research proposal potentially have a scientific impact? Feasibility of the research plan The objective and work plan must be clearly described. Does the methodology seem suitable to achieve the indicated project goal? Is the planning of the research plan appropriate and are the activities included in the planning with sufficient clarity? Applications must be drawn up with a wide scientific audience in mind so that assessors from the relevant panel will be able to properly evaluate the research plan and the assessment criteria described above. The SSH disciplines and associated (sub)disciplines are listed on the NWO website: https://www.nwo.nl/en/overview-panels-domain-social-sciences-and-humani… . The assessors may award a lower ranking to any applications that are drawn up in a way that is not accessible to those in other disciplines. Procedure The applicant determines by which panel the application will be processed by means of the SSH main discipline specified in the information form (see Section 4.2.3 of the Call for proposals). Applications processed per panel are divided into 2 groups, so that each panel consists of Group A and Group B. In principle, the classification takes place at the time of submission to NWO, taking into account the personal interests declared by the applicants. The assessors and applicants associated with a particular package of proposals do not meet. NWO will decide the final rankings of the applications, based on the rankings submitted by the assessors. Per round, 6 final rankings will be established – per panel one for Group A and one for Group B. There will be no opportunity to dispute the rankings. The SSH Domain Board will base its decision about awarding or rejecting the applications on the results of the 6 final rankings, the assessment reports and the available funding."
-      },
-      "more_information": {
-        "title": "More information",
-        "text": "For more information: FAQ"
-      },
-      "write_proposal": {
-        "title": "Write proposal",
-        "text": "The research idea needs to be drawn up anonymously, which means the application form meets the following conditions: applicants should not include their own name nor the name of any individuals in their research group; applicants should not include details of any affiliations with institutes or knowledge institutions; applicants should not include references to any publications that they have authored or co-authored; applicants should not include the names of any (potential) partners. Applications must be drawn up with a wide scientific audience in mind so that assessors from the relevant panel will be able to properly evaluate the research plan and the assessment criteria."
-      },
-      "fill_in_forms": {
-        "title": "Fill in forms",
-        "text": "Compulsory annexes to a proposal in this Call for proposals are the Budget form (Excel) and the Information form (pdf)."
-      }
-    },
-    "downloads": [
-      {
-        "name": "SSH Open Competition XS 2025 - round 3 | call for proposals",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposals-SSH-OC-XS-2025---EN.pdf",
-        "type": "pdf",
-        "size": "631.96 KB"
-      },
-      {
-        "name": "SSH Open Competition XS 2025 - round 3 | application form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Application%20Form%20Open%20Competition%20SSH%20-%20XS%202025%20round%203.docx",
-        "type": "docx",
-        "size": "71.96 KB"
-      },
-      {
-        "name": "SSH Open Competition XS 2025 - round 3 | information form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Information%20form%20Open%20Competition%20SSH%20-%20XS%202025%20round%203.docx",
-        "type": "docx",
-        "size": "80.25 KB"
-      },
-      {
-        "name": "SSH Open Competition XS 2025 - round 3 | budget form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget%20Form%20Open%20Competition%20SSH%20-%20XS%202025%20round%203.xlsx",
-        "type": "xlsx",
-        "size": "282.47 KB"
-      }
-    ],
-    "contacts": [
-      {
-        "name": "Svenja van der Tol (OCXS)",
-        "role": "Policy officer",
-        "phone": "+31 0(70) - 349 46 35",
-        "email": "sgw-ocxs@nwo.nl"
-      }
-    ]
-  },
-  {
     "id": "kic-nature-inclusive-decision-making-in-business",
     "url": "https://www.nwo.nl/en/calls/kic-nature-inclusive-decision-making-in-business",
     "title": "KIC Nature-inclusive decision making in business",
@@ -15722,6 +15562,108 @@
         "role": "Programme Officer",
         "phone": "+31 6 51036749",
         "email": "Kic-biodiversity@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "ssh-open-competition-xs-2025-round-3",
+    "url": "https://www.nwo.nl/en/calls/ssh-open-competition-xs-2025-round-3",
+    "title": "SSH Open Competition XS 2025 - round 3",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "€6,000,000",
+    "finance_type": "Curiosity Driven Research",
+    "programme": "Open Competition SSH XS",
+    "target_groups": "",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2025-03-06T23:59:00",
+      "2025-05-08T23:59:00",
+      "2025-09-18T12:00:00Z",
+      "2025-09-18T23:59:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposals-SSH-OC-XS-2025---EN.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposals-SSH-OC-XS-2025---EN.pdf"
+    ],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date full application": {
+        "display": "18 September 2025",
+        "iso": [
+          "2025-09-18T12:00:00Z"
+        ]
+      },
+      "Finance type": "Curiosity Driven Research",
+      "Budget": "€6,000,000",
+      "Research programme": "Open Competition SSH XS"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "The SSH Open Competition XS Call for proposals is specifically intended to encourage curiosity-driven and innovative research that involves the relatively rapid exploration of a promising idea. The characteristics of SSH-XS research are: the proposed research is innovative; it is not certain in advance whether the intended objectives will be achieved; the result of each project contributes to the advancement of existing science and new scientific insights."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Researchers with a promising idea who obtained their PhD between 5 and 10 years ago may submit an application if they have a paid appointment for at least the duration of the application process and the duration of the proposed project. The submission deadline for the round is the reference date of the graduation date. The graduation date on the PhD diploma (degree) is leading. For round 3, the applicant must have obtained their PhD between 19 September 2015 and 18 September 2020. Extra conditions: an SSH-XS application has a single applicant and no co-applicants; an applicant may submit a maximum of one application in the SSH-XS, call round 2025; an applicant - when using the extension scheme - may not submit an application for multiple types of funding instruments within the NWO Open Competition programme during the same calendar year (2025); applicants may not be part of an XS project for which the end date has not yet passed at the time of submission. Please note: the extension scheme applies to the SSH Open Competition XS in 2025. For more information and the online application form for extension see: https://www.nwo.nl/en/extension-clause ."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "For an application in this Call for proposals a maximum of 50,000 euro can be applied for. The minimum duration of the proposed project is 6 months and the maximum duration is 12 months. Applicants are required to draw up a realistic budget and explain why the spending choices are relevant to the project. This explanation must cover all of the personnel requested. Please only apply for funding that is vital to realise the project. A more detailed explanation of the budget modules can be found in the annexe to this Call for proposals (Section 7.1)."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "For 2025, 3 deadlines for submitting applications are specified: Round 1: 6 March 2025, before 14:00:00 CET (closed) Round 2: 8 May 2025, before 14:00:00 CEST (closed) Round 3: 18 September 2025, before 14:00:00 CEST When you submit your application in ISAAC, you will also need to enter some details online. Therefore, please start submitting your application at least one day before the deadline of the round. Applications that are submitted after the deadline will not be taken into consideration."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The assessors who rank the applications will focus on the following criteria. These criteria are not weighted. At the discretion of an assessor, both of these aspects may be used for the purposes of ranking. However, that ranking must be accompanied by a short written explanation to substantiate the given rank based on the assessment criteria listed below. Innovative aspect Is the proposed research innovative and groundbreaking? Does the proposed research contribute to existing and new scientific insights? Does the research proposal potentially have a scientific impact? Feasibility of the research plan The objective and work plan must be clearly described. Does the methodology seem suitable to achieve the indicated project goal? Is the planning of the research plan appropriate and are the activities included in the planning with sufficient clarity? Applications must be drawn up with a wide scientific audience in mind so that assessors from the relevant panel will be able to properly evaluate the research plan and the assessment criteria described above. The SSH disciplines and associated (sub)disciplines are listed on the NWO website: https://www.nwo.nl/en/overview-panels-domain-social-sciences-and-humani… . The assessors may award a lower ranking to any applications that are drawn up in a way that is not accessible to those in other disciplines. Procedure The applicant determines by which panel the application will be processed by means of the SSH main discipline specified in the information form (see Section 4.2.3 of the Call for proposals). Applications processed per panel are divided into 2 groups, so that each panel consists of Group A and Group B. In principle, the classification takes place at the time of submission to NWO, taking into account the personal interests declared by the applicants. The assessors and applicants associated with a particular package of proposals do not meet. NWO will decide the final rankings of the applications, based on the rankings submitted by the assessors. Per round, 6 final rankings will be established – per panel one for Group A and one for Group B. There will be no opportunity to dispute the rankings. The SSH Domain Board will base its decision about awarding or rejecting the applications on the results of the 6 final rankings, the assessment reports and the available funding."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "For more information: FAQ"
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "The research idea needs to be drawn up anonymously, which means the application form meets the following conditions: applicants should not include their own name nor the name of any individuals in their research group; applicants should not include details of any affiliations with institutes or knowledge institutions; applicants should not include references to any publications that they have authored or co-authored; applicants should not include the names of any (potential) partners. Applications must be drawn up with a wide scientific audience in mind so that assessors from the relevant panel will be able to properly evaluate the research plan and the assessment criteria."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "Compulsory annexes to a proposal in this Call for proposals are the Budget form (Excel) and the Information form (pdf)."
+      }
+    },
+    "downloads": [
+      {
+        "name": "SSH Open Competition XS 2025 - round 3 | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Call-for-Proposals-SSH-OC-XS-2025---EN.pdf",
+        "type": "pdf",
+        "size": "631.96 KB"
+      },
+      {
+        "name": "SSH Open Competition XS 2025 - round 3 | application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Application%20Form%20Open%20Competition%20SSH%20-%20XS%202025%20round%203.docx",
+        "type": "docx",
+        "size": "71.96 KB"
+      },
+      {
+        "name": "SSH Open Competition XS 2025 - round 3 | information form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Information%20form%20Open%20Competition%20SSH%20-%20XS%202025%20round%203.docx",
+        "type": "docx",
+        "size": "80.25 KB"
+      },
+      {
+        "name": "SSH Open Competition XS 2025 - round 3 | budget form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Budget%20Form%20Open%20Competition%20SSH%20-%20XS%202025%20round%203.xlsx",
+        "type": "xlsx",
+        "size": "282.47 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Svenja van der Tol (OCXS)",
+        "role": "Policy officer",
+        "phone": "+31 0(70) - 349 46 35",
+        "email": "sgw-ocxs@nwo.nl"
       }
     ]
   },
@@ -16452,7 +16394,7 @@
     "title": "KIC Long-term programmes 2024",
     "status": "closed",
     "status_raw": "Closed",
-    "budget": "€50,000,000",
+    "budget": "€70,000,000",
     "finance_type": "Collaboration with Partners",
     "programme": "Knowledge and Innovation Covenant Strategy 2024-2027 KIC 2024-2027 Langetermijnprogramma's - Strategiegedreven Consortia met Impact",
     "target_groups": "Interdisciplinary Collaboration Collaboration with Industry",
@@ -16483,7 +16425,7 @@
       },
       "Finance type": "Collaboration with Partners",
       "For specific groups": "Interdisciplinary Collaboration Collaboration with Industry",
-      "Budget": "€50,000,000",
+      "Budget": "€70,000,000",
       "Research programme": "Knowledge and Innovation Covenant Strategy 2024-2027 KIC 2024-2027 Langetermijnprogramma's - Strategiegedreven Consortia met Impact"
     },
     "sections": {
@@ -19754,6 +19696,46 @@
     ]
   },
   {
+    "id": "innofest-x-sia",
+    "url": "https://www.nwo.nl/en/calls/innofest-x-sia",
+    "title": "Innofest X SIA",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "€40,000",
+    "finance_type": "Applied Science",
+    "programme": "Innofest X SIA",
+    "target_groups": "Interdisciplinary Collaboration Applied Sciences Research Knowledge Utilisation",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2026-01-29T12:00:00Z"
+    ],
+    "primary_pdf": null,
+    "pdf_urls": [],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date full application": {
+        "display": "29 January 2026",
+        "iso": [
+          "2026-01-29T12:00:00Z"
+        ]
+      },
+      "Finance type": "Applied Science",
+      "For specific groups": "Interdisciplinary Collaboration Applied Sciences Research Knowledge Utilisation",
+      "Budget": "€40,000",
+      "Research programme": "Innofest X SIA"
+    },
+    "sections": {},
+    "downloads": [],
+    "contacts": [
+      {
+        "name": "Sanne Heijink",
+        "role": "Program manager",
+        "phone": "+31 6 23431933",
+        "email": "sanne.heijink@regieorgaan-sia.nl"
+      }
+    ]
+  },
+  {
     "id": "nwa-knowledge-about-unprotected-species-for-sustainable-fisheries-policy",
     "url": "https://www.nwo.nl/en/calls/nwa-knowledge-about-unprotected-species-for-sustainable-fisheries-policy",
     "title": "NWA Knowledge about unprotected species for sustainable fisheries policy",
@@ -19892,46 +19874,6 @@
     ]
   },
   {
-    "id": "innofest-x-sia",
-    "url": "https://www.nwo.nl/en/calls/innofest-x-sia",
-    "title": "Innofest X SIA",
-    "status": "closed",
-    "status_raw": "Closed",
-    "budget": "€40,000",
-    "finance_type": "Applied Science",
-    "programme": "Innofest X SIA",
-    "target_groups": "Interdisciplinary Collaboration Applied Sciences Research Knowledge Utilisation",
-    "deadline_iso": null,
-    "deadline_dates": [
-      "2026-01-29T12:00:00Z"
-    ],
-    "primary_pdf": null,
-    "pdf_urls": [],
-    "characteristics": {
-      "Status": "Closed",
-      "Closing date full application": {
-        "display": "29 January 2026",
-        "iso": [
-          "2026-01-29T12:00:00Z"
-        ]
-      },
-      "Finance type": "Applied Science",
-      "For specific groups": "Interdisciplinary Collaboration Applied Sciences Research Knowledge Utilisation",
-      "Budget": "€40,000",
-      "Research programme": "Innofest X SIA"
-    },
-    "sections": {},
-    "downloads": [],
-    "contacts": [
-      {
-        "name": "Sanne Heijink",
-        "role": "Program manager",
-        "phone": "+31 6 23431933",
-        "email": "sanne.heijink@regieorgaan-sia.nl"
-      }
-    ]
-  },
-  {
     "id": "cooperation-germany-von-humboldt-stiftung-vhs",
     "url": "https://www.nwo.nl/en/calls/cooperation-germany-von-humboldt-stiftung-vhs",
     "title": "Cooperation Germany - von Humboldt Stiftung (VHS)",
@@ -20012,108 +19954,6 @@
         "role": "Programme/ Policy Officer",
         "phone": "+31 6 57494934",
         "email": "bezoekersbeurzen@nwo.nl"
-      }
-    ]
-  },
-  {
-    "id": "impact-explorer-2025",
-    "url": "https://www.nwo.nl/en/calls/impact-explorer-2025",
-    "title": "Impact Explorer 2025",
-    "status": "open",
-    "status_raw": "Open calls Continuous",
-    "budget": "€1,000,000",
-    "finance_type": "Curiosity Driven Research",
-    "programme": "Impact Explorer",
-    "target_groups": "Collaboration with social partners Knowledge Utilisation",
-    "deadline_iso": null,
-    "deadline_dates": [
-      "2025-02-04T23:59:00",
-      "2026-02-03T23:59:00",
-      "2026-02-05T12:00:00Z"
-    ],
-    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Impact%20Explorer%202025%20Call%20EN.pdf",
-    "pdf_urls": [
-      "https://www.nwo.nl/sites/nwo/files/media-files/Impact%20Explorer%202025%20Call%20EN.pdf"
-    ],
-    "characteristics": {
-      "Status": "Open calls Continuous",
-      "Closing date full application": {
-        "display": "5 February 2026",
-        "iso": [
-          "2026-02-05T12:00:00Z"
-        ]
-      },
-      "Finance type": "Curiosity Driven Research",
-      "For specific groups": "Collaboration with social partners Knowledge Utilisation",
-      "Budget": "€1,000,000",
-      "Research programme": "Impact Explorer"
-    },
-    "sections": {
-      "purpose": {
-        "title": "Purpose",
-        "text": "The purpose of this Call for Proposals, identically to the earlier Impact Explorer round, is to explore opportunities for societal impact arising from curiosity-driven research. These are opportunities and ideas that were not anticipated in advance when the project plan was made, but have emerged during the lifetime of a project. The grant is intended for activities to validate the potential societal impact of discoveries from more curiosity-driven research from the Talent Line and Open Competitions of both NWO and ZonMw and to explore a route towards it."
-      },
-      "who_can_apply": {
-        "title": "Who can apply",
-        "text": "Researchers with a running project in one of NWO or ZonMw's open competitions or talent line programmes can submit. An applicant may have one substantive submission within the Impact Explorer Call. Besides the main applicant Impact Explorer applications should be submitted with at least one Impact Partner. For specific conditions see chapter 3.1 in the call."
-      },
-      "what_to_apply_for": {
-        "title": "What to apply for",
-        "text": "Researchers can apply for a minimum of 20,000 and a maximum of 30,000 euro. It is not possible to use it to extend or fund appointments of temporary academic staff."
-      },
-      "when_to_apply": {
-        "title": "When to apply",
-        "text": "Proposals can be submitted to NWO on a continuous basis from 4 February 2025 until 3 February 2026 before 14:00:00 CET."
-      },
-      "assessment": {
-        "title": "Assessment",
-        "text": "Criteria An application will be assessed individually for: Appropriateness to the objective of the programme Quality and feasibility of the project plan Quality of the team See the call for details. Procedure Each application is assessed individually whether it is of sufficient quality to be granted. This is done by means of a jury without referees."
-      },
-      "more_information": {
-        "title": "More information",
-        "text": "The main changes of this extension from the earlier Impact Explorer round 2023 are: Addition of collection times for proposals in continuous submission, as described in chapter 1.3 and 4.2.3 in the call; An applicant may have one substantive submission assessed within the Impact Explorer Call."
-      },
-      "write_proposal": {
-        "title": "Write proposal",
-        "text": "Fill in the application form. There is relatively limited space to elaborate in details. The jury is not composed of experts from your own field, so keep this in mind when writing the application. In addition, make sure you look for an Impact Partner as early in the process as possible."
-      },
-      "fill_in_forms": {
-        "title": "Fill in forms",
-        "text": "You need to complete both the application form and obtain a letter of support from the Impact Partner. In the situation that your contract ends during the project, a statement appointment and project supervision is also required."
-      }
-    },
-    "downloads": [
-      {
-        "name": "Impact Explorer 2025 | call for proposals",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Impact%20Explorer%202025%20Call%20EN.pdf",
-        "type": "pdf",
-        "size": "343.25 KB"
-      },
-      {
-        "name": "Impact Explorer 2025 | application form",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/concept%20Impact%20Explorer%20aanvraagformulier%20pilot%20v5_EN%20%281%29.docx",
-        "type": "docx",
-        "size": "96.48 KB"
-      },
-      {
-        "name": "Impact Explorer 2025 | letter of support",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/sjabloon%20steunbrief%20Impact%20Partner%20EN%20def.docx",
-        "type": "docx",
-        "size": "56.67 KB"
-      },
-      {
-        "name": "Impact Explorer 2025 | statement appointment and project supervision",
-        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Statement_appointment_and_project_supervision_EN_v1%20%284%29.docx",
-        "type": "docx",
-        "size": "25.83 KB"
-      }
-    ],
-    "contacts": [
-      {
-        "name": "Sam Rijken",
-        "role": "Policy Officer",
-        "phone": "+31 (0)70 3494437",
-        "email": "impactexplorer@nwo.nl"
       }
     ]
   },
@@ -20526,6 +20366,108 @@
         "role": "Programme/ policy officer",
         "phone": "+31 (0)70 - 344 09 31",
         "email": "sgwoc@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "impact-explorer-2025",
+    "url": "https://www.nwo.nl/en/calls/impact-explorer-2025",
+    "title": "Impact Explorer 2025",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "€1,000,000",
+    "finance_type": "Curiosity Driven Research",
+    "programme": "Impact Explorer",
+    "target_groups": "Collaboration with social partners Knowledge Utilisation",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2025-02-04T23:59:00",
+      "2026-02-03T23:59:00",
+      "2026-02-05T12:00:00Z"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/Impact%20Explorer%202025%20Call%20EN.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/Impact%20Explorer%202025%20Call%20EN.pdf"
+    ],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date full application": {
+        "display": "5 February 2026",
+        "iso": [
+          "2026-02-05T12:00:00Z"
+        ]
+      },
+      "Finance type": "Curiosity Driven Research",
+      "For specific groups": "Collaboration with social partners Knowledge Utilisation",
+      "Budget": "€1,000,000",
+      "Research programme": "Impact Explorer"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "The purpose of this Call for Proposals, identically to the earlier Impact Explorer round, is to explore opportunities for societal impact arising from curiosity-driven research. These are opportunities and ideas that were not anticipated in advance when the project plan was made, but have emerged during the lifetime of a project. The grant is intended for activities to validate the potential societal impact of discoveries from more curiosity-driven research from the Talent Line and Open Competitions of both NWO and ZonMw and to explore a route towards it."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Researchers with a running project in one of NWO or ZonMw's open competitions or talent line programmes can submit. An applicant may have one substantive submission within the Impact Explorer Call. Besides the main applicant Impact Explorer applications should be submitted with at least one Impact Partner. For specific conditions see chapter 3.1 in the call."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "Researchers can apply for a minimum of 20,000 and a maximum of 30,000 euro. It is not possible to use it to extend or fund appointments of temporary academic staff."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "Proposals can be submitted to NWO on a continuous basis from 4 February 2025 until 3 February 2026 before 14:00:00 CET."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria An application will be assessed individually for: Appropriateness to the objective of the programme Quality and feasibility of the project plan Quality of the team See the call for details. Procedure Each application is assessed individually whether it is of sufficient quality to be granted. This is done by means of a jury without referees."
+      },
+      "more_information": {
+        "title": "More information",
+        "text": "The main changes of this extension from the earlier Impact Explorer round 2023 are: Addition of collection times for proposals in continuous submission, as described in chapter 1.3 and 4.2.3 in the call; An applicant may have one substantive submission assessed within the Impact Explorer Call."
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "Fill in the application form. There is relatively limited space to elaborate in details. The jury is not composed of experts from your own field, so keep this in mind when writing the application. In addition, make sure you look for an Impact Partner as early in the process as possible."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "You need to complete both the application form and obtain a letter of support from the Impact Partner. In the situation that your contract ends during the project, a statement appointment and project supervision is also required."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Impact Explorer 2025 | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Impact%20Explorer%202025%20Call%20EN.pdf",
+        "type": "pdf",
+        "size": "343.25 KB"
+      },
+      {
+        "name": "Impact Explorer 2025 | application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/concept%20Impact%20Explorer%20aanvraagformulier%20pilot%20v5_EN%20%281%29.docx",
+        "type": "docx",
+        "size": "96.48 KB"
+      },
+      {
+        "name": "Impact Explorer 2025 | letter of support",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/sjabloon%20steunbrief%20Impact%20Partner%20EN%20def.docx",
+        "type": "docx",
+        "size": "56.67 KB"
+      },
+      {
+        "name": "Impact Explorer 2025 | statement appointment and project supervision",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/Statement_appointment_and_project_supervision_EN_v1%20%284%29.docx",
+        "type": "docx",
+        "size": "25.83 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sam Rijken",
+        "role": "Policy Officer",
+        "phone": "+31 (0)70 3494437",
+        "email": "impactexplorer@nwo.nl"
       }
     ]
   },
@@ -22404,6 +22346,136 @@
         "role": "Policy officer",
         "phone": "+31 (0)70 3494361",
         "email": "rubicon@nwo.nl"
+      }
+    ]
+  },
+  {
+    "id": "kic-robust-and-resilient-space-infrastructure-for-a-secure-netherlands",
+    "url": "https://www.nwo.nl/en/calls/kic-robust-and-resilient-space-infrastructure-for-a-secure-netherlands",
+    "title": "KIC Robust and resilient space infrastructure for a secure Netherlands",
+    "status": "closed",
+    "status_raw": "Closed",
+    "budget": "€7,000,000",
+    "finance_type": "",
+    "programme": "Knowledge and Innovation Covenant Mission 2024-2027 Robust and resilient space infrastructure for a safe Netherlands",
+    "target_groups": "",
+    "deadline_iso": null,
+    "deadline_dates": [
+      "2026-03-19T23:59:00",
+      "2026-04-02T12:00:00Z",
+      "2026-04-02T23:59:00"
+    ],
+    "primary_pdf": "https://www.nwo.nl/sites/nwo/files/media-files/1-CfP-Robust-and-resilient-space-infrastructure-for-a-secure-Netherlands_ENG2.pdf",
+    "pdf_urls": [
+      "https://www.nwo.nl/sites/nwo/files/media-files/1-CfP-Robust-and-resilient-space-infrastructure-for-a-secure-Netherlands_ENG2.pdf"
+    ],
+    "characteristics": {
+      "Status": "Closed",
+      "Closing date full application": {
+        "display": "2 April 2026",
+        "iso": [
+          "2026-04-02T12:00:00Z"
+        ]
+      },
+      "Budget": "€7,000,000",
+      "Research programme": "Knowledge and Innovation Covenant Mission 2024-2027 Robust and resilient space infrastructure for a safe Netherlands"
+    },
+    "sections": {
+      "purpose": {
+        "title": "Purpose",
+        "text": "Space infrastructure is essential for communication, remote sensing, positioning, and time information, but it is also vulnerable to sabotage, espionage, and collisions with space debris from decommissioned or non-functioning satellites, as well as to natural disruptions. To strengthen the resilience of space infrastructure, it is important that the Dutch research community, industry, and government are well prepared and protect this infrastructure through innovative technologies, based on solid legal, ethical, and strategic security frameworks. This Call for proposals focuses on strengthening a robust and resilient space infrastructure for a secure Netherlands. This Call for proposals specifically invites research proposals addressing the following themes: Critical technologies to enhance the resilience and protection of space infrastructure (consortia are required to address this aspect in their proposal). Associated legal, ethical, and strategic security frameworks (consortia must explicitly describe in their proposal how these frameworks are integrated into the design, implementation, and application of their research)."
+      },
+      "who_can_apply": {
+        "title": "Who can apply",
+        "text": "Proposals are submitted by the main applicant and one or more co-applicants. A proposal is written by a consortium in which besides the applicants other participants are involved as well. Four categories of participants can be distinguished in the consortium: Main applicant Co-applicant(s) Co-funder(s) Cooperation partner(s) A consortium must consist of at least one main applicant, one co-applicant, and two co-funders, possibly supplemented by one or more cooperation partners. The conditions for each participant are explained in more detail in the following sections. All consortium partners must play an active role in formulating the research questions and in the design and implementation of the project."
+      },
+      "consortium_building": {
+        "title": "Consortium building",
+        "text": "At 4th of February 2026, NWO will organize a matchmaking event for this Call for Proposals. Participation in this event is recommended but not mandatory."
+      },
+      "what_to_apply_for": {
+        "title": "What to apply for",
+        "text": "For a proposal submitted in this Call for proposals, applicants can request a minimum of €1.000,000 and a maximum of €2,000,000 in NWO funding. NWO will fund up to 80% of the total project budget; the remaining portion must be covered through mandatory co-funding (see section 3.5.6). NWO will never fund less than 50% of the total project budget. Applicants and co-applicants may include costs for personnel, materials, investments, knowledge utilization, and project management."
+      },
+      "when_to_apply": {
+        "title": "When to apply",
+        "text": "The deadline for submitting proposals is 2 April 2026 , before 14:00:00 CEST. The deadline for submitting a request for the assessment of foreign organizations (see section 7.1.1) is 19 March 2026 , before 14:00:00 CEST."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "text": "Criteria The pre-proposals submitted within this Call for proposals will be substantially assessed on the basis of the following criteria: Problem definition and analysis (20%) Envisaged impact and route to impact (20%) Quality of the consortium (30%) Quality of the research (30%) Procedure The application procedure consists of the following steps: submission research idea (not obligatory) matchmaking; submission of the proposal; admissibility of the proposal; peer review by referees; rebuttal; pre-advice assessment committee; interview selection; interview; assessment committee meeting; decision-making. An external, independent assessment committee will be assigned for this Call for proposals, consisting of representatives from the research field and society with knowledge of (partial aspects of) the topic."
+      },
+      "write_proposal": {
+        "title": "Write proposal",
+        "text": "These conditions are: the main applicant and co-applicant(s) meet the conditions stated in Section 3.1 and Section 7.1.1; the applying consortium contains two or more co-funders; the application complies with the DORA guidelines as described in Section 4.1; the application is submitted via the main applicant’s ISAAC account; the application is received before the deadline; the application is written in English; the proposed project has a duration of at most 6 years; all of the required annexes and forms are, after a possible request to make additions or changes, have been completed and submitted completely and according to the instructions and in accordance with the terms of this Call for proposals. the budget in the application has been prepared according to the terms of this Call for proposals (using the format made available which includes the most recent rates); the required co-financing has been correctly and fully committed through co-financing statements."
+      },
+      "fill_in_forms": {
+        "title": "Fill in forms",
+        "text": "Compulsory annexes: budget form; declarations co-funding from co-funders (see Section 3.1.2 and 3.5.6); form ‘Statement and signature’; letter guaranteeing the continuity of project supervision (if applicable, see Section 3.1 of the Call for Proposals ); confirmation of own contribution to investments (only if applicable, see section 7.1 of the Call for Proposals); Knowledge security statement. The proposal and the appendix(es) must be drawn up in accordance with the template provided by NWO. Annexes must be uploaded in ISAAC separately from the application. All of the annexes, except for the budget, must be submitted as PDF files (without encryption). The budget must be submitted in ISAAC as an Excel file. When submitting the proposal, the attached declarations co-funding should guarantee the full required amount of co-funding in line with the conditions of Section 3.5.6. Any annexes other than those above-mentioned are not permitted."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Robust and resilient space infrastructure for a secure Netherlands | call for proposals",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/1-CfP-Robust-and-resilient-space-infrastructure-for-a-secure-Netherlands_ENG2.pdf",
+        "type": "pdf",
+        "size": "546.16 KB"
+      },
+      {
+        "name": "Robust and resilient space infrastructure for a secure Netherlands | application form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/2-Application-form-Robust-and-resilient-space-infrastructure-for-a-safe-Netherlands_ENG.docx",
+        "type": "docx",
+        "size": "135.69 KB"
+      },
+      {
+        "name": "Robust and resilient space infrastructure for a secure Netherlands | budget form",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/3-Budget-form-Robust-and-resilient-space-infrastructure-for-a-secure-Netherlands_ENG.xlsx",
+        "type": "xlsx",
+        "size": "381.4 KB"
+      },
+      {
+        "name": "Robust and resilient space infrastructure for a secure Netherlands | declaration co-funding",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/4-Declaration-co-funding_ENG.docx",
+        "type": "docx",
+        "size": "148.08 KB"
+      },
+      {
+        "name": "Robust and resilient space infrastructure for a secure Netherlands | statement appointment and project supervision",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/5-Statement_appointment_and_project_supervision_ENG.docx",
+        "type": "docx",
+        "size": "24.2 KB"
+      },
+      {
+        "name": "Robust and resilient space infrastructure for a secure Netherlands | form statements and signature",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/6-Form-Statements-and-signature_ENG.docx",
+        "type": "docx",
+        "size": "53.81 KB"
+      },
+      {
+        "name": "Robust and resilient space infrastructure for a secure Netherlands | declaration knowledge security",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/7-Declaration-Knowledge-Security_ENG.docx",
+        "type": "docx",
+        "size": "134.01 KB"
+      },
+      {
+        "name": "RRobust and resilient space infrastructure for a secure Netherlands | declaration research organisation",
+        "url": "https://www.nwo.nl/sites/nwo/files/media-files/otp_2026_declaration_research_organisation_0.docx",
+        "type": "docx",
+        "size": "141.34 KB"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Elvin 't Hart",
+        "role": "Programme officer",
+        "phone": "+31 6 30410823",
+        "email": "KIC-Space2025@nwo.nl"
+      },
+      {
+        "name": "Daniël Muller",
+        "role": "Policy officer",
+        "phone": "+31 6 44219805",
+        "email": "kic-space2025@nwo.nl"
       }
     ]
   }
