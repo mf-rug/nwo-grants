@@ -290,7 +290,10 @@ finance_filter = st.sidebar.multiselect(
     "Finance type", ALL_FINANCE, label_visibility="collapsed"
 )
 
-consortium_only = st.sidebar.toggle("Consortium grants only", value=False)
+st.sidebar.markdown("**Grant type**")
+grant_type = st.sidebar.segmented_control(
+    "Grant type", ["All", "Personal", "Consortium"], default="All", label_visibility="collapsed"
+) or "All"
 
 st.sidebar.markdown("**Deadline within**")
 DEADLINE_WINDOWS = {
@@ -342,7 +345,7 @@ filtered = [
     if matches_query(g, query)
     and (not selected_statuses or g.get("status") in selected_statuses)
     and (not finance_filter or g.get("finance_type") in finance_filter)
-    and (not consortium_only or is_consortium(g))
+    and (grant_type == "All" or (grant_type == "Consortium") == is_consortium(g))
     and (cutoff is None or next_deadline(g, now) <= cutoff)
     and (not has_pdf or g.get("primary_pdf"))
 ]
