@@ -29,36 +29,43 @@ st.html("""
 ::-webkit-scrollbar-thumb:hover{background:var(--accent);}
 
 /* ── Sidebar ── */
-[data-testid="stSidebar"]{background:var(--surface)!important;border-right:1px solid var(--border)!important;}
-[data-testid="stSidebar"]>div:first-child{padding:.5rem .8rem .8rem!important;}
-[data-testid="stSidebarHeader"]{padding:.3rem .5rem!important;min-height:0!important;}
-/* Hide collapse/expand controls — sidebar is always visible */
+[data-testid="stSidebar"]{background:var(--surface)!important;border-right:1px solid var(--border)!important;width:340px!important;min-width:340px!important;}
+[data-testid="stSidebar"]>div:first-child{padding:0 .9rem .8rem!important;}
+[data-testid="stSidebarHeader"]{padding:0!important;min-height:0!important;max-height:0!important;overflow:hidden!important;}
 [data-testid="stSidebarCollapseButton"],[data-testid="collapsedControl"]{display:none!important;}
+/* Section boxes */
+.sb-section{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:.5rem .65rem;margin-bottom:.45rem;}
+.sb-section-label{font-size:.55rem;color:var(--text-dim);font-family:var(--fm);letter-spacing:.13em;text-transform:uppercase;margin:0 0 .3rem;font-weight:500;}
 /* Title */
-[data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:.9rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.15em!important;text-transform:uppercase!important;margin:.1rem 0 .4rem!important;}
-/* Section labels */
-[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p,[data-testid="stSidebar"] [data-testid="stWidgetLabel"] p{font-size:.56rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.12em!important;text-transform:uppercase!important;margin:.4rem 0 .05rem!important;}
+[data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:.85rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.15em!important;text-transform:uppercase!important;margin:.7rem 0 .5rem!important;}
+/* Generic label suppression — we use custom HTML labels */
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p{font-size:.55rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.12em!important;text-transform:uppercase!important;margin:.05rem 0!important;}
+[data-testid="stSidebar"] [data-testid="stWidgetLabel"] p{font-size:.55rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.12em!important;text-transform:uppercase!important;margin:0!important;}
 /* Inputs */
-[data-testid="stSidebar"] input[type="text"]{background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:6px!important;color:var(--text)!important;font-family:var(--fb)!important;font-size:.82rem!important;padding:.25rem .55rem!important;}
+[data-testid="stSidebar"] input[type="text"]{background:var(--surface2)!important;border:1px solid var(--border)!important;border-radius:6px!important;color:var(--text)!important;font-family:var(--fb)!important;font-size:.82rem!important;padding:.25rem .55rem!important;}
 [data-testid="stSidebar"] input[type="text"]:focus{border-color:var(--accent)!important;box-shadow:0 0 0 2px var(--accent-lo)!important;outline:none!important;}
-/* Checkboxes — very tight */
+/* Checkboxes — ultra tight */
 [data-testid="stSidebar"] [data-testid="stCheckbox"]{margin-bottom:0!important;min-height:0!important;}
-[data-testid="stSidebar"] [data-testid="stCheckbox"] label{padding:.05rem 0!important;gap:.35rem!important;}
-[data-testid="stSidebar"] [data-testid="stCheckbox"] label p,[data-testid="stSidebar"] [data-testid="stCheckbox"] label span{color:var(--text)!important;font-size:.79rem!important;font-family:var(--fb)!important;}
+[data-testid="stSidebar"] [data-testid="stCheckbox"] label{padding:0!important;gap:.3rem!important;min-height:1.4rem!important;}
+[data-testid="stSidebar"] [data-testid="stCheckbox"] label p,[data-testid="stSidebar"] [data-testid="stCheckbox"] label span{color:var(--text)!important;font-size:.78rem!important;font-family:var(--fb)!important;}
+[data-testid="stSidebar"] [data-testid="stCheckbox"] svg{width:14px!important;height:14px!important;}
 /* Segmented controls */
 [data-testid="stSidebar"] [data-testid="stSegmentedControl"]{width:100%!important;}
-[data-testid="stSidebar"] [data-testid="stSegmentedControl"] div[role="group"]{background:var(--bg)!important;border:1px solid var(--border)!important;border-radius:7px!important;padding:2px!important;gap:2px!important;}
-[data-testid="stSidebar"] [data-testid="stSegmentedControl"] button{font-family:var(--fb)!important;font-size:.75rem!important;border-radius:5px!important;color:var(--text-dim)!important;border:none!important;background:transparent!important;transition:all .12s!important;white-space:nowrap!important;padding:.3rem .5rem!important;}
+[data-testid="stSidebar"] [data-testid="stSegmentedControl"] div[role="group"]{background:var(--surface2)!important;border:1px solid var(--border)!important;border-radius:7px!important;padding:2px!important;gap:2px!important;}
+[data-testid="stSidebar"] [data-testid="stSegmentedControl"] button{font-family:var(--fb)!important;font-size:.74rem!important;border-radius:5px!important;color:var(--text-dim)!important;border:none!important;background:transparent!important;transition:all .12s!important;white-space:nowrap!important;padding:.25rem .5rem!important;}
 [data-testid="stSidebar"] [data-testid="stSegmentedControl"] button[aria-checked="true"]{background:var(--accent-lo)!important;color:var(--accent)!important;font-weight:600!important;}
 [data-testid="stSidebar"] [data-testid="stSegmentedControl"] button:hover{color:var(--text)!important;background:var(--surface2)!important;}
 /* Toggle switches */
-[data-testid="stSidebar"] [data-testid="stToggle"] label p,[data-testid="stSidebar"] [data-testid="stToggle"] span{color:var(--text)!important;font-size:.79rem!important;font-family:var(--fb)!important;}
-[data-testid="stSidebar"] [data-testid="stToggle"]{margin:.05rem 0!important;}
+[data-testid="stSidebar"] [data-testid="stToggle"] label p,[data-testid="stSidebar"] [data-testid="stToggle"] span{color:var(--text)!important;font-size:.78rem!important;font-family:var(--fb)!important;}
+[data-testid="stSidebar"] [data-testid="stToggle"]{margin:0!important;}
 /* Select / multiselect */
-[data-testid="stSidebar"] [data-testid="stSelectbox"]>div>div,[data-testid="stSidebar"] [data-testid="stMultiSelect"]>div>div{background:var(--bg)!important;border-color:var(--border)!important;border-radius:6px!important;font-size:.81rem!important;}
-[data-testid="stSidebar"] hr{border-color:var(--border)!important;margin:.3rem 0!important;}
-/* 2-column layout for checkboxes in sidebar */
+[data-testid="stSidebar"] [data-testid="stSelectbox"]>div>div,[data-testid="stSidebar"] [data-testid="stMultiSelect"]>div>div{background:var(--surface2)!important;border-color:var(--border)!important;border-radius:6px!important;font-size:.81rem!important;}
+[data-testid="stSidebar"] hr{border-color:var(--border)!important;margin:.35rem 0!important;}
+/* Columns tight */
 [data-testid="stSidebar"] [data-testid="column"]{padding:0!important;}
+/* Slider */
+[data-testid="stSidebar"] [data-testid="stSlider"]{padding-top:0!important;}
+[data-testid="stSidebar"] [data-testid="stSlider"] [data-testid="stWidgetLabel"]{margin-bottom:-.3rem!important;}
 
 /* ── Main ── */
 .main .block-container{padding-top:1.5rem!important;}
@@ -122,6 +129,9 @@ MD_BASE    = "https://raw.githubusercontent.com/mf-rug/nwo-grants/main/md"
 
 @st.cache_data(ttl=3600)
 def load_grants():
+    local = Path("grants.json")
+    if local.exists():
+        return json.load(open(local))
     r = requests.get(GRANTS_URL, timeout=15)
     r.raise_for_status()
     return r.json()
@@ -274,28 +284,50 @@ if detail_id:
 # ── Sidebar ────────────────────────────────────────────────────────────────────
 st.sidebar.title("NWO Grants")
 
-query = st.sidebar.text_input("Search", placeholder="Keywords…", label_visibility="collapsed")
+query = st.sidebar.text_input("Search", placeholder="Search grants…", label_visibility="collapsed")
 
-st.sidebar.markdown("**Status**")
-_scols = st.sidebar.columns(2)
+# ── Section: For me ──
+AI_POSITIONS = [
+    "Any", "PhD candidate", "Postdoc", "Assistant professor",
+    "Associate professor", "Full professor", "Lector (HBO)", "Non-academic",
+]
+AI_FIELDS = [
+    "Physics & Astronomy", "Chemistry", "Mathematics & Computer Science",
+    "Biology & Life Sciences", "Earth & Environmental Sciences",
+    "Engineering & Technology", "Medical & Health Sciences",
+    "Social Sciences", "Humanities & Arts", "Law & Governance",
+    "Economics & Business", "Agriculture & Food", "Education",
+]
+
+st.sidebar.markdown("**For me**")
+_me_cols = st.sidebar.columns(2)
+my_position = _me_cols[0].selectbox("Position", AI_POSITIONS)
+my_field = _me_cols[1].selectbox("Field", ["Any"] + AI_FIELDS)
+if my_position != "Any":
+    position_role = st.sidebar.segmented_control(
+        "Role", ["Can lead", "Can participate"], default="Can participate", label_visibility="collapsed"
+    ) or "Can participate"
+else:
+    position_role = "Can participate"
+if my_field != "Any":
+    field_threshold = st.sidebar.slider("Field match (1=loose, 10=exact)", 1, 10, 5, key="field_thresh")
+else:
+    field_threshold = 0
+
+# ── Section: Filters ──
+st.sidebar.markdown("**Filters**")
 _slabels = {"open":"Open","upcoming":"Upcoming","in_preparation":"In Prep",
             "in_progress":"In Progress","closed":"Closed"}
+_scols = st.sidebar.columns(2)
 selected_statuses = [
     s for i, s in enumerate(ALL_STATUSES)
     if _scols[i % 2].checkbox(_slabels[s], value=(s in ("open","upcoming")), key=s)
 ]
 
-st.sidebar.markdown("**Finance type**")
-finance_filter = st.sidebar.multiselect(
-    "Finance type", ALL_FINANCE, label_visibility="collapsed"
-)
-
-st.sidebar.markdown("**Grant type**")
 grant_type = st.sidebar.segmented_control(
-    "Grant type", ["All", "Personal", "Consortium"], default="All", label_visibility="collapsed"
+    "Type", ["All", "Personal", "Consortium"], default="All", label_visibility="collapsed"
 ) or "All"
 
-st.sidebar.markdown("**Deadline within**")
 DEADLINE_WINDOWS = {
     "Any": None,
     "2 weeks": 14,
@@ -303,22 +335,20 @@ DEADLINE_WINDOWS = {
     "3 months": 90,
     "6 months": 180,
 }
-deadline_window = st.sidebar.selectbox(
-    "Deadline within", list(DEADLINE_WINDOWS.keys()), label_visibility="collapsed"
-)
+_dl_cols = st.sidebar.columns(2)
+deadline_window = _dl_cols[0].selectbox("Deadline within", list(DEADLINE_WINDOWS.keys()))
+finance_filter = _dl_cols[1].multiselect("Finance type", ALL_FINANCE, placeholder="Any")
 
-has_pdf = st.sidebar.toggle("Has PDF only", value=False)
+has_pdf = st.sidebar.toggle("PDF only", value=False)
 
-st.sidebar.markdown("---")
-st.sidebar.markdown("**Sort**")
+# ── Section: Display ──
+st.sidebar.markdown("**Display**")
 sort_by = st.sidebar.segmented_control(
     "Sort", ["Nearest deadline", "Title"], default="Nearest deadline", label_visibility="collapsed"
 ) or "Nearest deadline"
-st.sidebar.markdown("**View**")
 view_mode = st.sidebar.segmented_control(
     "View", ["List", "Cards"], default="List", label_visibility="collapsed"
 ) or "List"
-st.sidebar.markdown("**Detail**")
 detail_level = st.sidebar.segmented_control(
     "Detail", ["Tight", "Extended"], default="Tight", label_visibility="collapsed"
 ) or "Tight"
@@ -340,12 +370,41 @@ now = datetime.utcnow()
 cutoff_days = DEADLINE_WINDOWS[deadline_window]
 cutoff = now + timedelta(days=cutoff_days) if cutoff_days else None
 
+_POS_RANK = {
+    "PhD candidate": 1, "Postdoc": 2, "Assistant professor": 3,
+    "Associate professor": 4, "Full professor": 5,
+}
+
+def matches_position(g):
+    if my_position == "Any":
+        return True
+    ai = g.get("ai_classification", {})
+    key = "can_lead" if position_role == "Can lead" else "can_participate"
+    positions = ai.get(key, [])
+    if "Any researcher" in positions:
+        return True
+    my_rank = _POS_RANK.get(my_position)
+    if my_rank:
+        # Grant requiring position X implicitly accepts ranks above X too
+        return any(_POS_RANK.get(p, 0) <= my_rank for p in positions)
+    # Non-ranked positions (Lector, Non-academic): exact match only
+    return my_position in positions
+
+def matches_field(g):
+    if my_field == "Any":
+        return True
+    ai = g.get("ai_classification", {})
+    fields = ai.get("fields", {})
+    return fields.get(my_field, 0) >= field_threshold
+
 filtered = [
     g for g in grants
     if matches_query(g, query)
     and (not selected_statuses or g.get("status") in selected_statuses)
     and (not finance_filter or g.get("finance_type") in finance_filter)
     and (grant_type == "All" or (grant_type == "Consortium") == is_consortium(g))
+    and matches_position(g)
+    and matches_field(g)
     and (cutoff is None or next_deadline(g, now) <= cutoff)
     and (not has_pdf or g.get("primary_pdf"))
 ]
