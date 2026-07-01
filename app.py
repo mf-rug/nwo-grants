@@ -37,7 +37,8 @@ st.html("""
 .sb-section{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:.5rem .65rem;margin-bottom:.45rem;}
 .sb-section-label{font-size:.55rem;color:var(--text-dim);font-family:var(--fm);letter-spacing:.13em;text-transform:uppercase;margin:0 0 .3rem;font-weight:500;}
 /* Title */
-[data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:.85rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.15em!important;text-transform:uppercase!important;margin:.7rem 0 .5rem!important;}
+[data-testid="stSidebar"] h1{font-family:var(--fh)!important;font-size:.85rem!important;font-weight:800!important;color:var(--accent)!important;letter-spacing:.15em!important;text-transform:uppercase!important;margin:.7rem 0 .1rem!important;}
+.sb-updated{font-family:var(--fm);font-size:.58rem;color:var(--text-dim);letter-spacing:.04em;margin:0 0 .5rem;}
 /* Generic label suppression — we use custom HTML labels */
 [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p{font-size:.55rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.12em!important;text-transform:uppercase!important;margin:.05rem 0!important;}
 [data-testid="stSidebar"] [data-testid="stWidgetLabel"] p{font-size:.55rem!important;color:var(--text-dim)!important;font-family:var(--fm)!important;letter-spacing:.12em!important;text-transform:uppercase!important;margin:0!important;}
@@ -135,6 +136,26 @@ def load_grants():
     r = requests.get(GRANTS_URL, timeout=15)
     r.raise_for_status()
     return r.json()
+
+COMMITS_API = "https://api.github.com/repos/mf-rug/nwo-grants/commits?path=grants.json&per_page=1"
+
+@st.cache_data(ttl=3600)
+def load_last_updated():
+    """Date grants.json was last refreshed = commit date of the auto-update.
+
+    The commit date is the true 'last fetch from NWO'. Local file mtime only
+    reflects the last deploy/clone, so it's used solely as an offline fallback.
+    """
+    try:
+        r = requests.get(COMMITS_API, timeout=10)
+        r.raise_for_status()
+        iso = r.json()[0]["commit"]["committer"]["date"]
+        return datetime.fromisoformat(iso.replace("Z", "+00:00")).strftime("%d %b %Y")
+    except (requests.RequestException, KeyError, IndexError, ValueError):
+        local = Path("grants.json")
+        if local.exists():
+            return datetime.utcfromtimestamp(local.stat().st_mtime).strftime("%d %b %Y")
+        return None
 
 @st.cache_data(ttl=3600)
 def load_md(grant_id: str):
@@ -283,6 +304,12 @@ if detail_id:
 
 # ── Sidebar ────────────────────────────────────────────────────────────────────
 st.sidebar.title("NWO Grants")
+_last_updated = load_last_updated()
+if _last_updated:
+    st.sidebar.markdown(
+        f'<div class="sb-updated">Data updated {_last_updated}</div>',
+        unsafe_allow_html=True,
+    )
 
 query = st.sidebar.text_input("Search", placeholder="Search grants…", label_visibility="collapsed")
 
