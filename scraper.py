@@ -45,6 +45,27 @@ def make_session():
     return s
 
 
+def fetch(session, url, *, retries=4, backoff=5):
+    """GET with retry + exponential backoff for transient server errors.
+
+    NWO's site intermittently returns 5xx (e.g. 503 Backend fetch failed).
+    Retry those and connection errors; raise on the final attempt.
+    """
+    for attempt in range(1, retries + 1):
+        try:
+            r = session.get(url, timeout=30)
+            if r.status_code >= 500 and attempt < retries:
+                raise requests.HTTPError(f"{r.status_code} server error")
+            r.raise_for_status()
+            return r
+        except (requests.HTTPError, requests.ConnectionError, requests.Timeout) as e:
+            if attempt == retries:
+                raise
+            wait = backoff * attempt
+            log.warning(f"  fetch failed ({e}); retry {attempt}/{retries - 1} in {wait}s")
+            time.sleep(wait)
+
+
 def get_grant_urls(session):
     """Paginate through /en/calls and return all individual grant URLs."""
     urls = {}  # slug -> full url
@@ -52,8 +73,7 @@ def get_grant_urls(session):
     while True:
         url = f"{CALLS_URL}?page={page}" if page > 0 else CALLS_URL
         log.info(f"Listing page {page}: {url}")
-        r = session.get(url, timeout=30)
-        r.raise_for_status()
+        r = fetch(session, url)
         soup = BeautifulSoup(r.text, "html.parser")
 
         found = 0
@@ -117,8 +137,7 @@ def main():
 
         log.info(f"[{i}/{len(all_grants)}] Fetching: {url}")
         try:
-            r = session.get(url, timeout=30)
-            r.raise_for_status()
+            r = fetch(session, url)
             html_path.write_text(r.text, encoding="utf-8")
             manifest[slug] = url
             success += 1
