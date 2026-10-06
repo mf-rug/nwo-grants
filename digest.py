@@ -77,6 +77,10 @@ def _grant_brief(g):
         # in_preparation calls). The matcher must NOT invent a rationale for
         # these - fetch the live page or label them as unverified.
         "details_published": bool(purpose or who),
+        # {invited_only, note}: true only for calls limited to a pre-selected /
+        # invited / prior-awardee set. When true, exclude unless the subscriber is
+        # clearly among the eligible; when the record is thin, the page fetch decides.
+        "restrictions": g.get("restrictions") or {"invited_only": False, "note": ""},
         "first_seen": g.get("first_seen", ""),
     }
 

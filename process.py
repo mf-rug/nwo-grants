@@ -286,6 +286,49 @@ def normalise_status(raw):
 
 
 # ---------------------------------------------------------------------------
+# Eligibility restrictions
+# ---------------------------------------------------------------------------
+
+# High-precision patterns for a CLOSED / invited / prior-awardee applicant set —
+# the category grants.json otherwise can't express (e.g. LSRI National Roadmap is
+# open only to consortia already named on the Roadmap). Deliberately NOT matched:
+# "invited to submit" (open-call language), bare "restricted to", bare "roadmap"
+# — all common false friends in normal eligibility prose.
+RESTRICTION_PATTERNS = [
+    r"by invitation only", r"invitation[- ]only",
+    r"only be submitted for candidates who have been selected",
+    r"candidates who have been selected by",
+    r"have been selected by the",
+    r"pre-?selected (?:consortia|applicants|projects|candidates|parties)",
+    r"already (?:named|listed|selected) (?:on|in|by|as)",
+    r"consortia (?:that are )?already (?:named|listed|part)",
+    r"has been funded in (?:a|an|the)[^.]{0,40}(?:call|roadmap)",
+    r"only applied for by consortia associated",
+    r"only open to (?:the )?(?:selected|invited|named)",
+]
+_RESTRICTION_RE = re.compile("|".join(f"(?:{p})" for p in RESTRICTION_PATTERNS), re.I)
+
+
+def detect_restrictions(sections):
+    """Flag calls limited to a pre-selected/invited/prior-awardee applicant set.
+    Reads eligibility-bearing sections; returns {invited_only, note}. High
+    precision by design — misses are caught by the digest's per-call page fetch."""
+    parts = []
+    for key in ("who_can_apply", "purpose", "what_to_apply_for"):
+        sec = sections.get(key)
+        if isinstance(sec, dict) and sec.get("text"):
+            parts.append(sec["text"])
+    text = "  ".join(parts)
+    m = _RESTRICTION_RE.search(text)
+    if not m:
+        return {"invited_only": False, "note": ""}
+    start = text.rfind(".", 0, m.start()) + 1
+    end = text.find(".", m.end())
+    end = end + 1 if end != -1 else min(len(text), m.end() + 120)
+    return {"invited_only": True, "note": text[start:end].strip()[:200]}
+
+
+# ---------------------------------------------------------------------------
 # Process one grant from its HTML
 # ---------------------------------------------------------------------------
 
@@ -344,6 +387,7 @@ def process_html(slug, url, html):
         "sections":        sections,   # {slug: {title, text}}
         "downloads":       downloads,
         "contacts":        contacts,
+        "restrictions":    detect_restrictions(sections),
     }
 
 def _char_text(chars, key):

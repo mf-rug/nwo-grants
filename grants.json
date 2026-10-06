@@ -190,6 +190,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -359,6 +363,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -516,6 +524,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -681,7 +693,11 @@
         "phone": "+31 (0)30 6001269",
         "email": "quantum2026@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "open-competition-domain-science-xs-package-26-3",
@@ -798,7 +814,11 @@
         "phone": "+31 6 57726847",
         "email": "enw-xs@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "impact-explorer-2026",
@@ -906,7 +926,11 @@
         "phone": "+31 (0)70 3494688",
         "email": "NWA-samenwerking@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "clean-energy-transition-partnership-joint-call-2026",
@@ -1059,6 +1083,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -1236,6 +1264,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -1395,6 +1427,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -1569,6 +1605,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -1746,6 +1786,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -1851,7 +1895,11 @@
         "phone": "+31 (0)70 3494542",
         "email": "venturechallenge@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "holomicrobiome-2026-towards-novel-microbiome-applications-for-the-environment-food-and-health",
@@ -2050,6 +2098,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -2149,7 +2201,11 @@
         "phone": "+31 (0)64 9767830",
         "email": "Pact@hetkin.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "accelerating-energy-transition-in-dutch-and-taiwanese-ports",
@@ -2303,7 +2359,11 @@
         "phone": "+31 (0)70 3494598",
         "email": "NSTC-energytransition@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "antarctic-research-and-antarctica-insync",
@@ -2443,7 +2503,11 @@
         "phone": "+31 6 13017823",
         "email": "npp@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "scientific-meetings-and-consultations-2026",
@@ -2599,6 +2663,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -2709,6 +2777,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -2920,6 +2992,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -3031,7 +3107,11 @@
         "phone": "+31 (0)70 3495119",
         "email": "vidi@zonmw.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "nwo-talent-programme-vidi-applied-and-engineering-sciences-aes-2026",
@@ -3150,7 +3230,11 @@
         "phone": "+31 (0)65 1650934",
         "email": "ttw-vidi@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "nwo-talent-programme-vidi-social-sciences-and-humanities-ssh-2026",
@@ -3263,7 +3347,11 @@
         "phone": "+31 (0)70 344 0701",
         "email": "sgw-vidi@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "nwo-talent-programme-vidi-science-2026",
@@ -3371,7 +3459,11 @@
         "phone": "+31 (0)70 3494080",
         "email": "enw-vidi@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "mosaic-30",
@@ -3458,7 +3550,11 @@
         "size": "69.12 KB"
       }
     ],
-    "contacts": []
+    "contacts": [],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "partnership-water4all-sustainable-water-management",
@@ -3575,7 +3671,11 @@
         "phone": "+31 (0)30 6001398",
         "email": "water4all@NWO.NL"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "novel-ecosystems-biodiversity-socio-ecological-consequences-and-future-trajectories-biodivfuture",
@@ -3662,7 +3762,11 @@
         "phone": "+31 (0)70 3494071",
         "email": "biodiversa@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "financing-professional-doctorate-candidates-2026",
@@ -3726,6 +3830,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -3874,6 +3982,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -4025,6 +4137,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -4185,7 +4301,11 @@
         "phone": "+31 (0)30 6001291",
         "email": "sbep@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "raak-pro-0",
@@ -4275,6 +4395,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -4404,6 +4528,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -4493,7 +4621,11 @@
         "size": "1.05 MB"
       }
     ],
-    "contacts": []
+    "contacts": [],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "driving-urban-transitions-call-2026",
@@ -4620,7 +4752,11 @@
         "phone": "+31 (0)70 3440786",
         "email": "dutp@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "ssh-open-competition-expand-2026",
@@ -4737,7 +4873,11 @@
         "phone": "+31 (0)70 3494189",
         "email": "sgwoc@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "kic-data-sharing-for-the-energy-transition-socio-technical-challenges",
@@ -4921,6 +5061,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -5065,6 +5209,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -5209,6 +5357,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -5435,6 +5587,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -5537,7 +5693,11 @@
         "phone": "+31 (0)70 3494593",
         "email": "rubicon@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "take-off-phase-1-feasibility-studies-wo-2026",
@@ -5658,6 +5818,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -5843,6 +6007,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -5887,7 +6055,11 @@
         "phone": "+31 6 44219805",
         "email": "d.muller@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "open-technology-programme-2026",
@@ -6087,6 +6259,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -6264,6 +6440,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -6350,7 +6530,11 @@
         "phone": "+31 (0)70 3494257",
         "email": "leraren@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "ssh-open-competition-explore-2027-round-1",
@@ -6454,7 +6638,11 @@
         "phone": "+31 (0)70 3494635",
         "email": "sgw-ocexplore@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "kic-societal-earning-capacity-connection-synthesis-and-knowledge-utilisation",
@@ -6597,6 +6785,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -6697,7 +6889,11 @@
         "phone": "+31 (0)70 349 52 99",
         "email": "veni@zonmw.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "nwo-talent-programme-veni-applied-and-engineering-sciences-aes-2026",
@@ -6810,7 +7006,11 @@
         "phone": "+31 (0)30 6001280",
         "email": "ttw-veni@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "nwo-talent-programme-veni-social-sciences-and-humanities-ssh-2026",
@@ -6916,7 +7116,11 @@
         "phone": "+31 (0)70 3494113",
         "email": "sgw-veni@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "nwo-talent-programme-veni-science-2026",
@@ -7017,7 +7221,11 @@
         "phone": "+31 (0)70 3494061",
         "email": "enw-veni@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "use-of-space-infrastructure-for-earth-observation-and-planetary-research-go",
@@ -7092,6 +7300,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -7170,6 +7382,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -7278,7 +7494,11 @@
         "phone": "+31 (0)70 3494083",
         "email": "ep-rawmaterials@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "phds-in-the-humanities-2027",
@@ -7316,7 +7536,11 @@
         "phone": "+31(0)70344 07 06",
         "email": "pgw-sgw@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "kic-3d-integration-technologies-and-sustainable-systemic-design-techniques-for-next-gen-semiconductor-equipment-0",
@@ -7354,7 +7578,11 @@
         "phone": "+31 (0)30 6001286",
         "email": "kic-htsm2025@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "embassy-science-fellowship-esf-nl-2027",
@@ -7446,7 +7674,11 @@
         "phone": "+31 (0)70 3494382",
         "email": "SDF@NWO.NL"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "gravitation-2027-frontier-research-for-consortia",
@@ -7518,7 +7750,11 @@
         "phone": "+31 (0)70 3495317",
         "email": "zwaartekracht@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "reducing-drug-harm-towards-effective-societal-interventions",
@@ -7670,6 +7906,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -7810,6 +8050,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -7854,7 +8098,11 @@
         "phone": "+31 (0)68 3459733",
         "email": "NWA-systeemperspectiefmaterialen@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "nwa-municipal-policy-for-biodiversity-restoration",
@@ -8003,6 +8251,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -8077,7 +8329,11 @@
         "phone": "+31 (0)70 3440948",
         "email": "eilandstrw@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "kic-mobile-and-modular-imaging-technology-for-a-healthy-and-safe-society",
@@ -8121,7 +8377,11 @@
         "phone": "+31 (0)30 6001286",
         "email": "f.vanderwel@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "new-materials-and-production-processes-for-large-scale-energy-storage-and-conversion",
@@ -8192,6 +8452,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -8236,7 +8500,11 @@
         "phone": "+31 6 47517649",
         "email": "kic-sustainablebuildings@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "kic-human-capital-and-digital-innovation-in-the-netherlands",
@@ -8310,6 +8578,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -8494,6 +8766,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -8667,6 +8943,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -8862,6 +9142,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -8935,6 +9219,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -9055,6 +9343,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -9123,6 +9415,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -9191,6 +9487,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -9268,6 +9568,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -9345,6 +9649,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -9411,6 +9719,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -9519,6 +9831,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -9650,6 +9966,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -9795,6 +10115,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -9921,6 +10245,10 @@
       "international": false,
       "max_years_post_phd": 10,
       "min_years_post_phd": 5
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -10041,6 +10369,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -10207,6 +10539,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -10338,6 +10674,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -10518,6 +10858,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -10665,6 +11009,10 @@
       "international": false,
       "max_years_post_phd": 15,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -10803,6 +11151,10 @@
       "international": false,
       "max_years_post_phd": 15,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -10941,6 +11293,10 @@
       "international": false,
       "max_years_post_phd": 15,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -11077,6 +11433,10 @@
       "international": false,
       "max_years_post_phd": 15,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -11209,6 +11569,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -11341,6 +11705,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -11479,6 +11847,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -11650,6 +12022,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -11819,6 +12195,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -11989,6 +12369,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -12133,6 +12517,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -12306,6 +12694,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": true,
+      "note": "Additional conditions Upgrade funding can only be applied for by consortia associated with LSRI for which the following cumulative conditions apply: For the realisation of (part of) the LSRI, an LSRI "
     }
   },
   {
@@ -12463,6 +12855,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -12595,6 +12991,10 @@
       "international": false,
       "max_years_post_phd": 10,
       "min_years_post_phd": 5
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -12665,6 +13065,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -12749,6 +13153,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -12897,6 +13305,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -12973,6 +13385,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -13049,6 +13465,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -13125,6 +13545,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -13200,6 +13624,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -13282,6 +13710,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -13373,6 +13805,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -13439,6 +13875,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -13606,6 +14046,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -13743,6 +14187,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -13903,6 +14351,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -14067,6 +14519,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -14237,6 +14693,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -14426,6 +14886,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -14504,6 +14968,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -14577,6 +15045,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -14726,6 +15198,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -14810,6 +15286,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -14950,6 +15430,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -15131,6 +15615,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -15297,6 +15785,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -15378,6 +15870,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -15512,6 +16008,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -15683,6 +16183,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -15763,6 +16267,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -15844,6 +16352,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -15929,6 +16441,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -16120,6 +16636,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": 10
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -16260,6 +16780,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": 5
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -16390,6 +16914,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -16468,6 +16996,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -16634,6 +17166,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -16782,6 +17318,10 @@
       "international": true,
       "max_years_post_phd": 3,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -16942,6 +17482,10 @@
       "international": true,
       "max_years_post_phd": 3,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -17103,6 +17647,10 @@
       "international": true,
       "max_years_post_phd": 3,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -17256,6 +17804,10 @@
       "international": true,
       "max_years_post_phd": 3,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -17416,6 +17968,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -17559,6 +18115,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -17719,6 +18279,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -17794,6 +18358,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -17966,6 +18534,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -18133,6 +18705,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -18243,6 +18819,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -18453,6 +19033,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -18615,6 +19199,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": 15
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -18767,6 +19355,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -18903,6 +19495,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -19078,6 +19674,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -19242,6 +19842,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -19410,6 +20014,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -19549,6 +20157,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": true,
+      "note": "Applications can only be submitted for candidates who have been selected by the deans of the humanities faculties from the following universities: Erasmus University Rotterdam Leiden University Maastr"
     }
   },
   {
@@ -19675,6 +20287,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -19830,6 +20446,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -19902,6 +20522,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -20044,6 +20668,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -20235,6 +20863,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -20379,6 +21011,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -20532,6 +21168,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -20618,6 +21258,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -20747,6 +21391,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -20917,6 +21565,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -21079,6 +21731,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -21165,6 +21821,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -21300,6 +21960,10 @@
       "international": true,
       "max_years_post_phd": 1,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -21385,6 +22049,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -21549,6 +22217,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -21689,6 +22361,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": 5
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -21770,6 +22446,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -21923,6 +22603,10 @@
       "international": true,
       "max_years_post_phd": 8,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -22089,6 +22773,10 @@
       "international": true,
       "max_years_post_phd": 8,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -22250,6 +22938,10 @@
       "international": true,
       "max_years_post_phd": 8,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -22409,6 +23101,10 @@
       "international": true,
       "max_years_post_phd": 8,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -22555,6 +23251,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -22718,6 +23418,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -22884,6 +23588,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -23055,6 +23763,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -23233,6 +23945,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -23397,6 +24113,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -23535,6 +24255,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -23658,6 +24382,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -23743,7 +24471,11 @@
         "phone": "+31 (0)70 3495080",
         "email": "nwa-dierproefalternatieven@zonmw.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "perspectief-round-2025-2026",
@@ -23889,7 +24621,11 @@
         "phone": "+31 306001286",
         "email": "ttw-perspectief@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "kic-heterogeneous-development-solutions-for-semiconductors-scaling-of-quantum-technologies",
@@ -24005,7 +24741,11 @@
         "phone": "+31 (0)70 3494694",
         "email": "KIC-HTSM2025@NWO.NL"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "faculty-of-impact-2026",
@@ -24131,7 +24871,11 @@
         "phone": "+31 (0)30 6001329",
         "email": "FacultyofImpact@NWO.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "kic-collaborative-business-models-for-a-circular-economy",
@@ -24261,7 +25005,11 @@
         "phone": "+31 6 26109641",
         "email": "kic-cbm@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "caribbean-research-phd-scholarships-2025",
@@ -24390,7 +25138,11 @@
         "phone": "+31 (0)70 349 4419",
         "email": "caribbean@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "kic-adaptivity-in-transitions",
@@ -24552,6 +25304,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -24630,6 +25386,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -24789,6 +25549,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -24864,6 +25628,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -25004,6 +25772,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -25087,6 +25859,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -25171,6 +25947,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -25345,6 +26125,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -25496,6 +26280,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -25631,6 +26419,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -25761,6 +26553,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -25843,6 +26639,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -26013,6 +26813,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -26161,6 +26965,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -26330,6 +27138,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -26494,6 +27306,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -26638,6 +27454,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -26815,6 +27635,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -26976,6 +27800,10 @@
       "international": true,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -27101,6 +27929,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -27232,6 +28064,10 @@
       "international": true,
       "max_years_post_phd": 5,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -27388,6 +28224,10 @@
       "international": false,
       "max_years_post_phd": 15,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -27541,6 +28381,10 @@
       "international": false,
       "max_years_post_phd": 15,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -27666,7 +28510,11 @@
         "phone": "+31 (0)70 3440968",
         "email": "sgw-vici@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "nwo-talent-programme-vici-science-2026",
@@ -27818,6 +28666,10 @@
       "international": false,
       "max_years_post_phd": 15,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -27952,7 +28804,11 @@
         "phone": "+31 (0)70 3494361",
         "email": "museumbeurzennwo@nwo.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "sprong-versnelling-ai-opschaling-in-het-publieke-domein",
@@ -27998,7 +28854,11 @@
         "phone": "+31 6 22368895",
         "email": "tom.roovers@regieorgaan-sia.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "kiem-logistiek",
@@ -28083,6 +28943,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -28210,6 +29074,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -28376,6 +29244,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -28516,6 +29388,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -28554,7 +29430,11 @@
         "phone": "+31 6 23301227",
         "email": "michele.sons@regieorgaan-sia.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "kic-demand-driven-research-by-consortia-s-2026",
@@ -28774,6 +29654,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -28889,7 +29773,11 @@
         "phone": "+31 6 49620269",
         "email": "programmas@hetkin.nl"
       }
-    ]
+    ],
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
+    }
   },
   {
     "id": "sprong-round-2-fase-2",
@@ -28972,6 +29860,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -29112,6 +30004,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": 5
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   },
   {
@@ -29193,6 +30089,10 @@
       "international": false,
       "max_years_post_phd": null,
       "min_years_post_phd": null
+    },
+    "restrictions": {
+      "invited_only": false,
+      "note": ""
     }
   }
 ]

@@ -82,14 +82,25 @@ page**, nowhere in `grants.json`. The task now:
 - never writes a rationale for a `details_published: false` item — drops it, or
   labels it "details not yet published — check the call page".
 
-### Possible backend follow-ups
+### Backend follow-ups — DONE (2026-10-07)
 
-Not done, your call:
-- Scrape and store the eligibility/restriction prose for `in_preparation` calls once
-  NWO publishes it, so the per-item WebFetch becomes a safety net rather than the
-  primary source.
-- Consider a `restrictions` or `invited_only` field — the Roadmap-consortia case is
-  a category the current schema cannot express.
+Both items implemented backend-side:
+
+- **`restrictions` field added.** `process.py` now emits
+  `restrictions: {invited_only, note}` per grant via a high-precision
+  `detect_restrictions()` (reads `who_can_apply` + `purpose` + `what_to_apply_for`;
+  deliberately ignores false friends like "invited to submit"/bare "restricted to").
+  Backfilled into the current `grants.json` and recomputed every run. Currently
+  flags LSRI-Upgrade and PhDs in the Humanities; zero false positives across 225 calls.
+- **Eligibility prose capture.** Because the detector reads the eligibility sections,
+  once NWO publishes an `in_preparation` call's body the next scrape both stores it
+  and flags any restriction — so the per-item WebFetch drops to a *safety net* for
+  still-unpublished calls (e.g. LSRI National Roadmap), rather than the primary source.
+- `digest.py._grant_brief` now passes `restrictions` through.
+
+**Cowork side:** the task prompt should drop `restrictions.invited_only` calls unless
+the subscriber is clearly among the eligible set — already reflected in
+`digest_task.md` §"Task prompt" step 4 and §"Matching rules".
 
 ## 6. Operational note
 

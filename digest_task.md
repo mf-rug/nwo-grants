@@ -44,15 +44,20 @@ committed by accident. `digest.py` finds it because the send command sets
 
 The scraped record is thinner than the call page. `digest.py` now passes
 `who_can_apply`, `can_lead`, `can_participate`, `target_groups`, `programme`,
-`budget` and `deadline_dates` so the matcher can judge *eligibility*, not just
-topic. It also sets `details_published: false` for calls NWO has not written up
-yet — about one in five open calls, and almost all `in_preparation` ones.
+`budget`, `deadline_dates` and `restrictions` so the matcher can judge
+*eligibility*, not just topic. It also sets `details_published: false` for calls NWO
+has not written up yet — about one in five open calls, and almost all
+`in_preparation` ones.
 
-Two failure modes this guards against:
+Three failure modes this guards against:
 
 - Recommending a call the subscriber **cannot apply to**. Restrictions often appear
   only on the call page (e.g. LSRI National Roadmap is open to consortia already
   named on the Roadmap), so shortlisted items get fetched and checked.
+- Recommending an **invited-only / pre-selected** call to someone outside the set.
+  `restrictions.invited_only` flags the *published* cases deterministically
+  (currently LSRI-Upgrade, PhDs in the Humanities); still-unpublished ones are caught
+  by the page fetch.
 - Writing a confident rationale for a call with **no published text**, where the
   only inputs are a title and a date. Those are dropped or labelled, never
   rationalized.
@@ -68,11 +73,12 @@ See the live task's prompt — kept in sync with this file. Its shape:
    where Consent is ticked. Resolve each profile from the written interests, plus a
    one-time web lookup if they ticked the auto-infer box, cached in
    `$HOME/mnt/nwo-secrets/.nwo-digest-profiles.json` so inference runs once per person.
-4. **Shortlist, then verify**: topic fit → eligibility from the record → skip
-   anything closing within ~3 weeks (earliest date for multi-stage calls) →
-   WebFetch each survivor's call page and drop what it contradicts →
-   never invent a rationale for `details_published: false` items. No padding; if
-   nothing survives, the body is exactly "Nothing new in your areas this week."
+4. **Shortlist, then verify**: topic fit → eligibility from the record (drop
+   `restrictions.invited_only` calls unless the subscriber is clearly among the
+   eligible set) → skip anything closing within ~3 weeks (earliest date for
+   multi-stage calls) → WebFetch each survivor's call page and drop what it
+   contradicts → never invent a rationale for `details_published: false` items. No
+   padding; if nothing survives, the body is exactly "Nothing new in your areas this week."
 5. Compose concise HTML — one-line intro, then only the non-empty sections
    (Pre-announcements, New grants, News), inline CSS, no external assets.
 6. `NWO_DIGEST_ENV=$HOME/mnt/nwo-secrets/.nwo-digest.env python3 digest.py send \
