@@ -38,17 +38,20 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python classify_grants.py
 
+      - name: Scrape NWO news feed
+        run: python news_scrape.py
+
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add grants.json grants_list.json md/
+          git add grants.json grants_list.json news.json md/
           if git diff --staged --quiet; then
-            echo "No changes — grants.json is up to date."
+            echo "No changes — data is up to date."
           else
             # Touch requirements.txt so Streamlit Cloud detects the commit and redeploys
             touch requirements.txt
             git add requirements.txt
-            git commit -m "Auto-update grants.json ($(date -u +%Y-%m-%d))"
+            git commit -m "Auto-update grants + news ($(date -u +%Y-%m-%d))"
             git push
           fi

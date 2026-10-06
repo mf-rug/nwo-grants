@@ -10,7 +10,7 @@ Usage:
 
 import json
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -18,6 +18,41 @@ from bs4 import BeautifulSoup
 HTML_DIR = Path("html")
 MANIFEST = HTML_DIR / "manifest.json"
 OUTPUT   = "grants.json"
+
+# Fields whose change marks a meaningful update (NWO-sourced facts only —
+# deliberately excludes derived/time-dependent fields like deadline_iso).
+TRACKED_FIELDS = ("status", "deadline_dates", "budget", "finance_type")
+
+# Grants already present before change-tracking existed get a baseline in the
+# past, so a migration run doesn't flag the whole catalogue as "new this week".
+FIRST_SEEN_BASELINE = "2020-01-01"
+
+
+def load_previous(path):
+    """Map id -> previous grant dict, for carrying forward metadata."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            return {g["id"]: g for g in json.load(f)}
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def apply_change_tracking(grants, prev, today):
+    """Stamp first_seen/last_changed and carry forward ai_classification."""
+    for g in grants:
+        old = prev.get(g["id"])
+        if old is None:
+            g["first_seen"]  = today
+            g["last_changed"] = today
+        else:
+            g["first_seen"] = old.get("first_seen", FIRST_SEEN_BASELINE)
+            changed = any(g.get(f) != old.get(f) for f in TRACKED_FIELDS)
+            g["last_changed"] = today if changed else old.get("last_changed", g["first_seen"])
+            # Carry forward the (expensive) AI classification; process.py
+            # rebuilds from HTML and would otherwise drop it every run.
+            if "ai_classification" in old:
+                g["ai_classification"] = old["ai_classification"]
+    return grants
 
 
 # ---------------------------------------------------------------------------
@@ -340,6 +375,13 @@ def main():
         html = html_path.read_text(encoding="utf-8")
         grants.append(process_html(slug, url, html))
 
+    # Change-tracking: carry forward first_seen + ai_classification, stamp last_changed
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    prev = load_previous(OUTPUT)
+    apply_change_tracking(grants, prev, today)
+    new_count     = sum(1 for g in grants if g["first_seen"] == today)
+    changed_count = sum(1 for g in grants if g["last_changed"] == today and g["first_seen"] != today)
+
     # Sort by nearest deadline (no deadline → end)
     grants.sort(key=lambda g: g["deadline_iso"] or "9999")
 
@@ -357,6 +399,8 @@ def main():
             all_section_slugs[slug] = all_section_slugs.get(slug, 0) + 1
 
     print(f"\nDone. {len(grants)} grants → {OUTPUT}")
+    print(f"  New this run    : {new_count}")
+    print(f"  Changed this run: {changed_count}")
     print(f"  Future deadline : {sum(1 for g in grants if g['deadline_iso'])}")
     print(f"  Primary PDF     : {sum(1 for g in grants if g['primary_pdf'])}")
     print(f"  Statuses        : {statuses}")
