@@ -33,9 +33,18 @@ Generate and send the weekly NWO grants digest. Work in the local repo checkout
    (add --backfill ONLY on the very first send, to include currently-open grants
    as a one-time catch-up.)
 3. Read subscribers from the Google Sheet (ID <SHEET_ID>) via the Google-Drive
-   connector (read_file_content). Columns: Email Address, Name, Research interests,
-   Position, Consent. Include ONLY rows where Consent is non-empty (ticked). Use each
-   subscriber's own "Research interests" text for matching.
+   connector (read_file_content). Columns include: Email Address, Name,
+   Research interests, Position, Consent, Infer from web, Website. Use ONLY rows
+   where Consent is ticked.
+   Resolve each subscriber's interest profile:
+     - If "Research interests" is non-empty, use that.
+     - Else if "Infer from web" is ticked: look the person up — WebSearch their name
+       + institution (infer the institution from their email domain) and, if a
+       "Website" is given, WebFetch it — then synthesize a concise interest profile
+       (topics, methods, keywords). Cache results in ~/.nwo-digest-profiles.json (a
+       JSON map email -> {profile, inferred_on}) and reuse the cache, so inference
+       runs at most once per person.
+     - Otherwise skip the subscriber (no basis to match).
 4. For each subscriber, select ONLY candidate items genuinely relevant to their
    interests. Keep it short. Prioritize pre-announcements and newly-appeared grants
    (long runway); skip items closing within ~3 weeks (too late to start). If nothing
@@ -50,7 +59,9 @@ Generate and send the weekly NWO grants digest. Work in the local repo checkout
 
 ## Subscriptions
 
-Colleagues subscribe via a Google Form (name, email, interests, consent) whose
-responses land in the Sheet the task reads. Unsubscribe = reply to the digest, and
+Colleagues subscribe via a Google Form (name, email, research interests, position,
+consent — plus an optional "infer my interests from the web" checkbox and a website
+field) whose responses land in the Sheet the task reads. If they opt for inference,
+the task looks them up once and caches a profile locally (~/.nwo-digest-profiles.json). Unsubscribe = reply to the digest, and
 you clear or flag their row. Keep the Form restricted to your Workspace so the list
 stays internal and the Sheet private.
