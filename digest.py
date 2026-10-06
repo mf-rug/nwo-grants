@@ -43,8 +43,9 @@ def _within(date_str, cutoff):
     return bool(date_str) and date_str >= cutoff
 
 
-def _purpose_snippet(g, limit=240):
-    sec = g.get("sections", {}).get("purpose") or {}
+def _section(g, key, limit):
+    """Trimmed text of one scraped section, or '' when NWO has not published it."""
+    sec = g.get("sections", {}).get(key) or {}
     txt = (sec.get("text", "") if isinstance(sec, dict) else "").strip()
     return (txt[:limit] + "…") if len(txt) > limit else txt
 
@@ -52,14 +53,30 @@ def _purpose_snippet(g, limit=240):
 def _grant_brief(g):
     ai = g.get("ai_classification", {})
     fields = {k: v for k, v in ai.get("fields", {}).items() if v >= 6}
+    purpose = _section(g, "purpose", 240)
+    who = _section(g, "who_can_apply", 600)
     return {
         "title": g.get("title", ""),
         "url": g.get("url", ""),
         "status": g.get("status", ""),
         "deadline": (g.get("deadline_iso") or "")[:10],
+        # Multi-stage calls carry several dates (e.g. letter of intent, then full).
+        "deadline_dates": [d[:10] for d in (g.get("deadline_dates") or []) if d],
         "finance_type": g.get("finance_type", ""),
+        "programme": g.get("programme", ""),
+        "budget": g.get("budget", ""),
         "fields": fields,
-        "purpose": _purpose_snippet(g),
+        # Eligibility signals - the matcher needs these to judge who may apply,
+        # not just whether the topic fits.
+        "can_lead": ai.get("can_lead", []),
+        "can_participate": ai.get("can_participate", []),
+        "target_groups": g.get("target_groups", ""),
+        "purpose": purpose,
+        "who_can_apply": who,
+        # False when the call page has no body text yet (common for
+        # in_preparation calls). The matcher must NOT invent a rationale for
+        # these - fetch the live page or label them as unverified.
+        "details_published": bool(purpose or who),
         "first_seen": g.get("first_seen", ""),
     }
 
