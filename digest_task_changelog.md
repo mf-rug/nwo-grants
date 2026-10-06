@@ -102,6 +102,24 @@ Both items implemented backend-side:
 the subscriber is clearly among the eligible set — already reflected in
 `digest_task.md` §"Task prompt" step 4 and §"Matching rules".
 
+**Cowork side: APPLIED (2026-10-07).** The live task prompt now reads `restrictions`
+and drops `invited_only` calls unless the subscriber is clearly in the set, using
+`note` to identify it. Two things made explicit in the prompt, because they are easy
+to get wrong:
+
+- `invited_only: false` is **not** evidence a call is open — it only means no
+  restriction phrase was found in *published* prose. It never substitutes for the
+  per-call page fetch.
+- The page fetch is therefore still the **primary** guard, not a formality. Verified
+  against current data: all 225 calls carry `restrictions`, 2 are flagged
+  (LSRI-Upgrade 2025, PhDs in the Humanities 2026) with no false positives, but both
+  are `closed`, so zero of the 50 currently-open candidates are affected — and LSRI
+  National Roadmap, the case that prompted all this, is still unflagged because it
+  has no scraped sections for the detector to read.
+
+Net: the detector is correct and useful going forward, but this week it changes
+nothing, and the original failure mode is still only caught by the page fetch.
+
 ## 6. Operational note
 
 A one-time `--backfill` send went out to the single consented subscriber
