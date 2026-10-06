@@ -37,14 +37,14 @@ Generate and send the weekly NWO grants digest. Work in the local repo checkout
    Research interests, Position, Consent, Infer from web, Website. Use ONLY rows
    where Consent is ticked.
    Resolve each subscriber's interest profile:
-     - If "Research interests" is non-empty, use that.
-     - Else if "Infer from web" is ticked: look the person up — WebSearch their name
-       + institution (infer the institution from their email domain) and, if a
-       "Website" is given, WebFetch it — then synthesize a concise interest profile
-       (topics, methods, keywords). Cache results in ~/.nwo-digest-profiles.json (a
-       JSON map email -> {profile, inferred_on}) and reuse the cache, so inference
-       runs at most once per person.
-     - Otherwise skip the subscriber (no basis to match).
+     - Start from their written "Research interests" (may be blank).
+     - If the auto-infer checkbox is ticked, ALSO look the person up — WebSearch
+       their name + institution (infer institution from their email domain) and, if a
+       website is given, WebFetch it — synthesize additional interests (topics,
+       methods, keywords) and MERGE them with the written ones. Cache the result in
+       ~/.nwo-digest-profiles.json (email -> {profile, inferred_on}) and reuse it, so
+       inference runs at most once per person.
+     - If the resulting profile is still empty, skip the subscriber.
 4. For each subscriber, select ONLY candidate items genuinely relevant to their
    interests. Keep it short. Prioritize pre-announcements and newly-appeared grants
    (long runway); skip items closing within ~3 weeks (too late to start). If nothing
