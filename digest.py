@@ -95,11 +95,28 @@ def candidates(days, backfill, use_local):
     return out
 
 
+def _secret(name):
+    """Env var, falling back to a local KEY=VALUE file (GUI-launched tasks
+    often don't inherit shell env). Path: $NWO_DIGEST_ENV or ~/.nwo-digest.env."""
+    if os.environ.get(name):
+        return os.environ[name]
+    path = os.path.expanduser(os.environ.get("NWO_DIGEST_ENV", "~/.nwo-digest.env"))
+    try:
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith(name + "="):
+                    return line.split("=", 1)[1].strip().strip('"').strip("'")
+    except FileNotFoundError:
+        pass
+    return None
+
+
 def send(to, subject, html):
-    token = os.environ.get("POSTMARK_TOKEN")
-    sender = os.environ.get("POSTMARK_FROM")
+    token = _secret("POSTMARK_TOKEN")
+    sender = _secret("POSTMARK_FROM")
     if not token or not sender:
-        print("Set POSTMARK_TOKEN and POSTMARK_FROM in the local environment.", file=sys.stderr)
+        print("Set POSTMARK_TOKEN and POSTMARK_FROM (env, or ~/.nwo-digest.env).", file=sys.stderr)
         sys.exit(1)
     r = requests.post(
         "https://api.postmarkapp.com/email",
