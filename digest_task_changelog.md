@@ -609,6 +609,62 @@ without a fetch either.
 > - `deadline_dates` still byte-identical (0 mismatches); `grants.json` backfilled;
 >   `candidates.json` / `currently_open.json` regenerated.
 
+### Request F — mandatory prior steps are invisible in the record (raised 2026-10-07)
+
+The most damaging class found so far, from `nwo-digest-ops#8`. Three calls in the
+2026-10-07 backfill run looked clean in the record — future deadline, eligible
+`who_can_apply`, `invited_only: false`, `details_published: true` — and were in fact
+already shut, because a mandatory earlier stage had closed. Two of the three were the
+run's strongest topical matches, so they would have led the email.
+
+| id | record says | page says |
+|---|---|---|
+| `kic-integrated-biorefineries-for-a-circular-future` | open, deadline 2026-10-20 | mandatory letter of intent closed 2026-06-23 |
+| `holomicrobiome-2026-…` | open, deadline 2026-10-27 | "Participation in the matchmaking is obligatory for main applicants"; matchmaking was 2026-06-30 |
+| `thematic-digital-competence-centres-2026` | open, deadline 2026-11-12 | only applicants who contacted their TDCC before that TDCC's own preliminary deadline; LSH and SSH deadlines had passed |
+
+Only the first is recoverable from the record: its LOI date carries
+`Closing date for letter of intent`, so a past-LOI-with-future-deadline test catches
+it. For the other two nothing in the record carries the restriction at all — the
+matchmaking appears only as an unlabelled `2026-06-25` with a registration context, and
+the TDCC pre-process is absent entirely.
+
+**Asked for.** A `prerequisites` array on the record:
+
+```json
+"prerequisites": [
+  {"kind": "letter_of_intent", "date": "2026-06-23", "mandatory": true, "context": "…"}
+]
+```
+
+with `kind` in roughly {letter_of_intent, pre_proposal, matchmaking, registration,
+pre_process}. The sentences are already being matched for `context` — "mandatory",
+"obligatory", "must have participated", "only applicants who" are the cues, and two of
+the three strings above contain the word outright. A cheaper fallback that would still
+close most of the exposure: a single computed `has_passed_mandatory_stage` bool.
+
+**Interim measures, already in the task prompt.** The past-LOI test is in 4(f), and
+4(g) now names mandatory prior steps as their own class to look for on the page, with
+both unrecoverable cases written in. 4(h) also now says that `details_published: true`
+means body text exists, not that the record captured what is in it — that false
+reassurance is part of what makes this class dangerous.
+
+**Priority: the highest of A–F.** The others cost a wrong date or a wrong section; this
+one ships a recommendation the subscriber cannot act on. The page fetch is currently the
+only thing standing between the digest and that, for two of the three shapes — if it is
+ever skipped, rate-limited or a page is restructured, the digest is wrong rather than
+merely late.
+
+### Subscriber data: `phd_date` (2026-10-07)
+
+Not a backend request, recorded because it changes the profile cache's shape. The
+subscriber form gained an optional free-text PhD date ("month and year"), and the
+`profiles` tab gained an eighth column `phd_date`. Nothing parses it script-side — the
+task reads the sheet itself — so the value is stored exactly as the subscriber wrote it.
+Raised by `nwo-digest-ops#9`: time-since-PhD windows gate the whole talent line (Veni,
+Vidi, Vici, Rubicon) and `Position` cannot settle them, so without this field the rules
+either demote every talent call or ignore the condition. `digest.py` is unaffected.
+
 ### Declined, for the record
 
 `nwo-digest-ops#3` also suggested promoting news items titled `Call open: ...` into
