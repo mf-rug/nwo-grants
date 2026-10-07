@@ -154,43 +154,6 @@
         "email": "nwa-orc2026@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -331,39 +294,6 @@
         "email": "kic-vroegedetectie@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 4,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 5,
-        "Humanities & Arts": 0,
-        "Law & Governance": 4,
-        "Economics & Business": 3,
-        "Agriculture & Food": 6,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -492,39 +422,6 @@
         "email": "ttw-perspectief@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -1048,42 +945,6 @@
         "email": "cetpartnership@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 6,
-        "Humanities & Arts": 2,
-        "Law & Governance": 5,
-        "Economics & Business": 7,
-        "Agriculture & Food": 6,
-        "Education": 4
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -1230,41 +1091,6 @@
         "email": "m.moes@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 7,
-        "Humanities & Arts": 1,
-        "Law & Governance": 2,
-        "Economics & Business": 6,
-        "Agriculture & Food": 10,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -1395,39 +1221,6 @@
         "email": "t-ap@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 3,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 5,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 10,
-        "Humanities & Arts": 10,
-        "Law & Governance": 7,
-        "Economics & Business": 7,
-        "Agriculture & Food": 6,
-        "Education": 6
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -1571,41 +1364,6 @@
         "email": "kic-consortia@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -1754,39 +1512,6 @@
         "email": "kic-biorefineries@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 6,
-        "Humanities & Arts": 1,
-        "Law & Governance": 5,
-        "Economics & Business": 7,
-        "Agriculture & Food": 8,
-        "Education": 1
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -2066,39 +1791,6 @@
         "email": "NGF-Holomicrobioom@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 3,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 3,
-        "Agriculture & Food": 9,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -2628,42 +2320,6 @@
         "email": "wbo_science@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 6,
-        "Humanities & Arts": 6,
-        "Law & Governance": 3,
-        "Economics & Business": 5,
-        "Agriculture & Food": 6,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -2742,42 +2398,6 @@
         "email": "eilandstrw@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Postdoc",
-        "PhD candidate",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Postdoc",
-        "PhD candidate",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 10,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 2,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 2,
-        "Medical & Health Sciences": 0,
-        "Social Sciences": 0,
-        "Humanities & Arts": 0,
-        "Law & Governance": 0,
-        "Economics & Business": 0,
-        "Agriculture & Food": 0,
-        "Education": 0
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -2959,40 +2579,6 @@
         "email": "eagle@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 7,
-        "Humanities & Arts": 3,
-        "Law & Governance": 3,
-        "Economics & Business": 6,
-        "Agriculture & Food": 8,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -3805,32 +3391,6 @@
         "email": "maartje.harmelink@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "PhD candidate"
-      ],
-      "can_participate": [
-        "PhD candidate"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 5,
-        "Humanities & Arts": 2,
-        "Law & Governance": 2,
-        "Economics & Business": 6,
-        "Agriculture & Food": 5,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -3950,39 +3510,6 @@
         "email": "thematisch-dcc@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 10,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 6,
-        "Humanities & Arts": 5,
-        "Law & Governance": 5,
-        "Economics & Business": 5,
-        "Agriculture & Food": 6,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -4105,39 +3632,6 @@
         "email": "KIC-DT-partnerschap@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 3,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 5,
-        "Agriculture & Food": 1,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -4360,42 +3854,6 @@
         "email": "nanouschka.wamelink@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 6,
-        "Humanities & Arts": 3,
-        "Law & Governance": 3,
-        "Economics & Business": 5,
-        "Agriculture & Food": 6,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -4496,39 +3954,6 @@
         "email": "tulp@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Full professor",
-        "Associate professor",
-        "Assistant professor"
-      ],
-      "can_participate": [
-        "Full professor",
-        "Associate professor",
-        "Assistant professor",
-        "Postdoc",
-        "PhD candidate",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 9,
-        "Social Sciences": 9,
-        "Humanities & Arts": 9,
-        "Law & Governance": 9,
-        "Economics & Business": 9,
-        "Agriculture & Food": 9,
-        "Education": 9
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -5026,42 +4451,6 @@
         "email": "Kic-energydatasharing@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 9,
-        "Humanities & Arts": 2,
-        "Law & Governance": 7,
-        "Economics & Business": 8,
-        "Agriculture & Food": 2,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -5177,39 +4566,6 @@
         "email": "enw-xs@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 1,
-        "Humanities & Arts": 1,
-        "Law & Governance": 0,
-        "Economics & Business": 0,
-        "Agriculture & Food": 8,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -5325,39 +4681,6 @@
         "email": "enw-xs@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 2,
-        "Humanities & Arts": 2,
-        "Law & Governance": 1,
-        "Economics & Business": 1,
-        "Agriculture & Food": 8,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -5555,39 +4878,6 @@
         "email": "enw-m@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 3,
-        "Humanities & Arts": 2,
-        "Law & Governance": 2,
-        "Economics & Business": 3,
-        "Agriculture & Food": 6,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -5785,40 +5075,6 @@
         "email": "aanvragentake-off@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Postdoc"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -5972,42 +5228,6 @@
         "email": "GroenvermogenNL_WP3@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 7,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 3,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 3,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 4,
-        "Agriculture & Food": 3,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -6225,41 +5445,6 @@
         "email": "ttw-otp@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -6408,39 +5593,6 @@
         "email": "s.wielstra@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 3,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 4,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 10,
-        "Humanities & Arts": 5,
-        "Law & Governance": 7,
-        "Economics & Business": 10,
-        "Agriculture & Food": 3,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -6753,39 +5905,6 @@
         "email": "kia-mv@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 8,
-        "Humanities & Arts": 3,
-        "Law & Governance": 5,
-        "Economics & Business": 9,
-        "Agriculture & Food": 3,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -7269,38 +6388,6 @@
         "email": "l.putman@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 10,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 0,
-        "Social Sciences": 0,
-        "Humanities & Arts": 0,
-        "Law & Governance": 0,
-        "Economics & Business": 0,
-        "Agriculture & Food": 2,
-        "Education": 0
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -7350,39 +6437,6 @@
         "email": "roadmap@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 6,
-        "Humanities & Arts": 5,
-        "Law & Governance": 4,
-        "Economics & Business": 5,
-        "Agriculture & Food": 8,
-        "Education": 4
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -7873,40 +6927,6 @@
         "email": "nwa-dstd@zonmw.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 0,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 4,
-        "Earth & Environmental Sciences": 4,
-        "Engineering & Technology": 2,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 9,
-        "Humanities & Arts": 5,
-        "Law & Governance": 8,
-        "Economics & Business": 7,
-        "Agriculture & Food": 2,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -8018,39 +7038,6 @@
         "email": "enw-m@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 5,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 5,
-        "Humanities & Arts": 5,
-        "Law & Governance": 5,
-        "Economics & Business": 5,
-        "Agriculture & Food": 5,
-        "Education": 5
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -8219,39 +7206,6 @@
         "email": "nwa-biodiversity@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 10,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 8,
-        "Humanities & Arts": 2,
-        "Law & Governance": 7,
-        "Economics & Business": 5,
-        "Agriculture & Food": 8,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -8420,39 +7374,6 @@
         "email": "j.vanhouwelingen@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 0,
-        "Social Sciences": 2,
-        "Humanities & Arts": 0,
-        "Law & Governance": 1,
-        "Economics & Business": 3,
-        "Agriculture & Food": 1,
-        "Education": 0
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -8543,42 +7464,6 @@
         "email": "KIC-HCDI@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 3,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 8,
-        "Humanities & Arts": 4,
-        "Law & Governance": 5,
-        "Economics & Business": 9,
-        "Agriculture & Food": 2,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -8730,43 +7615,6 @@
         "email": "tripolar@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 3,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 4,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 8,
-        "Humanities & Arts": 4,
-        "Law & Governance": 7,
-        "Economics & Business": 5,
-        "Agriculture & Food": 6,
-        "Education": 5
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -8907,43 +7755,6 @@
         "email": "NWA-OL@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 0,
-        "Chemistry": 0,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 4,
-        "Medical & Health Sciences": 7,
-        "Social Sciences": 10,
-        "Humanities & Arts": 6,
-        "Law & Governance": 8,
-        "Economics & Business": 4,
-        "Agriculture & Food": 0,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -9107,42 +7918,6 @@
         "email": "nwa-cyber2025@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 10,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 8,
-        "Humanities & Arts": 2,
-        "Law & Governance": 8,
-        "Economics & Business": 7,
-        "Agriculture & Food": 1,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -9188,38 +7963,6 @@
         "email": "kiem@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 4,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 4,
-        "Social Sciences": 5,
-        "Humanities & Arts": 2,
-        "Law & Governance": 6,
-        "Economics & Business": 5,
-        "Agriculture & Food": 3,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -9309,41 +8052,6 @@
         "email": "rekentijd@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 10,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 5,
-        "Humanities & Arts": 3,
-        "Law & Governance": 2,
-        "Economics & Business": 5,
-        "Agriculture & Food": 8,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -9380,42 +8088,6 @@
         "email": "kiem@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 4,
-        "Humanities & Arts": 1,
-        "Law & Governance": 2,
-        "Economics & Business": 6,
-        "Agriculture & Food": 5,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -9452,42 +8124,6 @@
         "email": "kiem@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 4,
-        "Humanities & Arts": 1,
-        "Law & Governance": 2,
-        "Economics & Business": 5,
-        "Agriculture & Food": 10,
-        "Education": 2
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -9533,42 +8169,6 @@
         "email": "kiem@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 7,
-        "Chemistry": 7,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 4,
-        "Humanities & Arts": 2,
-        "Law & Governance": 3,
-        "Economics & Business": 6,
-        "Agriculture & Food": 4,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -9614,42 +8214,6 @@
         "email": "kiem@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 4,
-        "Social Sciences": 6,
-        "Humanities & Arts": 2,
-        "Law & Governance": 3,
-        "Economics & Business": 6,
-        "Agriculture & Food": 5,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -9686,40 +8250,6 @@
         "email": "kiem@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 10,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 4,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 4,
-        "Social Sciences": 2,
-        "Humanities & Arts": 0,
-        "Law & Governance": 1,
-        "Economics & Business": 3,
-        "Agriculture & Food": 3,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -9800,38 +8330,6 @@
         "email": "open-access@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -9937,36 +8435,6 @@
         "email": "enw-m@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 2,
-        "Humanities & Arts": 2,
-        "Law & Governance": 1,
-        "Economics & Business": 1,
-        "Agriculture & Food": 3,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -10085,37 +8553,6 @@
         "email": "enw-m@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Postdoc"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 0,
-        "Social Sciences": 0,
-        "Humanities & Arts": 0,
-        "Law & Governance": 0,
-        "Economics & Business": 0,
-        "Agriculture & Food": 0,
-        "Education": 0
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -10218,34 +8655,6 @@
         "email": "sgw-ocexplore@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Assistant professor"
-      ],
-      "can_participate": [
-        "Postdoc",
-        "Assistant professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 1,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 10,
-        "Humanities & Arts": 10,
-        "Law & Governance": 9,
-        "Economics & Business": 9,
-        "Agriculture & Food": 1,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": 10,
-      "min_years_post_phd": 5
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -10337,39 +8746,6 @@
         "email": "enw-m@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 1,
-        "Humanities & Arts": 1,
-        "Law & Governance": 1,
-        "Economics & Business": 1,
-        "Agriculture & Food": 1,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -10507,39 +8883,6 @@
         "email": "nwa-adm-lab@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 8,
-        "Humanities & Arts": 2,
-        "Law & Governance": 6,
-        "Economics & Business": 5,
-        "Agriculture & Food": 7,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -10646,35 +8989,6 @@
         "email": "leraren@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Lector (HBO)",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 10
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -10827,38 +9141,6 @@
         "email": "nwo-jst-joint-call@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 10,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 3,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 4,
-        "Social Sciences": 2,
-        "Humanities & Arts": 1,
-        "Law & Governance": 1,
-        "Economics & Business": 3,
-        "Agriculture & Food": 2,
-        "Education": 3
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -10978,38 +9260,6 @@
         "email": "ttw-vici@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 1,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": 15,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -11123,35 +9373,6 @@
         "email": "sgw-vici@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 1,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 9,
-        "Humanities & Arts": 9,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 1,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": 15,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -11265,35 +9486,6 @@
         "email": "enw-vici@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": 15,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -11406,34 +9598,6 @@
         "email": "vici@zonmw.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 10,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": 15,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -11532,44 +9696,6 @@
         "email": "aanvragentake-off@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -11679,33 +9805,6 @@
         "email": "thijs.simons@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 4,
-        "Humanities & Arts": 2,
-        "Law & Governance": 1,
-        "Economics & Business": 5,
-        "Agriculture & Food": 7,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -11815,39 +9914,6 @@
         "email": "nxtgenhightech@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 4,
-        "Social Sciences": 3,
-        "Humanities & Arts": 1,
-        "Law & Governance": 2,
-        "Economics & Business": 5,
-        "Agriculture & Food": 4,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -11987,42 +10053,6 @@
         "email": "Kic-futureplastics@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 3,
-        "Chemistry": 10,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 6,
-        "Humanities & Arts": 1,
-        "Law & Governance": 4,
-        "Economics & Business": 5,
-        "Agriculture & Food": 6,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -12161,41 +10191,6 @@
         "email": "ngfcircularbatteries@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 7,
-        "Chemistry": 10,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 4,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 5,
-        "Agriculture & Food": 1,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -12335,41 +10330,6 @@
         "email": "nwa-digitechenwerk@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 4,
-        "Social Sciences": 9,
-        "Humanities & Arts": 3,
-        "Law & Governance": 7,
-        "Economics & Business": 8,
-        "Agriculture & Food": 1,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -12484,40 +10444,6 @@
         "email": "enw-xs@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 2,
-        "Humanities & Arts": 2,
-        "Law & Governance": 1,
-        "Economics & Business": 1,
-        "Agriculture & Food": 8,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -12662,39 +10588,6 @@
         "email": "roadmap@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 7,
-        "Humanities & Arts": 7,
-        "Law & Governance": 4,
-        "Economics & Business": 4,
-        "Agriculture & Food": 7,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": true,
       "note": "Additional conditions Upgrade funding can only be applied for by consortia associated with LSRI for which the following cumulative conditions apply: For the realisation of (part of) the LSRI, an LSRI "
@@ -12821,41 +10714,6 @@
         "email": "Kic-biodiversity@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 7,
-        "Humanities & Arts": 1,
-        "Law & Governance": 4,
-        "Economics & Business": 8,
-        "Agriculture & Food": 10,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -12962,36 +10820,6 @@
         "email": "sgw-ocexplore@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 1,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 9,
-        "Humanities & Arts": 9,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 1,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": 10,
-      "min_years_post_phd": 5
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -13035,37 +10863,6 @@
         "email": "Teun.vanhaaren@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Lector (HBO)",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Postdoc",
-        "PhD candidate"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 2,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 4,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 3,
-        "Agriculture & Food": 10,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -13118,42 +10915,6 @@
         "email": "jorick.bruins@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 6,
-        "Humanities & Arts": 3,
-        "Law & Governance": 3,
-        "Economics & Business": 7,
-        "Agriculture & Food": 6,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -13270,42 +11031,6 @@
       }
     ],
     "contacts": [],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 9,
-        "Humanities & Arts": 2,
-        "Law & Governance": 5,
-        "Economics & Business": 8,
-        "Agriculture & Food": 2,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -13350,42 +11075,6 @@
         "email": "kiem@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 6,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 6,
-        "Agriculture & Food": 9,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -13430,42 +11119,6 @@
         "email": "kiem@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 5,
-        "Humanities & Arts": 3,
-        "Law & Governance": 4,
-        "Economics & Business": 6,
-        "Agriculture & Food": 6,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -13510,42 +11163,6 @@
         "email": "kiem@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 6,
-        "Humanities & Arts": 2,
-        "Law & Governance": 3,
-        "Economics & Business": 6,
-        "Agriculture & Food": 5,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -13589,42 +11206,6 @@
         "email": "oscar.brandtcorstius@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 7,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 4,
-        "Humanities & Arts": 2,
-        "Law & Governance": 3,
-        "Economics & Business": 5,
-        "Agriculture & Food": 5,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -13677,40 +11258,6 @@
         "email": "l.int@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 7,
-        "Humanities & Arts": 5,
-        "Law & Governance": 5,
-        "Economics & Business": 7,
-        "Agriculture & Food": 6,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -13770,42 +11317,6 @@
         "email": "Maaike.spuij@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 6,
-        "Humanities & Arts": 2,
-        "Law & Governance": 3,
-        "Economics & Business": 5,
-        "Agriculture & Food": 10,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -13842,40 +11353,6 @@
     "sections": {},
     "downloads": [],
     "contacts": [],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 7,
-        "Humanities & Arts": 5,
-        "Law & Governance": 6,
-        "Economics & Business": 7,
-        "Agriculture & Food": 5,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -14011,42 +11488,6 @@
         "email": "kic-strategie@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -14153,41 +11594,6 @@
         "email": "nwa-eenzaamheid@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 0,
-        "Chemistry": 0,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 1,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 10,
-        "Humanities & Arts": 7,
-        "Law & Governance": 6,
-        "Economics & Business": 5,
-        "Agriculture & Food": 1,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -14316,42 +11722,6 @@
         "email": "programmas@hetkin.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 9,
-        "Humanities & Arts": 6,
-        "Law & Governance": 8,
-        "Economics & Business": 6,
-        "Agriculture & Food": 5,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -14487,39 +11857,6 @@
         "email": "kic-hpmd@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 1,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 2,
-        "Agriculture & Food": 1,
-        "Education": 0
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -14661,39 +11998,6 @@
         "email": "LEAWEF@NWO.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 8,
-        "Humanities & Arts": 2,
-        "Law & Governance": 6,
-        "Economics & Business": 7,
-        "Agriculture & Food": 8,
-        "Education": 5
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -14854,39 +12158,6 @@
         "email": "ttw-otp@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 5,
-        "Humanities & Arts": 3,
-        "Law & Governance": 3,
-        "Economics & Business": 5,
-        "Agriculture & Food": 8,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -14935,40 +12206,6 @@
         "email": "Planetaryhealth.nwa@zonmw.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 5,
-        "Medical & Health Sciences": 9,
-        "Social Sciences": 9,
-        "Humanities & Arts": 3,
-        "Law & Governance": 8,
-        "Economics & Business": 7,
-        "Agriculture & Food": 8,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -15020,32 +12257,6 @@
         "email": "maartje.harmelink@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "PhD candidate"
-      ],
-      "can_participate": [
-        "PhD candidate"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 5,
-        "Humanities & Arts": 2,
-        "Law & Governance": 3,
-        "Economics & Business": 6,
-        "Agriculture & Food": 5,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -15164,41 +12375,6 @@
         "email": "ngf-ca@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 3,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 4,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 4,
-        "Social Sciences": 2,
-        "Humanities & Arts": 0,
-        "Law & Governance": 1,
-        "Economics & Business": 3,
-        "Agriculture & Food": 8,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -15251,42 +12427,6 @@
         "email": "evelien.kooiman@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 7,
-        "Humanities & Arts": 5,
-        "Law & Governance": 4,
-        "Economics & Business": 7,
-        "Agriculture & Food": 6,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -15396,41 +12536,6 @@
         "email": "thematisch-dcc@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 5,
-        "Humanities & Arts": 4,
-        "Law & Governance": 5,
-        "Economics & Business": 5,
-        "Agriculture & Food": 6,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -15583,39 +12688,6 @@
         "email": "Kic-cc@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 10,
-        "Humanities & Arts": 5,
-        "Law & Governance": 6,
-        "Economics & Business": 9,
-        "Agriculture & Food": 7,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -15752,40 +12824,6 @@
         "email": "kic-smarttech@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 0,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 3,
-        "Earth & Environmental Sciences": 0,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 9,
-        "Humanities & Arts": 2,
-        "Law & Governance": 4,
-        "Economics & Business": 6,
-        "Agriculture & Food": 0,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -15839,38 +12877,6 @@
         "email": "trudelien.vanthof@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 6,
-        "Humanities & Arts": 5,
-        "Law & Governance": 5,
-        "Economics & Business": 7,
-        "Agriculture & Food": 6,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -15974,41 +12980,6 @@
         "email": "rekentijd@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 10,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 4,
-        "Humanities & Arts": 2,
-        "Law & Governance": 1,
-        "Economics & Business": 3,
-        "Agriculture & Food": 8,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -16151,39 +13122,6 @@
         "email": "nwa-cerrado@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 10,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 4,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 8,
-        "Humanities & Arts": 2,
-        "Law & Governance": 6,
-        "Economics & Business": 7,
-        "Agriculture & Food": 10,
-        "Education": 3
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -16233,41 +13171,6 @@
         "email": "nwa-eenzaamheid@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 0,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 0,
-        "Engineering & Technology": 4,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 7,
-        "Humanities & Arts": 1,
-        "Law & Governance": 2,
-        "Economics & Business": 3,
-        "Agriculture & Food": 0,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -16320,39 +13223,6 @@
         "email": "anne.binnendijk@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 3,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 7,
-        "Social Sciences": 5,
-        "Humanities & Arts": 2,
-        "Law & Governance": 2,
-        "Economics & Business": 6,
-        "Agriculture & Food": 2,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -16411,37 +13281,6 @@
         "email": "anne.binnendijk@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Lector (HBO)",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Postdoc",
-        "PhD candidate"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 4,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 6,
-        "Humanities & Arts": 4,
-        "Law & Governance": 3,
-        "Economics & Business": 5,
-        "Agriculture & Food": 2,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -16602,41 +13441,6 @@
         "email": "nl-cgiar-SEP@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 5,
-        "Medical & Health Sciences": 7,
-        "Social Sciences": 6,
-        "Humanities & Arts": 1,
-        "Law & Governance": 3,
-        "Economics & Business": 5,
-        "Agriculture & Food": 10,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": 10
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -16749,38 +13553,6 @@
         "email": "sgw-ocexplore@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 2,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 9,
-        "Humanities & Arts": 9,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 2,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": 5
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -16886,35 +13658,6 @@
         "email": "leraren@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Lector (HBO)",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 10
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -16968,35 +13711,6 @@
         "email": "mel-major@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Lector (HBO)",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 9
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -17131,42 +13845,6 @@
         "email": "groenvermogenNL_WP5@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 10,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 3,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 2,
-        "Humanities & Arts": 0,
-        "Law & Governance": 1,
-        "Economics & Business": 3,
-        "Agriculture & Food": 3,
-        "Education": 0
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -17290,35 +13968,6 @@
         "email": "veni@zonmw.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc"
-      ],
-      "can_participate": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 3,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 3,
-        "Engineering & Technology": 3,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 8,
-        "Humanities & Arts": 2,
-        "Law & Governance": 2,
-        "Economics & Business": 3,
-        "Agriculture & Food": 3,
-        "Education": 3
-      },
-      "international": true,
-      "max_years_post_phd": 3,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -17453,36 +14102,6 @@
         "email": "ttw-veni@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc"
-      ],
-      "can_participate": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 4,
-        "Humanities & Arts": 3,
-        "Law & Governance": 2,
-        "Economics & Business": 4,
-        "Agriculture & Food": 5,
-        "Education": 3
-      },
-      "international": true,
-      "max_years_post_phd": 3,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -17618,36 +14237,6 @@
         "email": "sgw-veni@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc"
-      ],
-      "can_participate": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 2,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 9,
-        "Humanities & Arts": 9,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 2,
-        "Education": 7
-      },
-      "international": true,
-      "max_years_post_phd": 3,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -17776,35 +14365,6 @@
         "email": "enw-veni@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc"
-      ],
-      "can_participate": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": true,
-      "max_years_post_phd": 3,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -17933,42 +14493,6 @@
         "email": "programmas@hetkin.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 5,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 9,
-        "Humanities & Arts": 8,
-        "Law & Governance": 7,
-        "Economics & Business": 6,
-        "Agriculture & Food": 6,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -18090,32 +14614,6 @@
         "email": "programmas@hetkin.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Any researcher"
-      ],
-      "can_participate": [
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -18246,40 +14744,6 @@
         "email": "nwa-eiwittransitie@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 7,
-        "Humanities & Arts": 1,
-        "Law & Governance": 2,
-        "Economics & Business": 7,
-        "Agriculture & Food": 10,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -18323,42 +14787,6 @@
         "email": "sanne.heijink@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 6,
-        "Humanities & Arts": 2,
-        "Law & Governance": 3,
-        "Economics & Business": 7,
-        "Agriculture & Food": 5,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -18501,40 +14929,6 @@
         "email": "nwa-onbeschermde-soorten@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 3,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 7,
-        "Humanities & Arts": 1,
-        "Law & Governance": 6,
-        "Economics & Business": 7,
-        "Agriculture & Food": 8,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -18673,39 +15067,6 @@
         "email": "nwa-slaverypasts@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 0,
-        "Chemistry": 0,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 0,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 0,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 9,
-        "Humanities & Arts": 10,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 0,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -18794,32 +15155,6 @@
         "email": "bezoekersbeurzen@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Full professor"
-      ],
-      "can_participate": [
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -18999,41 +15334,6 @@
         "email": "nwa-orc2025@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -19166,40 +15466,6 @@
         "email": "sgwoc@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Full professor",
-        "Associate professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 2,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 10,
-        "Humanities & Arts": 10,
-        "Law & Governance": 9,
-        "Economics & Business": 9,
-        "Agriculture & Food": 2,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": 15
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -19320,42 +15586,6 @@
         "email": "venturechallenge@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 3,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 6,
-        "Agriculture & Food": 2,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -19462,40 +15692,6 @@
         "email": "impactexplorer@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -19641,40 +15837,6 @@
         "email": "ilka.tanczos@minienw.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 8,
-        "Humanities & Arts": 2,
-        "Law & Governance": 7,
-        "Economics & Business": 7,
-        "Agriculture & Food": 6,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -19810,39 +15972,6 @@
         "email": "kic-medicijnen@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 7,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 7,
-        "Humanities & Arts": 1,
-        "Law & Governance": 5,
-        "Economics & Business": 8,
-        "Agriculture & Food": 4,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -19980,41 +16109,6 @@
         "email": "kic-biochemdiv@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 4,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 4,
-        "Humanities & Arts": 1,
-        "Law & Governance": 2,
-        "Economics & Business": 5,
-        "Agriculture & Food": 8,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -20128,36 +16222,6 @@
         "email": "pgw-sgw@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "PhD candidate"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 1,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 8,
-        "Humanities & Arts": 10,
-        "Law & Governance": 7,
-        "Economics & Business": 4,
-        "Agriculture & Food": 0,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": true,
       "note": "Applications can only be submitted for candidates who have been selected by the deans of the humanities faculties from the following universities: Erasmus University Rotterdam Leiden University Maastr"
@@ -20255,39 +16319,6 @@
         "email": "aanvragentake-off@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -20412,41 +16443,6 @@
         "email": "nwa-kv@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 5,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 9,
-        "Humanities & Arts": 7,
-        "Law & Governance": 9,
-        "Economics & Business": 6,
-        "Agriculture & Food": 1,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -20490,39 +16486,6 @@
         "email": "jorick.bruins@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 6,
-        "Humanities & Arts": 3,
-        "Law & Governance": 3,
-        "Economics & Business": 7,
-        "Agriculture & Food": 5,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -20634,41 +16597,6 @@
         "email": "hestia@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -20829,41 +16757,6 @@
         "email": "quantum@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Postdoc"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 10,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 10,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 1,
-        "Humanities & Arts": 0,
-        "Law & Governance": 1,
-        "Economics & Business": 2,
-        "Agriculture & Food": 2,
-        "Education": 2
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -20975,43 +16868,6 @@
         "email": "openmind@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 7,
-        "Social Sciences": 6,
-        "Humanities & Arts": 5,
-        "Law & Governance": 4,
-        "Economics & Business": 4,
-        "Agriculture & Food": 5,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -21133,42 +16989,6 @@
         "email": "cetpartnership@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 7,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 3,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 5,
-        "Humanities & Arts": 0,
-        "Law & Governance": 4,
-        "Economics & Business": 5,
-        "Agriculture & Food": 4,
-        "Education": 1
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -21228,37 +17048,6 @@
         "email": "anne.binnendijk@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Lector (HBO)",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Postdoc",
-        "PhD candidate"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 5,
-        "Humanities & Arts": 5,
-        "Law & Governance": 3,
-        "Economics & Business": 4,
-        "Agriculture & Food": 2,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -21357,41 +17146,6 @@
         "email": "demonstrator@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -21533,39 +17287,6 @@
         "email": "NWAscienceforpolicy@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 4,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 9,
-        "Humanities & Arts": 6,
-        "Law & Governance": 9,
-        "Economics & Business": 7,
-        "Agriculture & Food": 2,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -21697,41 +17418,6 @@
         "email": "winc@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 9,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 3,
-        "Economics & Business": 3,
-        "Agriculture & Food": 8,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -21790,38 +17476,6 @@
         "email": "emma.bouman@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Non-academic"
-      ],
-      "can_participate": [
-        "Non-academic",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Postdoc",
-        "PhD candidate"
-      ],
-      "fields": {
-        "Physics & Astronomy": 0,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 1,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 5,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 8,
-        "Humanities & Arts": 3,
-        "Law & Governance": 2,
-        "Economics & Business": 7,
-        "Agriculture & Food": 10,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -21935,32 +17589,6 @@
         "email": "rubicon@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc"
-      ],
-      "can_participate": [
-        "Postdoc"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": true,
-      "max_years_post_phd": 1,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -22019,37 +17647,6 @@
         "email": "emma.bouman@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Lector (HBO)",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Postdoc",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 0,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 4,
-        "Medical & Health Sciences": 0,
-        "Social Sciences": 7,
-        "Humanities & Arts": 1,
-        "Law & Governance": 5,
-        "Economics & Business": 8,
-        "Agriculture & Food": 10,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -22184,40 +17781,6 @@
         "email": "kic-space2025@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 5,
-        "Humanities & Arts": 1,
-        "Law & Governance": 7,
-        "Economics & Business": 3,
-        "Agriculture & Food": 0,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -22330,38 +17893,6 @@
         "email": "sgw-ocexplore@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 2,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 9,
-        "Humanities & Arts": 9,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 2,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": 5
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -22411,42 +17942,6 @@
         "email": "Teun.vanhaaren@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 6,
-        "Humanities & Arts": 2,
-        "Law & Governance": 2,
-        "Economics & Business": 5,
-        "Agriculture & Food": 10,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -22570,40 +18065,6 @@
         "email": "vidi@zonmw.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 3,
-        "Engineering & Technology": 3,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 5,
-        "Humanities & Arts": 1,
-        "Law & Governance": 1,
-        "Economics & Business": 2,
-        "Agriculture & Food": 2,
-        "Education": 2
-      },
-      "international": true,
-      "max_years_post_phd": 8,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -22740,40 +18201,6 @@
         "email": "ttw-vidi@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 3,
-        "Earth & Environmental Sciences": 3,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 3,
-        "Humanities & Arts": 1,
-        "Law & Governance": 1,
-        "Economics & Business": 2,
-        "Agriculture & Food": 2,
-        "Education": 2
-      },
-      "international": true,
-      "max_years_post_phd": 8,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -22904,41 +18331,6 @@
         "email": "enw-vidi@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": true,
-      "max_years_post_phd": 8,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -23068,40 +18460,6 @@
         "email": "sgw-vidi@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 1,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 1,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 9,
-        "Humanities & Arts": 9,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 1,
-        "Education": 8
-      },
-      "international": true,
-      "max_years_post_phd": 8,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -23217,41 +18575,6 @@
         "email": "biodiversa@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 10,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 5,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 6,
-        "Humanities & Arts": 2,
-        "Law & Governance": 4,
-        "Economics & Business": 3,
-        "Agriculture & Food": 8,
-        "Education": 3
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -23383,42 +18706,6 @@
         "email": "programmas@hetkin.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 9,
-        "Humanities & Arts": 7,
-        "Law & Governance": 8,
-        "Economics & Business": 10,
-        "Agriculture & Food": 6,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -23554,41 +18841,6 @@
         "email": "kic-digitaltwins@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 5,
-        "Humanities & Arts": 2,
-        "Law & Governance": 2,
-        "Economics & Business": 7,
-        "Agriculture & Food": 6,
-        "Education": 4
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -23730,40 +18982,6 @@
         "email": "reducecrm@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 7,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 3,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 4,
-        "Humanities & Arts": 0,
-        "Law & Governance": 3,
-        "Economics & Business": 5,
-        "Agriculture & Food": 2,
-        "Education": 0
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -23913,39 +19131,6 @@
         "email": "kic-optomech-2025@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 4,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 2,
-        "Humanities & Arts": 0,
-        "Law & Governance": 1,
-        "Economics & Business": 3,
-        "Agriculture & Food": 2,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -24079,41 +19264,6 @@
         "email": "dutp@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 7,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 9,
-        "Humanities & Arts": 2,
-        "Law & Governance": 6,
-        "Economics & Business": 8,
-        "Agriculture & Food": 4,
-        "Education": 4
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -24222,40 +19372,6 @@
       }
     ],
     "contacts": [],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 7,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 9,
-        "Social Sciences": 7,
-        "Humanities & Arts": 1,
-        "Law & Governance": 6,
-        "Economics & Business": 5,
-        "Agriculture & Food": 4,
-        "Education": 2
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -24350,39 +19466,6 @@
         "email": "j.diekema@spaceoffice.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 10,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 3,
-        "Humanities & Arts": 1,
-        "Law & Governance": 0,
-        "Economics & Business": 2,
-        "Agriculture & Food": 8,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -25270,41 +20353,6 @@
         "email": "CITransities@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 4,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 9,
-        "Humanities & Arts": 4,
-        "Law & Governance": 6,
-        "Economics & Business": 7,
-        "Agriculture & Food": 5,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -25357,36 +20405,6 @@
         "email": "l.int@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Lector (HBO)",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 7,
-        "Humanities & Arts": 5,
-        "Law & Governance": 5,
-        "Economics & Business": 7,
-        "Agriculture & Food": 6,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -25517,39 +20535,6 @@
         "email": "enw-xl@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 3,
-        "Humanities & Arts": 2,
-        "Law & Governance": 1,
-        "Economics & Business": 2,
-        "Agriculture & Food": 5,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -25596,39 +20581,6 @@
       }
     ],
     "contacts": [],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 7,
-        "Law & Governance": 6,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -25738,41 +20690,6 @@
         "email": "era4health@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 0,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 3,
-        "Engineering & Technology": 2,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 7,
-        "Humanities & Arts": 0,
-        "Law & Governance": 1,
-        "Economics & Business": 2,
-        "Agriculture & Food": 5,
-        "Education": 4
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -25826,40 +20743,6 @@
         "email": "evelien.kooiman@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 6,
-        "Humanities & Arts": 4,
-        "Law & Governance": 3,
-        "Economics & Business": 6,
-        "Agriculture & Food": 5,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -25912,42 +20795,6 @@
         "email": "emma.bouman@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 7,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 4,
-        "Humanities & Arts": 1,
-        "Law & Governance": 3,
-        "Economics & Business": 3,
-        "Agriculture & Food": 8,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -26093,39 +20940,6 @@
         "email": "j.verberne@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 3,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 5,
-        "Medical & Health Sciences": 4,
-        "Social Sciences": 9,
-        "Humanities & Arts": 4,
-        "Law & Governance": 9,
-        "Economics & Business": 6,
-        "Agriculture & Food": 6,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -26249,38 +21063,6 @@
         "email": "ohamr@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 4,
-        "Medical & Health Sciences": 9,
-        "Social Sciences": 2,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 2,
-        "Agriculture & Food": 8,
-        "Education": 1
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -26386,40 +21168,6 @@
         "email": "sbep@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Postdoc",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 3,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 6,
-        "Humanities & Arts": 1,
-        "Law & Governance": 4,
-        "Economics & Business": 6,
-        "Agriculture & Food": 7,
-        "Education": 2
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -26525,35 +21273,6 @@
         "email": "leraren@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Lector (HBO)",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 10
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -26606,40 +21325,6 @@
         "email": "michele.sons@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 6,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 6,
-        "Social Sciences": 6,
-        "Humanities & Arts": 5,
-        "Law & Governance": 5,
-        "Economics & Business": 7,
-        "Agriculture & Food": 6,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -26779,41 +21464,6 @@
         "email": "kic-coolingneeds2025@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 7,
-        "Social Sciences": 8,
-        "Humanities & Arts": 1,
-        "Law & Governance": 2,
-        "Economics & Business": 6,
-        "Agriculture & Food": 3,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -26933,39 +21583,6 @@
         "email": "T.Machulina@nrfu.org.ua"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -27104,41 +21721,6 @@
         "email": "brainhealth@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 3,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 3,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 9,
-        "Humanities & Arts": 2,
-        "Law & Governance": 2,
-        "Economics & Business": 3,
-        "Agriculture & Food": 2,
-        "Education": 4
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -27272,41 +21854,6 @@
         "email": "kernenergie@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Postdoc",
-        "PhD candidate",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 6,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 0,
-        "Social Sciences": 2,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 3,
-        "Agriculture & Food": 0,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -27428,33 +21975,6 @@
         "email": "venturechallenge@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Any researcher"
-      ],
-      "can_participate": [
-        "Any researcher",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 2,
-        "Humanities & Arts": 0,
-        "Law & Governance": 1,
-        "Economics & Business": 5,
-        "Agriculture & Food": 2,
-        "Education": 0
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -27600,42 +22120,6 @@
         "email": "GroenvermogenNL_WP2@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 7,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 7,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 3,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 5,
-        "Agriculture & Food": 2,
-        "Education": 1
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -27765,42 +22249,6 @@
         "email": "futurefoods@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 0,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 6,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 4,
-        "Social Sciences": 8,
-        "Humanities & Arts": 2,
-        "Law & Governance": 6,
-        "Economics & Business": 7,
-        "Agriculture & Food": 9,
-        "Education": 2
-      },
-      "international": true,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -27898,38 +22346,6 @@
         "email": "aanvragentake-off@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Non-academic"
-      ],
-      "can_participate": [
-        "Non-academic",
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 5,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 5
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -28036,35 +22452,6 @@
         "email": "rubicon@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc"
-      ],
-      "can_participate": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": true,
-      "max_years_post_phd": 5,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -28193,38 +22580,6 @@
         "email": "vici@zonmw.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "Associate professor",
-        "Full professor",
-        "Assistant professor",
-        "Postdoc",
-        "PhD candidate",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 9,
-        "Chemistry": 9,
-        "Mathematics & Computer Science": 9,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 10,
-        "Social Sciences": 9,
-        "Humanities & Arts": 9,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": 15,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -28354,34 +22709,6 @@
         "email": "ttw-vici@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 10,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 10,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": 15,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -28639,34 +22966,6 @@
         "email": "enw-vici@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 8,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": 15,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -28908,42 +23207,6 @@
         "email": "kiem@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 1,
-        "Earth & Environmental Sciences": 1,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 1,
-        "Social Sciences": 5,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 8,
-        "Agriculture & Food": 3,
-        "Education": 2
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -29038,43 +23301,6 @@
         "email": "Nwa-cs@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Postdoc",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 5,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 8,
-        "Humanities & Arts": 5,
-        "Law & Governance": 5,
-        "Economics & Business": 5,
-        "Agriculture & Food": 5,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -29209,42 +23435,6 @@
         "email": "programmas@hetkin.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic",
-        "Any researcher"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 4,
-        "Mathematics & Computer Science": 5,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 9,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 9,
-        "Humanities & Arts": 5,
-        "Law & Governance": 7,
-        "Economics & Business": 7,
-        "Agriculture & Food": 8,
-        "Education": 7
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -29356,39 +23546,6 @@
         "email": "DeepNL@NWO.NL"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 6,
-        "Mathematics & Computer Science": 7,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 10,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 0,
-        "Social Sciences": 4,
-        "Humanities & Arts": 0,
-        "Law & Governance": 2,
-        "Economics & Business": 3,
-        "Agriculture & Food": 2,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -29620,41 +23777,6 @@
         "email": "kic-consortia@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 8,
-        "Chemistry": 8,
-        "Mathematics & Computer Science": 8,
-        "Biology & Life Sciences": 8,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 8,
-        "Medical & Health Sciences": 8,
-        "Social Sciences": 8,
-        "Humanities & Arts": 6,
-        "Law & Governance": 6,
-        "Economics & Business": 8,
-        "Agriculture & Food": 8,
-        "Education": 6
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -29826,41 +23948,6 @@
         "email": "sprong@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 5,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 6,
-        "Biology & Life Sciences": 5,
-        "Earth & Environmental Sciences": 5,
-        "Engineering & Technology": 9,
-        "Medical & Health Sciences": 5,
-        "Social Sciences": 4,
-        "Humanities & Arts": 2,
-        "Law & Governance": 3,
-        "Economics & Business": 4,
-        "Agriculture & Food": 5,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -29973,38 +24060,6 @@
         "email": "sgw-ocexplore@nwo.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "can_participate": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)"
-      ],
-      "fields": {
-        "Physics & Astronomy": 2,
-        "Chemistry": 2,
-        "Mathematics & Computer Science": 3,
-        "Biology & Life Sciences": 2,
-        "Earth & Environmental Sciences": 2,
-        "Engineering & Technology": 2,
-        "Medical & Health Sciences": 2,
-        "Social Sciences": 9,
-        "Humanities & Arts": 9,
-        "Law & Governance": 8,
-        "Economics & Business": 8,
-        "Agriculture & Food": 2,
-        "Education": 8
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": 5
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""
@@ -30054,42 +24109,6 @@
         "email": "Teun.vanhaaren@regieorgaan-sia.nl"
       }
     ],
-    "ai_classification": {
-      "can_lead": [
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "can_participate": [
-        "PhD candidate",
-        "Postdoc",
-        "Assistant professor",
-        "Associate professor",
-        "Full professor",
-        "Lector (HBO)",
-        "Non-academic"
-      ],
-      "fields": {
-        "Physics & Astronomy": 1,
-        "Chemistry": 5,
-        "Mathematics & Computer Science": 4,
-        "Biology & Life Sciences": 9,
-        "Earth & Environmental Sciences": 8,
-        "Engineering & Technology": 6,
-        "Medical & Health Sciences": 3,
-        "Social Sciences": 5,
-        "Humanities & Arts": 1,
-        "Law & Governance": 2,
-        "Economics & Business": 4,
-        "Agriculture & Food": 10,
-        "Education": 3
-      },
-      "international": false,
-      "max_years_post_phd": null,
-      "min_years_post_phd": null
-    },
     "restrictions": {
       "invited_only": false,
       "note": ""

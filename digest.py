@@ -52,8 +52,6 @@ def _section(g, key, limit):
 
 
 def _grant_brief(g):
-    ai = g.get("ai_classification", {})
-    fields = {k: v for k, v in ai.get("fields", {}).items() if v >= 6}
     purpose = _section(g, "purpose", 240)
     who = _section(g, "who_can_apply", 600)
     return {
@@ -68,11 +66,8 @@ def _grant_brief(g):
         "finance_type": g.get("finance_type", ""),
         "programme": g.get("programme", ""),
         "budget": g.get("budget", ""),
-        "fields": fields,
-        # Eligibility signals - the matcher needs these to judge who may apply,
-        # not just whether the topic fits.
-        "can_lead": ai.get("can_lead", []),
-        "can_participate": ai.get("can_participate", []),
+        # Eligibility comes from the scraped who_can_apply / target_groups text,
+        # which the matcher reads directly — no AI classification involved.
         "target_groups": g.get("target_groups", ""),
         "purpose": purpose,
         "who_can_apply": who,
@@ -97,6 +92,9 @@ def candidates(days, backfill, use_local):
     out = {
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         "window_days": days,
+        # Pre-filter totals (§11 Request B), so an empty section (nothing matched)
+        # is distinguishable from a failed scrape (a zero total).
+        "source_counts": {"grants_total": len(grants), "news_total": len(news)},
         # Grants whose call page first appeared in the window → real runway.
         "new_grants": [_grant_brief(g) for g in grants
                        if _within(g.get("first_seen", ""), cutoff)],

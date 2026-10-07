@@ -313,34 +313,6 @@ if _last_updated:
 
 query = st.sidebar.text_input("Search", placeholder="Search grants…", label_visibility="collapsed")
 
-# ── Section: For me ──
-AI_POSITIONS = [
-    "Any", "PhD candidate", "Postdoc", "Assistant professor",
-    "Associate professor", "Full professor", "Lector (HBO)", "Non-academic",
-]
-AI_FIELDS = [
-    "Physics & Astronomy", "Chemistry", "Mathematics & Computer Science",
-    "Biology & Life Sciences", "Earth & Environmental Sciences",
-    "Engineering & Technology", "Medical & Health Sciences",
-    "Social Sciences", "Humanities & Arts", "Law & Governance",
-    "Economics & Business", "Agriculture & Food", "Education",
-]
-
-st.sidebar.markdown("**For me**")
-_me_cols = st.sidebar.columns(2)
-my_position = _me_cols[0].selectbox("Position", AI_POSITIONS)
-my_field = _me_cols[1].selectbox("Field", ["Any"] + AI_FIELDS)
-if my_position != "Any":
-    position_role = st.sidebar.segmented_control(
-        "Role", ["Can lead", "Can participate"], default="Can participate", label_visibility="collapsed"
-    ) or "Can participate"
-else:
-    position_role = "Can participate"
-if my_field != "Any":
-    field_threshold = st.sidebar.slider("Field match (1=loose, 10=exact)", 1, 10, 5, key="field_thresh")
-else:
-    field_threshold = 0
-
 # ── Section: Filters ──
 st.sidebar.markdown("**Filters**")
 _slabels = {"open":"Open","upcoming":"Upcoming","in_preparation":"In Prep",
@@ -397,41 +369,12 @@ now = datetime.utcnow()
 cutoff_days = DEADLINE_WINDOWS[deadline_window]
 cutoff = now + timedelta(days=cutoff_days) if cutoff_days else None
 
-_POS_RANK = {
-    "PhD candidate": 1, "Postdoc": 2, "Assistant professor": 3,
-    "Associate professor": 4, "Full professor": 5,
-}
-
-def matches_position(g):
-    if my_position == "Any":
-        return True
-    ai = g.get("ai_classification", {})
-    key = "can_lead" if position_role == "Can lead" else "can_participate"
-    positions = ai.get(key, [])
-    if "Any researcher" in positions:
-        return True
-    my_rank = _POS_RANK.get(my_position)
-    if my_rank:
-        # Grant requiring position X implicitly accepts ranks above X too
-        return any(_POS_RANK.get(p, 0) <= my_rank for p in positions)
-    # Non-ranked positions (Lector, Non-academic): exact match only
-    return my_position in positions
-
-def matches_field(g):
-    if my_field == "Any":
-        return True
-    ai = g.get("ai_classification", {})
-    fields = ai.get("fields", {})
-    return fields.get(my_field, 0) >= field_threshold
-
 filtered = [
     g for g in grants
     if matches_query(g, query)
     and (not selected_statuses or g.get("status") in selected_statuses)
     and (not finance_filter or g.get("finance_type") in finance_filter)
     and (grant_type == "All" or (grant_type == "Consortium") == is_consortium(g))
-    and matches_position(g)
-    and matches_field(g)
     and (cutoff is None or next_deadline(g, now) <= cutoff)
     and (not has_pdf or g.get("primary_pdf"))
 ]

@@ -283,12 +283,23 @@ Switch it off freely as far as the digest is concerned. Whether it stays is a
 question about `app.py` (`matches_position` and `matches_field` both depend on it),
 and that is your call, not the task's.
 
-## 11. Requests for the backend (2026-10-07) — NOT YET IMPLEMENTED
+## 11. Requests for the backend (2026-10-07) — ✅ ALL DONE (backend reply, same day)
 
 Three items. A and B are changes the task needs and cannot make itself, both in
 your area (`digest.py` and the Action); the task side is written to tolerate their
 absence, so nothing breaks while they are pending. C is a correctness report about
 a commit, not a request for new work.
+
+> **Backend reply (2026-10-07):** all three landed for real this time —
+> **A:** the Action now emits `currently_open.json` (`candidates --backfill`) and
+> commits it alongside `candidates.json`; seed file committed.
+> **B:** `candidates.json` now carries `source_counts: {grants_total, news_total}`
+> (pre-filter totals).
+> **C:** the five code removals in `2db31bc`'s message are now actually in the tree —
+> `classify_grants.py` deleted, the Action's classify step + `ANTHROPIC_API_KEY` +
+> `anthropic` gone, `ai_classification` stripped from `grants.json`, `process.py`'s
+> carry-forward removed, `app.py`'s position/field filters removed, `digest.py`'s
+> `fields`/`can_lead`/`can_participate` removed. No paid-API dependency remains.
 
 ### Request A — emit the currently-open set as its own artifact
 

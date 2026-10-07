@@ -1,6 +1,10 @@
 {
   "generated": "2026-10-07",
   "window_days": 21,
+  "source_counts": {
+    "grants_total": 225,
+    "news_total": 23
+  },
   "new_grants": [],
   "just_opened": [],
   "recent_news": [

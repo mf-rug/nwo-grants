@@ -38,7 +38,7 @@ def load_previous(path):
 
 
 def apply_change_tracking(grants, prev, today):
-    """Stamp first_seen/last_changed and carry forward ai_classification."""
+    """Stamp first_seen/last_changed by comparing against the previous run."""
     for g in grants:
         old = prev.get(g["id"])
         if old is None:
@@ -48,10 +48,6 @@ def apply_change_tracking(grants, prev, today):
             g["first_seen"] = old.get("first_seen", FIRST_SEEN_BASELINE)
             changed = any(g.get(f) != old.get(f) for f in TRACKED_FIELDS)
             g["last_changed"] = today if changed else old.get("last_changed", g["first_seen"])
-            # Carry forward the (expensive) AI classification; process.py
-            # rebuilds from HTML and would otherwise drop it every run.
-            if "ai_classification" in old:
-                g["ai_classification"] = old["ai_classification"]
     return grants
 
 
@@ -419,7 +415,7 @@ def main():
         html = html_path.read_text(encoding="utf-8")
         grants.append(process_html(slug, url, html))
 
-    # Change-tracking: carry forward first_seen + ai_classification, stamp last_changed
+    # Change-tracking: carry forward first_seen, stamp last_changed
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     prev = load_previous(OUTPUT)
     apply_change_tracking(grants, prev, today)

@@ -14,7 +14,7 @@ Everything the task needs is reachable from a cloud run:
 | What | Where |
 | --- | --- |
 | candidates | `candidates.json`, fetched from the **public** raw URL on `main` — **data, not code** |
-| first-send backfill | `currently_open.json`, same place — *requested, not yet emitted; see changelog §11* |
+| first-send backfill | `currently_open.json`, same place — all open calls, for new subscribers |
 | who builds them | the weekly Action runs `digest.py candidates --local` and commits the result |
 | subscribers | Google Sheet `15D1PibZUdL2JrpZcl08dxV9aW0Spr_4QIYLdaLSSZJI` (Form responses) |
 | profile cache | Google Sheet `1rT9GBDefOBAj9hufVOm5YGvF3jvrKkwtu7fnQR6freg`, tab `profiles` |
@@ -116,29 +116,20 @@ a news item.
 nothing, so its items stay eligible next week — the entire point. Logging first
 would reintroduce the bug the log exists to fix.
 
-## The task does not depend on the AI classifier
+## No AI classifier
 
-**State as of 2026-10-07, verified against the working tree:** the classifier is
-*still in place*. `classify_grants.py` exists, the Action still runs its "Classify
-grants (AI)" step with `ANTHROPIC_API_KEY` and still pip-installs `anthropic`,
-`process.py` still carries `ai_classification` forward, `app.py` still has
-`matches_position`/`matches_field`, and 179 of the 225 records in `grants.json`
-still carry a classification. Commit `2db31bc`, whose message announces all of
-those removals, changed only documentation — see changelog §11, Request C.
+**The classifier was removed for real on 2026-10-07** (Request C landed): gone are
+`classify_grants.py`, the Action's "Classify grants (AI)" step, `ANTHROPIC_API_KEY`
+and the `anthropic` pip install, `process.py`'s carry-forward, `app.py`'s
+`matches_position`/`matches_field`, `digest.py`'s `fields`/`can_lead`/`can_participate`,
+and the `ai_classification` field in `grants.json`. **There is now no paid-API
+dependency anywhere** — the whole point.
 
-None of that matters to the digest, by design. `fields`, `can_lead` and
-`can_participate` are **optional corroboration only**. The task's authoritative
-eligibility sources are `who_can_apply` (600 chars of the real prose),
-`target_groups`, `restrictions`, and the live call page it fetches for every
-shortlisted item — all better evidence than a classifier's summary of the same
-text.
-
-The prompt states explicitly that an empty value means *not classified*, never
-"nobody is eligible", so nothing is silently excluded whether the classifier is
-on, off, or half-removed. Verified by regenerating the candidates from a
-`grants.json` with every `ai_classification` stripped: identical keys, identical
-counts, `who_can_apply`, `target_groups` and `restrictions` untouched. When the
-removal actually lands, nothing in the task needs changing.
+The task never relied on it: eligibility comes from the scraped `who_can_apply`
+(600 chars of real prose), `target_groups`, `restrictions`, and the live call page
+fetched for every shortlisted item — all better evidence than a classifier's summary
+of the same text. An empty value means *not stated*, never "nobody is eligible", so
+nothing is silently excluded.
 
 ## Reporting problems
 
@@ -233,14 +224,14 @@ stays internal and the Sheet private.
 - **Calls already open today never enter the delta.** `apply_change_tracking` gives
   a known record `first_seen = 2020-01-01` and moves `last_changed` only when
   `status`, `deadline_dates`, `budget` or `finance_type` changes — which an
-  already-open call will not do. The ~50 calls open now are therefore outside every
-  future window permanently, and a subscriber joining later would never hear about
-  any of them. Fix requested as changelog §11 Request A (an automatic first-send
-  backfill for anyone with no sent-log rows). Until then, `--backfill` by hand is
-  the only route. Raised by `nwo-digest-ops#3`.
-- **An empty section cannot be told from a failed scrape.** `new_grants: []` may
-  mean "nothing matched" or "nothing was read". The freshness check only proves the
-  file was rebuilt. Fix requested as changelog §11 Request B (source counts).
+  already-open call will not do, so the ~50 calls open now are outside every future
+  window. *Handled:* the Action now also emits **`currently_open.json`** (§11 Request
+  A), which the task uses as an automatic first-send backfill for any subscriber with
+  no sent-log rows, deduped by the log thereafter. Raised by `nwo-digest-ops#3`.
+- **An empty section vs. a failed scrape.** `new_grants: []` could mean "nothing
+  matched" or "nothing was read". *Handled:* `candidates.json` now carries
+  `source_counts` (§11 Request B); a zero total means a failed scrape, a non-zero
+  total with an empty section means nothing matched.
 - The profile cache is keyed on email. Changing a subscriber's Form answers does not
   refresh a cached profile; clear their row to force re-inference.
 - The sent-log grows one row per item per recipient and is never pruned. Years of
