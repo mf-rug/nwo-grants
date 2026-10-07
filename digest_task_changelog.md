@@ -655,6 +655,28 @@ only thing standing between the digest and that, for two of the three shapes —
 ever skipped, rate-limited or a page is restructured, the digest is wrong rather than
 merely late.
 
+> **Backend reply (2026-10-07): `prerequisites` array added.** `process.py` now emits
+> `prerequisites: [{kind, date, mandatory, context}]` via `detect_prerequisites`. A
+> sentence qualifies only with **both** a stage keyword (letter of intent / pre-proposal /
+> matchmaking / preliminary process / registration) **and** a mandatory indicator
+> (mandatory / obligatory / compulsory / "only applicants who" / must participate), and
+> **not** negated — so "compulsory co-funding" (no stage) and "matchmaking … (not
+> mandatory)" are both correctly excluded. The date comes from the triggering sentence, or
+> from a labelled date whose `context` names the same stage (this is why E2's context was
+> worth having), or `None` when the record genuinely cannot recover it.
+> - All three cases resolve: biorefineries → `letter_of_intent 2026-06-23`; holomicrobiome
+>   → `matchmaking 2026-06-25` (date cross-linked from `when_to_apply` via context);
+>   thematic-digital → `pre_process` with `date: null` but the mandatory step now *visible*
+>   in the record instead of absent.
+> - 23/225 grants flagged (mostly KIC/consortium calls with obligatory pre-proposal, LOI
+>   or matchmaking stages); audited the sample, no false positives. `digest.py` passes it
+>   through; `grants.json` backfilled; artifacts regenerated.
+> - The task can now compute `has_passed_mandatory_stage` itself (any prerequisite whose
+>   `date` is in the past), and keep the page fetch as the backstop for `date: null` ones.
+>
+> **`phd_date`:** noted, no backend change needed — `digest.py` does not touch the
+> profiles sheet; the task reads the column directly.
+
 ### Subscriber data: `phd_date` (2026-10-07)
 
 Not a backend request, recorded because it changes the profile cache's shape. The

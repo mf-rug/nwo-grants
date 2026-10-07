@@ -89,6 +89,10 @@ def _grant_brief(g):
         # invited / prior-awardee set. When true, exclude unless the subscriber is
         # clearly among the eligible; when the record is thin, the page fetch decides.
         "restrictions": g.get("restrictions") or {"invited_only": False, "note": ""},
+        # Mandatory earlier stages (letter of intent, matchmaking, preliminary
+        # process) that can shut a call before its headline deadline — a past
+        # mandatory date means the call is effectively closed (§11 Request F).
+        "prerequisites": g.get("prerequisites") or [],
         "first_seen": g.get("first_seen", ""),
     }
 

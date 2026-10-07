@@ -148,6 +148,14 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [
+        {
+          "kind": "registration",
+          "mandatory": true,
+          "date": "2026-03-17",
+          "context": "The NWA-ORC 2026 round has two phases: Registration for and participation in collaborative workshops (mandatory for main applicants) Between 6 February and 17 March 2026, NWO organises collaborative w"
+        }
+      ],
       "first_seen": ""
     },
     {
@@ -196,6 +204,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -238,6 +247,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -280,6 +290,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -328,6 +339,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -388,6 +400,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -430,6 +443,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -496,6 +510,14 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [
+        {
+          "kind": "letter_of_intent",
+          "mandatory": true,
+          "date": "2026-06-23",
+          "context": "Deadline for submission of the mandatory Letter of intent is 23 June 2026 14:00:00 CET (via e-mail) and 23 June 2026 23:59:59 BRT (SAGe) Deadline for submission of Proposals is 20 October 2026 14:00:0"
+        }
+      ],
       "first_seen": ""
     },
     {
@@ -538,6 +560,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -592,6 +615,14 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [
+        {
+          "kind": "matchmaking",
+          "mandatory": true,
+          "date": "2026-06-25",
+          "context": "Procedure Participation in the matchmaking is obligatory for main applicants."
+        }
+      ],
       "first_seen": ""
     },
     {
@@ -628,6 +659,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -688,6 +720,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -736,6 +769,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -838,6 +872,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -886,6 +921,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -934,6 +970,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -982,6 +1019,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1030,6 +1068,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1078,6 +1117,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1126,6 +1166,14 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [
+        {
+          "kind": "pre_proposal",
+          "mandatory": true,
+          "date": "2026-11-10",
+          "context": "Deadline stage 1, pre-proposal (obligatory): 10 November 2026, 15:00 CET ."
+        }
+      ],
       "first_seen": ""
     },
     {
@@ -1162,6 +1210,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1192,6 +1241,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1234,6 +1284,14 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [
+        {
+          "kind": "pre_process",
+          "mandatory": true,
+          "date": null,
+          "context": "Only applicants who contacted the relevant TDCC (LSH, NES, or SSH) before the deadline of that TDCC’s mandatory preliminary process are eligible."
+        }
+      ],
       "first_seen": ""
     },
     {
@@ -1270,6 +1328,14 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [
+        {
+          "kind": "pre_proposal",
+          "mandatory": true,
+          "date": null,
+          "context": "Deadline for submitting a pre-proposal (compulsory) is November 16th, 2026, 15:00 CET ."
+        }
+      ],
       "first_seen": ""
     },
     {
@@ -1312,6 +1378,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1360,6 +1427,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1408,6 +1476,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1462,6 +1531,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1510,6 +1580,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1546,6 +1617,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1576,6 +1648,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1606,6 +1679,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1642,6 +1716,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1690,6 +1765,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1726,6 +1802,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1756,6 +1833,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1792,6 +1870,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1840,6 +1919,14 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [
+        {
+          "kind": "pre_proposal",
+          "mandatory": true,
+          "date": "2026-09-22",
+          "context": "Deadline stage 1, pre-proposal (obligatory): 22 September 2026, 15:00 CEST ."
+        }
+      ],
       "first_seen": ""
     },
     {
@@ -1870,6 +1957,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1900,6 +1988,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1936,6 +2025,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -1978,6 +2068,14 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [
+        {
+          "kind": "pre_proposal",
+          "mandatory": true,
+          "date": "2027-03-30",
+          "context": "Participation in all synergy workshops in phase 2 is mandatory for the main applicants of the selected pre-proposals if they wish to act as main applicant of the full proposal."
+        }
+      ],
       "first_seen": ""
     },
     {
@@ -2020,6 +2118,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -2050,6 +2149,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -2080,6 +2180,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -2110,6 +2211,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -2140,6 +2242,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -2170,6 +2273,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -2192,6 +2296,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     },
     {
@@ -2214,6 +2319,7 @@
         "invited_only": false,
         "note": ""
       },
+      "prerequisites": [],
       "first_seen": ""
     }
   ]

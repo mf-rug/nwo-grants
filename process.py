@@ -397,6 +397,61 @@ def extract_deadlines(chars, when_text):
 
 
 # ---------------------------------------------------------------------------
+# Mandatory prior stages (§11 Request F)
+# ---------------------------------------------------------------------------
+
+# A call can be effectively shut before its headline deadline by a mandatory
+# earlier stage (letter of intent, matchmaking, a preliminary process). These
+# are the most damaging to miss. A sentence qualifies only if it has BOTH a
+# stage keyword AND a mandatory indicator AND no negation — which keeps out
+# "compulsory co-funding" (no stage) and "matchmaking … (not mandatory)".
+_MANDATORY_RE = re.compile(
+    r"\b(?:mandatory|obligatory|obliged|compulsory|must\s+(?:have\s+)?particip"
+    r"|only\s+applicants\s+who|required\s+to\s+(?:have|participate|register|attend))\b", re.I)
+_NEGATED_RE = re.compile(
+    r"not\s+(?:mandatory|obligatory|compulsory|required)|non-?mandatory|optional|voluntary", re.I)
+_STAGE_KINDS = [  # priority order; first match wins
+    (re.compile(r"letters?\s+of\s+intent|\bLOI\b", re.I), "letter_of_intent"),
+    (re.compile(r"pre-?proposals?", re.I), "pre_proposal"),
+    (re.compile(r"matchmaking", re.I), "matchmaking"),
+    (re.compile(r"preliminary\s+(?:process|round|phase|deadline)|pre-?process", re.I), "pre_process"),
+    (re.compile(r"\bregistration\b|\bregister\b", re.I), "registration"),
+]
+_PRQ_SECTIONS = ("who_can_apply", "when_to_apply", "what_to_apply_for", "assessment",
+                 "mandatory_consortium_building_activities", "consortium_building", "how_to_apply")
+
+
+def detect_prerequisites(sections, labelled):
+    """Mandatory prior stages that can shut a call before its headline deadline.
+    Returns [{kind, mandatory, date, context}] (one per kind). `date` comes from
+    the triggering sentence, or from a labelled date whose context names the same
+    stage, or None when the record cannot recover it (then the page fetch decides)."""
+    found = {}
+    for key in _PRQ_SECTIONS:
+        sec = sections.get(key)
+        txt = (sec.get("text", "") if isinstance(sec, dict) else "") or ""
+        for sent in re.split(r"(?<=[.!?])\s+", txt):
+            if not _MANDATORY_RE.search(sent) or _NEGATED_RE.search(sent):
+                continue
+            kind = next((k for rx, k in _STAGE_KINDS if rx.search(sent)), None)
+            if not kind or kind in found:
+                continue
+            dates = parse_text_dates(sent)
+            date = dates[0][:10] if dates else None
+            if not date:
+                kw = {"letter_of_intent": "letter of intent", "pre_proposal": "pre-proposal",
+                      "matchmaking": "matchmaking", "pre_process": "preliminary",
+                      "registration": "registration"}[kind]
+                for e in labelled:
+                    if kw in (e.get("context", "") or "").lower():
+                        date = e["date"][:10]
+                        break
+            found[kind] = {"kind": kind, "mandatory": True, "date": date,
+                           "context": re.sub(r"\s+", " ", sent).strip()[:200]}
+    return list(found.values())
+
+
+# ---------------------------------------------------------------------------
 # Process one grant from its HTML
 # ---------------------------------------------------------------------------
 
@@ -414,6 +469,7 @@ def process_html(slug, url, html):
     # --- Deadlines ---
     when_text = sections.get("when_to_apply", {}).get("text", "")
     unique_deadlines, deadline_labelled = extract_deadlines(chars, when_text)
+    prerequisites = detect_prerequisites(sections, deadline_labelled)
 
     # --- PDFs ---
     all_pdfs = [d["url"] for d in downloads if d["type"] == "pdf"]
@@ -445,6 +501,9 @@ def process_html(slug, url, html):
         "downloads":       downloads,
         "contacts":        contacts,
         "restrictions":    detect_restrictions(sections),
+        # Mandatory earlier stages (LOI, matchmaking, …) that can shut the call
+        # before its headline deadline — the most damaging class to miss (§11 F).
+        "prerequisites":   prerequisites,
     }
 
 def _char_text(chars, key):
