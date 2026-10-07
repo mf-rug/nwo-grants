@@ -157,7 +157,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-17T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-06T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-10-06T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-early-detection-of-emerging-outbreaks-of-infectious-diseases",
@@ -297,7 +311,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-16T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-06T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-10-06T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "perspectief-round-2026-2027",
@@ -425,7 +457,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-10-06T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2026-11-24T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2027-05-25T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "security-and-resilience-in-a-quantum-era",
@@ -594,7 +640,33 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-15T09:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-29T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2026-09-29T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-06T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-03T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-11-03T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "open-competition-domain-science-xs-package-26-3",
@@ -715,7 +787,53 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-13T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-14T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-25T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-15T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-09-15T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-24T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-01T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-06T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-20T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-19T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "impact-explorer-2026",
@@ -827,7 +945,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-10-06T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-10-05T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-10-05T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "clean-energy-transition-partnership-joint-call-2026",
@@ -948,7 +1080,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-10-08T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-10-08T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-03-11T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-03-11T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-ai-for-agriculture-horticulture-water-and-food-2026",
@@ -1094,7 +1244,33 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-04-02T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-30T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2026-06-30T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-29T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-13T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-10-13T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "preparing-for-tomorrow-societies-and-strategies-in-times-of-transition",
@@ -1224,7 +1400,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-07-08T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2026-10-14T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-28T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-demand-driven-research-by-consortia-xl",
@@ -1367,7 +1557,33 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-02-10T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-10T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-25T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-10-15T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-12T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-11-12T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-integrated-biorefineries-for-a-circular-future",
@@ -1515,7 +1731,37 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-04-16T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-23T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2026-06-23T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-23T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-20T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-10-20T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-20T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "venture-challenge-spring-2027",
@@ -1624,7 +1870,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-10-20T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-12-10T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-12-10T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "holomicrobiome-2026-towards-novel-microbiome-applications-for-the-environment-food-and-health",
@@ -1794,7 +2054,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-06-25T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-30T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-29T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-27T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-10-27T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kin-pact-network-grant-2026",
@@ -1897,7 +2179,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-10-27T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-10-27T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "accelerating-energy-transition-in-dutch-and-taiwanese-ports",
@@ -2055,7 +2347,33 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-10-29T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2026-10-29T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-01-21T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-02-04T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-02-04T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-03-04T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "antarctic-research-and-antarctica-insync",
@@ -2199,7 +2517,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-10-29T16:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-24T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-02-16T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-02-16T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "scientific-meetings-and-consultations-2026",
@@ -2323,7 +2659,61 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-06T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-27T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-23T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-07-09T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-07-14T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-01T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-10T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-29T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-03T14:00:00",
+        "label": "Upcoming submission date"
+      },
+      {
+        "date": "2026-11-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-12-24T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "isaac-newton-group-telescopes-26a",
@@ -2401,7 +2791,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-10-02T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-10-02T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-10-31T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "2026-international-joint-initiative-for-research-harnessing-disruptive-technologies-to-address-global-challenges",
@@ -2582,7 +2986,37 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-04T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-03-04T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-09T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-03T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-11-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-04T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vidi-health-research-and-medical-sciences-zonmw-2026",
@@ -2697,7 +3131,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-03T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-11-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-04-06T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-04-06T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vidi-applied-and-engineering-sciences-aes-2026",
@@ -2820,7 +3272,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-03T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-11-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-04-06T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-04-06T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vidi-social-sciences-and-humanities-ssh-2026",
@@ -2937,7 +3407,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-03T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-11-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-04-06T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-04-06T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vidi-science-2026",
@@ -3049,7 +3537,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-03T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-11-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-04-06T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-04-06T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "mosaic-30",
@@ -3140,7 +3646,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-03T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-11-03T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-05-04T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-05-04T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "partnership-water4all-sustainable-water-management",
@@ -3261,7 +3785,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-10T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-11-10T15:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-04-06T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-04-06T15:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "novel-ecosystems-biodiversity-socio-ecological-consequences-and-future-trajectories-biodivfuture",
@@ -3352,7 +3894,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-10T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2027-04-16T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "financing-professional-doctorate-candidates-2026",
@@ -3394,7 +3946,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-12T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "thematic-digital-competence-centres-2026",
@@ -3513,7 +4071,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-05-01T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-12T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-11-12T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-unlocking-digital-twin-capabilities-for-electricity-utilities",
@@ -3635,7 +4207,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-02-10T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-11-12T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "sustainable-blue-economy-partnership-fourth-joint-transnational-co-funded-call",
@@ -3799,7 +4381,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-16T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2027-06-14T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "raak-pro-0",
@@ -3857,7 +4449,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-03T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2026-11-17T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "tulip-fund",
@@ -3957,7 +4559,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-31T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-17T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-11-17T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-innovative-early-diagnostics-of-digestive-diseases",
@@ -4050,7 +4666,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-17T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2026-11-17T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-03-30T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-03-30T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "driving-urban-transitions-call-2026",
@@ -4181,7 +4815,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-17T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-11-17T13:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-04-15T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-04-15T13:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "ssh-open-competition-expand-2026",
@@ -4302,7 +4954,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-11-17T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-11-17T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-05-27T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-06-10T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-06-10T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-data-sharing-for-the-energy-transition-socio-technical-challenges",
@@ -4454,7 +5128,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-02T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-24T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-11-18T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-11-18T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-19T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "open-competition-domain-science-xs-2026-packet-26-1",
@@ -4569,7 +5265,53 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-13T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-13T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-01-22T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-01-30T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-17T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-14T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-25T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-15T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-19T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "open-competition-domain-science-xs-package-26-2",
@@ -4684,7 +5426,53 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-13T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-14T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-14T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-23T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-06T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-12T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-29T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-25T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-15T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-21T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "open-competition-domain-science-m-2026--2027",
@@ -4881,7 +5669,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-08-18T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-11-24T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-07-31T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-07-31T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "rubicon-2026-3",
@@ -4987,7 +5793,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-12-01T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-12-01T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "take-off-phase-1-feasibility-studies-wo-2026",
@@ -5078,7 +5894,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-12-10T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "ngf-direct-use-of-hydrogen-groenvermogennl-work-package-3-fase-2",
@@ -5231,7 +6053,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-07-16T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-07-16T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-12-10T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-01-21T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-01-21T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "radioactive-waste-disposal-and-radiation-protection",
@@ -5279,7 +6123,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-12-31T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "open-technology-programme-2026",
@@ -5448,7 +6298,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-06-23T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-29T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-30T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-07-04T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-01-11T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwa-economic-transformation-in-the-province-of-south-holland-space-for-an-economy-that-supports-broad-prosperity",
@@ -5596,7 +6468,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-01-12T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "doctoral-grant-for-teachers-2027-i",
@@ -5686,7 +6564,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-01-12T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-01-12T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "ssh-open-competition-explore-2027-round-1",
@@ -5794,7 +6682,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-01-19T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-01-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-04-06T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-09-14T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-societal-earning-capacity-connection-synthesis-and-knowledge-utilisation",
@@ -5908,7 +6814,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-01-21T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-01-21T14:00:00",
+        "label": "Upcoming submission date"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-veni-health-research-and-development-zonmw-2026",
@@ -6012,7 +6928,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-01T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2027-01-26T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-veni-applied-and-engineering-sciences-aes-2026",
@@ -6129,7 +7055,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-01T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2027-01-26T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-veni-social-sciences-and-humanities-ssh-2026",
@@ -6239,7 +7175,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-01T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2027-01-26T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-veni-science-2026",
@@ -6344,7 +7290,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-01T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2027-01-26T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "use-of-space-infrastructure-for-earth-observation-and-planetary-research-go",
@@ -6391,7 +7347,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-02-09T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "large-scale-research-infrastructure-lsri-national-roadmap-consortia-2026",
@@ -6440,7 +7402,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-02-11T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2027-06-01T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "raw-materials-partnership-jtc-2026",
@@ -6552,7 +7524,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-22T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-09-22T15:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-02-15T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-02-15T15:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "phds-in-the-humanities-2027",
@@ -6594,7 +7584,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-02-16T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-3d-integration-technologies-and-sustainable-systemic-design-techniques-for-next-gen-semiconductor-equipment-0",
@@ -6636,7 +7632,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-02-16T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "embassy-science-fellowship-esf-nl-2027",
@@ -6732,7 +7734,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-07-02T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-10T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-09-10T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-03-01T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2028-02-29T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "gravitation-2027-frontier-research-for-consortia",
@@ -6808,7 +7832,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-03-30T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-03-30T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "reducing-drug-harm-towards-effective-societal-interventions",
@@ -6930,7 +7964,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-07-07T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-03-30T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-03-30T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "weave-with-nwo-as-partner-agency-2026--2027",
@@ -7041,7 +8089,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-08-18T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-04-01T17:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-07-31T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "system-perspective-on-materials-for-strategic-autonomy-in-the-energy-transition",
@@ -7089,7 +8151,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-04-13T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwa-municipal-policy-for-biodiversity-restoration",
@@ -7209,7 +8277,33 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-20T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-05T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2027-04-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-05-04T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-05-04T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "isaac-newton-group-telescopes-27a",
@@ -7287,7 +8381,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-10-01T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-10-01T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-05-01T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2027-10-31T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-mobile-and-modular-imaging-technology-for-a-healthy-and-safe-society",
@@ -7335,7 +8447,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-05-14T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "new-materials-and-production-processes-for-large-scale-energy-storage-and-conversion",
@@ -7377,7 +8495,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-05-14T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-circularity-of-materials-components-and-structures-in-offshore-wind",
@@ -7425,7 +8549,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-06-01T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-human-capital-and-digital-innovation-in-the-netherlands",
@@ -7467,7 +8597,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2027-07-06T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "triple-planetary-crisis-in-the-polar-regions",
@@ -7618,7 +8754,37 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-06-02T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-08-20T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-17T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-09-17T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-07-15T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2027-09-09T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2027-09-09T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "working-together-towards-an-inclusive-society-implementing-a-social-model-of-disability",
@@ -7758,7 +8924,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-27T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-10T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-02-10T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2028-01-25T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2028-02-08T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwa-resilient-digital-ecosystems",
@@ -7921,7 +9109,37 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-23T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-08-18T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-15T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-09-15T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2029-09-18T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2029-10-16T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kiem-defensie",
@@ -7966,7 +9184,8 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": []
   },
   {
     "id": "computing-time-on-national-computing-facilities-0",
@@ -8055,7 +9274,8 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": []
   },
   {
     "id": "kiem-arbeidsbesparende-ai",
@@ -8091,7 +9311,8 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": []
   },
   {
     "id": "kiem-gofood-internationale-samenwerking-lwv",
@@ -8127,7 +9348,8 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": []
   },
   {
     "id": "kiem-hightech-0",
@@ -8172,7 +9394,8 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": []
   },
   {
     "id": "kiem-mv-0",
@@ -8217,7 +9440,8 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": []
   },
   {
     "id": "kiem-gochem",
@@ -8253,7 +9477,8 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": []
   },
   {
     "id": "open-access-books",
@@ -8333,7 +9558,8 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": []
   },
   {
     "id": "open-competition-domain-science-m-2025--2026",
@@ -8438,7 +9664,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-02-24T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-07-31T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "weave-with-nwo-as-partner-agency-2025--2026",
@@ -8556,7 +9792,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-08-07T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-01T17:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-21T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-07-31T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "ssh-open-competition-xs-2025-round-2",
@@ -8658,7 +9912,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-03-06T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-05-08T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-05-13T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-18T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "weave-with-nwo-as-partner-agency-2024--2025",
@@ -8749,7 +10021,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2024-08-06T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-04-01T17:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-07-31T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-08-07T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "adm-lab-livings-labs-for-adaptive-delta-management-in-bangladesh",
@@ -8886,7 +10176,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2024-11-05T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-02T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-02T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "doctoral-grant-for-teachers-2nd-round-2025",
@@ -8992,7 +10296,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-09T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-09T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "unconventional-information-processing-technologies-cooperation-japan-the-netherlands",
@@ -9144,7 +10458,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-06-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-07-31T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-09T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-09T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-09T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vici-aes-2025",
@@ -9263,7 +10599,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-03-11T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-09-09T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vici-ssh-2025",
@@ -9376,7 +10722,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-03-11T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-09-09T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vici-science-2025",
@@ -9489,7 +10845,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-03-11T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-09-09T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vici-zonmw-2025",
@@ -9601,7 +10967,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-03-11T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-09-09T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "take-off-phase-1-feasibility-studies-wo-autumn-2025",
@@ -9699,7 +11075,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-09T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-09T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kiem-groen-pilotregeling-practoraten",
@@ -9808,7 +11194,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-09T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "ngf-strengthening-the-knowledge-base-for-the-high-tech-equipment-sector",
@@ -9917,7 +11309,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-11T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-11T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-future-plastics-development-of-safe-plastics-for-a-sustainable-future",
@@ -10056,7 +11458,33 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-04-15T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-05-13T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-06-24T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2025-06-24T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-16T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-16T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "technology-development-for-circular-batteries",
@@ -10194,7 +11622,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-05-15T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-16T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-16T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwa-digital-technology-and-work",
@@ -10333,7 +11775,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-04-15T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-16T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-16T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "open-competition-domain-science-xs-package-25-3",
@@ -10447,7 +11903,49 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-02-18T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-04-17T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-05-06T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-07-10T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-16T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-16T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-25T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-07T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-28T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-11-20T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "large-scale-research-infrastructure-lsri-upgrade-2025",
@@ -10591,7 +12089,25 @@
     "restrictions": {
       "invited_only": true,
       "note": "Additional conditions Upgrade funding can only be applied for by consortia associated with LSRI for which the following cumulative conditions apply: For the realisation of (part of) the LSRI, an LSRI "
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-06-12T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2025-06-12T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-16T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-16T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-nature-inclusive-decision-making-in-business",
@@ -10717,7 +12233,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-02-06T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-09-18T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "ssh-open-competition-xs-2025-round-3",
@@ -10823,7 +12349,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-03-06T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-05-08T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-18T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-18T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "lectoraat-kringlooplandbouw",
@@ -10866,7 +12410,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-23T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "raak-mkb-0",
@@ -10918,7 +12468,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-23T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "towards-a-new-labour-market-in-2050-energy-transition-and-digitalization-in-the-built-environment",
@@ -11034,7 +12590,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-25T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-09-25T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kiem-gofood",
@@ -11078,7 +12644,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-30T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kiem-hightech",
@@ -11122,7 +12694,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-30T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kiem-mv",
@@ -11166,7 +12744,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-30T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "sprong-ronde-1-fase-2",
@@ -11209,7 +12793,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-30T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "lint-lectoraten-en-instituten",
@@ -11261,7 +12851,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-30T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "practical-knowledge-of-food-and-green-thematic-questions-september-2025",
@@ -11320,7 +12916,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-30T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "management-support-nwa-routes-2025",
@@ -11356,7 +12958,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-10-10T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-long-term-programmes-2024",
@@ -11491,7 +13099,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-04-15T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2025-04-15T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-14T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-10-14T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwa-loneliness",
@@ -11597,7 +13223,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2023-06-29T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-14T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-10-14T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "knowledge-in-action-towards-collective-water-management-in-east-brabant",
@@ -11725,7 +13365,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-23T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-14T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-10-14T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "high-performance-materials-for-defence-and-safety",
@@ -11860,7 +13514,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-06-19T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2025-06-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-16T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-10-16T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "long-term-europe-africa-wef-nexus-leawef-multilateral-research-programme",
@@ -12001,7 +13673,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2024-11-04T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-02-11T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-02-11T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-30T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-10-30T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "open-technology-programme-2025",
@@ -12161,7 +13855,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-01-13T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-31T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-12-12T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "building-blocks-for-integrated-policy-on-planetary-health",
@@ -12209,7 +13917,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-11T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "financing-professional-doctorate-candidates-2025",
@@ -12260,7 +13974,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-13T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "cellular-agriculture-towards-larger-scale-and-lower-costs",
@@ -12378,7 +14098,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-06-25T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-11-13T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-11-13T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "raak-publiek",
@@ -12430,7 +14164,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-18T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "thematic-digital-competence-centers-2025",
@@ -12539,7 +14279,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-08-21T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-11-20T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-11-20T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-consumer-behaviour-for-a-circular-system-transition",
@@ -12691,7 +14445,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-24T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-reducing-health-inequalities-technology-for-people-in-a-lower-socioeconomic-position",
@@ -12827,7 +14587,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-05-09T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-05-30T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-06-27T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-12-02T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2025-12-02T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "take-off-hbo-phase-1-feasibility-studies",
@@ -12880,7 +14662,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-12-02T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "computing-time-on-national-computing-facilities-round-2025",
@@ -12983,7 +14771,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-12-30T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-12-31T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwa-balancing-agriculture-and-biodiversity-in-the-brazilian-cerrado-an-integrated-socio-ecological-approach",
@@ -13125,7 +14923,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-20T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-12-11T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-01-13T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-13T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "sprong-dementia-january-2026",
@@ -13174,7 +14990,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-13T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "innofest-x-sia-sport",
@@ -13226,7 +15048,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-15T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "financiering-bestaande-lectorenplatforms",
@@ -13284,7 +15112,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-16T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "senior-expert-programme-sep-ii-round-2",
@@ -13444,7 +15278,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-20T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-20T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "ssh-open-competition-xs-2026-round-1",
@@ -13556,7 +15400,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-20T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-20T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-07T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-15T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "doctoral-grant-for-teachers-1st-round-2026",
@@ -13661,7 +15523,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-20T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-20T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "fellowships-for-lecturers--researchers-at-universities-of-applied-sciences",
@@ -13714,7 +15586,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-20T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "ngf-groenvermogennl-hydrogen-and-green-electrons-for-nitrogen-based-chemistry",
@@ -13848,7 +15726,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-07-03T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-07-03T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-01-22T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-22T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-veni-health-research-and-development-zonmw-2025",
@@ -13971,7 +15867,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-02T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-01-27T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-veni-applied-and-engineering-sciences-aes-2025",
@@ -14105,7 +16011,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-02T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-01-27T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-veni-social-sciences-and-humanities-ssh-2025",
@@ -14240,7 +16156,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-02T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-01-27T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-veni-science-domain-2025",
@@ -14368,7 +16294,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-02T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-01-27T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "transformative-practices-and-processes-for-climate-transitions",
@@ -14496,7 +16432,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-06T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-01-27T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-27T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "sustainable-science-fund",
@@ -14617,7 +16567,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-06T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-01-27T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-27T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwa-opportunities-and-value-chains-for-side-streams-in-the-protein-transition",
@@ -14747,7 +16711,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-16T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-02T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-01-13T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-01-27T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-27T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "innofest-x-sia",
@@ -14790,7 +16776,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-29T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwa-knowledge-about-unprotected-species-for-sustainable-fisheries-policy",
@@ -14932,7 +16924,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-10-01T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-29T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-01-29T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-29T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwa-slavery-pasts-understudied-forms-of-impacts-and-perspectives",
@@ -15070,7 +17080,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-29T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-01-29T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "cooperation-germany-von-humboldt-stiftung-vhs",
@@ -15158,7 +17178,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-02-01T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "dutch-research-agenda-research-along-routes-by-consortia-2025-nwa-orc-2025",
@@ -15337,7 +17363,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-05-14T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-03T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-05T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "ssh-open-competition-l-2025",
@@ -15469,7 +17509,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-08-26T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-09-09T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-09-09T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-03T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-05T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "venture-challenge-spring-2026",
@@ -15589,7 +17651,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-01T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-03T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-05T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "impact-explorer-2025",
@@ -15695,7 +17771,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-02-04T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-05T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "future-proof-large-rivers-in-the-netherlands",
@@ -15840,7 +17930,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-02-10T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-02-10T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-medicines-from-medicines-knowledge-development-for-circular-redesign-of-the-pharmaceutical-supply-chain",
@@ -15975,7 +18075,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-23T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-10-07T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-10T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-biochemical-diversity",
@@ -16112,7 +18226,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-26T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-12T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-02-12T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "phds-in-the-humanities-2026",
@@ -16225,7 +18353,17 @@
     "restrictions": {
       "invited_only": true,
       "note": "Applications can only be submitted for candidates who have been selected by the deans of the humanities faculties from the following universities: Erasmus University Rotterdam Leiden University Maastr"
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-02-17T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-02-17T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "take-off-phase-2-vroegefasetrajecten-wo--hbo--to2-spring-2026",
@@ -16322,7 +18460,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-02-24T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "knowledge-security-scientific-research-in-a-geopolitical-context-phase-2",
@@ -16446,7 +18590,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-06-24T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-26T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-02-26T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "raak-mkb-march-2026",
@@ -16489,7 +18647,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-03T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "hestia-impulse-for-refugees-in-science",
@@ -16600,7 +18764,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-03T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "quantum-delta-nl-quantum-technology-2025",
@@ -16760,7 +18930,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-03T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-03-03T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "open-mind-2026",
@@ -16871,7 +19051,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-10T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "cetpartnership-joint-call-2025",
@@ -16992,7 +19178,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-10-09T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-10-09T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-12T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-03-12T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "financiering-nieuwe-lectorenplatforms",
@@ -17051,7 +19255,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-17T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "demonstrator-2026",
@@ -17149,7 +19359,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-19T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-03-19T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "science-for-policy",
@@ -17290,7 +19510,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-04T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-24T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-03-24T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "research-infrastructure-ri-national-consortia-0",
@@ -17421,7 +19655,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-12-02T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2025-12-02T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-24T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-03-24T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "praktijkkennis-voor-voedsel-en-groen-vrouwen-in-het-agrarische-domein-indieningsronde-maart-2026",
@@ -17479,7 +19731,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-24T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "rubicon-2026-1",
@@ -17592,7 +19850,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-24T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-03-24T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "praktijkkennis-voor-voedsel-en-groen-lectorenplatform-duurzame-bedrijfsovername-in-het-agrarische-domein-indieningsronde-maart-2026",
@@ -17650,7 +19918,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-24T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-robust-and-resilient-space-infrastructure-for-a-secure-netherlands",
@@ -17784,7 +20058,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-02T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-02T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "ssh-open-competition-xs-2026-round-2",
@@ -17896,7 +20184,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-20T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-07T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-07T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-15T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "praktijkkennis-voor-voedsel-en-groen-thematische-vraagstukken-indieningsronde-april-2026",
@@ -17945,7 +20251,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-04-07T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vidi-health-research-and-development-zonmw-2025",
@@ -18068,7 +20380,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-04T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-11-04T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-09T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-09T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vidi-applied-and-engineering-sciences-aes-2025",
@@ -18204,7 +20534,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-04T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-11-04T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-09T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-09T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vidi-science-2025",
@@ -18334,7 +20682,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-04T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-11-04T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-09T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-09T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vidi-social-sciences-and-humanities-ssh-2025",
@@ -18463,7 +20829,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-04T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-11-04T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-09T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-09T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "restoration-of-ecosystem-functioning-integrity-and-connectivity-biodivconnect",
@@ -18578,7 +20962,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-10-24T12:00:00",
+        "label": null
+      },
+      {
+        "date": "2025-11-07T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-04-14T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "knowledge-in-action-economic-transition-the-costs-and-benefits-of-inaction",
@@ -18709,7 +21107,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-24T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-14T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-14T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-digital-twinning-actual-and-accurate-models-for-insight-optimalisation-and-decision-making",
@@ -18844,7 +21256,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-04-14T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-reducing-critical-raw-materials-use-in-the-energy-transition",
@@ -18985,7 +21403,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-04-14T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-14T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-system-design-in-mechatronics-and-optomechatronics",
@@ -19134,7 +21562,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-04-07T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-21T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-21T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "driving-urban-transitions-call-2025",
@@ -19267,7 +21709,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-17T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-11-17T13:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-23T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-23T13:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "partnership-water4all-water-and-health-call-4",
@@ -19375,7 +21835,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-13T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-11-13T15:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-29T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-04-29T15:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "use-of-space-infrastructure-for-vegetation-research",
@@ -19469,7 +21947,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-02-10T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-24T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-07T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-05-07T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "do-react-further-development-and-regulatory-acceptance-of-chemical-test-models",
@@ -19558,7 +22054,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-07T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-04T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-12T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-05-12T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "perspectief-round-2025-2026",
@@ -19708,7 +22222,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-10-07T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2025-11-25T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-05-19T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-heterogeneous-development-solutions-for-semiconductors-scaling-of-quantum-technologies",
@@ -19828,7 +22356,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-02T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-07T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-21T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-05-21T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "faculty-of-impact-2026",
@@ -19958,7 +22504,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-05-26T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-05-26T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-collaborative-business-models-for-a-circular-economy",
@@ -20092,7 +22648,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-24T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2026-03-24T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-26T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-05-26T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "caribbean-research-phd-scholarships-2025",
@@ -20225,7 +22799,33 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-06-24T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2025-07-04T12:00:00Z",
+        "label": "Closing date for letter of intent"
+      },
+      {
+        "date": "2025-09-16T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2025-09-16T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-26T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-05-26T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kic-adaptivity-in-transitions",
@@ -20356,7 +22956,29 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-20T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-02T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-03-02T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-09T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-06-09T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "lint-lectoraten-en-instituten-0",
@@ -20408,7 +23030,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-06-09T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "open-competition-domain-science-xl-round-2025-2026",
@@ -20538,7 +23166,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-09-16T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-06-09T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "funding-for-postdoctoral-researchers-at-universities-of-applied-sciences",
@@ -20584,7 +23222,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-06-09T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "understanding-and-preventing-overweight-and-obesity-prevent-oo",
@@ -20693,7 +23337,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-21T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-06-11T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "raak-public-june-2026",
@@ -20746,7 +23400,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-06-16T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "praktijkkennis-voor-water-en-bodem-thematische-vraagstukken-2026",
@@ -20798,7 +23458,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-06-16T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "the-power-of-collaboration",
@@ -20943,7 +23609,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-05-19T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-16T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-06-16T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "treatments-and-adherence-to-treatment-protocols-oh-treat",
@@ -21066,7 +23746,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-02-02T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-02-02T13:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-17T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-06-17T13:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "sustainable-blue-economy-partnership-sbep-call-2025",
@@ -21171,7 +23869,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2025-11-17T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-06-17T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "doctoral-grant-for-teachers-2nd-round-2026",
@@ -21276,7 +23984,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-06-11T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-19T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "raak-award-2026",
@@ -21328,7 +24046,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-06-23T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-cooling-needs-in-homes-effects-mitigation-adaptation",
@@ -21467,7 +24191,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-25T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-26T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-23T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-06-23T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "nwo-hop-on-call-for-proposals-for-researchers-based-in-ukraine-2025",
@@ -21586,7 +24328,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-20T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-23T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-06-23T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "brainhealth-call-2026-1-biological-social-and-environmental-factors-in-brain-health",
@@ -21724,7 +24480,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-10T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-03-10T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-30T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-06-30T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "technology-for-innovative-nuclear-reactors-and-fuels",
@@ -21857,7 +24631,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-29T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-01-29T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-06-30T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-06-30T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "venture-challenge-fall-2026",
@@ -21978,7 +24770,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-05-05T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-07-02T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-07-02T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "groenvermogennl-hydrogen-hydrogen-carriers-import-conversion-transport-storage",
@@ -22123,7 +24929,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-10T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-03-10T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-07-09T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-07-09T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "futurefoods-call-2025",
@@ -22252,7 +25076,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-02-11T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-07-27T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-07-27T13:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "take-off-phase-2-early-stage-trajectories-wo--hbo--to2-autumn-2026",
@@ -22349,7 +25187,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-01T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "rubicon-2026-2",
@@ -22455,7 +25299,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-01T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-07T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vici-zonmw-2026",
@@ -22583,7 +25437,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-10T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-09-08T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talentprogramma-vici-aes-2026",
@@ -22712,7 +25576,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-10T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-09-08T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talentprogramme-vici-ssh-2026",
@@ -22841,7 +25715,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-10T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-09-08T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwo-talent-programme-vici-science-2026",
@@ -22969,7 +25853,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-03-10T12:00:00Z",
+        "label": "Closing date for pre-proposals"
+      },
+      {
+        "date": "2026-09-08T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "museum-grants-0",
@@ -23107,7 +26001,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-05-12T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-10T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "sprong-versnelling-ai-opschaling-in-het-publieke-domein",
@@ -23157,7 +26061,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-15T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kiem-logistiek",
@@ -23210,7 +26120,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-15T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "nwa-citizen-science-2026",
@@ -23304,7 +26220,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-03T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-17T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-09-17T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kin-knowledge-in-action-transition-towards-planetary-health",
@@ -23438,7 +26368,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-22T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-09-22T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "deepnl-top-up-call-opportunities-for-integration-and-impact",
@@ -23549,7 +26489,33 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-06T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-02-10T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-05-07T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-22T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-09-22T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-22T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "raak-mkb-september-2026",
@@ -23591,7 +26557,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-22T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "kic-demand-driven-research-by-consortia-s-2026",
@@ -23780,7 +26752,21 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-08-25T14:00:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-22T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-09-22T23:59:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "kin-knowledge-in-action-watertransition-twente",
@@ -23899,7 +26885,17 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-22T12:00:00Z",
+        "label": "Closing date full application"
+      },
+      {
+        "date": "2026-09-22T14:00:00",
+        "label": null
+      }
+    ]
   },
   {
     "id": "sprong-round-2-fase-2",
@@ -23951,7 +26947,13 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-22T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "ssh-open-competition-xs-2026-round-3",
@@ -24063,7 +27065,25 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-01-20T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-04-07T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-15T23:59:00",
+        "label": null
+      },
+      {
+        "date": "2026-09-25T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   },
   {
     "id": "praktijkkennis-voor-voedsel-en-groen-thematische-vraagstukken-indieningsronde-september-2026",
@@ -24112,6 +27132,12 @@
     "restrictions": {
       "invited_only": false,
       "note": ""
-    }
+    },
+    "deadline_dates_labelled": [
+      {
+        "date": "2026-09-29T12:00:00Z",
+        "label": "Closing date full application"
+      }
+    ]
   }
 ]

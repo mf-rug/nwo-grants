@@ -63,6 +63,12 @@ def _grant_brief(g):
         "deadline": (g.get("deadline_iso") or "")[:10],
         # Multi-stage calls carry several dates (e.g. letter of intent, then full).
         "deadline_dates": [d[:10] for d in (g.get("deadline_dates") or []) if d],
+        # Each date with NWO's own label ("Deadline", "Opening date", …) so the
+        # matcher can tell an opening date from a real deadline (§11 Request D).
+        "deadline_dates_labelled": [
+            {"date": (e.get("date") or "")[:10], "label": e.get("label")}
+            for e in (g.get("deadline_dates_labelled") or []) if e.get("date")
+        ],
         "finance_type": g.get("finance_type", ""),
         "programme": g.get("programme", ""),
         "budget": g.get("budget", ""),

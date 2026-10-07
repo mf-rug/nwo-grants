@@ -325,6 +325,42 @@ def detect_restrictions(sections):
 
 
 # ---------------------------------------------------------------------------
+# Deadlines
+# ---------------------------------------------------------------------------
+
+def extract_deadlines(chars, when_text):
+    """Return (unique_dates, labelled) where labelled is [{date, label}].
+
+    `label` is NWO's own wording for the date ("Deadline", "Opening date",
+    "Closing date pre-proposals", …); dates recovered from free text are
+    unlabelled (None). `unique_dates` is byte-identical to the legacy output —
+    `deadline_dates` is in TRACKED_FIELDS, so the labels go in a *separate* key
+    (`deadline_dates_labelled`) and this list must not change.
+    """
+    deadline_isos = []
+    labels = {}  # iso -> first label seen
+    for key, val in chars.items():
+        if any(w in key.lower() for w in ("closing", "deadline", "submission", "date", "datum")):
+            for iso in iso_from_char(val):
+                deadline_isos.append(iso)
+                labels.setdefault(iso, key)
+    for iso in parse_text_dates(when_text or ""):
+        deadline_isos.append(iso)
+        labels.setdefault(iso, None)
+
+    # Deduplicate by minute precision in original order, then sort (unchanged).
+    seen, unique = set(), []
+    for d in deadline_isos:
+        k = d[:16]
+        if k not in seen:
+            seen.add(k)
+            unique.append(d)
+    unique.sort()
+    labelled = [{"date": d, "label": labels.get(d)} for d in unique]
+    return unique, labelled
+
+
+# ---------------------------------------------------------------------------
 # Process one grant from its HTML
 # ---------------------------------------------------------------------------
 
@@ -340,23 +376,8 @@ def process_html(slug, url, html):
     contacts  = parse_contacts(soup)
 
     # --- Deadlines ---
-    deadline_isos = []
-    for key, val in chars.items():
-        if any(w in key.lower() for w in ("closing", "deadline", "submission", "date", "datum")):
-            deadline_isos.extend(iso_from_char(val))
-
-    # Supplement with dates extracted from when_to_apply free text
     when_text = sections.get("when_to_apply", {}).get("text", "")
-    deadline_isos.extend(parse_text_dates(when_text))
-
-    # Deduplicate by minute precision
-    seen_min, unique_deadlines = set(), []
-    for d in deadline_isos:
-        k = d[:16]
-        if k not in seen_min:
-            seen_min.add(k)
-            unique_deadlines.append(d)
-    unique_deadlines.sort()
+    unique_deadlines, deadline_labelled = extract_deadlines(chars, when_text)
 
     # --- PDFs ---
     all_pdfs = [d["url"] for d in downloads if d["type"] == "pdf"]
@@ -376,6 +397,7 @@ def process_html(slug, url, html):
         "target_groups":_char_text(chars, "For specific groups"),
         "deadline_iso": nearest_future(unique_deadlines),
         "deadline_dates": unique_deadlines,
+        "deadline_dates_labelled": deadline_labelled,
         "primary_pdf":  cfp_pdfs[0] if cfp_pdfs else (all_pdfs[0] if all_pdfs else None),
         "pdf_urls":     all_pdfs,
         # Full structured data

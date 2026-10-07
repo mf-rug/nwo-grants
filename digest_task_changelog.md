@@ -283,7 +283,7 @@ Switch it off freely as far as the digest is concerned. Whether it stays is a
 question about `app.py` (`matches_position` and `matches_field` both depend on it),
 and that is your call, not the task's.
 
-## 11. Requests for the backend (2026-10-07) — A, B, C ✅ DONE; D open
+## 11. Requests for the backend (2026-10-07) — A, B, C, D ✅ ALL DONE
 
 Three items. A and B are changes the task needs and cannot make itself, both in
 your area (`digest.py` and the Action); the task side is written to tolerate their
@@ -457,6 +457,17 @@ after which that rule can go back to "earliest entry labelled as a deadline".
 
 **Priority: low.** Nothing is broken today and no subscriber is affected by the interim
 rule in the data as it stands. Worth doing when `process.py` is next open.
+
+> **Backend reply (2026-10-07): done.** `process.py` now emits
+> `deadline_dates_labelled` ([{date, label}]) as a **new** key — `deadline_dates`
+> is untouched (0 mismatches on a full re-extraction, so no `last_changed` flood).
+> The label is NWO's own characteristic wording; free-text dates are `label: null`.
+> `digest.py._grant_brief` passes it through; `grants.json` backfilled so it is live
+> now. Checked the two examples: `open-competition-domain-science-m` now carries
+> `2027-07-31 → "Closing date full application"` (a future, labelled deadline, so the
+> opening date is no longer mistaken for one); `weave` has only free-text dates, so it
+> still relies on the earliest-future interim rule — which is correct for it. The task
+> can now switch to "earliest date labelled as a deadline" where labels exist.
 
 ### Declined, for the record
 

@@ -119,6 +119,20 @@
         "2026-10-06",
         "2026-10-06"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-03-17",
+          "label": null
+        },
+        {
+          "date": "2026-10-06",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2026-10-06",
+          "label": null
+        }
+      ],
       "finance_type": "Collaboration with Partners",
       "programme": "NWA ORC 2026",
       "budget": "€87,000,000",
@@ -144,6 +158,24 @@
         "2026-10-06",
         "2026-10-06"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-03-19",
+          "label": null
+        },
+        {
+          "date": "2026-04-16",
+          "label": null
+        },
+        {
+          "date": "2026-10-06",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2026-10-06",
+          "label": null
+        }
+      ],
       "finance_type": "Collaboration with Partners",
       "programme": "Knowledge and Innovation Covenant KIC 2024-2027 Early detection of (emerging) outbreaks of infectious diseases",
       "budget": "€7,000,000",
@@ -167,6 +199,20 @@
         "2026-10-06",
         "2026-11-24",
         "2027-05-25"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-06",
+          "label": "Closing date for letter of intent"
+        },
+        {
+          "date": "2026-11-24",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2027-05-25",
+          "label": "Closing date full application"
+        }
       ],
       "finance_type": "Collaboration with Partners",
       "programme": "Perspectief 2026-2027",
@@ -192,6 +238,20 @@
         "2027-10-05",
         "2027-10-05"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-06",
+          "label": null
+        },
+        {
+          "date": "2027-10-05",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-10-05",
+          "label": null
+        }
+      ],
       "finance_type": "Curiosity Driven Research",
       "programme": "Impact Explorer",
       "budget": "€1,450,000",
@@ -216,6 +276,24 @@
         "2026-10-08",
         "2027-03-11",
         "2027-03-11"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-08",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2026-10-08",
+          "label": null
+        },
+        {
+          "date": "2027-03-11",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-03-11",
+          "label": null
+        }
       ],
       "finance_type": "Collaboration with Partners",
       "programme": "Clean Energy Transition Partnership (CETP)",
@@ -244,6 +322,32 @@
         "2026-10-13",
         "2026-10-13"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-04-02",
+          "label": null
+        },
+        {
+          "date": "2026-06-30",
+          "label": "Closing date for letter of intent"
+        },
+        {
+          "date": "2026-06-30",
+          "label": null
+        },
+        {
+          "date": "2026-09-29",
+          "label": null
+        },
+        {
+          "date": "2026-10-13",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2026-10-13",
+          "label": null
+        }
+      ],
       "finance_type": "Collaboration with Partners",
       "programme": "Knowledge and Innovation Covenant AI for agriculture, horticulture, water and food 2026 KIC 2024-2027",
       "budget": "€7,000,000",
@@ -267,6 +371,20 @@
         "2026-07-08",
         "2026-10-14",
         "2026-10-28"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-07-08",
+          "label": "Closing date for letter of intent"
+        },
+        {
+          "date": "2026-10-14",
+          "label": null
+        },
+        {
+          "date": "2026-10-28",
+          "label": "Closing date full application"
+        }
       ],
       "finance_type": "",
       "programme": "Trans-Atlantic Platform (T-AP) Trans-Atlantic Platform (T-AP) INT - Mondiale Programma’s -",
@@ -296,6 +414,36 @@
         "2026-10-20",
         "2026-10-20"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-04-16",
+          "label": null
+        },
+        {
+          "date": "2026-06-23",
+          "label": "Closing date for letter of intent"
+        },
+        {
+          "date": "2026-06-23",
+          "label": null
+        },
+        {
+          "date": "2026-06-23",
+          "label": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2026-10-20",
+          "label": null
+        },
+        {
+          "date": "2026-10-20",
+          "label": null
+        }
+      ],
       "finance_type": "",
       "programme": "Integrated Biorefineries for a Circular Future",
       "budget": "€1,677,410",
@@ -319,6 +467,20 @@
         "2026-10-20",
         "2026-12-10",
         "2026-12-10"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-20",
+          "label": null
+        },
+        {
+          "date": "2026-12-10",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2026-12-10",
+          "label": null
+        }
       ],
       "finance_type": "Collaboration with Partners",
       "programme": "Venture Challenge",
@@ -346,6 +508,28 @@
         "2026-10-27",
         "2026-10-27"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-06-25",
+          "label": null
+        },
+        {
+          "date": "2026-06-30",
+          "label": null
+        },
+        {
+          "date": "2026-09-29",
+          "label": null
+        },
+        {
+          "date": "2026-10-27",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2026-10-27",
+          "label": null
+        }
+      ],
       "finance_type": "Collaboration with Partners",
       "programme": "Holomicrobiome",
       "budget": "€13,000,000",
@@ -368,6 +552,16 @@
       "deadline_dates": [
         "2026-10-27",
         "2026-10-27"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-27",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2026-10-27",
+          "label": null
+        }
       ],
       "finance_type": "Collaboration with Partners",
       "programme": "Pact Netwerksubsidie",
@@ -396,6 +590,32 @@
         "2027-02-04",
         "2027-03-04"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-29",
+          "label": "Closing date for letter of intent"
+        },
+        {
+          "date": "2026-10-29",
+          "label": null
+        },
+        {
+          "date": "2027-01-21",
+          "label": null
+        },
+        {
+          "date": "2027-02-04",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-02-04",
+          "label": null
+        },
+        {
+          "date": "2027-03-04",
+          "label": null
+        }
+      ],
       "finance_type": "Collaboration with Partners",
       "programme": "Collaboration Taiwan (NSTC)",
       "budget": "€2,000,000",
@@ -420,6 +640,24 @@
         "2026-11-24",
         "2027-02-16",
         "2027-02-16"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-29",
+          "label": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": null
+        },
+        {
+          "date": "2027-02-16",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-02-16",
+          "label": null
+        }
       ],
       "finance_type": "",
       "programme": "Polair Programma",
@@ -455,6 +693,60 @@
         "2026-11-03",
         "2026-12-24"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-01-06",
+          "label": null
+        },
+        {
+          "date": "2026-02-27",
+          "label": null
+        },
+        {
+          "date": "2026-03-03",
+          "label": null
+        },
+        {
+          "date": "2026-04-23",
+          "label": null
+        },
+        {
+          "date": "2026-05-19",
+          "label": null
+        },
+        {
+          "date": "2026-07-09",
+          "label": null
+        },
+        {
+          "date": "2026-07-14",
+          "label": null
+        },
+        {
+          "date": "2026-09-01",
+          "label": null
+        },
+        {
+          "date": "2026-09-10",
+          "label": null
+        },
+        {
+          "date": "2026-10-29",
+          "label": null
+        },
+        {
+          "date": "2026-11-03",
+          "label": "Upcoming submission date"
+        },
+        {
+          "date": "2026-11-03",
+          "label": null
+        },
+        {
+          "date": "2026-12-24",
+          "label": null
+        }
+      ],
       "finance_type": "",
       "programme": "Scientific Meetings and Consultations (ENW)",
       "budget": "€600,000",
@@ -479,6 +771,24 @@
         "2026-11-03",
         "2027-04-06",
         "2027-04-06"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-03",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2026-11-03",
+          "label": null
+        },
+        {
+          "date": "2027-04-06",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-04-06",
+          "label": null
+        }
       ],
       "finance_type": "",
       "programme": "",
@@ -505,6 +815,24 @@
         "2027-04-06",
         "2027-04-06"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-03",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2026-11-03",
+          "label": null
+        },
+        {
+          "date": "2027-04-06",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-04-06",
+          "label": null
+        }
+      ],
       "finance_type": "",
       "programme": "NWO Talent Programme Vidi TTW",
       "budget": "€9,350,000",
@@ -529,6 +857,24 @@
         "2026-11-03",
         "2027-04-06",
         "2027-04-06"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-03",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2026-11-03",
+          "label": null
+        },
+        {
+          "date": "2027-04-06",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-04-06",
+          "label": null
+        }
       ],
       "finance_type": "Talent Development",
       "programme": "NWO Talent Programme Vidi SGW",
@@ -555,6 +901,24 @@
         "2027-04-06",
         "2027-04-06"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-03",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2026-11-03",
+          "label": null
+        },
+        {
+          "date": "2027-04-06",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-04-06",
+          "label": null
+        }
+      ],
       "finance_type": "Talent Development",
       "programme": "NWO Talent Programme Vidi ENW",
       "budget": "€25,500,000",
@@ -579,6 +943,24 @@
         "2026-11-03",
         "2027-05-04",
         "2027-05-04"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-03",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2026-11-03",
+          "label": null
+        },
+        {
+          "date": "2027-05-04",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-05-04",
+          "label": null
+        }
       ],
       "finance_type": "Talent Development",
       "programme": "Mosaic 3.0",
@@ -605,6 +987,24 @@
         "2027-04-06",
         "2027-04-06"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-10",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2026-11-10",
+          "label": null
+        },
+        {
+          "date": "2027-04-06",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-04-06",
+          "label": null
+        }
+      ],
       "finance_type": "Collaboration with Partners",
       "programme": "WATER4ALL – Water Security for the Planet",
       "budget": "",
@@ -628,6 +1028,16 @@
         "2026-11-10",
         "2027-04-16"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-10",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2027-04-16",
+          "label": "Closing date full application"
+        }
+      ],
       "finance_type": "",
       "programme": "Rescuing Biodiversity to Safeguard Life on Earth",
       "budget": "€3,000,000",
@@ -649,6 +1059,12 @@
       "deadline": "2026-11-12",
       "deadline_dates": [
         "2026-11-12"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-12",
+          "label": "Closing date full application"
+        }
       ],
       "finance_type": "Applied Science",
       "programme": "",
@@ -674,6 +1090,20 @@
         "2026-11-12",
         "2026-11-12"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-05-01",
+          "label": null
+        },
+        {
+          "date": "2026-11-12",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2026-11-12",
+          "label": null
+        }
+      ],
       "finance_type": "Infrastructure",
       "programme": "Digital Competence Centres",
       "budget": "€2,400,000",
@@ -696,6 +1126,16 @@
       "deadline_dates": [
         "2026-11-16",
         "2027-06-14"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-16",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2027-06-14",
+          "label": "Closing date full application"
+        }
       ],
       "finance_type": "Collaboration with Partners",
       "programme": "Sustainable Blue Economy Partnership (SBEP)",
@@ -720,6 +1160,20 @@
         "2026-03-31",
         "2026-11-17",
         "2026-11-17"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-03-31",
+          "label": null
+        },
+        {
+          "date": "2026-11-17",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2026-11-17",
+          "label": null
+        }
       ],
       "finance_type": "",
       "programme": "Tulip Fund",
@@ -746,6 +1200,24 @@
         "2027-03-30",
         "2027-03-30"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-17",
+          "label": "Closing date for letter of intent"
+        },
+        {
+          "date": "2026-11-17",
+          "label": null
+        },
+        {
+          "date": "2027-03-30",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-03-30",
+          "label": null
+        }
+      ],
       "finance_type": "Collaboration with Partners",
       "programme": "Innovative early diagnostics of digestive diseases",
       "budget": "€1,500,000",
@@ -770,6 +1242,24 @@
         "2026-11-17",
         "2027-04-15",
         "2027-04-15"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-17",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2026-11-17",
+          "label": null
+        },
+        {
+          "date": "2027-04-15",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-04-15",
+          "label": null
+        }
       ],
       "finance_type": "Collaboration with Partners",
       "programme": "Driving Urban Transitions to a sustainable future (DUT) European Partnerships Driving Urban Transitions to a sustainable future (DUT)",
@@ -797,6 +1287,28 @@
         "2027-06-10",
         "2027-06-10"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-17",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2026-11-17",
+          "label": null
+        },
+        {
+          "date": "2027-05-27",
+          "label": null
+        },
+        {
+          "date": "2027-06-10",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-06-10",
+          "label": null
+        }
+      ],
       "finance_type": "Curiosity Driven Research",
       "programme": "Open Competition SSH Expand",
       "budget": "€40,000,000",
@@ -822,6 +1334,24 @@
         "2027-07-31",
         "2027-07-31"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-08-18",
+          "label": null
+        },
+        {
+          "date": "2026-11-24",
+          "label": null
+        },
+        {
+          "date": "2027-07-31",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-07-31",
+          "label": null
+        }
+      ],
       "finance_type": "Curiosity Driven Research",
       "programme": "Open Competition ENW",
       "budget": "€45,000,000",
@@ -845,6 +1375,16 @@
         "2026-12-01",
         "2026-12-01"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-12-01",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2026-12-01",
+          "label": null
+        }
+      ],
       "finance_type": "Talent Development",
       "programme": "Rubicon SGW",
       "budget": "",
@@ -866,6 +1406,12 @@
       "deadline": "2026-12-10",
       "deadline_dates": [
         "2026-12-10"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-12-10",
+          "label": "Closing date full application"
+        }
       ],
       "finance_type": "",
       "programme": "Take-off Take-off fase 1 - Haalbaarheidsstudies WO",
@@ -889,6 +1435,12 @@
       "deadline_dates": [
         "2026-12-31"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-12-31",
+          "label": "Closing date full application"
+        }
+      ],
       "finance_type": "",
       "programme": "Dutch nuclear energy research programme Nucleaire eindberging en stralingsveiligheid",
       "budget": "€15,500,000",
@@ -911,6 +1463,16 @@
       "deadline_dates": [
         "2027-01-12",
         "2027-01-12"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-01-12",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-01-12",
+          "label": null
+        }
       ],
       "finance_type": "Talent Development",
       "programme": "Doctoral Grant for Teachers",
@@ -937,6 +1499,24 @@
         "2027-04-06",
         "2027-09-14"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-01-19",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-01-19",
+          "label": null
+        },
+        {
+          "date": "2027-04-06",
+          "label": null
+        },
+        {
+          "date": "2027-09-14",
+          "label": null
+        }
+      ],
       "finance_type": "Curiosity Driven Research",
       "programme": "Open Competition SSH Explore",
       "budget": "€4,000,000",
@@ -960,6 +1540,16 @@
         "2027-01-21",
         "2027-01-21"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-01-21",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-01-21",
+          "label": "Upcoming submission date"
+        }
+      ],
       "finance_type": "Collaboration with Partners",
       "programme": "KIA Societal Earning Capacity (KIC) Mission 2024-2027 Maatschappelijk Verdienvermogen Top-up Call: verbinding, synthese en kennisbenutting",
       "budget": "€334,000",
@@ -981,6 +1571,12 @@
       "deadline": "2027-02-09",
       "deadline_dates": [
         "2027-02-09"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-02-09",
+          "label": "Closing date full application"
+        }
       ],
       "finance_type": "",
       "programme": "Use of space infrastructure for Earth observation and planetary research",
@@ -1004,6 +1600,16 @@
       "deadline_dates": [
         "2027-02-11",
         "2027-06-01"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-02-11",
+          "label": "Closing date for letter of intent"
+        },
+        {
+          "date": "2027-06-01",
+          "label": "Closing date full application"
+        }
       ],
       "finance_type": "",
       "programme": "National Roadmap for Large-Scale Research Infrastructure",
@@ -1030,6 +1636,24 @@
         "2027-02-15",
         "2027-02-15"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-09-22",
+          "label": "Closing date for pre-proposals"
+        },
+        {
+          "date": "2026-09-22",
+          "label": null
+        },
+        {
+          "date": "2027-02-15",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-02-15",
+          "label": null
+        }
+      ],
       "finance_type": "Collaboration with Partners",
       "programme": "Raw Materials for the Green and Digital Transition (RAMP)",
       "budget": "",
@@ -1051,6 +1675,12 @@
       "deadline": "2027-02-16",
       "deadline_dates": [
         "2027-02-16"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-02-16",
+          "label": "Closing date full application"
+        }
       ],
       "finance_type": "",
       "programme": "PhDs in the Humanities",
@@ -1074,6 +1704,12 @@
       "deadline_dates": [
         "2027-02-16"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-02-16",
+          "label": "Closing date full application"
+        }
+      ],
       "finance_type": "",
       "programme": "High Tech Systems & Materials (HTSM) 2026 Heterogeneous development solutions for semiconductors & scaling of quantum technologies",
       "budget": "€2,000,000",
@@ -1096,6 +1732,16 @@
       "deadline_dates": [
         "2027-03-30",
         "2027-03-30"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-03-30",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-03-30",
+          "label": null
+        }
       ],
       "finance_type": "Curiosity Driven Research",
       "programme": "Gravitation",
@@ -1121,6 +1767,20 @@
         "2027-03-30",
         "2027-03-30"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-07-07",
+          "label": null
+        },
+        {
+          "date": "2027-03-30",
+          "label": "Closing date full application"
+        },
+        {
+          "date": "2027-03-30",
+          "label": null
+        }
+      ],
       "finance_type": "Collaboration with Partners",
       "programme": "Reducing drug harm: towards effective societal interventions",
       "budget": "€4,500,000",
@@ -1145,6 +1805,20 @@
         "2027-04-01",
         "2027-07-31"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-08-18",
+          "label": null
+        },
+        {
+          "date": "2027-04-01",
+          "label": null
+        },
+        {
+          "date": "2027-07-31",
+          "label": null
+        }
+      ],
       "finance_type": "Curiosity Driven Research",
       "programme": "",
       "budget": "€11,000,000",
@@ -1166,6 +1840,12 @@
       "deadline": "2027-04-13",
       "deadline_dates": [
         "2027-04-13"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-04-13",
+          "label": "Closing date full application"
+        }
       ],
       "finance_type": "",
       "programme": "Systeemperspectief op materialen voor strategische autonomie in de energietransitie",
@@ -1189,6 +1869,12 @@
       "deadline_dates": [
         "2027-05-14"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-05-14",
+          "label": "Closing date full application"
+        }
+      ],
       "finance_type": "",
       "programme": "KIC 2024-2027 Mobiele en modulaire beeldvormende technologie voor een gezonde en veilige samenleving",
       "budget": "€7,000,000",
@@ -1210,6 +1896,12 @@
       "deadline": "2027-05-14",
       "deadline_dates": [
         "2027-05-14"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-05-14",
+          "label": "Closing date full application"
+        }
       ],
       "finance_type": "",
       "programme": "Nieuwe materialen en maakprocessen voor grootschalige energieopslag en conversie",
@@ -1233,6 +1925,12 @@
       "deadline_dates": [
         "2027-06-01"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-06-01",
+          "label": "Closing date full application"
+        }
+      ],
       "finance_type": "",
       "programme": "Circulariteit van materialen, componenten en constructies in offshore wind",
       "budget": "€2,730,000",
@@ -1255,6 +1953,12 @@
       "deadline_dates": [
         "2027-07-06"
       ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-07-06",
+          "label": "Closing date full application"
+        }
+      ],
       "finance_type": "",
       "programme": "Knowledge and Innovation Covenant Mission 2024-2027 Human Capital en Digitale Innovatie in Nederland: het vergroten van innovatiekracht, adaptief vermogen, en verdienvermogen door AI en robotica",
       "budget": "€7,000,000",
@@ -1275,6 +1979,7 @@
       "status": "open",
       "deadline": "",
       "deadline_dates": [],
+      "deadline_dates_labelled": [],
       "finance_type": "Infrastructure",
       "programme": "Computing Time on National Computer Facilities",
       "budget": "",
@@ -1295,6 +2000,7 @@
       "status": "open",
       "deadline": "",
       "deadline_dates": [],
+      "deadline_dates_labelled": [],
       "finance_type": "Applied Science",
       "programme": "Open Access Books",
       "budget": "€300,000",
