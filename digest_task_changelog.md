@@ -181,3 +181,35 @@ the transition correctly — verified by running it against real-shaped data. Gr
 already present take `old.get("first_seen", FIRST_SEEN_BASELINE)` = `2020-01-01`,
 far outside any window, so **there is no flood of 225 grants on the first stamped
 run**. Only genuinely new or changed calls land inside the window.
+
+## 9. Agent issue reporting (2026-10-07)
+
+Task runs now file problems and suggestions as GitHub issues in the **private**
+repo `mf-rug/nwo-digest-ops` (issues only, no code). Worth knowing about if you
+maintain the scraper: a matching rule that keeps misfiring usually means the data
+the matcher is handed is wrong or missing, which is your end.
+
+**Why a second, private repo.** Reports naturally want to name a subscriber ("the
+send to X failed"), and the subscriber list is internal to the Workspace. This repo
+is public and must stay that way:
+
+- `digest.py` reads `grants.json` / `news.json` from the unauthenticated raw URL;
+- `app.py` reads the same `grants.json`, the markdown under `MD_BASE`, and the
+  unauthenticated commits API for its "last refreshed" date;
+- a scheduled run has no GitHub credentials in its shell — `gh api` returns
+  `403: GitHub access to this repository is not enabled for this session` — so
+  there is no authenticated fetch to fall back on, and a 1.8 MB `grants.json`
+  through the MCP connector each week is not viable.
+
+Making the repo private would therefore break the live app *and* the digest, with
+no drop-in replacement. The public raw URL is why the cloud task needs no
+credentials at all.
+
+**The bar for filing is high on purpose:** only something a person would want to
+change. A run that worked files nothing. Runs search open issues first and comment
+on an existing one rather than duplicating; new issues carry `agent-report`. No
+subscriber addresses, names or profiles, and no secrets — the repo being private
+limits the damage from a slip, it does not license one.
+
+First issue filed: `nwo-digest-ops#1`, the sent-log keying on the item rather than
+its version (see §8's residual).
