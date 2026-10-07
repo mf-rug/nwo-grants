@@ -41,17 +41,23 @@ jobs:
       - name: Scrape NWO news feed
         run: python news_scrape.py
 
+      # Precompute the digest delta here, so the weekly Cowork task only ever
+      # fetches DATA. It is not allowed to download and execute digest.py at
+      # run time: the sandbox classifier refuses that as "Code from External".
+      - name: Precompute digest candidates
+        run: python digest.py candidates --days 21 --local > candidates.json
+
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add grants.json grants_list.json news.json md/
+          git add grants.json grants_list.json news.json candidates.json md/
           if git diff --staged --quiet; then
             echo "No changes — data is up to date."
           else
             # Touch requirements.txt so Streamlit Cloud detects the commit and redeploys
             touch requirements.txt
             git add requirements.txt
-            git commit -m "Auto-update grants + news ($(date -u +%Y-%m-%d))"
+            git commit -m "Auto-update grants + news + candidates ($(date -u +%Y-%m-%d))"
             git push
           fi
