@@ -283,7 +283,7 @@ Switch it off freely as far as the digest is concerned. Whether it stays is a
 question about `app.py` (`matches_position` and `matches_field` both depend on it),
 and that is your call, not the task's.
 
-## 11. Requests for the backend (2026-10-07) — ✅ ALL DONE (backend reply, same day)
+## 11. Requests for the backend (2026-10-07) — A, B, C ✅ DONE; D open
 
 Three items. A and B are changes the task needs and cannot make itself, both in
 your area (`digest.py` and the Action); the task side is written to tolerate their
@@ -404,6 +404,59 @@ task prompt was briefly rewritten on the strength of the commit message to say t
 keys "are now always empty"; that was wrong and has been corrected to the
 tolerant wording, which holds in both states. Nothing to do on the task side when
 the removal lands.
+
+### Request D — label the entries in `deadline_dates` (raised 2026-10-07, after A–C landed)
+
+**Why.** `deadline_dates` is a bare sorted list of ISO datetimes, so no consumer can
+tell an opening date from a submission deadline from a second-stage date. The task's
+timing rule took the earliest entry as the deadline, which is wrong whenever the list
+starts with the date the call *opened*. Two of the best matches in the first backfill
+run were nearly lost to it:
+
+| id | `deadline_dates` | what the page says |
+|---|---|---|
+| `open-competition-domain-science-m-2026--2027` | 2026-08-18, 2026-11-24, 2027-07-31, 2027-07-31 | 2026-08-18 is when the continuous round *opened*; it runs to 2027-07-31 |
+| `weave-with-nwo-as-partner-agency-2026--2027` | 2026-08-18, 2027-04-01, 2027-07-31 | 2026-08-18 opens the DFG submission window, closing 2027-07-31 |
+
+Both are open and squarely on target; both read as "deadline already passed". The
+pattern is widespread — `scientific-meetings-and-consultations-2026` carries thirteen
+dates from 2026-01-06, `dutch-research-agenda-research-along-routes-by-consortia-2026`
+starts 2026-03-17. Raised by `nwo-digest-ops#4`.
+
+**Asked for.** `process.py` already has the label and throws it away. In the deadline
+block around line 343 it iterates `chars.items()` and keeps only the parsed dates:
+
+```python
+for key, val in chars.items():
+    if any(w in key.lower() for w in ("closing", "deadline", "submission", "date", "datum")):
+        deadline_isos.extend(iso_from_char(val))
+```
+
+`key` is NWO's own wording for that date — "Deadline", "Opening date", "Closing date
+pre-proposal" and so on. Carrying it through would give
+
+```json
+"deadline_dates_labelled": [
+  {"date": "2026-08-18", "label": "Opening date"},
+  {"date": "2027-07-31", "label": "Deadline"}
+]
+```
+
+A **new** key rather than a change to `deadline_dates`: that field is in
+`TRACKED_FIELDS`, so reshaping it would move `last_changed` on every record at once
+and flood the next digest. Dates recovered from `when_to_apply` free text have no
+label — `null` or `"from text"` is fine, the task treats an unlabelled date the way
+it does today. `digest.py._grant_brief` then passes the new key through.
+
+**Interim measure, already in place.** The task now takes the earliest date **still in
+the future** and treats a call as closed only when no date is in the future. That
+recovers both cases above and keeps the mandatory-first-stage behaviour for calls whose
+stages are all upcoming. It is a heuristic, though: a call whose real first deadline has
+passed while a later stage remains will still be offered. The labels remove the guess,
+after which that rule can go back to "earliest entry labelled as a deadline".
+
+**Priority: low.** Nothing is broken today and no subscriber is affected by the interim
+rule in the data as it stands. Worth doing when `process.py` is next open.
 
 ### Declined, for the record
 
