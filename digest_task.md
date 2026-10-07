@@ -115,20 +115,17 @@ a news item.
 nothing, so its items stay eligible next week — the entire point. Logging first
 would reintroduce the bug the log exists to fix.
 
-## The task does not depend on the AI classifier
+## No AI classifier
 
-`fields`, `can_lead` and `can_participate` come from `classify_grants.py`. The task
-treats them as **optional corroboration only**. Its authoritative eligibility
-sources are `who_can_apply` (600 chars of the real prose), `target_groups`,
-`restrictions`, and the live call page it fetches for every shortlisted item — all
-better evidence than a classifier's summary of the same text.
+The AI classifier was **removed entirely (2026-10-07)**, along with the whole
+LLM-API dependency — `classify_grants.py`, the Action's classify step, the
+`ai_classification` field, and `app.py`'s position/field filters are all gone.
 
-The prompt states explicitly that an empty value means *not classified*, never
-"nobody is eligible", so nothing is silently excluded when the classifier is off.
-
-**Switching `classify_grants.py` off does not affect the digest.** Whether it stays
-is a question about `app.py`, which does depend on it (`matches_position` and
-`matches_field`), and is not the digest's call.
+Eligibility now comes only from **scraped prose**: `who_can_apply` (600 chars of the
+real text), `target_groups`, `restrictions`, and the live call page fetched for every
+shortlisted item — all better evidence than a classifier's summary of the same text
+anyway. An empty value means *not stated*, never "nobody is eligible", so nothing is
+silently excluded.
 
 ## Reporting problems
 
