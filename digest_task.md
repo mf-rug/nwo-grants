@@ -17,11 +17,12 @@ Everything the task needs is reachable from a cloud run:
 | grant data | `grants.json` / `news.json`, read by `digest.py` from public raw URLs |
 | subscribers | Google Sheet `15D1PibZUdL2JrpZcl08dxV9aW0Spr_4QIYLdaLSSZJI` (Form responses) |
 | profile cache | Google Sheet `1rT9GBDefOBAj9hufVOm5YGvF3jvrKkwtu7fnQR6freg`, tab `profiles` |
+| sent-log | the same Sheet, tab `sent` |
 | Postmark secret | Google Sheet `1H0bpMMiAt8ks9s0G54zYjMBBTOhUyn5Bs8JMYnjWMJ4`, `Sheet1` A1/B1, A2/B2 |
 
 The repo stays public and holds **no** secrets and **no** subscriber data. The two
-private Sheets hold everything that must not be public, and the profile cache is
-read *and written* in place via the Google Sheets connector.
+private Sheets hold everything that must not be public, and both the profile cache
+and the sent-log are read *and written* in place via the Google Sheets connector.
 
 The local checkout at `~/Documents/work/nwo` is now only a developer convenience.
 `~/Documents/work/nwo-secrets/.nwo-digest.env` is kept as a fallback and for manual
@@ -45,19 +46,29 @@ does not work:
 If the folder-grant bug is fixed upstream, moving back is still not obviously
 worth it: the cloud design has fewer moving parts and no sleep dependency.
 
-## One-time setup
+## The window and the sent-log
 
-1. **Network allowlist** — `api.postmarkapp.com` must be allowed for the
-   organisation (Admin settings → Capabilities). Without it every send fails with
-   `403 Forbidden` from the proxy. Check this first if sends fail wholesale; it is
-   not a Postmark problem.
-2. **Connectors** — Google Drive *and* **Google Sheets**. Drive alone is not enough:
-   its `update_file` changes only title and parent, so it cannot write the cache.
-   The Sheets connector supplies `get_values`, `update_values`, `append_values`.
-3. **The three Sheets** above, all private.
-4. **Create the task** with no device binding, weekly. 09:15 Europe/Amsterdam clears
-   the Monday ~07:00 UTC data refresh year-round; a plain 09:00 collides with it
-   during summer time, when 09:00 Amsterdam *is* 07:00 UTC.
+These two are one mechanism; changing either alone breaks it.
+
+`digest.py candidates` selects grants whose `first_seen` or `last_changed` falls
+inside `--days`. With a 7-day window and no memory of what was emailed, **a week
+that fails to send loses its grants for good** — they drop out of the window and
+never come back. That is not hypothetical: a send was blocked on 2026-10-07 and
+only an empty candidate set saved it from costing real items.
+
+So the task runs a **21-day window** and keeps a **sent-log**:
+
+- the window gives a missed week three chances to be picked up;
+- the log stops the overlap turning into repeats.
+
+The `sent` tab is one row per item per recipient:
+`sent_on | email | item_key | item_type | title`, keyed on **(email, item_key)**.
+`item_key` is the grant's `id` (the NWO slug, exposed by `_grant_brief`) for a
+grant, and the news item's `url` for a news item.
+
+**Ordering invariant: log only after the send succeeds.** If a send fails nothing
+is written, so those items stay eligible next week — which is the entire point. A
+log written before the send would reintroduce the bug it exists to fix.
 
 ## Gotchas that have already bitten
 
@@ -100,27 +111,29 @@ Three failure modes this guards against:
 The live task's prompt is authoritative; this is its shape.
 
 1. `curl` `digest.py` from the public raw URL into `/tmp`, then
-   `python3 digest.py candidates --days 7` (no `--backfill`; that was the first send).
+   `python3 digest.py candidates --days 21` (no `--backfill`; that was the first send).
 2. Read consented subscribers from the subscriber Sheet.
 3. Read the profile cache; reuse an existing row, otherwise infer once (WebSearch +
    the given website), merge with the written interests, and `append_values` the new
    row — apostrophe-prefixing the date.
-4. **Shortlist, then verify**: topic fit → eligibility from the record → drop
-   `invited_only` unless clearly eligible → skip anything closing within ~3 weeks
-   (earliest date for multi-stage calls) → **WebFetch each survivor's call page** and
-   drop what it contradicts → never invent a rationale for `details_published: false`.
-   No padding; if nothing survives the body is exactly
+4. **Shortlist, then verify**: read the sent-log → topic fit → eligibility from the
+   record → drop `invited_only` unless clearly eligible → skip anything closing
+   within ~3 weeks (earliest date for multi-stage calls) → **WebFetch each
+   survivor's call page** and drop what it contradicts → never invent a rationale
+   for `details_published: false` → **drop anything already in the sent-log for that
+   subscriber**. No padding; if nothing survives the body is exactly
    "Nothing new in your areas this week."
 5. Compose concise HTML, inline CSS, only the non-empty sections.
-6. Send, in this order, per the first gotcha above:
+6. Send, per the first gotcha above:
    a. `get_values` on the secrets Sheet for the token and sender;
    b. write `/tmp/nwo.env` with the **file-writing tool**, two `KEY=VALUE` lines;
    c. `cd /tmp && NWO_DIGEST_ENV=/tmp/nwo.env python3 digest.py send --to … --subject … --html-file …`
       — a path on the command line, never the secret.
    `401 Unauthorized` means the token in the Sheet is wrong or revoked; `403
    Forbidden` from the proxy means the allowlist. Never echo the token.
-7. Report sends with message IDs, verification drops, skipped subscribers, and any
-   profile newly cached.
+7. **After** each successful send, append one `sent` row per included item.
+8. Report sends with message IDs, verification drops, how many items were suppressed
+   as already-sent, skipped subscribers, and any profile newly cached.
 
 Failures are reported, never worked around. A run that cannot do its job says so in
 its first line and sends nothing.
@@ -136,6 +149,12 @@ stays internal and the Sheet private.
 ## Known limits
 
 - `--backfill` is per-mailing-list, not per-subscriber: a subscriber joining later
-  gets only that week's delta unless you run a one-off backfill for them.
+  gets only what the 21-day window holds, unless you run a one-off backfill for them.
 - The profile cache is keyed on email. Changing a subscriber's Form answers does not
   refresh a cached profile; clear their row to force re-inference.
+- The sent-log grows one row per item per recipient and is never pruned. At this
+  list size that is years of headroom; if it ever matters, delete rows older than a
+  few months — anything that old is outside the window anyway.
+- An item whose `last_changed` moves again after it was sent stays suppressed: the
+  log keys on the item, not on the version. A materially changed call will not be
+  re-sent.
