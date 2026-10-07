@@ -161,17 +161,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-17T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The NWA-ORC 2026 round has two phases: Registration for and participation in collaborative workshops (mandatory for main applicants) Between 6 February and 17 March 2026, NWO organ"
       },
       {
         "date": "2026-10-06T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-10-06T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Submitting a proposal The deadline for submission of proposals via ISAAC is 6 October 2026, at 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-early-detection-of-emerging-outbreaks-of-infectious-diseases",
@@ -315,21 +319,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The dates of the collaborative workshops are 19 March 2026 and 16 April 2026."
       },
       {
         "date": "2026-04-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The dates of the collaborative workshops are 19 March 2026 and 16 April 2026."
       },
       {
         "date": "2026-10-06T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-10-06T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submission of full applications is 6 October 2026, 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "perspectief-round-2026-2027",
@@ -461,17 +470,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-10-06T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2026-11-24T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2027-05-25T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "security-and-resilience-in-a-quantum-era",
@@ -644,29 +657,36 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-15T09:00:00",
-        "label": null
+        "label": null,
+        "context": "Information meeting (optional): 15 September 2026 , 09:00-11:00hrs Submission of letter of intent (mandatory): 29 September 2026 , 14:00:00 CEST."
       },
       {
         "date": "2026-09-29T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2026-09-29T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Information meeting (optional): 15 September 2026 , 09:00-11:00hrs Submission of letter of intent (mandatory): 29 September 2026 , 14:00:00 CEST."
       },
       {
         "date": "2026-10-06T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Submission of a request for review of research organisations based in the Netherlands (mandatory if applicable): 6 October 2026 , 14:00:00 CEST."
       },
       {
         "date": "2026-11-03T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-11-03T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Submission of full proposal: 3 November 2026 , 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "open-competition-domain-science-xs-package-26-3",
@@ -791,49 +811,61 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-13T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Three deadlines for submitting proposals for ENW-XS projects are specified for 2026: Package Submission deadline Decision anticipated by 26-1 13 January 2026, 14:00 CET 19 March 20"
       },
       {
         "date": "2026-03-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Three deadlines for submitting proposals for ENW-XS projects are specified for 2026: Package Submission deadline Decision anticipated by 26-1 13 January 2026, 14:00 CET 19 March 20"
       },
       {
         "date": "2026-04-14T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Three deadlines for submitting proposals for ENW-XS projects are specified for 2026: Package Submission deadline Decision anticipated by 26-1 13 January 2026, 14:00 CET 19 March 20"
       },
       {
         "date": "2026-06-25T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Three deadlines for submitting proposals for ENW-XS projects are specified for 2026: Package Submission deadline Decision anticipated by 26-1 13 January 2026, 14:00 CET 19 March 20"
       },
       {
         "date": "2026-09-15T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-09-15T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Three deadlines for submitting proposals for ENW-XS projects are specified for 2026: Package Submission deadline Decision anticipated by 26-1 13 January 2026, 14:00 CET 19 March 20"
       },
       {
         "date": "2026-09-24T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Three deadlines for submitting proposals for ENW-XS projects are specified for 2026: Package Submission deadline Decision anticipated by 26-1 13 January 2026, 14:00 CET 19 March 20"
       },
       {
         "date": "2026-10-01T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Three deadlines for submitting proposals for ENW-XS projects are specified for 2026: Package Submission deadline Decision anticipated by 26-1 13 January 2026, 14:00 CET 19 March 20"
       },
       {
         "date": "2026-10-06T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Three deadlines for submitting proposals for ENW-XS projects are specified for 2026: Package Submission deadline Decision anticipated by 26-1 13 January 2026, 14:00 CET 19 March 20"
       },
       {
         "date": "2026-10-20T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Three deadlines for submitting proposals for ENW-XS projects are specified for 2026: Package Submission deadline Decision anticipated by 26-1 13 January 2026, 14:00 CET 19 March 20"
       },
       {
         "date": "2026-11-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Three deadlines for submitting proposals for ENW-XS projects are specified for 2026: Package Submission deadline Decision anticipated by 26-1 13 January 2026, 14:00 CET 19 March 20"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "impact-explorer-2026",
@@ -949,17 +981,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-10-06T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
       },
       {
         "date": "2027-10-05T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-10-05T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "clean-energy-transition-partnership-joint-call-2026",
@@ -1084,21 +1120,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-10-08T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-10-08T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Pre- Proposal (compulsory) submission deadline: 8 October 2026, 14.00 CEST ."
       },
       {
         "date": "2027-03-11T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-03-11T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Full proposal submission deadline: 11 March 2027, 14.00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-ai-for-agriculture-horticulture-water-and-food-2026",
@@ -1248,29 +1289,36 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-04-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The matchmaking event will take place on 2 April 2026 ."
       },
       {
         "date": "2026-06-30T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2026-06-30T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting a statement of intent 30 June 2026."
       },
       {
         "date": "2026-09-29T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for a request to review foreign organisations is 29 September 2026 ."
       },
       {
         "date": "2026-10-13T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-10-13T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting a full proposal is 13 October 2026 ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "preparing-for-tomorrow-societies-and-strategies-in-times-of-transition",
@@ -1404,17 +1452,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-07-08T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2026-10-14T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for pre-submission, concerning the compliance assessment of organisations with NWO grant rules is 14 October 2026, 23:59 CEST."
       },
       {
         "date": "2026-10-28T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-demand-driven-research-by-consortia-xl",
@@ -1561,29 +1613,36 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-10T14:00:00",
-        "label": null
+        "label": null,
+        "context": "For pre-proposals, the deadline for submitting a request for review of (foreign) organisations is Tuesday, 10 February 2026 at 14:00:00 CET."
       },
       {
         "date": "2026-03-10T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting pre-proposals is Tuesday 10 March 2026, before 14:00:00 CET The deadline for submitting full proposals is Thursday 12 November 2026, before 14:00:00 CET"
       },
       {
         "date": "2026-03-25T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-10-15T14:00:00",
-        "label": null
+        "label": null,
+        "context": "For proposals, the deadline for submitting a request for review of (foreign) organisations is Thursday, 15 October 2026 at 14:00:00 CET."
       },
       {
         "date": "2026-11-12T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-11-12T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting pre-proposals is Tuesday 10 March 2026, before 14:00:00 CET The deadline for submitting full proposals is Thursday 12 November 2026, before 14:00:00 CET"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-integrated-biorefineries-for-a-circular-future",
@@ -1735,33 +1794,41 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-04-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Online matchmaking sessions will take place on 26 March and 16 April 2026 (not mandatory)."
       },
       {
         "date": "2026-06-23T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2026-06-23T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submission of the mandatory Letter of intent is 23 June 2026 14:00:00 CET (via e-mail) and 23 June 2026 23:59:59 BRT (SAGe) Deadline for submission of Proposals is 20 "
       },
       {
         "date": "2026-06-23T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submission of the mandatory Letter of intent is 23 June 2026 14:00:00 CET (via e-mail) and 23 June 2026 23:59:59 BRT (SAGe) Deadline for submission of Proposals is 20 "
       },
       {
         "date": "2026-10-20T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-10-20T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submission of the mandatory Letter of intent is 23 June 2026 14:00:00 CET (via e-mail) and 23 June 2026 23:59:59 BRT (SAGe) Deadline for submission of Proposals is 20 "
       },
       {
         "date": "2026-10-20T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submission of the mandatory Letter of intent is 23 June 2026 14:00:00 CET (via e-mail) and 23 June 2026 23:59:59 BRT (SAGe) Deadline for submission of Proposals is 20 "
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "venture-challenge-spring-2027",
@@ -1874,17 +1941,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-10-20T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Registration for the spring edition opens 20 October 2026 and closes on 10 December 2026 14:00:00 CET."
       },
       {
         "date": "2026-12-10T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-12-10T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Registration for the spring edition opens 20 October 2026 and closes on 10 December 2026 14:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "holomicrobiome-2026-towards-novel-microbiome-applications-for-the-environment-food-and-health",
@@ -2058,25 +2129,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-06-25T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline registration for matchmaking: 25 June 2026, 14:00:00 CEST."
       },
       {
         "date": "2026-06-30T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Matchmaking: 30 June 2026."
       },
       {
         "date": "2026-09-29T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline request for assessment of organisations: 29 September 2026, 14:00:00 CEST."
       },
       {
         "date": "2026-10-27T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-10-27T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline application: 27 October 2026, 14:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kin-pact-network-grant-2026",
@@ -2183,13 +2260,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-10-27T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-10-27T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for applications: 27 October 2026 at 14:00:00 uur CET"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "accelerating-energy-transition-in-dutch-and-taiwanese-ports",
@@ -2351,29 +2431,36 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-10-29T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2026-10-29T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Applicants should be aware of four submission deadlines in this Call for proposals: The deadline for submitting statements of intent is 29 October 2026 , before 14:00:00 CET, at NW"
       },
       {
         "date": "2027-01-21T23:59:00",
-        "label": null
+        "label": null,
+        "context": "1 of the Call for proposals) is 21 January 2027, before 14:00:00 CET."
       },
       {
         "date": "2027-02-04T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-02-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals at NWO is 4 February 2027 , before 14:00:00 CET."
       },
       {
         "date": "2027-03-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals at NSTC (which is the same full proposal submitted to NWO) is 4 March 2027 (this is due to Chinese New Year holiday period)"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "antarctic-research-and-antarctica-insync",
@@ -2521,21 +2608,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-10-29T16:00:00",
-        "label": null
+        "label": null,
+        "context": "The next Call for Transnational Access (CTA) closes Thursday 29 October 2026 at 16:00 CET."
       },
       {
         "date": "2026-11-24T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the submission of a Pre-Award Operational Support and Planning Questionnaire (OSPQ) for planned use of the facilities of the British Antarctic Survey and the Dutch"
       },
       {
         "date": "2027-02-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-02-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the submission of proposals is Tuesday 16 February 2027, before 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "scientific-meetings-and-consultations-2026",
@@ -2663,57 +2755,71 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-06T23:59:00",
-        "label": "opening (from text)"
+        "label": "opening (from text)",
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-02-27T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-03-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-04-23T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-05-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-07-09T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-07-14T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-09-01T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-09-10T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-10-29T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-11-03T14:00:00",
-        "label": "Upcoming submission date"
+        "label": "Upcoming submission date",
+        "context": ""
       },
       {
         "date": "2026-11-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       },
       {
         "date": "2026-12-24T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
       }
-    ]
+    ],
+    "rolling": true
   },
   {
     "id": "isaac-newton-group-telescopes-26a",
@@ -2795,17 +2901,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-10-02T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-10-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The next deadline is 2 October 2025."
       },
       {
         "date": "2026-10-31T23:59:00",
-        "label": null
+        "label": null,
+        "context": "This is the deadline for observing time with WEAVE (LIFU mode)@WHT to be carried out between 1 May and 31 October 2026."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "2026-international-joint-initiative-for-research-harnessing-disruptive-technologies-to-address-global-challenges",
@@ -2990,33 +3100,41 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "3 March 2026 (Canadian Time, 8:00 p."
       },
       {
         "date": "2026-03-04T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-03-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "4 March 2026 (CET, 14:00): Deadline for the NOI additional information needed for NWO in ISAAC."
       },
       {
         "date": "2026-06-09T23:59:00",
-        "label": null
+        "label": null,
+        "context": "9 June 2026 (Canadian Time, 8:00 p."
       },
       {
         "date": "2026-11-03T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-11-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "3 November 2026 (Canadian Time, 8:00 p."
       },
       {
         "date": "2026-11-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "4 November 2026 (CET, 14:00): Deadline for the full proposal additional information needed for NWO in ISAAC."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vidi-health-research-and-medical-sciences-zonmw-2026",
@@ -3135,21 +3253,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-03T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-11-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting preproposals is 3 November 2026, before 14:00:00 CET ."
       },
       {
         "date": "2027-04-06T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-04-06T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is 6 April 2027, before 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vidi-applied-and-engineering-sciences-aes-2026",
@@ -3276,21 +3399,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-03T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-11-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting preproposals is 3 November 2026, before 14:00:00 CET ."
       },
       {
         "date": "2027-04-06T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-04-06T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is 6 April 2027, before 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vidi-social-sciences-and-humanities-ssh-2026",
@@ -3411,21 +3539,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-03T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-11-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting preproposals is 3 November 2026, before 14:00:00 CET ."
       },
       {
         "date": "2027-04-06T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-04-06T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is 6 April 2027, before 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vidi-science-2026",
@@ -3541,21 +3674,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-03T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-11-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting preproposals is 3 November 2026, before 14:00:00 CET ."
       },
       {
         "date": "2027-04-06T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-04-06T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is 6 April 2027, before 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "mosaic-30",
@@ -3650,21 +3788,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-03T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-11-03T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the pre-proposal is 3 November 2026, 14:00 CET."
       },
       {
         "date": "2027-05-04T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-05-04T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Full proposals can be submitted until 4 May 2027, 14:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "partnership-water4all-sustainable-water-management",
@@ -3789,21 +3932,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-10T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-11-10T15:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline stage 1, pre-proposal (obligatory): 10 November 2026, 15:00 CET ."
       },
       {
         "date": "2027-04-06T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-04-06T15:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for stage 2, full proposals: 6 April 2027, 15:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "novel-ecosystems-biodiversity-socio-ecological-consequences-and-future-trajectories-biodivfuture",
@@ -3898,13 +4046,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-10T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2027-04-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "financing-professional-doctorate-candidates-2026",
@@ -3950,9 +4101,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-12T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": true
   },
   {
     "id": "thematic-digital-competence-centres-2026",
@@ -4075,17 +4228,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-05-01T23:59:00",
-        "label": "opening (from text)"
+        "label": "opening (from text)",
+        "context": "Applications can be submitted from 1 May 2026 until 12 November 2026, before 14:00:00 CET."
       },
       {
         "date": "2026-11-12T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-11-12T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Applications can be submitted from 1 May 2026 until 12 November 2026, before 14:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-unlocking-digital-twin-capabilities-for-electricity-utilities",
@@ -4211,13 +4368,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-10T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-11-12T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "sustainable-blue-economy-partnership-fourth-joint-transnational-co-funded-call",
@@ -4385,13 +4545,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-16T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2027-06-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "raak-pro-0",
@@ -4453,13 +4616,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-03T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2026-11-17T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "tulip-fund",
@@ -4563,17 +4729,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-31T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting nominations was 31 March 2026 (first round of submissions)."
       },
       {
         "date": "2026-11-17T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-11-17T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting nominations in the second round of submissions is 17 November 2026, 14:00 CEST ."
       }
-    ]
+    ],
+    "rolling": true
   },
   {
     "id": "kic-innovative-early-diagnostics-of-digestive-diseases",
@@ -4670,21 +4840,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-17T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2026-11-17T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting the mandatory statement of intent is 17 November 2026, before 14:00:00 CEST."
       },
       {
         "date": "2027-03-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-03-30T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is 30 March 2027, before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "driving-urban-transitions-call-2026",
@@ -4819,21 +4994,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-17T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-11-17T13:00:00",
-        "label": null
+        "label": null,
+        "context": "The submission deadline for pre-proposals is 17 November 2026, at 13:00 CET."
       },
       {
         "date": "2027-04-15T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-04-15T13:00:00",
-        "label": null
+        "label": null,
+        "context": "The submission deadline for full proposals is 15 April 2027, at 13:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "ssh-open-competition-expand-2026",
@@ -4958,25 +5138,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-11-17T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-11-17T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The set deadlines are as follows: Pre-proposals: 17 November 2026, 14:00:00 CET Assessment foreign organisations: 27 May 2027, 14:00:00 CEST (if applicable) Full proposals: 10 June"
       },
       {
         "date": "2027-05-27T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The set deadlines are as follows: Pre-proposals: 17 November 2026, 14:00:00 CET Assessment foreign organisations: 27 May 2027, 14:00:00 CEST (if applicable) Full proposals: 10 June"
       },
       {
         "date": "2027-06-10T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-06-10T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The set deadlines are as follows: Pre-proposals: 17 November 2026, 14:00:00 CET Assessment foreign organisations: 27 May 2027, 14:00:00 CEST (if applicable) Full proposals: 10 June"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-data-sharing-for-the-energy-transition-socio-technical-challenges",
@@ -5132,25 +5318,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Matchmaking (recommended but optional) 2 September 2025 Deadline research ideas 24 September 2025 Matchmaking at NWO Utrecht Proposals 18 November 2025 Deadline proposals 19 N"
       },
       {
         "date": "2025-09-24T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Matchmaking (recommended but optional) 2 September 2025 Deadline research ideas 24 September 2025 Matchmaking at NWO Utrecht Proposals 18 November 2025 Deadline proposals 19 Novemb"
       },
       {
         "date": "2025-11-18T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-11-18T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Matchmaking (recommended but optional) 2 September 2025 Deadline research ideas 24 September 2025 Matchmaking at NWO Utrecht Proposals 18 November 2025 Deadline proposals 19 Novemb"
       },
       {
         "date": "2026-11-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Matchmaking (recommended but optional) 2 September 2025 Deadline research ideas 24 September 2025 Matchmaking at NWO Utrecht Proposals 18 November 2025 Deadline proposals 19 Novemb"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "open-competition-domain-science-xs-2026-packet-26-1",
@@ -5269,49 +5461,61 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-13T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-13T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-01-22T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-01-30T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-02-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-02-17T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-03-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-04-14T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-06-25T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-09-15T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-11-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "open-competition-domain-science-xs-package-26-2",
@@ -5430,49 +5634,61 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-13T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-03-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-04-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-14T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-04-23T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-05-06T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-05-12T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-05-29T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-06-25T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-09-15T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       },
       {
         "date": "2026-11-21T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 26-1 13 January 2026, at 14:00:00 CET 19 March 2026 26-2 14 april 2026, at 14:00:00 CEST 25 June 2026 26-3 15 Sept"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "open-competition-domain-science-m-2026--2027",
@@ -5673,21 +5889,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-08-18T23:59:00",
-        "label": "opening (from text)"
+        "label": "opening (from text)",
+        "context": "The current round (2026/2027) opens on 18 August 2026 and is closing: Once 420 (5x84) applications have been received or, No later than 31 July 2027."
       },
       {
         "date": "2026-11-24T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Note! ENW-M-1-Weave proposals with a Flemish co-applicant should be submitted no later than 24 November 2026, 14:00:00 CET."
       },
       {
         "date": "2027-07-31T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-07-31T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "The current round (2026/2027) opens on 18 August 2026 and is closing: Once 420 (5x84) applications have been received or, No later than 31 July 2027."
       }
-    ]
+    ],
+    "rolling": true
   },
   {
     "id": "rubicon-2026-3",
@@ -5797,13 +6018,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-12-01T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-12-01T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for this round is Tuesday 1 December 2026 at 14:00:00 hours CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "take-off-phase-1-feasibility-studies-wo-2026",
@@ -5898,9 +6122,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-12-10T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": true
   },
   {
     "id": "ngf-direct-use-of-hydrogen-groenvermogennl-work-package-3-fase-2",
@@ -6057,25 +6283,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-07-16T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-07-16T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline registration workshops: Thursday 16 July 2026, 14:00:00 CEST ."
       },
       {
         "date": "2026-12-10T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline request for review of research organisations based in the Netherlands or abroad: Thursday 10 December 2026, 14:00:00 CET ."
       },
       {
         "date": "2027-01-21T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-01-21T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for full proposal: Thursday 21 January 2027, 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "radioactive-waste-disposal-and-radiation-protection",
@@ -6127,9 +6359,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-12-31T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "open-technology-programme-2026",
@@ -6302,25 +6536,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-06-23T23:59:00",
-        "label": null
+        "label": null,
+        "context": "23 June 2026 –notice of the upcoming closure of the OTP 2026 round 29 June 2026 – maximum number of applications for the OTP 2026 round has been reached 30 June 2026 – applications"
       },
       {
         "date": "2026-06-29T23:59:00",
-        "label": null
+        "label": null,
+        "context": "23 June 2026 –notice of the upcoming closure of the OTP 2026 round 29 June 2026 – maximum number of applications for the OTP 2026 round has been reached 30 June 2026 – applications"
       },
       {
         "date": "2026-06-30T23:59:00",
-        "label": null
+        "label": null,
+        "context": "23 June 2026 –notice of the upcoming closure of the OTP 2026 round 29 June 2026 – maximum number of applications for the OTP 2026 round has been reached 30 June 2026 – applications"
       },
       {
         "date": "2026-07-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "23 June 2026 –notice of the upcoming closure of the OTP 2026 round 29 June 2026 – maximum number of applications for the OTP 2026 round has been reached 30 June 2026 – applications"
       },
       {
         "date": "2027-01-11T23:59:00",
-        "label": null
+        "label": null,
+        "context": "23 June 2026 –notice of the upcoming closure of the OTP 2026 round 29 June 2026 – maximum number of applications for the OTP 2026 round has been reached 30 June 2026 – applications"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwa-economic-transformation-in-the-province-of-south-holland-space-for-an-economy-that-supports-broad-prosperity",
@@ -6472,9 +6712,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-01-12T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "doctoral-grant-for-teachers-2027-i",
@@ -6568,13 +6810,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-01-12T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-01-12T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the submission of proposals is Tuesday 12 January 2027, 14:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "ssh-open-competition-explore-2027-round-1",
@@ -6686,21 +6931,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-01-19T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-01-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2027, three deadlines for submitting applications are specified: Round 1: 19 January 2027, before 14:00:00 CET Round 2: 6 April 2027, before 14:00:00 CEST Round 3: 14 September"
       },
       {
         "date": "2027-04-06T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2027, three deadlines for submitting applications are specified: Round 1: 19 January 2027, before 14:00:00 CET Round 2: 6 April 2027, before 14:00:00 CEST Round 3: 14 September"
       },
       {
         "date": "2027-09-14T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2027, three deadlines for submitting applications are specified: Round 1: 19 January 2027, before 14:00:00 CET Round 2: 6 April 2027, before 14:00:00 CEST Round 3: 14 September"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-societal-earning-capacity-connection-synthesis-and-knowledge-utilisation",
@@ -6818,13 +7068,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-01-21T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-01-21T14:00:00",
-        "label": "Upcoming submission date"
+        "label": "Upcoming submission date",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": true
   },
   {
     "id": "nwo-talent-programme-veni-health-research-and-development-zonmw-2026",
@@ -6932,13 +7185,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-01T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2027-01-26T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-veni-applied-and-engineering-sciences-aes-2026",
@@ -7059,13 +7315,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-01T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2027-01-26T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-veni-social-sciences-and-humanities-ssh-2026",
@@ -7179,13 +7438,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-01T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2027-01-26T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-veni-science-2026",
@@ -7294,13 +7556,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-01T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2027-01-26T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "use-of-space-infrastructure-for-earth-observation-and-planetary-research-go",
@@ -7351,9 +7616,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-02-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "large-scale-research-infrastructure-lsri-national-roadmap-consortia-2026",
@@ -7406,13 +7673,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-02-11T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2027-06-01T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "raw-materials-partnership-jtc-2026",
@@ -7528,21 +7798,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-22T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-09-22T15:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline stage 1, pre-proposal (obligatory): 22 September 2026, 15:00 CEST ."
       },
       {
         "date": "2027-02-15T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-02-15T15:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for stage 2, full proposals: 15 February 2027, 15:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "phds-in-the-humanities-2027",
@@ -7588,9 +7863,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-02-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-3d-integration-technologies-and-sustainable-systemic-design-techniques-for-next-gen-semiconductor-equipment-0",
@@ -7636,9 +7913,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-02-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "embassy-science-fellowship-esf-nl-2027",
@@ -7738,25 +8017,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-07-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "2 July 2026 Informative webinar (attendance not mandatory) 10 September 2026 before 14:00:00 CEST Deadline for proposals October 2026 Assessment committee meeting November 2026 Dec"
       },
       {
         "date": "2026-09-10T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-09-10T23:59:00",
-        "label": null
+        "label": null,
+        "context": "2 July 2026 Informative webinar (attendance not mandatory) 10 September 2026 before 14:00:00 CEST Deadline for proposals October 2026 Assessment committee meeting November 2026 Dec"
       },
       {
         "date": "2027-03-01T23:59:00",
-        "label": null
+        "label": null,
+        "context": "2 July 2026 Informative webinar (attendance not mandatory) 10 September 2026 before 14:00:00 CEST Deadline for proposals October 2026 Assessment committee meeting November 2026 Dec"
       },
       {
         "date": "2028-02-29T23:59:00",
-        "label": null
+        "label": null,
+        "context": "2 July 2026 Informative webinar (attendance not mandatory) 10 September 2026 before 14:00:00 CEST Deadline for proposals October 2026 Assessment committee meeting November 2026 Dec"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "gravitation-2027-frontier-research-for-consortia",
@@ -7836,13 +8121,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-03-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-03-30T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting the proposals is 30 March 2027, before 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "reducing-drug-harm-towards-effective-societal-interventions",
@@ -7968,17 +8256,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-07-07T23:59:00",
-        "label": null
+        "label": null,
+        "context": "7 July 2026 before 14."
       },
       {
         "date": "2027-03-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-03-30T23:59:00",
-        "label": null
+        "label": null,
+        "context": "00u CEST Deadline pre-proposals 30 March 2027 before 14."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "weave-with-nwo-as-partner-agency-2026--2027",
@@ -8093,17 +8385,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-08-18T23:59:00",
-        "label": "opening (from text)"
+        "label": "opening (from text)",
+        "context": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 18 August 2026 to 31 July 2027."
       },
       {
         "date": "2027-04-01T17:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications with FWO as lead agency and NWO as partner agency is 1 April 2027, at 17:00:00 CEST."
       },
       {
         "date": "2027-07-31T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 18 August 2026 to 31 July 2027."
       }
-    ]
+    ],
+    "rolling": true
   },
   {
     "id": "system-perspective-on-materials-for-strategic-autonomy-in-the-energy-transition",
@@ -8155,9 +8451,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-04-13T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwa-municipal-policy-for-biodiversity-restoration",
@@ -8281,29 +8579,36 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-20T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting a request for review of (foreign) organisations is 20 January 2026, by 14:00:00 CET for pre-proposals, and for applications 19 April 2027 by 14:00:00 CE"
       },
       {
         "date": "2026-02-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting pre-proposals is Tuesday 3 February 2026, before 14:00:00 CET."
       },
       {
         "date": "2026-02-05T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2027-04-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting a request for review of (foreign) organisations is 20 January 2026, by 14:00:00 CET for pre-proposals, and for applications 19 April 2027 by 14:00:00 CE"
       },
       {
         "date": "2027-05-04T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-05-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications is Tuesday 4 May 2027, by 14:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "isaac-newton-group-telescopes-27a",
@@ -8385,21 +8690,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-10-01T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-10-01T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The next deadline is 1 October 2026."
       },
       {
         "date": "2027-05-01T23:59:00",
-        "label": null
+        "label": null,
+        "context": "This is the deadline for: observing time with WEAVE@WHT to be carried out between 1 May 2027 and 31 October 2027."
       },
       {
         "date": "2027-10-31T23:59:00",
-        "label": null
+        "label": null,
+        "context": "This is the deadline for: observing time with WEAVE@WHT to be carried out between 1 May 2027 and 31 October 2027."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-mobile-and-modular-imaging-technology-for-a-healthy-and-safe-society",
@@ -8451,9 +8761,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-05-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "new-materials-and-production-processes-for-large-scale-energy-storage-and-conversion",
@@ -8499,9 +8811,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-05-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-circularity-of-materials-components-and-structures-in-offshore-wind",
@@ -8553,9 +8867,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-06-01T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-human-capital-and-digital-innovation-in-the-netherlands",
@@ -8601,9 +8917,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2027-07-06T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "triple-planetary-crisis-in-the-polar-regions",
@@ -8758,33 +9076,41 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-06-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Matchmaking workshop: 2 June 2026, full day on location - mandatory for lead applicants Pre-registration: Thursday, 17 September 2026 at 14:00:00 CEST Synergy workshops: February-A"
       },
       {
         "date": "2026-08-20T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the assessment request is 20 August 2026 at 14:00:00 CEST for pre-applications."
       },
       {
         "date": "2026-09-17T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-09-17T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Matchmaking workshop: 2 June 2026, full day on location - mandatory for lead applicants Pre-registration: Thursday, 17 September 2026 at 14:00:00 CEST Synergy workshops: February-A"
       },
       {
         "date": "2027-07-15T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Any new organisations joining the consortium must submit an assessment request by 15 July 2027, 14:00:00 at the latest."
       },
       {
         "date": "2027-09-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2027-09-09T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Matchmaking workshop: 2 June 2026, full day on location - mandatory for lead applicants Pre-registration: Thursday, 17 September 2026 at 14:00:00 CEST Synergy workshops: February-A"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "working-together-towards-an-inclusive-society-implementing-a-social-model-of-disability",
@@ -8928,25 +9254,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-27T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting a request for review of (foreign) organisations is 27 January 2026 by 14:00:00 CET of applications in phase I and 25 January 2028 by 14:00:00 CET of app"
       },
       {
         "date": "2026-02-10T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-02-10T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications in phase I is Tuesday 10 February 2026, before 14:00:00 CET ."
       },
       {
         "date": "2028-01-25T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting a request for review of (foreign) organisations is 27 January 2026 by 14:00:00 CET of applications in phase I and 25 January 2028 by 14:00:00 CET of app"
       },
       {
         "date": "2028-02-08T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications in phase II is Tuesday 8 February 2028, before 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwa-resilient-digital-ecosystems",
@@ -9113,33 +9445,41 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Meetings: The information meeting for phase 1 will take place on 19 March 2026 (not mandatory)."
       },
       {
         "date": "2026-04-23T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The matchmaking for phase 1 will take place on 23 April 2026 (not mandatory)."
       },
       {
         "date": "2026-08-18T23:59:00",
-        "label": null
+        "label": null,
+        "context": "1) is 18 August 2026 before 14:00:00 CEST."
       },
       {
         "date": "2026-09-15T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-09-15T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications in phase 1 is 15 September 2026 , before 14:00:00 CEST."
       },
       {
         "date": "2029-09-18T23:59:00",
-        "label": null
+        "label": null,
+        "context": "1) is 18 September 2029 , before 14:00:00 CEST."
       },
       {
         "date": "2029-10-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications in phase 2 is 16 October 2029 , before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kiem-defensie",
@@ -9185,7 +9525,8 @@
       "invited_only": false,
       "note": ""
     },
-    "deadline_dates_labelled": []
+    "deadline_dates_labelled": [],
+    "rolling": false
   },
   {
     "id": "computing-time-on-national-computing-facilities-0",
@@ -9275,7 +9616,8 @@
       "invited_only": false,
       "note": ""
     },
-    "deadline_dates_labelled": []
+    "deadline_dates_labelled": [],
+    "rolling": true
   },
   {
     "id": "kiem-arbeidsbesparende-ai",
@@ -9312,7 +9654,8 @@
       "invited_only": false,
       "note": ""
     },
-    "deadline_dates_labelled": []
+    "deadline_dates_labelled": [],
+    "rolling": false
   },
   {
     "id": "kiem-gofood-internationale-samenwerking-lwv",
@@ -9349,7 +9692,8 @@
       "invited_only": false,
       "note": ""
     },
-    "deadline_dates_labelled": []
+    "deadline_dates_labelled": [],
+    "rolling": false
   },
   {
     "id": "kiem-hightech-0",
@@ -9395,7 +9739,8 @@
       "invited_only": false,
       "note": ""
     },
-    "deadline_dates_labelled": []
+    "deadline_dates_labelled": [],
+    "rolling": false
   },
   {
     "id": "kiem-mv-0",
@@ -9441,7 +9786,8 @@
       "invited_only": false,
       "note": ""
     },
-    "deadline_dates_labelled": []
+    "deadline_dates_labelled": [],
+    "rolling": false
   },
   {
     "id": "kiem-gochem",
@@ -9478,7 +9824,8 @@
       "invited_only": false,
       "note": ""
     },
-    "deadline_dates_labelled": []
+    "deadline_dates_labelled": [],
+    "rolling": false
   },
   {
     "id": "open-access-books",
@@ -9559,7 +9906,8 @@
       "invited_only": false,
       "note": ""
     },
-    "deadline_dates_labelled": []
+    "deadline_dates_labelled": [],
+    "rolling": true
   },
   {
     "id": "open-competition-domain-science-m-2025--2026",
@@ -9668,13 +10016,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-24T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Note! ENW-M-1-Weave proposals with a Flemish co-applicant should be submitted no later than 24 February 2026, 14:00:00 CET ."
       },
       {
         "date": "2026-07-31T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "The current round (2025/2026) is closing: Once 393 (3x75 and 2x84) applications have been received OR No later than 31 July 2026 Applications for the current round (2025/2026) can "
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "weave-with-nwo-as-partner-agency-2025--2026",
@@ -9796,21 +10147,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-08-07T23:59:00",
-        "label": "opening (from text)"
+        "label": "opening (from text)",
+        "context": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 7 August 2025 to 31 July 2026 ."
       },
       {
         "date": "2026-04-01T17:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications with FWO as lead agency and NWO as partner agency is 1 April 2026, at 17:00:00 CEST."
       },
       {
         "date": "2026-04-21T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications with FNR as lead agency and NWO as partner agency is 21 April 2026, at 14:00:00 CEST."
       },
       {
         "date": "2026-07-31T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 7 August 2025 to 31 July 2026 ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "ssh-open-competition-xs-2025-round-2",
@@ -9916,21 +10272,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-03-06T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2025, 3 deadlines for submitting applications are specified: Round 1: 6 March 2025, before 14:00:00 CET (closed) Round 2: 8 May 2025, before 14:00:00 CEST Round 3: 18 September"
       },
       {
         "date": "2025-05-08T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2025, 3 deadlines for submitting applications are specified: Round 1: 6 March 2025, before 14:00:00 CET (closed) Round 2: 8 May 2025, before 14:00:00 CEST Round 3: 18 September"
       },
       {
         "date": "2025-05-13T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-18T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2025, 3 deadlines for submitting applications are specified: Round 1: 6 March 2025, before 14:00:00 CET (closed) Round 2: 8 May 2025, before 14:00:00 CEST Round 3: 18 September"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "weave-with-nwo-as-partner-agency-2024--2025",
@@ -10025,21 +10386,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2024-08-06T23:59:00",
-        "label": "opening (from text)"
+        "label": "opening (from text)",
+        "context": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 6 August 2024 to 31 July 2025 ."
       },
       {
         "date": "2025-04-01T17:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications with FWO as lead agency and NWO as partner agency is 1 April 2025, at 17:00:00 CEST ."
       },
       {
         "date": "2025-07-31T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 6 August 2024 to 31 July 2025 ."
       },
       {
         "date": "2025-08-07T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "adm-lab-livings-labs-for-adaptive-delta-management-in-bangladesh",
@@ -10180,17 +10546,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2024-11-05T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submission of proposals in Phase I is Tuesday 5 November 2024, 14:00:00 CEST in ISAAC."
       },
       {
         "date": "2025-09-02T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-02T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submission of a knowledge management proposal in Phase II is Tuesday 2 September 2025, 14:00:00 CEST in ISAAC."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "doctoral-grant-for-teachers-2nd-round-2025",
@@ -10300,13 +10670,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-09T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the submission of proposals is Tuesday 9 September 2025, 14:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "unconventional-information-processing-technologies-cooperation-japan-the-netherlands",
@@ -10462,25 +10835,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-06-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Webinar 3 June 2025 Information webinar / matchmaking Statements of intent 31 July 2025 Deadline statements of intent (not mandatory) Proposals 14:00."
       },
       {
         "date": "2025-07-31T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Webinar 3 June 2025 Information webinar / matchmaking Statements of intent 31 July 2025 Deadline statements of intent (not mandatory) Proposals 14:00."
       },
       {
         "date": "2025-09-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-09T14:00:00",
-        "label": null
+        "label": null,
+        "context": "00 CEST, 9 September 2025 14:00."
       },
       {
         "date": "2025-09-09T23:59:00",
-        "label": null
+        "label": null,
+        "context": "00 JST, 9 September 2025 Deadline proposals at NWO Deadline proposals at JST November 2025 Outcome pre-selection (if applicable*) October/Novemb"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vici-aes-2025",
@@ -10603,13 +10982,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-03-11T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-09-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vici-ssh-2025",
@@ -10726,13 +11108,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-03-11T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-09-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vici-science-2025",
@@ -10849,13 +11234,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-03-11T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-09-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vici-zonmw-2025",
@@ -10971,13 +11359,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-03-11T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-09-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "take-off-phase-1-feasibility-studies-wo-autumn-2025",
@@ -11079,13 +11470,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-09T14:00:00",
-        "label": null
+        "label": null,
+        "context": "A proposal must be submitted via our ISAAC system before Tuesday 9 September 2025 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kiem-groen-pilotregeling-practoraten",
@@ -11198,9 +11592,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "ngf-strengthening-the-knowledge-base-for-the-high-tech-equipment-sector",
@@ -11313,13 +11709,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-11T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-11T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting proposals is 11 September 2025, at 14:00:00 hours CEST"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-future-plastics-development-of-safe-plastics-for-a-sustainable-future",
@@ -11462,29 +11861,36 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-04-15T23:59:00",
-        "label": null
+        "label": null,
+        "context": "15 April 2025 Online information session 13 May 2025 Matchmaking NWO Utrecht Statements of intent Tuesday 24 June 2025 , before 14:00"
       },
       {
         "date": "2025-05-13T23:59:00",
-        "label": null
+        "label": null,
+        "context": "15 April 2025 Online information session 13 May 2025 Matchmaking NWO Utrecht Statements of intent Tuesday 24 June 2025 , before 14:00:00 CEST Deadline statements of intent"
       },
       {
         "date": "2025-06-24T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2025-06-24T23:59:00",
-        "label": null
+        "label": null,
+        "context": "15 April 2025 Online information session 13 May 2025 Matchmaking NWO Utrecht Statements of intent Tuesday 24 June 2025 , before 14:00:00 CEST Deadline statements of intent Proposal"
       },
       {
         "date": "2025-09-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "15 April 2025 Online information session 13 May 2025 Matchmaking NWO Utrecht Statements of intent Tuesday 24 June 2025 , before 14:00:00 CEST Deadline statements of intent Proposal"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "technology-development-for-circular-batteries",
@@ -11626,17 +12032,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-05-15T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline registration for workshop: Thursday 15 may 2025, 14:00 CEST."
       },
       {
         "date": "2025-09-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-16T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline application: Tuesday 16 september 2025, 14:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwa-digital-technology-and-work",
@@ -11779,17 +12189,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-04-15T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for registering for the collaborative workshops is 15 April 2025, before 14:00:00 CEST ."
       },
       {
         "date": "2025-09-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting proposals is 16 September 2025, before 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "open-competition-domain-science-xs-package-25-3",
@@ -11907,45 +12321,56 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-02-18T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 25-1 18 February 2025, at 14:00:00 CET 17 April 2025 25-2 6 May 2025, at 14:00:00 CEST 10 July 2025 25-3 16 Septem"
       },
       {
         "date": "2025-04-17T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 25-1 18 February 2025, at 14:00:00 CET 17 April 2025 25-2 6 May 2025, at 14:00:00 CEST 10 July 2025 25-3 16 Septem"
       },
       {
         "date": "2025-05-06T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 25-1 18 February 2025, at 14:00:00 CET 17 April 2025 25-2 6 May 2025, at 14:00:00 CEST 10 July 2025 25-3 16 Septem"
       },
       {
         "date": "2025-07-10T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 25-1 18 February 2025, at 14:00:00 CET 17 April 2025 25-2 6 May 2025, at 14:00:00 CEST 10 July 2025 25-3 16 Septem"
       },
       {
         "date": "2025-09-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-16T14:00:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 25-1 18 February 2025, at 14:00:00 CET 17 April 2025 25-2 6 May 2025, at 14:00:00 CEST 10 July 2025 25-3 16 Septem"
       },
       {
         "date": "2025-09-25T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 25-1 18 February 2025, at 14:00:00 CET 17 April 2025 25-2 6 May 2025, at 14:00:00 CEST 10 July 2025 25-3 16 Septem"
       },
       {
         "date": "2025-10-07T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 25-1 18 February 2025, at 14:00:00 CET 17 April 2025 25-2 6 May 2025, at 14:00:00 CEST 10 July 2025 25-3 16 Septem"
       },
       {
         "date": "2025-10-28T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 25-1 18 February 2025, at 14:00:00 CET 17 April 2025 25-2 6 May 2025, at 14:00:00 CEST 10 July 2025 25-3 16 Septem"
       },
       {
         "date": "2025-11-20T23:59:00",
-        "label": null
+        "label": null,
+        "context": "nl/enw-xs-en Package Submission deadlines Decision anticipated by 25-1 18 February 2025, at 14:00:00 CET 17 April 2025 25-2 6 May 2025, at 14:00:00 CEST 10 July 2025 25-3 16 Septem"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "large-scale-research-infrastructure-lsri-upgrade-2025",
@@ -12093,21 +12518,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-06-12T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2025-06-12T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for statements of intent and letters of support is 12 June 2025 , before 14:00 CEST."
       },
       {
         "date": "2025-09-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting a full proposal is 16 September 2025 , before 14:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-nature-inclusive-decision-making-in-business",
@@ -12237,13 +12667,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-02-06T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-09-18T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "ssh-open-competition-xs-2025-round-3",
@@ -12353,21 +12786,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-03-06T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2025, 3 deadlines for submitting applications are specified: Round 1: 6 March 2025, before 14:00:00 CET (closed) Round 2: 8 May 2025, before 14:00:00 CEST (closed) Round 3: 18 "
       },
       {
         "date": "2025-05-08T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2025, 3 deadlines for submitting applications are specified: Round 1: 6 March 2025, before 14:00:00 CET (closed) Round 2: 8 May 2025, before 14:00:00 CEST (closed) Round 3: 18 "
       },
       {
         "date": "2025-09-18T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-18T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2025, 3 deadlines for submitting applications are specified: Round 1: 6 March 2025, before 14:00:00 CET (closed) Round 2: 8 May 2025, before 14:00:00 CEST (closed) Round 3: 18 "
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "lectoraat-kringlooplandbouw",
@@ -12414,9 +12852,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-23T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "raak-mkb-0",
@@ -12472,9 +12912,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-23T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "towards-a-new-labour-market-in-2050-energy-transition-and-digitalization-in-the-built-environment",
@@ -12594,13 +13036,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-25T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-09-25T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Deadline proposal: Thursday 25 September 2025 by 14:00:00 CEST"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kiem-gofood",
@@ -12648,9 +13093,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kiem-hightech",
@@ -12698,9 +13145,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kiem-mv",
@@ -12748,9 +13197,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "sprong-ronde-1-fase-2",
@@ -12797,9 +13248,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "lint-lectoraten-en-instituten",
@@ -12855,9 +13308,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "practical-knowledge-of-food-and-green-thematic-questions-september-2025",
@@ -12920,9 +13375,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "management-support-nwa-routes-2025",
@@ -12962,9 +13419,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-10-10T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-long-term-programmes-2024",
@@ -13103,21 +13562,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-04-15T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2025-04-15T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submission of an (obligatory) initiative was 15 April 2025, 14:00 hours ."
       },
       {
         "date": "2025-10-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-10-14T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submission of an application is 14 October 2025, 14:00 hours ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwa-loneliness",
@@ -13227,17 +13691,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2023-06-29T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting proposals in phase I is Thursday 29 June 2023, before 14:00:00 CEST ."
       },
       {
         "date": "2025-10-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-10-14T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting the revised proposal in phase II is Tuesday 14 October 2025, before 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "knowledge-in-action-towards-collective-water-management-in-east-brabant",
@@ -13369,17 +13837,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-23T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "no later than 23 September 2025 before 14:00:00 CEST )."
       },
       {
         "date": "2025-10-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-10-14T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Proposals can be submitted until 14 October 2025 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "high-performance-materials-for-defence-and-safety",
@@ -13518,21 +13990,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-06-19T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2025-06-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting initiatives is Thursday 19 June 2025, before 14:00:00 CEST ."
       },
       {
         "date": "2025-10-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-10-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting proposals is Thursday 16 October 2025, before 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "long-term-europe-africa-wef-nexus-leawef-multilateral-research-programme",
@@ -13677,25 +14154,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2024-11-04T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the submission of Partnership request forms (not mandatory), which are to be submitted to NWO, is 4 November 2024, at 14:00:00 hours CET ."
       },
       {
         "date": "2025-02-11T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-02-11T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the submission of Concept notes (mandatory), which are to be submitted to NWO, was 11 February 2025, at 14:00:00 hours CET ."
       },
       {
         "date": "2025-10-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-10-30T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the submission of Full proposals (mandatory) is 30 October 2025 , at 14:00:00 hours CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "open-technology-programme-2025",
@@ -13859,17 +14342,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-01-13T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Applications can be submitted on a continuous basis between 13 January 2025 until 12 December 2025 , as long as the grant ceiling or the maximum number of applications submitted ha"
       },
       {
         "date": "2025-10-31T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-12-12T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Applications can be submitted on a continuous basis between 13 January 2025 until 12 December 2025 , as long as the grant ceiling or the maximum number of applications submitted ha"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "building-blocks-for-integrated-policy-on-planetary-health",
@@ -13921,9 +14408,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-11T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "financing-professional-doctorate-candidates-2025",
@@ -13978,9 +14467,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-13T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "cellular-agriculture-towards-larger-scale-and-lower-costs",
@@ -14102,17 +14593,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-06-25T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Matchmaking meeting (optional): 25 June 2025."
       },
       {
         "date": "2025-11-13T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-11-13T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submitting proposals: 13 November 2025, by 14:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "raak-publiek",
@@ -14168,9 +14663,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-18T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "thematic-digital-competence-centers-2025",
@@ -14283,17 +14780,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-08-21T23:59:00",
-        "label": "opening (from text)"
+        "label": "opening (from text)",
+        "context": "Applications can be submitted from 21 August 2025 until 20 November 2025, before 14:00:00 CET."
       },
       {
         "date": "2025-11-20T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-11-20T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Applications can be submitted from 21 August 2025 until 20 November 2025, before 14:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-consumer-behaviour-for-a-circular-system-transition",
@@ -14449,9 +14950,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-24T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-reducing-health-inequalities-technology-for-people-in-a-lower-socioeconomic-position",
@@ -14591,25 +15094,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-05-09T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The online information session will be held on Friday 9 May 2025 Part 1 of the collaborative workshop will be on Friday 30 May 2025 Part 2 of the collaborative workshop will be on "
       },
       {
         "date": "2025-05-30T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The online information session will be held on Friday 9 May 2025 Part 1 of the collaborative workshop will be on Friday 30 May 2025 Part 2 of the collaborative workshop will be on "
       },
       {
         "date": "2025-06-27T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The online information session will be held on Friday 9 May 2025 Part 1 of the collaborative workshop will be on Friday 30 May 2025 Part 2 of the collaborative workshop will be on "
       },
       {
         "date": "2025-12-02T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2025-12-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The online information session will be held on Friday 9 May 2025 Part 1 of the collaborative workshop will be on Friday 30 May 2025 Part 2 of the collaborative workshop will be on "
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "take-off-hbo-phase-1-feasibility-studies",
@@ -14666,9 +15175,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-12-02T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "computing-time-on-national-computing-facilities-round-2025",
@@ -14775,13 +15286,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-12-30T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting proposals is 30 December 2025, before 14:00:00 hours CET ."
       },
       {
         "date": "2025-12-31T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwa-balancing-agriculture-and-biodiversity-in-the-brazilian-cerrado-an-integrated-socio-ecological-approach",
@@ -14927,21 +15441,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-20T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting the partnership request form ( not mandatory ) is Thursday 20 November 2025, before 14:00:00 CET at NWO ."
       },
       {
         "date": "2025-12-11T23:59:00",
-        "label": null
+        "label": null,
+        "context": "1) is Thursday 11 December 2025 before 14:00:00 CET ."
       },
       {
         "date": "2026-01-13T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-13T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is Tuesday 13 January 2026, before 14:00:00 CET at NWO."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "sprong-dementia-january-2026",
@@ -14994,9 +15513,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-13T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "innofest-x-sia-sport",
@@ -15052,9 +15573,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-15T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "financiering-bestaande-lectorenplatforms",
@@ -15116,9 +15639,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "senior-expert-programme-sep-ii-round-2",
@@ -15282,13 +15807,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-20T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-20T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is 20 January 2026, before 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "ssh-open-competition-xs-2026-round-1",
@@ -15404,21 +15932,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-20T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-20T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2026, three deadlines for submitting applications are specified: Round 1: 20 January 2026, before 14:00:00 CET."
       },
       {
         "date": "2026-04-07T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Round 2: 7 April 2026, before 14:00:00 CEST."
       },
       {
         "date": "2026-09-15T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Round 3: 15 September 2026, before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "doctoral-grant-for-teachers-1st-round-2026",
@@ -15527,13 +16060,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-20T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-20T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the submission of proposals is Tuesday 20 January 2026, 14:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "fellowships-for-lecturers--researchers-at-universities-of-applied-sciences",
@@ -15590,9 +16126,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-20T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "ngf-groenvermogennl-hydrogen-and-green-electrons-for-nitrogen-based-chemistry",
@@ -15730,21 +16268,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-07-03T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-07-03T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Workshop registration deadline : Thursday 3 July 2025, 14:00 CEST."
       },
       {
         "date": "2026-01-22T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-22T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for full proposal : Thursday 22 January 2026, 14:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-veni-health-research-and-development-zonmw-2025",
@@ -15871,13 +16414,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-02T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-01-27T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-veni-applied-and-engineering-sciences-aes-2025",
@@ -16015,13 +16561,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-02T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-01-27T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-veni-social-sciences-and-humanities-ssh-2025",
@@ -16160,13 +16709,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-02T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-01-27T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-veni-science-domain-2025",
@@ -16298,13 +16850,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-02T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-01-27T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "transformative-practices-and-processes-for-climate-transitions",
@@ -16436,17 +16991,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-06T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "no later than 6 January 2026 before 14:00:00 CEST )."
       },
       {
         "date": "2026-01-27T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-27T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Proposals can be submitted until 27 January 2026 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "sustainable-science-fund",
@@ -16571,17 +17130,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-06T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "no later than 6 January 2026 before 14:00:00 CET )."
       },
       {
         "date": "2026-01-27T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-27T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Proposals can be submitted until 27 January 2026 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwa-opportunities-and-value-chains-for-side-streams-in-the-protein-transition",
@@ -16715,25 +17278,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting research ideas is Tuesday 16 September 2025 , before 14:00:00 CEST The Matchmaking will take place on Thursday 2 October 2025 , before 14:00:00 CET."
       },
       {
         "date": "2025-10-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting research ideas is Tuesday 16 September 2025 , before 14:00:00 CEST The Matchmaking will take place on Thursday 2 October 2025 , before 14:00:00 CET."
       },
       {
         "date": "2026-01-13T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting a request for review of (foreign) organisations is 13 January 2026 before 14:00:00 CET."
       },
       {
         "date": "2026-01-27T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-27T23:59:00",
-        "label": null
+        "label": null,
+        "context": "EN tekst The deadline for submitting full proposals is Tuesday 27 January 2026 , before 14:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "innofest-x-sia",
@@ -16780,9 +17349,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-29T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwa-knowledge-about-unprotected-species-for-sustainable-fisheries-policy",
@@ -16928,21 +17499,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-10-01T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Registration for participation in the collaborative workshops is open until 1 October 2025 ."
       },
       {
         "date": "2025-10-29T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The Collaborative workshops will take place on 8 and 29 October 2025 ."
       },
       {
         "date": "2026-01-29T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-29T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting the proposal is 29 January 2026, before 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwa-slavery-pasts-understudied-forms-of-impacts-and-perspectives",
@@ -17084,13 +17660,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-29T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-01-29T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is 29 January 2026, before 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "cooperation-germany-von-humboldt-stiftung-vhs",
@@ -17182,9 +17761,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-01T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "dutch-research-agenda-research-along-routes-by-consortia-2025-nwa-orc-2025",
@@ -17367,17 +17948,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-05-14T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The NWA-ORC 2025 round has three phases: Registration for collaborative workshops (required for main applicants) Participation in collaborative workshops Between 14 April and 14 Ma"
       },
       {
         "date": "2026-02-03T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Submitting a proposal The deadline for submission of proposals via ISAAC is 3 February 2026, at 14:00:00 CET ."
       },
       {
         "date": "2026-02-05T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "ssh-open-competition-l-2025",
@@ -17513,25 +18098,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-08-26T23:59:00",
-        "label": null
+        "label": null,
+        "context": "1 in the Call for Proposals) is Tuesday 26 August 2025 , by 14:00:00 CEST."
       },
       {
         "date": "2025-09-09T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-09-09T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The pre-proposal deadline is 9 September 2025, at 14:00:00 CEST."
       },
       {
         "date": "2026-02-03T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The full proposal deadline is 3 February 2026 , at 14:00:00 CET."
       },
       {
         "date": "2026-02-05T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "venture-challenge-spring-2026",
@@ -17655,17 +18246,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-01T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Registration for the spring edition opens 1 January 2026 and closes on 3 February 2026 14:00:00 CET."
       },
       {
         "date": "2026-02-03T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Registration for the spring edition opens 1 January 2026 and closes on 3 February 2026 14:00:00 CET."
       },
       {
         "date": "2026-02-05T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "impact-explorer-2025",
@@ -17775,17 +18370,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-02-04T23:59:00",
-        "label": "opening (from text)"
+        "label": "opening (from text)",
+        "context": "Proposals can be submitted to NWO on a continuous basis from 4 February 2025 until 3 February 2026 before 14:00:00 CET."
       },
       {
         "date": "2026-02-03T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Proposals can be submitted to NWO on a continuous basis from 4 February 2025 until 3 February 2026 before 14:00:00 CET."
       },
       {
         "date": "2026-02-05T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "future-proof-large-rivers-in-the-netherlands",
@@ -17934,13 +18533,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-10T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-02-10T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline proposals: 10 February 2026, 14:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-medicines-from-medicines-knowledge-development-for-circular-redesign-of-the-pharmaceutical-supply-chain",
@@ -18079,17 +18681,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-23T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The dates of the collaborative workshops are 23 September 2025 and 7 October 2025 ."
       },
       {
         "date": "2025-10-07T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The dates of the collaborative workshops are 23 September 2025 and 7 October 2025 ."
       },
       {
         "date": "2026-02-10T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-biochemical-diversity",
@@ -18230,17 +18836,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-26T23:59:00",
-        "label": null
+        "label": null,
+        "context": "1) is 26 January 2026, by 14:00:00 CET ."
       },
       {
         "date": "2026-02-12T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-02-12T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is 12 February 2026, before 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "phds-in-the-humanities-2026",
@@ -18357,13 +18967,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-17T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-02-17T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting an application is 17 February 2026 14:00 hrs ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "take-off-phase-2-vroegefasetrajecten-wo--hbo--to2-spring-2026",
@@ -18464,9 +19077,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-24T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "knowledge-security-scientific-research-in-a-geopolitical-context-phase-2",
@@ -18594,17 +19209,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-06-24T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting preproposals is Tuesday 24 June 2025 , before 14:00:00 CEST."
       },
       {
         "date": "2026-02-26T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-02-26T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting the proposal is Thursday 26 February 2026 , before 14:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "raak-mkb-march-2026",
@@ -18651,9 +19270,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-03T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "hestia-impulse-for-refugees-in-science",
@@ -18768,9 +19389,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-03T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "quantum-delta-nl-quantum-technology-2025",
@@ -18934,13 +19557,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-03T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-03-03T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline application: 3 March 2026, 14:00:00 CET"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "open-mind-2026",
@@ -19055,9 +19681,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-10T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "cetpartnership-joint-call-2025",
@@ -19182,21 +19810,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-10-09T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-10-09T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Pre- Proposal (compulsory) submission deadline: 9 October 2025, 14.00 CET ."
       },
       {
         "date": "2026-03-12T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-03-12T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Full proposal submission deadline: 12 March 2026, 14.00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "financiering-nieuwe-lectorenplatforms",
@@ -19259,9 +19892,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-17T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "demonstrator-2026",
@@ -19363,13 +19998,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-19T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-03-19T14:00:00",
-        "label": null
+        "label": null,
+        "context": "19 March 2026 at 14:00:00 hours CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "science-for-policy",
@@ -19514,17 +20152,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for registering for the collaborative workshops is 04 September 2025, before 14:00:00 CEST."
       },
       {
         "date": "2026-03-24T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-03-24T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting proposals is 24 March 2026, before 14:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "research-infrastructure-ri-national-consortia-0",
@@ -19659,21 +20301,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-12-02T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2025-12-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting letters of intent (required) is 2 December 2025, before 14:00:00 CET ."
       },
       {
         "date": "2026-03-24T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-03-24T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for applications is 24 March 2026, before 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "praktijkkennis-voor-voedsel-en-groen-vrouwen-in-het-agrarische-domein-indieningsronde-maart-2026",
@@ -19735,9 +20382,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-24T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "rubicon-2026-1",
@@ -19854,13 +20503,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-24T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-03-24T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for this round is Tuesday 24 March 2026 at 14:00:00 hours CET (2 PM sharp)."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "praktijkkennis-voor-voedsel-en-groen-lectorenplatform-duurzame-bedrijfsovername-in-het-agrarische-domein-indieningsronde-maart-2026",
@@ -19922,9 +20574,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-24T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-robust-and-resilient-space-infrastructure-for-a-secure-netherlands",
@@ -20062,17 +20716,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "1) is 19 March 2026 , before 14:00:00 CEST."
       },
       {
         "date": "2026-04-02T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting proposals is 2 April 2026 , before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "ssh-open-competition-xs-2026-round-2",
@@ -20188,21 +20846,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-20T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2026, three deadlines for submitting applications are specified: Round 1: 20 January 2026, before 14:00:00 CET - Closed ."
       },
       {
         "date": "2026-04-07T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-07T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Round 2: 7 April 2026, before 14:00:00 CEST."
       },
       {
         "date": "2026-09-15T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Round 3: 15 September 2026, before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "praktijkkennis-voor-voedsel-en-groen-thematische-vraagstukken-indieningsronde-april-2026",
@@ -20255,9 +20918,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-04-07T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vidi-health-research-and-development-zonmw-2025",
@@ -20384,21 +21049,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-04T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-11-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting preproposals is 4 november 2025, before 14:00:00 CET."
       },
       {
         "date": "2026-04-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-09T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full propoals is 9 april 2026, before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vidi-applied-and-engineering-sciences-aes-2025",
@@ -20538,21 +21208,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-04T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-11-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting preproposals is 4 november 2025, before 14:00:00 CET ."
       },
       {
         "date": "2026-04-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-09T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full propoals is 9 april 2026, before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vidi-science-2025",
@@ -20686,21 +21361,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-04T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-11-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting preproposals is 4 november 2025, before 14:00:00 CET."
       },
       {
         "date": "2026-04-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-09T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full propoals is 9 april 2026, before 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vidi-social-sciences-and-humanities-ssh-2025",
@@ -20833,21 +21513,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-04T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-11-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting preproposals is 4 november 2025, before 14:00:00 CET."
       },
       {
         "date": "2026-04-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-09T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full propoals is 9 april 2026, before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "restoration-of-ecosystem-functioning-integrity-and-connectivity-biodivconnect",
@@ -20966,17 +21651,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-10-24T12:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "The organisation of the prospective national co-applicant must provide the necessary documents no less than 10 working days prior to the submission deadline for pre-proposals (mean"
       },
       {
         "date": "2025-11-07T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-04-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "knowledge-in-action-economic-transition-the-costs-and-benefits-of-inaction",
@@ -21111,17 +21800,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-24T23:59:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "no later than 24 March 2026 before 14:00:00 CET )."
       },
       {
         "date": "2026-04-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-14T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Proposals can be submitted until 14 April 2026 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-digital-twinning-actual-and-accurate-models-for-insight-optimalisation-and-decision-making",
@@ -21260,9 +21953,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-04-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-reducing-critical-raw-materials-use-in-the-energy-transition",
@@ -21407,13 +22102,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-04-14T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-14T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is Tuesday 14 April 2026, before 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-system-design-in-mechatronics-and-optomechatronics",
@@ -21566,17 +22264,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-04-07T23:59:00",
-        "label": null
+        "label": null,
+        "context": "1) is 7 April 2026, before 14:00:00 CEST."
       },
       {
         "date": "2026-04-21T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-21T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting proposals is 21 April 2026, before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "driving-urban-transitions-call-2025",
@@ -21713,21 +22415,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-17T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-11-17T13:00:00",
-        "label": null
+        "label": null,
+        "context": "The submission deadline for pre-proposals is 17 November 2025, at 13:00 CET ."
       },
       {
         "date": "2026-04-23T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-23T13:00:00",
-        "label": null
+        "label": null,
+        "context": "The submission deadline for full proposals is 23 april 2026, at 13:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "partnership-water4all-water-and-health-call-4",
@@ -21839,21 +22546,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-13T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-11-13T15:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submitting a pre-proposal (compulsory) is 13 November 2025, 15:00 CET ."
       },
       {
         "date": "2026-04-29T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-04-29T15:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submitting a full proposal is 29 April 2026, 15:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "use-of-space-infrastructure-for-vegetation-research",
@@ -21951,21 +22663,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-10T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for registration for the first preparatory workshop is 10 February 2026 , 14:00:00 CET."
       },
       {
         "date": "2026-02-24T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for registration for the second preparatory workshop is 24 February 2026 , 14:00:00 CET."
       },
       {
         "date": "2026-05-07T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-05-07T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting proposals is 7 May 2026 , before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "do-react-further-development-and-regulatory-acceptance-of-chemical-test-models",
@@ -22058,21 +22775,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-07T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline to register for the collaborative workshops is 7 January 2026."
       },
       {
         "date": "2026-02-04T23:59:00",
-        "label": null
+        "label": null,
+        "context": "On 14 January and 4 February 2026, ZonMw will organise collaborative workshops with the aim of bringing together interested parties (researchers and public and/or private social pa"
       },
       {
         "date": "2026-05-12T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-05-12T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications is Tuesday 12 May 2026 , before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "perspectief-round-2025-2026",
@@ -22226,17 +22948,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-10-07T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2025-11-25T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-05-19T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-heterogeneous-development-solutions-for-semiconductors-scaling-of-quantum-technologies",
@@ -22360,21 +23086,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "2 March 2026 – Matchmaking (optional), 7 May 2026 14:00:00 CEST - Deadline request for foreign organisations, 21 May 2026 14:00:00 CEST - Deadline proposals."
       },
       {
         "date": "2026-05-07T14:00:00",
-        "label": null
+        "label": null,
+        "context": "2 March 2026 – Matchmaking (optional), 7 May 2026 14:00:00 CEST - Deadline request for foreign organisations, 21 May 2026 14:00:00 CEST - Deadline proposals."
       },
       {
         "date": "2026-05-21T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-05-21T14:00:00",
-        "label": null
+        "label": null,
+        "context": "2 March 2026 – Matchmaking (optional), 7 May 2026 14:00:00 CEST - Deadline request for foreign organisations, 21 May 2026 14:00:00 CEST - Deadline proposals."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "faculty-of-impact-2026",
@@ -22508,13 +23239,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-05-26T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-05-26T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is Tuesday 26 May 2026, before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-collaborative-business-models-for-a-circular-economy",
@@ -22652,21 +23386,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-24T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2026-03-24T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting declarations of intent is 24 March 2026, before 14:00:00 CET ."
       },
       {
         "date": "2026-05-26T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-05-26T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full proposals is 26 May 2026, before 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "caribbean-research-phd-scholarships-2025",
@@ -22803,29 +23542,36 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-06-24T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting letters of intent was Tuesday 24 June 2025, by 11:00:00 AST/17:00:00 CEST ."
       },
       {
         "date": "2025-07-04T12:00:00Z",
-        "label": "Closing date for letter of intent"
+        "label": "Closing date for letter of intent",
+        "context": ""
       },
       {
         "date": "2025-09-16T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2025-09-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting pre-applications is Tuesday 16 September 2025, by 11:00:00 AST/17:00:00 CEST ."
       },
       {
         "date": "2026-05-26T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-05-26T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting full applications is Tuesday 26 May 2026, by 12:00:00 AST/17:00:00 CET."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-adaptivity-in-transitions",
@@ -22960,25 +23706,31 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-20T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Information session: 20 January 2026, at 14:00 CET Collaborative workshop day 1: 2 February 2026 Collaborative workshop day 2: 2 March 2026 The collaborative workshops cover two ha"
       },
       {
         "date": "2026-02-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Information session: 20 January 2026, at 14:00 CET Collaborative workshop day 1: 2 February 2026 Collaborative workshop day 2: 2 March 2026 The collaborative workshops cover two ha"
       },
       {
         "date": "2026-03-02T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Information session: 20 January 2026, at 14:00 CET Collaborative workshop day 1: 2 February 2026 Collaborative workshop day 2: 2 March 2026 The collaborative workshops cover two ha"
       },
       {
         "date": "2026-06-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-06-09T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for full application: 9 June 2026, before 14:00:00 CEST"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "lint-lectoraten-en-instituten-0",
@@ -23034,9 +23786,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-06-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "open-competition-domain-science-xl-round-2025-2026",
@@ -23170,13 +23924,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-16T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-06-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "funding-for-postdoctoral-researchers-at-universities-of-applied-sciences",
@@ -23226,9 +23983,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-06-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "understanding-and-preventing-overweight-and-obesity-prevent-oo",
@@ -23341,13 +24100,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-21T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-06-11T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "raak-public-june-2026",
@@ -23404,9 +24166,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-06-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "praktijkkennis-voor-water-en-bodem-thematische-vraagstukken-2026",
@@ -23462,9 +24226,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-06-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "the-power-of-collaboration",
@@ -23613,17 +24379,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-05-19T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting a request for review of organisations based in the Netherlands is Tuesday 19 May 2026, before 14:00:00 CEST."
       },
       {
         "date": "2026-06-16T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-06-16T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications is Tuesday 16 June 2026, before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "treatments-and-adherence-to-treatment-protocols-oh-treat",
@@ -23750,21 +24520,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-02T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-02-02T13:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submitting a pre-proposal (compulsory) is 2 February 2026, 13:00 CET ."
       },
       {
         "date": "2026-06-17T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-06-17T13:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for submitting a full proposal is 17 June 2026, 13:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "sustainable-blue-economy-partnership-sbep-call-2025",
@@ -23873,13 +24648,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-11-17T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-06-17T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "doctoral-grant-for-teachers-2nd-round-2026",
@@ -23988,13 +24766,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-06-11T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for the submission of proposals is Thursday 11 June 2026, 14:00 CEST."
       },
       {
         "date": "2026-06-19T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "raak-award-2026",
@@ -24050,9 +24831,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-06-23T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-cooling-needs-in-homes-effects-mitigation-adaptation",
@@ -24195,21 +24978,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-25T23:59:00",
-        "label": null
+        "label": null,
+        "context": "25 March 2026: Live information session and matchmaking event NWO Utrecht 26 May 2026 14:00: Deadline for submitting a request for th"
       },
       {
         "date": "2026-05-26T14:00:00",
-        "label": null
+        "label": null,
+        "context": "25 March 2026: Live information session and matchmaking event NWO Utrecht 26 May 2026 14:00: Deadline for submitting a request for the review of foreign organisations 23 June 2026 "
       },
       {
         "date": "2026-06-23T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-06-23T14:00:00",
-        "label": null
+        "label": null,
+        "context": "25 March 2026: Live information session and matchmaking event NWO Utrecht 26 May 2026 14:00: Deadline for submitting a request for the review of foreign organisations 23 June 2026 "
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-hop-on-call-for-proposals-for-researchers-based-in-ukraine-2025",
@@ -24332,17 +25120,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-20T23:59:00",
-        "label": "opening (from text)"
+        "label": "opening (from text)",
+        "context": "Proposals can be submitted continuously from 20 January 2026 until the deadline on 23 June 2026 at 14:00:00 CEST , or until the budget has been exhausted."
       },
       {
         "date": "2026-06-23T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-06-23T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Proposals can be submitted continuously from 20 January 2026 until the deadline on 23 June 2026 at 14:00:00 CEST , or until the budget has been exhausted."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "brainhealth-call-2026-1-biological-social-and-environmental-factors-in-brain-health",
@@ -24484,21 +25276,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-10T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-03-10T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline pre-proposal (obligatory): 10 March 2026, 14:00 CET ."
       },
       {
         "date": "2026-06-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-06-30T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for full proposals: 30 June 2026, 14:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "technology-for-innovative-nuclear-reactors-and-fuels",
@@ -24635,21 +25432,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-29T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-01-29T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Workshop registration deadline: Thursday 29 January 2026, 14:00:00 CET ."
       },
       {
         "date": "2026-06-30T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-06-30T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for full proposal: Tuesday 30 June 2026, 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "venture-challenge-fall-2026",
@@ -24774,17 +25576,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-05-05T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Registration for the spring edition opens 5 May 2026 and closes on 2 July 2026 14:00:00 CET ."
       },
       {
         "date": "2026-07-02T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-07-02T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Registration for the spring edition opens 5 May 2026 and closes on 2 July 2026 14:00:00 CET ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "groenvermogennl-hydrogen-hydrogen-carriers-import-conversion-transport-storage",
@@ -24933,21 +25739,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-10T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-03-10T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Workshop registration deadline: Tuesday 10 March 2026, 14:00 CET."
       },
       {
         "date": "2026-07-09T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-07-09T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Deadline for full proposal: Thursday 9 July 2026, 14:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "futurefoods-call-2025",
@@ -25080,17 +25891,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-11T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-07-27T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-07-27T13:00:00",
-        "label": null
+        "label": null,
+        "context": "The submission deadline for full proposals is 27 July 2026, at 13:00 CEST"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "take-off-phase-2-early-stage-trajectories-wo--hbo--to2-autumn-2026",
@@ -25191,9 +26006,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-01T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "rubicon-2026-2",
@@ -25303,13 +26120,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-01T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for this round is Tuesday 1 September 2026 at 14:00:00 hours CEST ."
       },
       {
         "date": "2026-09-07T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vici-zonmw-2026",
@@ -25441,13 +26261,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-10T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-09-08T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talentprogramma-vici-aes-2026",
@@ -25580,13 +26403,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-10T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-09-08T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talentprogramme-vici-ssh-2026",
@@ -25719,13 +26545,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-10T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-09-08T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwo-talent-programme-vici-science-2026",
@@ -25857,13 +26686,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-10T12:00:00Z",
-        "label": "Closing date for pre-proposals"
+        "label": "Closing date for pre-proposals",
+        "context": ""
       },
       {
         "date": "2026-09-08T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "museum-grants-0",
@@ -26005,13 +26837,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-05-12T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting an application is 12 May 2026, 14:00 CEST."
       },
       {
         "date": "2026-09-10T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "sprong-versnelling-ai-opschaling-in-het-publieke-domein",
@@ -26065,9 +26900,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-15T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kiem-logistiek",
@@ -26124,9 +26961,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-15T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "nwa-citizen-science-2026",
@@ -26224,17 +27063,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-03T23:59:00",
-        "label": null
+        "label": null,
+        "context": "2) is 3 September 2026, by 14:00:00 CEST ."
       },
       {
         "date": "2026-09-17T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-09-17T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting applications is 17 September 2026, by 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kin-knowledge-in-action-transition-towards-planetary-health",
@@ -26372,13 +27215,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-22T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-09-22T14:00:00",
-        "label": "deadline (from text)"
+        "label": "deadline (from text)",
+        "context": "Proposals can be submitted until 22 September 2026 14:00:00 CEST ."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "deepnl-top-up-call-opportunities-for-integration-and-impact",
@@ -26493,29 +27339,36 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-06T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Proposals can be submitted between 6 January 2026, 14:00:00 CET, and 22 September 2026, 14:00:00 CEST , as long as the grant ceiling has not yet been reached."
       },
       {
         "date": "2026-02-10T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Within this period, there will be three intermediate submission deadlines for assessment: 10 February 2026, before 14:00:00 CET 7 May 2026, before 14:00:00 CEST 22 September 2026, "
       },
       {
         "date": "2026-05-07T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Within this period, there will be three intermediate submission deadlines for assessment: 10 February 2026, before 14:00:00 CET 7 May 2026, before 14:00:00 CEST 22 September 2026, "
       },
       {
         "date": "2026-09-22T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-09-22T14:00:00",
-        "label": null
+        "label": null,
+        "context": "Proposals can be submitted between 6 January 2026, 14:00:00 CET, and 22 September 2026, 14:00:00 CEST , as long as the grant ceiling has not yet been reached."
       },
       {
         "date": "2026-09-22T23:59:00",
-        "label": null
+        "label": null,
+        "context": "Within this period, there will be three intermediate submission deadlines for assessment: 10 February 2026, before 14:00:00 CET 7 May 2026, before 14:00:00 CEST 22 September 2026, "
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "raak-mkb-september-2026",
@@ -26561,9 +27414,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-22T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kic-demand-driven-research-by-consortia-s-2026",
@@ -26756,17 +27611,21 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-08-25T14:00:00",
-        "label": null
+        "label": null,
+        "context": "1) is 25 August 2026 , 14:00:00 CEST."
       },
       {
         "date": "2026-09-22T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-09-22T23:59:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for submitting proposals is 22 September 2026 , before 14:00:00 CEST."
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "kin-knowledge-in-action-watertransition-twente",
@@ -26889,13 +27748,16 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-22T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       },
       {
         "date": "2026-09-22T14:00:00",
-        "label": null
+        "label": null,
+        "context": "The deadline for applications is Tuesday 22 September 2026 at 14:00:00 CEST"
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "sprong-round-2-fase-2",
@@ -26951,9 +27813,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-22T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "ssh-open-competition-xs-2026-round-3",
@@ -27069,21 +27933,26 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-20T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2026, three deadlines for submitting applications are specified: Round 1: 20 January 2026, before 14:00:00 CET (closed), Round 2: 7 April 2026, before 14:00:00 CEST (closed), R"
       },
       {
         "date": "2026-04-07T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2026, three deadlines for submitting applications are specified: Round 1: 20 January 2026, before 14:00:00 CET (closed), Round 2: 7 April 2026, before 14:00:00 CEST (closed), R"
       },
       {
         "date": "2026-09-15T23:59:00",
-        "label": null
+        "label": null,
+        "context": "For 2026, three deadlines for submitting applications are specified: Round 1: 20 January 2026, before 14:00:00 CET (closed), Round 2: 7 April 2026, before 14:00:00 CEST (closed), R"
       },
       {
         "date": "2026-09-25T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   },
   {
     "id": "praktijkkennis-voor-voedsel-en-groen-thematische-vraagstukken-indieningsronde-september-2026",
@@ -27136,8 +28005,10 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-09-29T12:00:00Z",
-        "label": "Closing date full application"
+        "label": "Closing date full application",
+        "context": ""
       }
-    ]
+    ],
+    "rolling": false
   }
 ]

@@ -590,6 +590,25 @@ both open with no deadline, and an empty date list currently means "unknown", re
 only by fetching the page. The prompt no longer drops them, but it cannot state the gate
 without a fetch either.
 
+> **Backend reply (2026-10-07): E2 + E3 + #6 done; E1 left to the interim.**
+> - **E2:** each prose date in `deadline_dates_labelled` now carries a `context` field —
+>   the sentence it was matched in. `open-competition-m`'s `2026-11-24` comes with
+>   *"Note! ENW-M-1-Weave proposals with a Flemish co-applicant should be submitted no
+>   later than 24 November 2026…"*, so the digest can say "24 Nov if you have a Flemish
+>   co-applicant" instead of mis-gating. The sentence `parse_text_dates_labelled` already
+>   matched, now carried through `digest.py` as well.
+> - **E3 / #6:** new top-level `rolling: true` for continuously-open calls (derived from
+>   `status_raw` containing "Continuous"); 9 flagged, incl. `computing-time` and
+>   `open-access-books`. An empty date list on a `rolling` call now reads as "continuous",
+>   not "unknown" — no page fetch needed to state that.
+> - **E1:** left as-is. The window-start dates (`2026-10-29`, `2026-12-24`) arrive in a
+>   flat scraped list with no cue; recovering the "(for meetings from X)" pairing needs
+>   re-parsing the HTML table, it is narrow, and your own interim note already resolves it
+>   (a future labelled deadline, `2026-11-03 Upcoming submission date`, beats the earlier
+>   unlabelled one). Not worth the scraper complexity for one call family.
+> - `deadline_dates` still byte-identical (0 mismatches); `grants.json` backfilled;
+>   `candidates.json` / `currently_open.json` regenerated.
+
 ### Declined, for the record
 
 `nwo-digest-ops#3` also suggested promoting news items titled `Call open: ...` into

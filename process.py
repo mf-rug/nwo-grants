@@ -238,9 +238,18 @@ def _prose_date_label(prefix):
         return "deadline (from text)"
     return None
 
+def _sentence(text, start, end):
+    """The sentence a date sits in, so the task can tell a route-specific
+    deadline (e.g. 'with a Flemish co-applicant …') from a call-wide one (§11 E2)."""
+    s = text.rfind(".", 0, start) + 1
+    e = text.find(".", end)
+    e = e + 1 if e != -1 else min(len(text), end + 120)
+    return re.sub(r"\s+", " ", text[s:e]).strip()[:180]
+
 def parse_text_dates_labelled(text):
-    """Extract dates from free text as (iso, label) — label classifies each date
-    from its immediately-preceding prose as opening / deadline / None."""
+    """Extract dates from free text as (iso, label, context) — label classifies
+    the date from its immediately-preceding prose (opening / deadline / None), and
+    context is the sentence it was found in."""
     results = []
     for m in DATE_RE.finditer(text or ""):
         month = MONTHS.get(m.group(2).lower())
@@ -255,12 +264,13 @@ def parse_text_dates_labelled(text):
         except ValueError:
             continue
         results.append((dt.strftime("%Y-%m-%dT%H:%M:00"),
-                        _prose_date_label(text[:m.start()])))
+                        _prose_date_label(text[:m.start()]),
+                        _sentence(text, m.start(), m.end())))
     return results
 
 def parse_text_dates(text):
     """Extract all dates from free text, return as ISO strings."""
-    return [iso for iso, _ in parse_text_dates_labelled(text)]
+    return [iso for iso, _, _ in parse_text_dates_labelled(text)]
 
 def iso_from_char(val):
     """Characteristic value → list of ISO strings."""
@@ -353,24 +363,26 @@ def detect_restrictions(sections):
 # ---------------------------------------------------------------------------
 
 def extract_deadlines(chars, when_text):
-    """Return (unique_dates, labelled) where labelled is [{date, label}].
+    """Return (unique_dates, labelled) where labelled is [{date, label, context}].
 
-    `label` is NWO's own wording for the date ("Deadline", "Opening date",
-    "Closing date pre-proposals", …); dates recovered from free text are
-    unlabelled (None). `unique_dates` is byte-identical to the legacy output —
-    `deadline_dates` is in TRACKED_FIELDS, so the labels go in a *separate* key
-    (`deadline_dates_labelled`) and this list must not change.
+    `label` is NWO's own wording for a structured date ("Closing date full
+    application", …), or a coarse opening/deadline class inferred from prose, or
+    None. `context` is the sentence a prose date sat in ("" for structured dates),
+    so the task can tell a route-specific deadline from a call-wide one (§11 E2).
+    `unique_dates` is byte-identical to the legacy output — `deadline_dates` is in
+    TRACKED_FIELDS, so the labels live in the separate `deadline_dates_labelled`
+    key and this list must not change.
     """
     deadline_isos = []
-    labels = {}  # iso -> first label seen
+    meta = {}  # iso -> (label, context); first seen wins (structured over prose)
     for key, val in chars.items():
         if any(w in key.lower() for w in ("closing", "deadline", "submission", "date", "datum")):
             for iso in iso_from_char(val):
                 deadline_isos.append(iso)
-                labels.setdefault(iso, key)
-    for iso, lab in parse_text_dates_labelled(when_text or ""):
+                meta.setdefault(iso, (key, ""))
+    for iso, lab, ctx in parse_text_dates_labelled(when_text or ""):
         deadline_isos.append(iso)
-        labels.setdefault(iso, lab)
+        meta.setdefault(iso, (lab, ctx))
 
     # Deduplicate by minute precision in original order, then sort (unchanged).
     seen, unique = set(), []
@@ -380,7 +392,7 @@ def extract_deadlines(chars, when_text):
             seen.add(k)
             unique.append(d)
     unique.sort()
-    labelled = [{"date": d, "label": labels.get(d)} for d in unique]
+    labelled = [{"date": d, "label": meta[d][0], "context": meta[d][1]} for d in unique]
     return unique, labelled
 
 
@@ -422,6 +434,9 @@ def process_html(slug, url, html):
         "deadline_iso": nearest_future(unique_deadlines),
         "deadline_dates": unique_deadlines,
         "deadline_dates_labelled": deadline_labelled,
+        # True for continuously-open calls (no deadline), so an empty date list
+        # reads as "rolling" rather than "unknown" without a page fetch (§11 E3).
+        "rolling":      "continuous" in (chars.get("Status", "") or "").lower(),
         "primary_pdf":  cfp_pdfs[0] if cfp_pdfs else (all_pdfs[0] if all_pdfs else None),
         "pdf_urls":     all_pdfs,
         # Full structured data

@@ -122,17 +122,21 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-03-17",
-          "label": null
+          "label": null,
+          "context": "The NWA-ORC 2026 round has two phases: Registration for and participation in collaborative workshops (mandatory for main applicants) Between 6 February and 17 March 2026, NWO organ"
         },
         {
           "date": "2026-10-06",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2026-10-06",
-          "label": null
+          "label": null,
+          "context": "Submitting a proposal The deadline for submission of proposals via ISAAC is 6 October 2026, at 14:00:00 CEST ."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "NWA ORC 2026",
       "budget": "€87,000,000",
@@ -161,21 +165,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-03-19",
-          "label": null
+          "label": null,
+          "context": "The dates of the collaborative workshops are 19 March 2026 and 16 April 2026."
         },
         {
           "date": "2026-04-16",
-          "label": null
+          "label": null,
+          "context": "The dates of the collaborative workshops are 19 March 2026 and 16 April 2026."
         },
         {
           "date": "2026-10-06",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2026-10-06",
-          "label": null
+          "label": null,
+          "context": "The deadline for submission of full applications is 6 October 2026, 14:00:00 CEST."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Knowledge and Innovation Covenant KIC 2024-2027 Early detection of (emerging) outbreaks of infectious diseases",
       "budget": "€7,000,000",
@@ -203,17 +212,21 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-10-06",
-          "label": "Closing date for letter of intent"
+          "label": "Closing date for letter of intent",
+          "context": ""
         },
         {
           "date": "2026-11-24",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2027-05-25",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Perspectief 2026-2027",
       "budget": "€26,500,000",
@@ -241,17 +254,21 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-10-06",
-          "label": null
+          "label": null,
+          "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
         },
         {
           "date": "2027-10-05",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-10-05",
-          "label": null
+          "label": null,
+          "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
         }
       ],
+      "rolling": false,
       "finance_type": "Curiosity Driven Research",
       "programme": "Impact Explorer",
       "budget": "€1,450,000",
@@ -280,21 +297,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-10-08",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2026-10-08",
-          "label": "deadline (from text)"
+          "label": "deadline (from text)",
+          "context": "Pre- Proposal (compulsory) submission deadline: 8 October 2026, 14.00 CEST ."
         },
         {
           "date": "2027-03-11",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-03-11",
-          "label": "deadline (from text)"
+          "label": "deadline (from text)",
+          "context": "Full proposal submission deadline: 11 March 2027, 14.00 CET ."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Clean Energy Transition Partnership (CETP)",
       "budget": "",
@@ -325,29 +347,36 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-04-02",
-          "label": null
+          "label": null,
+          "context": "The matchmaking event will take place on 2 April 2026 ."
         },
         {
           "date": "2026-06-30",
-          "label": "Closing date for letter of intent"
+          "label": "Closing date for letter of intent",
+          "context": ""
         },
         {
           "date": "2026-06-30",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting a statement of intent 30 June 2026."
         },
         {
           "date": "2026-09-29",
-          "label": null
+          "label": null,
+          "context": "The deadline for a request to review foreign organisations is 29 September 2026 ."
         },
         {
           "date": "2026-10-13",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2026-10-13",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting a full proposal is 13 October 2026 ."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Knowledge and Innovation Covenant AI for agriculture, horticulture, water and food 2026 KIC 2024-2027",
       "budget": "€7,000,000",
@@ -375,17 +404,21 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-07-08",
-          "label": "Closing date for letter of intent"
+          "label": "Closing date for letter of intent",
+          "context": ""
         },
         {
           "date": "2026-10-14",
-          "label": null
+          "label": null,
+          "context": "The deadline for pre-submission, concerning the compliance assessment of organisations with NWO grant rules is 14 October 2026, 23:59 CEST."
         },
         {
           "date": "2026-10-28",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "Trans-Atlantic Platform (T-AP) Trans-Atlantic Platform (T-AP) INT - Mondiale Programma’s -",
       "budget": "€2,800,000",
@@ -417,33 +450,41 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-04-16",
-          "label": null
+          "label": null,
+          "context": "Online matchmaking sessions will take place on 26 March and 16 April 2026 (not mandatory)."
         },
         {
           "date": "2026-06-23",
-          "label": "Closing date for letter of intent"
+          "label": "Closing date for letter of intent",
+          "context": ""
         },
         {
           "date": "2026-06-23",
-          "label": null
+          "label": null,
+          "context": "Deadline for submission of the mandatory Letter of intent is 23 June 2026 14:00:00 CET (via e-mail) and 23 June 2026 23:59:59 BRT (SAGe) Deadline for submission of Proposals is 20 "
         },
         {
           "date": "2026-06-23",
-          "label": null
+          "label": null,
+          "context": "Deadline for submission of the mandatory Letter of intent is 23 June 2026 14:00:00 CET (via e-mail) and 23 June 2026 23:59:59 BRT (SAGe) Deadline for submission of Proposals is 20 "
         },
         {
           "date": "2026-10-20",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2026-10-20",
-          "label": null
+          "label": null,
+          "context": "Deadline for submission of the mandatory Letter of intent is 23 June 2026 14:00:00 CET (via e-mail) and 23 June 2026 23:59:59 BRT (SAGe) Deadline for submission of Proposals is 20 "
         },
         {
           "date": "2026-10-20",
-          "label": null
+          "label": null,
+          "context": "Deadline for submission of the mandatory Letter of intent is 23 June 2026 14:00:00 CET (via e-mail) and 23 June 2026 23:59:59 BRT (SAGe) Deadline for submission of Proposals is 20 "
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "Integrated Biorefineries for a Circular Future",
       "budget": "€1,677,410",
@@ -471,17 +512,21 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-10-20",
-          "label": null
+          "label": null,
+          "context": "Registration for the spring edition opens 20 October 2026 and closes on 10 December 2026 14:00:00 CET."
         },
         {
           "date": "2026-12-10",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2026-12-10",
-          "label": null
+          "label": null,
+          "context": "Registration for the spring edition opens 20 October 2026 and closes on 10 December 2026 14:00:00 CET."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Venture Challenge",
       "budget": "€100,000",
@@ -511,25 +556,31 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-06-25",
-          "label": null
+          "label": null,
+          "context": "Deadline registration for matchmaking: 25 June 2026, 14:00:00 CEST."
         },
         {
           "date": "2026-06-30",
-          "label": null
+          "label": null,
+          "context": "Matchmaking: 30 June 2026."
         },
         {
           "date": "2026-09-29",
-          "label": null
+          "label": null,
+          "context": "Deadline request for assessment of organisations: 29 September 2026, 14:00:00 CEST."
         },
         {
           "date": "2026-10-27",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2026-10-27",
-          "label": null
+          "label": null,
+          "context": "Deadline application: 27 October 2026, 14:00:00 CET."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Holomicrobiome",
       "budget": "€13,000,000",
@@ -556,13 +607,16 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-10-27",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2026-10-27",
-          "label": null
+          "label": null,
+          "context": "Deadline for applications: 27 October 2026 at 14:00:00 uur CET"
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Pact Netwerksubsidie",
       "budget": "€480,000",
@@ -593,29 +647,36 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-10-29",
-          "label": "Closing date for letter of intent"
+          "label": "Closing date for letter of intent",
+          "context": ""
         },
         {
           "date": "2026-10-29",
-          "label": null
+          "label": null,
+          "context": "Applicants should be aware of four submission deadlines in this Call for proposals: The deadline for submitting statements of intent is 29 October 2026 , before 14:00:00 CET, at NW"
         },
         {
           "date": "2027-01-21",
-          "label": null
+          "label": null,
+          "context": "1 of the Call for proposals) is 21 January 2027, before 14:00:00 CET."
         },
         {
           "date": "2027-02-04",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-02-04",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting full proposals at NWO is 4 February 2027 , before 14:00:00 CET."
         },
         {
           "date": "2027-03-04",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting full proposals at NSTC (which is the same full proposal submitted to NWO) is 4 March 2027 (this is due to Chinese New Year holiday period)"
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Collaboration Taiwan (NSTC)",
       "budget": "€2,000,000",
@@ -644,21 +705,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-10-29",
-          "label": null
+          "label": null,
+          "context": "The next Call for Transnational Access (CTA) closes Thursday 29 October 2026 at 16:00 CET."
         },
         {
           "date": "2026-11-24",
-          "label": null
+          "label": null,
+          "context": "The deadline for the submission of a Pre-Award Operational Support and Planning Questionnaire (OSPQ) for planned use of the facilities of the British Antarctic Survey and the Dutch"
         },
         {
           "date": "2027-02-16",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-02-16",
-          "label": null
+          "label": null,
+          "context": "The deadline for the submission of proposals is Tuesday 16 February 2027, before 14:00:00 CET ."
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "Polair Programma",
       "budget": "€3,000,000",
@@ -696,57 +762,71 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-01-06",
-          "label": "opening (from text)"
+          "label": "opening (from text)",
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-02-27",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-03-03",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-04-23",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-05-19",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-07-09",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-07-14",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-09-01",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-09-10",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-10-29",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-11-03",
-          "label": "Upcoming submission date"
+          "label": "Upcoming submission date",
+          "context": ""
         },
         {
           "date": "2026-11-03",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         },
         {
           "date": "2026-12-24",
-          "label": null
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
         }
       ],
+      "rolling": true,
       "finance_type": "",
       "programme": "Scientific Meetings and Consultations (ENW)",
       "budget": "€600,000",
@@ -775,21 +855,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-03",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2026-11-03",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting preproposals is 3 November 2026, before 14:00:00 CET ."
         },
         {
           "date": "2027-04-06",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-04-06",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting full proposals is 6 April 2027, before 14:00:00 CEST ."
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "",
       "budget": "",
@@ -818,21 +903,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-03",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2026-11-03",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting preproposals is 3 November 2026, before 14:00:00 CET ."
         },
         {
           "date": "2027-04-06",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-04-06",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting full proposals is 6 April 2027, before 14:00:00 CEST ."
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "NWO Talent Programme Vidi TTW",
       "budget": "€9,350,000",
@@ -861,21 +951,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-03",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2026-11-03",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting preproposals is 3 November 2026, before 14:00:00 CET ."
         },
         {
           "date": "2027-04-06",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-04-06",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting full proposals is 6 April 2027, before 14:00:00 CEST ."
         }
       ],
+      "rolling": false,
       "finance_type": "Talent Development",
       "programme": "NWO Talent Programme Vidi SGW",
       "budget": "",
@@ -904,21 +999,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-03",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2026-11-03",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting preproposals is 3 November 2026, before 14:00:00 CET ."
         },
         {
           "date": "2027-04-06",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-04-06",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting full proposals is 6 April 2027, before 14:00:00 CEST ."
         }
       ],
+      "rolling": false,
       "finance_type": "Talent Development",
       "programme": "NWO Talent Programme Vidi ENW",
       "budget": "€25,500,000",
@@ -947,21 +1047,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-03",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2026-11-03",
-          "label": null
+          "label": null,
+          "context": "The deadline for the pre-proposal is 3 November 2026, 14:00 CET."
         },
         {
           "date": "2027-05-04",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-05-04",
-          "label": "deadline (from text)"
+          "label": "deadline (from text)",
+          "context": "Full proposals can be submitted until 4 May 2027, 14:00 CEST."
         }
       ],
+      "rolling": false,
       "finance_type": "Talent Development",
       "programme": "Mosaic 3.0",
       "budget": "€7,400,000",
@@ -990,21 +1095,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-10",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2026-11-10",
-          "label": null
+          "label": null,
+          "context": "Deadline stage 1, pre-proposal (obligatory): 10 November 2026, 15:00 CET ."
         },
         {
           "date": "2027-04-06",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-04-06",
-          "label": null
+          "label": null,
+          "context": "Deadline for stage 2, full proposals: 6 April 2027, 15:00 CEST."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "WATER4ALL – Water Security for the Planet",
       "budget": "",
@@ -1031,13 +1141,16 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-10",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2027-04-16",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "Rescuing Biodiversity to Safeguard Life on Earth",
       "budget": "€3,000,000",
@@ -1063,9 +1176,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-12",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": true,
       "finance_type": "Applied Science",
       "programme": "",
       "budget": "€16,284,000",
@@ -1093,17 +1208,21 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-05-01",
-          "label": "opening (from text)"
+          "label": "opening (from text)",
+          "context": "Applications can be submitted from 1 May 2026 until 12 November 2026, before 14:00:00 CET."
         },
         {
           "date": "2026-11-12",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2026-11-12",
-          "label": "deadline (from text)"
+          "label": "deadline (from text)",
+          "context": "Applications can be submitted from 1 May 2026 until 12 November 2026, before 14:00:00 CET."
         }
       ],
+      "rolling": false,
       "finance_type": "Infrastructure",
       "programme": "Digital Competence Centres",
       "budget": "€2,400,000",
@@ -1130,13 +1249,16 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-16",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2027-06-14",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Sustainable Blue Economy Partnership (SBEP)",
       "budget": "",
@@ -1164,17 +1286,21 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-03-31",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting nominations was 31 March 2026 (first round of submissions)."
         },
         {
           "date": "2026-11-17",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2026-11-17",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting nominations in the second round of submissions is 17 November 2026, 14:00 CEST ."
         }
       ],
+      "rolling": true,
       "finance_type": "",
       "programme": "Tulip Fund",
       "budget": "€16,019,500",
@@ -1203,21 +1329,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-17",
-          "label": "Closing date for letter of intent"
+          "label": "Closing date for letter of intent",
+          "context": ""
         },
         {
           "date": "2026-11-17",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting the mandatory statement of intent is 17 November 2026, before 14:00:00 CEST."
         },
         {
           "date": "2027-03-30",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-03-30",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting full proposals is 30 March 2027, before 14:00:00 CEST."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Innovative early diagnostics of digestive diseases",
       "budget": "€1,500,000",
@@ -1246,21 +1377,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-17",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2026-11-17",
-          "label": null
+          "label": null,
+          "context": "The submission deadline for pre-proposals is 17 November 2026, at 13:00 CET."
         },
         {
           "date": "2027-04-15",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-04-15",
-          "label": null
+          "label": null,
+          "context": "The submission deadline for full proposals is 15 April 2027, at 13:00 CEST."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Driving Urban Transitions to a sustainable future (DUT) European Partnerships Driving Urban Transitions to a sustainable future (DUT)",
       "budget": "",
@@ -1290,25 +1426,31 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-11-17",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2026-11-17",
-          "label": null
+          "label": null,
+          "context": "The set deadlines are as follows: Pre-proposals: 17 November 2026, 14:00:00 CET Assessment foreign organisations: 27 May 2027, 14:00:00 CEST (if applicable) Full proposals: 10 June"
         },
         {
           "date": "2027-05-27",
-          "label": null
+          "label": null,
+          "context": "The set deadlines are as follows: Pre-proposals: 17 November 2026, 14:00:00 CET Assessment foreign organisations: 27 May 2027, 14:00:00 CEST (if applicable) Full proposals: 10 June"
         },
         {
           "date": "2027-06-10",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-06-10",
-          "label": null
+          "label": null,
+          "context": "The set deadlines are as follows: Pre-proposals: 17 November 2026, 14:00:00 CET Assessment foreign organisations: 27 May 2027, 14:00:00 CEST (if applicable) Full proposals: 10 June"
         }
       ],
+      "rolling": false,
       "finance_type": "Curiosity Driven Research",
       "programme": "Open Competition SSH Expand",
       "budget": "€40,000,000",
@@ -1337,21 +1479,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-08-18",
-          "label": "opening (from text)"
+          "label": "opening (from text)",
+          "context": "The current round (2026/2027) opens on 18 August 2026 and is closing: Once 420 (5x84) applications have been received or, No later than 31 July 2027."
         },
         {
           "date": "2026-11-24",
-          "label": "deadline (from text)"
+          "label": "deadline (from text)",
+          "context": "Note! ENW-M-1-Weave proposals with a Flemish co-applicant should be submitted no later than 24 November 2026, 14:00:00 CET."
         },
         {
           "date": "2027-07-31",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-07-31",
-          "label": "deadline (from text)"
+          "label": "deadline (from text)",
+          "context": "The current round (2026/2027) opens on 18 August 2026 and is closing: Once 420 (5x84) applications have been received or, No later than 31 July 2027."
         }
       ],
+      "rolling": true,
       "finance_type": "Curiosity Driven Research",
       "programme": "Open Competition ENW",
       "budget": "€45,000,000",
@@ -1378,13 +1525,16 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-12-01",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2026-12-01",
-          "label": null
+          "label": null,
+          "context": "The deadline for this round is Tuesday 1 December 2026 at 14:00:00 hours CET ."
         }
       ],
+      "rolling": false,
       "finance_type": "Talent Development",
       "programme": "Rubicon SGW",
       "budget": "",
@@ -1410,9 +1560,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-12-10",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": true,
       "finance_type": "",
       "programme": "Take-off Take-off fase 1 - Haalbaarheidsstudies WO",
       "budget": "€5,400,000",
@@ -1438,9 +1590,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-12-31",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "Dutch nuclear energy research programme Nucleaire eindberging en stralingsveiligheid",
       "budget": "€15,500,000",
@@ -1467,13 +1621,16 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-01-12",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-01-12",
-          "label": null
+          "label": null,
+          "context": "The deadline for the submission of proposals is Tuesday 12 January 2027, 14:00 CET ."
         }
       ],
+      "rolling": false,
       "finance_type": "Talent Development",
       "programme": "Doctoral Grant for Teachers",
       "budget": "€5,500,000",
@@ -1502,21 +1659,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-01-19",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-01-19",
-          "label": null
+          "label": null,
+          "context": "For 2027, three deadlines for submitting applications are specified: Round 1: 19 January 2027, before 14:00:00 CET Round 2: 6 April 2027, before 14:00:00 CEST Round 3: 14 September"
         },
         {
           "date": "2027-04-06",
-          "label": null
+          "label": null,
+          "context": "For 2027, three deadlines for submitting applications are specified: Round 1: 19 January 2027, before 14:00:00 CET Round 2: 6 April 2027, before 14:00:00 CEST Round 3: 14 September"
         },
         {
           "date": "2027-09-14",
-          "label": null
+          "label": null,
+          "context": "For 2027, three deadlines for submitting applications are specified: Round 1: 19 January 2027, before 14:00:00 CET Round 2: 6 April 2027, before 14:00:00 CEST Round 3: 14 September"
         }
       ],
+      "rolling": false,
       "finance_type": "Curiosity Driven Research",
       "programme": "Open Competition SSH Explore",
       "budget": "€4,000,000",
@@ -1543,13 +1705,16 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-01-21",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-01-21",
-          "label": "Upcoming submission date"
+          "label": "Upcoming submission date",
+          "context": ""
         }
       ],
+      "rolling": true,
       "finance_type": "Collaboration with Partners",
       "programme": "KIA Societal Earning Capacity (KIC) Mission 2024-2027 Maatschappelijk Verdienvermogen Top-up Call: verbinding, synthese en kennisbenutting",
       "budget": "€334,000",
@@ -1575,9 +1740,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-02-09",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "Use of space infrastructure for Earth observation and planetary research",
       "budget": "€3,600,000",
@@ -1604,13 +1771,16 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-02-11",
-          "label": "Closing date for letter of intent"
+          "label": "Closing date for letter of intent",
+          "context": ""
         },
         {
           "date": "2027-06-01",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "National Roadmap for Large-Scale Research Infrastructure",
       "budget": "€100,000,000",
@@ -1639,21 +1809,26 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-09-22",
-          "label": "Closing date for pre-proposals"
+          "label": "Closing date for pre-proposals",
+          "context": ""
         },
         {
           "date": "2026-09-22",
-          "label": null
+          "label": null,
+          "context": "Deadline stage 1, pre-proposal (obligatory): 22 September 2026, 15:00 CEST ."
         },
         {
           "date": "2027-02-15",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-02-15",
-          "label": null
+          "label": null,
+          "context": "Deadline for stage 2, full proposals: 15 February 2027, 15:00 CET ."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Raw Materials for the Green and Digital Transition (RAMP)",
       "budget": "",
@@ -1679,9 +1854,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-02-16",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "PhDs in the Humanities",
       "budget": "€5,173,000",
@@ -1707,9 +1884,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-02-16",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "High Tech Systems & Materials (HTSM) 2026 Heterogeneous development solutions for semiconductors & scaling of quantum technologies",
       "budget": "€2,000,000",
@@ -1736,13 +1915,16 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-03-30",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-03-30",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting the proposals is 30 March 2027, before 14:00:00 CET ."
         }
       ],
+      "rolling": false,
       "finance_type": "Curiosity Driven Research",
       "programme": "Gravitation",
       "budget": "€159,250,000",
@@ -1770,17 +1952,21 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-07-07",
-          "label": null
+          "label": null,
+          "context": "7 July 2026 before 14."
         },
         {
           "date": "2027-03-30",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         },
         {
           "date": "2027-03-30",
-          "label": null
+          "label": null,
+          "context": "00u CEST Deadline pre-proposals 30 March 2027 before 14."
         }
       ],
+      "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "Reducing drug harm: towards effective societal interventions",
       "budget": "€4,500,000",
@@ -1808,17 +1994,21 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-08-18",
-          "label": "opening (from text)"
+          "label": "opening (from text)",
+          "context": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 18 August 2026 to 31 July 2027."
         },
         {
           "date": "2027-04-01",
-          "label": null
+          "label": null,
+          "context": "The deadline for submitting applications with FWO as lead agency and NWO as partner agency is 1 April 2027, at 17:00:00 CEST."
         },
         {
           "date": "2027-07-31",
-          "label": "deadline (from text)"
+          "label": "deadline (from text)",
+          "context": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 18 August 2026 to 31 July 2027."
         }
       ],
+      "rolling": true,
       "finance_type": "Curiosity Driven Research",
       "programme": "",
       "budget": "€11,000,000",
@@ -1844,9 +2034,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-04-13",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "Systeemperspectief op materialen voor strategische autonomie in de energietransitie",
       "budget": "€3,343,000",
@@ -1872,9 +2064,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-05-14",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "KIC 2024-2027 Mobiele en modulaire beeldvormende technologie voor een gezonde en veilige samenleving",
       "budget": "€7,000,000",
@@ -1900,9 +2094,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-05-14",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "Nieuwe materialen en maakprocessen voor grootschalige energieopslag en conversie",
       "budget": "€7,000,000",
@@ -1928,9 +2124,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-06-01",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "Circulariteit van materialen, componenten en constructies in offshore wind",
       "budget": "€2,730,000",
@@ -1956,9 +2154,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2027-07-06",
-          "label": "Closing date full application"
+          "label": "Closing date full application",
+          "context": ""
         }
       ],
+      "rolling": false,
       "finance_type": "",
       "programme": "Knowledge and Innovation Covenant Mission 2024-2027 Human Capital en Digitale Innovatie in Nederland: het vergroten van innovatiekracht, adaptief vermogen, en verdienvermogen door AI en robotica",
       "budget": "€7,000,000",
@@ -1980,6 +2180,7 @@
       "deadline": "",
       "deadline_dates": [],
       "deadline_dates_labelled": [],
+      "rolling": true,
       "finance_type": "Infrastructure",
       "programme": "Computing Time on National Computer Facilities",
       "budget": "",
@@ -2001,6 +2202,7 @@
       "deadline": "",
       "deadline_dates": [],
       "deadline_dates_labelled": [],
+      "rolling": true,
       "finance_type": "Applied Science",
       "programme": "Open Access Books",
       "budget": "€300,000",
