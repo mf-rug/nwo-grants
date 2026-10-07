@@ -285,9 +285,10 @@ and that is your call, not the task's.
 
 ## 11. Requests for the backend (2026-10-07) — NOT YET IMPLEMENTED
 
-Two changes the task needs and cannot make itself. Both are in your area
-(`digest.py` and the Action); the task side is written to tolerate their absence,
-so nothing breaks while they are pending.
+Three items. A and B are changes the task needs and cannot make itself, both in
+your area (`digest.py` and the Action); the task side is written to tolerate their
+absence, so nothing breaks while they are pending. C is a correctness report about
+a commit, not a request for new work.
 
 ### Request A — emit the currently-open set as its own artifact
 
@@ -344,6 +345,54 @@ taken from `len(grants)` and `len(news)` before filtering. Then an empty
 `new_grants` beside `grants_total: 225` reads as "nothing matched", while
 `grants_total: 0` is unambiguously a failed scrape. The task will treat a zero
 total as a reason to send nothing and file an issue.
+
+### Request C — `2db31bc` announces five removals and performed none of them
+
+**What the commit message says.** `2db31bc` "Phase out AI classification — remove
+all LLM-API dependency" lists: `classify_grants.py` and the Action's classify step
+deleted, `anthropic` dropped from pip install, `ai_classification` stripped from
+`grants.json` and from `process.py`'s carry-forward, `app.py`'s
+`matches_position`/`matches_field` removed, and `digest.py`'s
+`fields`/`can_lead`/`can_participate` removed from `_grant_brief`.
+
+**What the commit actually contains.** One file:
+
+```
+$ git show --stat 2db31bc
+ digest_task.md | 21 +++++++++------------
+ 1 file changed, 9 insertions(+), 12 deletions(-)
+```
+
+Documentation only. Every claim above is still false in the tree at `636e97e`:
+
+| Claimed removed | Actual state |
+|---|---|
+| `classify_grants.py` | present, 7690 bytes |
+| Action classify step | `.github/workflows/update-grants.yml:36` `Classify grants (AI)`, `:38` `ANTHROPIC_API_KEY` |
+| `anthropic` in pip install | `:25` `pip install requests beautifulsoup4 anthropic` |
+| `ai_classification` in `grants.json` | 179 of 225 records carry it |
+| `process.py` carry-forward | `process.py:53-54`, unchanged |
+| `app.py` position/field filters | `app.py:405` `matches_position`, `:420` `matches_field`, called at `:433-434` |
+| `digest.py` `_grant_brief` keys | `digest.py:55,56,71,74,75`, unchanged; last commit touching `digest.py` is `922254f` |
+
+So **the paid-API dependency was never removed** — the Action is still calling the
+Anthropic API on every scheduled scrape. That is the headline: the stated goal of
+the change did not happen, and the commit message is the only thing that says it
+did. Worth checking whether the working copy the change was made in ever got
+committed, or whether only the doc edit was staged.
+
+**Asked for.** Either land the code changes, or revert `2db31bc`'s doc edit — but
+not neither, because a commit message that asserts a state the tree is not in is
+worse than no commit. If the removal is landing anyway, no need to reconcile the
+history; just don't leave the doc describing a future state as a past one.
+
+**Task impact: none, either way.** The task has never depended on those three keys
+— `digest_task.md` ("The task does not depend on the AI classifier") has the
+reasoning, verified by regenerating candidates from a stripped `grants.json`. The
+task prompt was briefly rewritten on the strength of the commit message to say the
+keys "are now always empty"; that was wrong and has been corrected to the
+tolerant wording, which holds in both states. Nothing to do on the task side when
+the removal lands.
 
 ### Declined, for the record
 
