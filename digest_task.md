@@ -14,7 +14,8 @@ Everything the task needs is reachable from a cloud run:
 | What | Where |
 | --- | --- |
 | candidates | `candidates.json`, fetched from the **public** raw URL on `main` — **data, not code** |
-| who builds it | the weekly Action runs `digest.py candidates --days 21 --local` and commits the result |
+| first-send backfill | `currently_open.json`, same place — *requested, not yet emitted; see changelog §11* |
+| who builds them | the weekly Action runs `digest.py candidates --local` and commits the result |
 | subscribers | Google Sheet `15D1PibZUdL2JrpZcl08dxV9aW0Spr_4QIYLdaLSSZJI` (Form responses) |
 | profile cache | Google Sheet `1rT9GBDefOBAj9hufVOm5YGvF3jvrKkwtu7fnQR6freg`, tab `profiles` |
 | sent-log | the same Sheet, tab `sent` |
@@ -115,17 +116,19 @@ a news item.
 nothing, so its items stay eligible next week — the entire point. Logging first
 would reintroduce the bug the log exists to fix.
 
-## No AI classifier
+## The task does not depend on the AI classifier
 
-The AI classifier was **removed entirely (2026-10-07)**, along with the whole
-LLM-API dependency — `classify_grants.py`, the Action's classify step, the
-`ai_classification` field, and `app.py`'s position/field filters are all gone.
+`fields`, `can_lead` and `can_participate` came from `classify_grants.py`. The task
+treats them as **optional corroboration only**. Its authoritative eligibility
+sources are `who_can_apply` (600 chars of the real prose), `target_groups`,
+`restrictions`, and the live call page it fetches for every shortlisted item — all
+better evidence than a classifier's summary of the same text.
 
-Eligibility now comes only from **scraped prose**: `who_can_apply` (600 chars of the
-real text), `target_groups`, `restrictions`, and the live call page fetched for every
-shortlisted item — all better evidence than a classifier's summary of the same text
-anyway. An empty value means *not stated*, never "nobody is eligible", so nothing is
-silently excluded.
+The prompt states explicitly that an empty value means *not classified*, never
+"nobody is eligible", so nothing is silently excluded when the classifier is off.
+Verified by regenerating the candidates from a `grants.json` with every
+`ai_classification` stripped: identical keys, identical counts, `who_can_apply`,
+`target_groups` and `restrictions` untouched.
 
 ## Reporting problems
 
@@ -214,8 +217,17 @@ stays internal and the Sheet private.
 
 ## Known limits
 
-- `--backfill` is per-mailing-list, not per-subscriber: a subscriber joining later
-  gets only what the 21-day window holds, unless you run a one-off backfill.
+- **Calls already open today never enter the delta.** `apply_change_tracking` gives
+  a known record `first_seen = 2020-01-01` and moves `last_changed` only when
+  `status`, `deadline_dates`, `budget` or `finance_type` changes — which an
+  already-open call will not do. The ~50 calls open now are therefore outside every
+  future window permanently, and a subscriber joining later would never hear about
+  any of them. Fix requested as changelog §11 Request A (an automatic first-send
+  backfill for anyone with no sent-log rows). Until then, `--backfill` by hand is
+  the only route. Raised by `nwo-digest-ops#3`.
+- **An empty section cannot be told from a failed scrape.** `new_grants: []` may
+  mean "nothing matched" or "nothing was read". The freshness check only proves the
+  file was rebuilt. Fix requested as changelog §11 Request B (source counts).
 - The profile cache is keyed on email. Changing a subscriber's Form answers does not
   refresh a cached profile; clear their row to force re-inference.
 - The sent-log grows one row per item per recipient and is never pruned. Years of
