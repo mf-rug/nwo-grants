@@ -1088,7 +1088,7 @@
       },
       {
         "date": "2026-10-08T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2027-03-11T12:00:00Z",
@@ -1096,7 +1096,7 @@
       },
       {
         "date": "2027-03-11T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -2663,7 +2663,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-06T23:59:00",
-        "label": null
+        "label": "opening (from text)"
       },
       {
         "date": "2026-02-27T23:59:00",
@@ -3662,7 +3662,7 @@
       },
       {
         "date": "2027-05-04T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -4075,7 +4075,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-05-01T23:59:00",
-        "label": null
+        "label": "opening (from text)"
       },
       {
         "date": "2026-11-12T12:00:00Z",
@@ -4083,7 +4083,7 @@
       },
       {
         "date": "2026-11-12T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -5673,11 +5673,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-08-18T23:59:00",
-        "label": null
+        "label": "opening (from text)"
       },
       {
         "date": "2026-11-24T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2027-07-31T12:00:00Z",
@@ -5685,7 +5685,7 @@
       },
       {
         "date": "2027-07-31T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -8093,7 +8093,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-08-18T23:59:00",
-        "label": null
+        "label": "opening (from text)"
       },
       {
         "date": "2027-04-01T17:00:00",
@@ -8101,7 +8101,7 @@
       },
       {
         "date": "2027-07-31T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -9668,11 +9668,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-02-24T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2026-07-31T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -9796,7 +9796,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-08-07T23:59:00",
-        "label": null
+        "label": "opening (from text)"
       },
       {
         "date": "2026-04-01T17:00:00",
@@ -9808,7 +9808,7 @@
       },
       {
         "date": "2026-07-31T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -10025,7 +10025,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2024-08-06T23:59:00",
-        "label": null
+        "label": "opening (from text)"
       },
       {
         "date": "2025-04-01T17:00:00",
@@ -10033,7 +10033,7 @@
       },
       {
         "date": "2025-07-31T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2025-08-07T12:00:00Z",
@@ -13369,7 +13369,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-09-23T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2025-10-14T12:00:00Z",
@@ -13377,7 +13377,7 @@
       },
       {
         "date": "2025-10-14T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -13867,7 +13867,7 @@
       },
       {
         "date": "2025-12-12T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -14283,7 +14283,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-08-21T23:59:00",
-        "label": null
+        "label": "opening (from text)"
       },
       {
         "date": "2025-11-20T12:00:00Z",
@@ -14291,7 +14291,7 @@
       },
       {
         "date": "2025-11-20T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -16436,7 +16436,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-06T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2026-01-27T12:00:00Z",
@@ -16444,7 +16444,7 @@
       },
       {
         "date": "2026-01-27T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -16571,7 +16571,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-06T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2026-01-27T12:00:00Z",
@@ -16579,7 +16579,7 @@
       },
       {
         "date": "2026-01-27T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -16928,7 +16928,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-10-01T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2025-10-29T23:59:00",
@@ -17775,11 +17775,11 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-02-04T23:59:00",
-        "label": null
+        "label": "opening (from text)"
       },
       {
         "date": "2026-02-03T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2026-02-05T12:00:00Z",
@@ -19186,7 +19186,7 @@
       },
       {
         "date": "2025-10-09T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2026-03-12T12:00:00Z",
@@ -19194,7 +19194,7 @@
       },
       {
         "date": "2026-03-12T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -20966,7 +20966,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2025-10-24T12:00:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2025-11-07T12:00:00Z",
@@ -21111,7 +21111,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-03-24T23:59:00",
-        "label": null
+        "label": "deadline (from text)"
       },
       {
         "date": "2026-04-14T12:00:00Z",
@@ -21119,7 +21119,7 @@
       },
       {
         "date": "2026-04-14T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },
@@ -24332,7 +24332,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-01-20T23:59:00",
-        "label": null
+        "label": "opening (from text)"
       },
       {
         "date": "2026-06-23T12:00:00Z",
@@ -26376,7 +26376,7 @@
       },
       {
         "date": "2026-09-22T14:00:00",
-        "label": null
+        "label": "deadline (from text)"
       }
     ]
   },

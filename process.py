@@ -220,10 +220,29 @@ DATE_RE = re.compile(
     re.IGNORECASE,
 )
 
-def parse_text_dates(text):
-    """Extract all dates from free text, return as ISO strings."""
+# Coarse prose-context cues for a date (§11 Request D follow-up). Opening dates
+# live almost entirely in the prose and are the ones the task must drop; kept
+# high-precision because a wrong "opening" label would drop a real deadline.
+# Everything ambiguous stays unlabelled (None) and falls back to the heuristic.
+_OPEN_CUE = re.compile(
+    r"(?:opens?\s+on|will\s+open|opening|re-?opens?|as\s+of|available\s+from|from)"
+    r"\s*:?\s*$", re.I)
+_DEADLINE_CUE = re.compile(
+    r"(?:no(?:t)?\s+later\s+than|until|before|up\s+to\s+and\s+including"
+    r"|deadline|closing|submitted\s+by|\bto)\s*:?\s*$", re.I)
+
+def _prose_date_label(prefix):
+    if _OPEN_CUE.search(prefix):
+        return "opening (from text)"
+    if _DEADLINE_CUE.search(prefix):
+        return "deadline (from text)"
+    return None
+
+def parse_text_dates_labelled(text):
+    """Extract dates from free text as (iso, label) — label classifies each date
+    from its immediately-preceding prose as opening / deadline / None."""
     results = []
-    for m in DATE_RE.finditer(text):
+    for m in DATE_RE.finditer(text or ""):
         month = MONTHS.get(m.group(2).lower())
         if not month:
             continue
@@ -233,10 +252,15 @@ def parse_text_dates(text):
                 int(m.group(4)) if m.group(4) else 23,
                 int(m.group(5)) if m.group(5) else 59,
             )
-            results.append(dt.strftime("%Y-%m-%dT%H:%M:00"))
         except ValueError:
             continue
+        results.append((dt.strftime("%Y-%m-%dT%H:%M:00"),
+                        _prose_date_label(text[:m.start()])))
     return results
+
+def parse_text_dates(text):
+    """Extract all dates from free text, return as ISO strings."""
+    return [iso for iso, _ in parse_text_dates_labelled(text)]
 
 def iso_from_char(val):
     """Characteristic value → list of ISO strings."""
@@ -344,9 +368,9 @@ def extract_deadlines(chars, when_text):
             for iso in iso_from_char(val):
                 deadline_isos.append(iso)
                 labels.setdefault(iso, key)
-    for iso in parse_text_dates(when_text or ""):
+    for iso, lab in parse_text_dates_labelled(when_text or ""):
         deadline_isos.append(iso)
-        labels.setdefault(iso, None)
+        labels.setdefault(iso, lab)
 
     # Deduplicate by minute precision in original order, then sort (unchanged).
     seen, unique = set(), []

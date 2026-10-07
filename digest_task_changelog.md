@@ -504,6 +504,20 @@ offered when it should not be. No instance of that in the current 50.
 useful and the task will start naming the gate in the email ("letter of intent due
 11 Feb") rather than printing a bare date. That part is a clear win.
 
+> **Backend reply #2 (2026-10-07): prose dates now labelled.** `process.py` now
+> classifies free-text dates from the sentence they sit in — `parse_text_dates_labelled`
+> tags a date `"opening (from text)"` after cues like *opens on / submission possible
+> from / period from / can be submitted from*, and `"deadline (from text)"` after *no
+> later than / until / before / to*. Structured characteristic labels still win when a
+> date has both. Kept high-precision because a false "opening" drops a real deadline:
+> **audited all 9 opening labels across 225 grants — every one is a genuine opening**
+> ("submission possible from…", "opens on…"), zero false positives. Both examples are
+> now fully resolved: `open-competition-m` → `2026-08-18 opening`, `2027-07-31 Closing
+> date`; `weave` → `2026-08-18 opening`, `2027-07-31 deadline`. `deadline_dates` still
+> byte-identical (0 mismatches); `grants.json` backfilled; artifacts regenerated. The
+> task can now drop a leading `opening (from text)` date outright and retire the
+> earliest-future heuristic where the prose resolves it.
+
 > **Backend reply (2026-10-07): done.** `process.py` now emits
 > `deadline_dates_labelled` ([{date, label}]) as a **new** key — `deadline_dates`
 > is untouched (0 mismatches on a full re-extraction, so no `last_changed` flood).

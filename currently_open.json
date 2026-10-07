@@ -284,7 +284,7 @@
         },
         {
           "date": "2026-10-08",
-          "label": null
+          "label": "deadline (from text)"
         },
         {
           "date": "2027-03-11",
@@ -292,7 +292,7 @@
         },
         {
           "date": "2027-03-11",
-          "label": null
+          "label": "deadline (from text)"
         }
       ],
       "finance_type": "Collaboration with Partners",
@@ -696,7 +696,7 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-01-06",
-          "label": null
+          "label": "opening (from text)"
         },
         {
           "date": "2026-02-27",
@@ -959,7 +959,7 @@
         },
         {
           "date": "2027-05-04",
-          "label": null
+          "label": "deadline (from text)"
         }
       ],
       "finance_type": "Talent Development",
@@ -1093,7 +1093,7 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-05-01",
-          "label": null
+          "label": "opening (from text)"
         },
         {
           "date": "2026-11-12",
@@ -1101,7 +1101,7 @@
         },
         {
           "date": "2026-11-12",
-          "label": null
+          "label": "deadline (from text)"
         }
       ],
       "finance_type": "Infrastructure",
@@ -1337,11 +1337,11 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-08-18",
-          "label": null
+          "label": "opening (from text)"
         },
         {
           "date": "2026-11-24",
-          "label": null
+          "label": "deadline (from text)"
         },
         {
           "date": "2027-07-31",
@@ -1349,7 +1349,7 @@
         },
         {
           "date": "2027-07-31",
-          "label": null
+          "label": "deadline (from text)"
         }
       ],
       "finance_type": "Curiosity Driven Research",
@@ -1808,7 +1808,7 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-08-18",
-          "label": null
+          "label": "opening (from text)"
         },
         {
           "date": "2027-04-01",
@@ -1816,7 +1816,7 @@
         },
         {
           "date": "2027-07-31",
-          "label": null
+          "label": "deadline (from text)"
         }
       ],
       "finance_type": "Curiosity Driven Research",
