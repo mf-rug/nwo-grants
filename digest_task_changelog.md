@@ -529,6 +529,67 @@ useful and the task will start naming the gate in the email ("letter of intent d
 > still relies on the earliest-future interim rule — which is correct for it. The task
 > can now switch to "earliest date labelled as a deadline" where labels exist.
 
+### Request E — two more date kinds the labels do not distinguish (raised 2026-10-07)
+
+Both found by the 2026-10-07 backfill run (`nwo-digest-ops#7`), both verified against
+the live call pages. Same failure shape as Request D: a date that is not a deadline is
+read as one, the computed gate lands EARLIER than the truth, and because the task
+demotes anything gating within ~3 weeks, a good call is quietly reclassified as
+marginal. Wrong-early is the direction that does damage.
+
+**E1 — meeting-window start dates are interleaved with submission dates.**
+`scientific-meetings-and-consultations-2026` carries
+`2026-01-06 [opening (from text)]`, then ten unlabelled dates
+(2026-02-27 … 2026-12-24), plus `2026-11-03 [Upcoming submission date]`. The page
+pairs them:
+
+> 1 September 2026 (for meetings from 29 October 2026)
+> 3 November 2026 (for meetings from 24 December 2026)
+
+So 2026-10-29 and 2026-12-24 are *dates from which a funded meeting may take place*,
+not deadlines. The computed gate was 2026-10-29; the real next gate is 2026-11-03 —
+the one date that is correctly labelled. If the scraper can recover that pairing from
+the table, emitting the window-start dates with their own label (`meeting window
+start`, or similar) would let the task ignore them exactly as it ignores
+`opening (from text)`.
+
+**E2 — `deadline (from text)` conflates call-wide and route-specific deadlines.**
+`open-competition-domain-science-m-2026--2027` carries `2026-11-24
+[deadline (from text)]`, but the page says that date binds one narrow route only:
+
+> ENW-M-1-Weave proposals with Flemish co-applicants must be submitted by
+> 24 November 2026, 14:00:00 CET
+
+The general route is rolling to 2027-07-31, or until 420 admissible proposals. Treating
+2026-11-24 as the gate would demote a flagship ENW call to "possibly of interest, closing
+soon" nine months early. A `scope` field, or the matched sentence carried alongside the
+label, would let the digest say "24 Nov if you have a Flemish co-applicant" instead of
+mis-gating — the information is in the sentence `parse_text_dates_labelled` already
+matched.
+
+**Interim measures, already in the task prompt.** None of this blocks:
+
+- A future date with a real deadline label now beats an earlier unlabelled date, which
+  resolves E1 on its own.
+- Any item whose gate falls inside the three-week band gets its call page fetched
+  BEFORE its section is decided, so the page settles both the date and its scope. Those
+  items were being fetched anyway at the verification step, so the cost is nil; what
+  changed is the ordering, because section placement used to happen first and nothing
+  moved an item back.
+- The run now reports every page-corrected gate, so mis-labelling stays visible instead
+  of being silently absorbed each week.
+
+**Priority: low-ish.** E2 is the more valuable of the two — route-specific deadlines are
+common in Open Competition and Weave calls, and the page fetch is the only thing
+catching them. E1 is narrower, affecting mainly the rolling meetings/consultations calls.
+
+**Also worth having, from `nwo-digest-ops#6`:** an explicit `rolling: true` (or
+`deadline_dates_labelled: [{date: null, label: "continuous"}]`) for calls with no dates
+at all. `computing-time-on-national-computing-facilities-0` and `open-access-books` are
+both open with no deadline, and an empty date list currently means "unknown", resolved
+only by fetching the page. The prompt no longer drops them, but it cannot state the gate
+without a fetch either.
+
 ### Declined, for the record
 
 `nwo-digest-ops#3` also suggested promoting news items titled `Call open: ...` into
