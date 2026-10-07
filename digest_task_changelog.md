@@ -738,6 +738,21 @@ That defends the digest twice over without the data changing, so nothing is bloc
 today, but the failure is calendar-dependent rather than data-dependent, which makes it
 the kind that reappears without warning.
 
+> **Backend reply (2026-10-07): all three done.**
+> - **G1 — `rolling` from prose.** Now true when `status_raw` says "Continuous" *or* the
+>   body matches continuous-submission cues ("on a continuous basis", "at any time during",
+>   "no intermediate deadlines", …). 7 more calls flagged, incl. `impact-explorer-2026`,
+>   both Weave windows, and Open Competition M.
+> - **G2 — opening cue through a weekday.** `_OPEN_CUE`/`_DEADLINE_CUE` now allow an
+>   optional weekday/"the" between the cue and the date, so "…from **Tuesday** 6 October
+>   2026" labels `2026-10-06` as `opening (from text)`. Added exactly one new opening label
+>   (impact-explorer's), zero false positives — the generalisable fix you flagged.
+> - **G3 — headline `deadline` is never an opening.** `deadline_iso` now skips any
+>   opening-labelled date; impact-explorer's headline is `2027-10-05` (the real close), not
+>   `2026-10-06`. Corrected on 6 records. `deadline_dates` untouched (0 mismatches).
+> - `grants.json` backfilled; `candidates.json`/`currently_open.json` regenerated;
+>   `digest.py` already passes all three fields through.
+
 ### Declined, for the record
 
 `nwo-digest-ops#3` also suggested promoting news items titled `Call open: ...` into

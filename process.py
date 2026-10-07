@@ -224,12 +224,22 @@ DATE_RE = re.compile(
 # live almost entirely in the prose and are the ones the task must drop; kept
 # high-precision because a wrong "opening" label would drop a real deadline.
 # Everything ambiguous stays unlabelled (None) and falls back to the heuristic.
+# An optional weekday / "the" may sit between the cue word and the date
+# ("…from Tuesday 6 October 2026", §11 G2).
+_FILLER = r"(?:\s+(?:mon|tues|wednes|thurs|fri|satur|sun)day|\s+the)*"
 _OPEN_CUE = re.compile(
     r"(?:opens?\s+on|will\s+open|opening|re-?opens?|as\s+of|available\s+from|from)"
-    r"\s*:?\s*$", re.I)
+    + _FILLER + r"\s*:?\s*$", re.I)
 _DEADLINE_CUE = re.compile(
     r"(?:no(?:t)?\s+later\s+than|until|before|up\s+to\s+and\s+including"
-    r"|deadline|closing|submitted\s+by|\bto)\s*:?\s*$", re.I)
+    r"|deadline|closing|submitted\s+by|\bto)" + _FILLER + r"\s*:?\s*$", re.I)
+
+# Continuous/rolling-submission prose, for calls whose Status field does not say
+# "Continuous" but whose body does (§11 G1).
+_ROLLING_PROSE = re.compile(
+    r"on a continuous basis|continuous(?:ly)?\s+(?:open|submi)"
+    r"|submitted\b[^.]{0,30}\bat any time|at any time during"
+    r"|no intermediate deadlines?|on a rolling basis", re.I)
 
 def _prose_date_label(prefix):
     if _OPEN_CUE.search(prefix):
@@ -471,6 +481,20 @@ def process_html(slug, url, html):
     unique_deadlines, deadline_labelled = extract_deadlines(chars, when_text)
     prerequisites = detect_prerequisites(sections, deadline_labelled)
 
+    # Headline deadline: never an opening date (§11 G3) — skip anything labelled
+    # as an opening, so an empty/real-deadline value is reported rather than the
+    # date the call opens.
+    _opening = {e["date"] for e in deadline_labelled if "opening" in (e.get("label") or "").lower()}
+    deadline_iso = nearest_future([d for d in unique_deadlines if d not in _opening])
+
+    # Rolling: Status says "Continuous", or the body describes continuous
+    # submission even when Status does not (§11 G1).
+    rolling = "continuous" in (chars.get("Status", "") or "").lower()
+    if not rolling:
+        _body = " ".join((sections.get(k) or {}).get("text", "")
+                         for k in ("when_to_apply", "what_to_apply_for", "purpose"))
+        rolling = bool(_ROLLING_PROSE.search(_body))
+
     # --- PDFs ---
     all_pdfs = [d["url"] for d in downloads if d["type"] == "pdf"]
     cfp_pdfs = [d["url"] for d in downloads if d["type"] == "pdf" and
@@ -487,12 +511,12 @@ def process_html(slug, url, html):
         "finance_type": _char_text(chars, "Finance type"),
         "programme":    _char_text(chars, "Research programme"),
         "target_groups":_char_text(chars, "For specific groups"),
-        "deadline_iso": nearest_future(unique_deadlines),
+        "deadline_iso": deadline_iso,
         "deadline_dates": unique_deadlines,
         "deadline_dates_labelled": deadline_labelled,
-        # True for continuously-open calls (no deadline), so an empty date list
-        # reads as "rolling" rather than "unknown" without a page fetch (§11 E3).
-        "rolling":      "continuous" in (chars.get("Status", "") or "").lower(),
+        # True for continuously-open calls, so an empty/opening-only date list
+        # reads as "rolling" rather than "unknown" without a page fetch (§11 E3/G1).
+        "rolling":      rolling,
         "primary_pdf":  cfp_pdfs[0] if cfp_pdfs else (all_pdfs[0] if all_pdfs else None),
         "pdf_urls":     all_pdfs,
         # Full structured data

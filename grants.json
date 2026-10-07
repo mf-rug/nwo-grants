@@ -9,7 +9,7 @@
     "finance_type": "Collaboration with Partners",
     "programme": "NWA ORC 2026",
     "target_groups": "Interdisciplinary Collaboration International Collaboration Collaboration with social partners Applied Sciences Research Researchers from Abroad Collaboration with Industry",
-    "deadline_iso": "2026-10-06T12:00:00Z",
+    "deadline_iso": null,
     "deadline_dates": [
       "2026-03-17T23:59:00",
       "2026-10-06T12:00:00Z",
@@ -195,7 +195,7 @@
     "finance_type": "Collaboration with Partners",
     "programme": "Knowledge and Innovation Covenant KIC 2024-2027 Early detection of (emerging) outbreaks of infectious diseases",
     "target_groups": "Interdisciplinary Collaboration International Collaboration Collaboration with social partners Collaboration with Industry",
-    "deadline_iso": "2026-10-06T12:00:00Z",
+    "deadline_iso": null,
     "deadline_dates": [
       "2026-03-19T23:59:00",
       "2026-04-16T23:59:00",
@@ -359,7 +359,7 @@
     "finance_type": "Collaboration with Partners",
     "programme": "Perspectief 2026-2027",
     "target_groups": "Interdisciplinary Collaboration",
-    "deadline_iso": "2026-10-06T12:00:00Z",
+    "deadline_iso": "2026-11-24T12:00:00Z",
     "deadline_dates": [
       "2026-10-06T12:00:00Z",
       "2026-11-24T12:00:00Z",
@@ -506,7 +506,7 @@
     "finance_type": "Collaboration with Partners",
     "programme": "Security and Resilience in a Quantum era Veiligheid en Weerbaarheid in een quantumtijdperk KIC 2024-2027",
     "target_groups": "",
-    "deadline_iso": "2026-10-06T14:00:00",
+    "deadline_iso": "2026-11-03T12:00:00Z",
     "deadline_dates": [
       "2026-09-15T09:00:00",
       "2026-09-29T12:00:00Z",
@@ -709,7 +709,7 @@
     "finance_type": "Curiosity Driven Research",
     "programme": "Open Competition ENW XS",
     "target_groups": "",
-    "deadline_iso": "2026-10-06T23:59:00",
+    "deadline_iso": "2026-10-20T14:00:00",
     "deadline_dates": [
       "2026-01-13T14:00:00",
       "2026-03-19T23:59:00",
@@ -889,7 +889,7 @@
     "finance_type": "Curiosity Driven Research",
     "programme": "Impact Explorer",
     "target_groups": "Collaboration with social partners Knowledge Utilisation",
-    "deadline_iso": "2026-10-06T23:59:00",
+    "deadline_iso": "2027-10-05T12:00:00Z",
     "deadline_dates": [
       "2026-10-06T23:59:00",
       "2027-10-05T12:00:00Z",
@@ -993,7 +993,7 @@
     "deadline_dates_labelled": [
       {
         "date": "2026-10-06T23:59:00",
-        "label": null,
+        "label": "opening (from text)",
         "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
       },
       {
@@ -1003,11 +1003,11 @@
       },
       {
         "date": "2027-10-05T23:59:00",
-        "label": null,
+        "label": "deadline (from text)",
         "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
       }
     ],
-    "rolling": false,
+    "rolling": true,
     "prerequisites": []
   },
   {
@@ -10188,7 +10188,7 @@
         "context": "The current round (2025/2026) is closing: Once 393 (3x75 and 2x84) applications have been received OR No later than 31 July 2026 Applications for the current round (2025/2026) can "
       }
     ],
-    "rolling": false,
+    "rolling": true,
     "prerequisites": []
   },
   {
@@ -10330,7 +10330,7 @@
         "context": "Applications with DFG as lead agency and NWO as partner agency may be submitted to DFG at any time during the period from 7 August 2025 to 31 July 2026 ."
       }
     ],
-    "rolling": false,
+    "rolling": true,
     "prerequisites": []
   },
   {
@@ -10571,7 +10571,7 @@
         "context": ""
       }
     ],
-    "rolling": false,
+    "rolling": true,
     "prerequisites": []
   },
   {
@@ -11649,7 +11649,7 @@
       },
       {
         "date": "2025-09-09T14:00:00",
-        "label": null,
+        "label": "deadline (from text)",
         "context": "A proposal must be submitted via our ISAAC system before Tuesday 9 September 2025 14:00:00 CEST ."
       }
     ],
@@ -14562,7 +14562,7 @@
         "context": "Applications can be submitted on a continuous basis between 13 January 2025 until 12 December 2025 , as long as the grant ceiling or the maximum number of applications submitted ha"
       }
     ],
-    "rolling": false,
+    "rolling": true,
     "prerequisites": []
   },
   {
@@ -15510,7 +15510,7 @@
         "context": ""
       }
     ],
-    "rolling": false,
+    "rolling": true,
     "prerequisites": []
   },
   {
@@ -18630,7 +18630,7 @@
         "context": ""
       }
     ],
-    "rolling": false,
+    "rolling": true,
     "prerequisites": []
   },
   {

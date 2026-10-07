@@ -113,7 +113,7 @@
       "title": "Dutch Research Agenda - Research along Routes by Consortia 2026",
       "url": "https://www.nwo.nl/en/calls/dutch-research-agenda-research-along-routes-by-consortia-2026",
       "status": "open",
-      "deadline": "2026-10-06",
+      "deadline": "",
       "deadline_dates": [
         "2026-03-17",
         "2026-10-06",
@@ -163,7 +163,7 @@
       "title": "KIC - Early detection of (emerging) outbreaks of infectious diseases",
       "url": "https://www.nwo.nl/en/calls/kic-early-detection-of-emerging-outbreaks-of-infectious-diseases",
       "status": "open",
-      "deadline": "2026-10-06",
+      "deadline": "",
       "deadline_dates": [
         "2026-03-19",
         "2026-04-16",
@@ -212,7 +212,7 @@
       "title": "Perspectief round 2026-2027",
       "url": "https://www.nwo.nl/en/calls/perspectief-round-2026-2027",
       "status": "open",
-      "deadline": "2026-10-06",
+      "deadline": "2026-11-24",
       "deadline_dates": [
         "2026-10-06",
         "2026-11-24",
@@ -255,7 +255,7 @@
       "title": "Impact Explorer 2026",
       "url": "https://www.nwo.nl/en/calls/impact-explorer-2026",
       "status": "upcoming",
-      "deadline": "2026-10-06",
+      "deadline": "2027-10-05",
       "deadline_dates": [
         "2026-10-06",
         "2027-10-05",
@@ -264,7 +264,7 @@
       "deadline_dates_labelled": [
         {
           "date": "2026-10-06",
-          "label": null,
+          "label": "opening (from text)",
           "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
         },
         {
@@ -274,11 +274,11 @@
         },
         {
           "date": "2027-10-05",
-          "label": null,
+          "label": "deadline (from text)",
           "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
         }
       ],
-      "rolling": false,
+      "rolling": true,
       "finance_type": "Curiosity Driven Research",
       "programme": "Impact Explorer",
       "budget": "€1,450,000",
