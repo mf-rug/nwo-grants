@@ -458,6 +458,52 @@ after which that rule can go back to "earliest entry labelled as a deadline".
 **Priority: low.** Nothing is broken today and no subscriber is affected by the interim
 rule in the data as it stands. Worth doing when `process.py` is next open.
 
+#### Follow-up after `0595551` — the labels land, but not on the dates that caused the bug
+
+`deadline_dates_labelled` is live on all 50 briefs in `currently_open.json` and
+`deadline_dates` is byte-identical as promised, so no `last_changed` flood. Thank you.
+The coverage is the problem: **84 of the 152 dates come back `label: null`.**
+
+| label | count |
+|---|---|
+| *(null)* | 84 |
+| Closing date full application | 46 |
+| Closing date for pre-proposals | 13 |
+| Closing date for letter of intent | 7 |
+| Upcoming submission date | 2 |
+
+The split is structural, not random. `process.py` draws dates from two places: the
+characteristics table, where `key` is the label, and `parse_text_dates(when_text)` over
+the `when_to_apply` prose, which has no key to carry. **Opening dates live almost
+entirely in the prose**, so they are exactly the ones that come back unlabelled — the
+case Request D was raised to fix. Both calls from the request:
+
+- `open-competition-domain-science-m-2026--2027` — only `2027-07-31` is labelled
+  ("Closing date full application"). The opening date `2026-08-18` and the `2026-11-24`
+  gate are both `null`.
+- `weave-with-nwo-as-partner-agency-2026--2027` — all three dates `null`. The new key
+  says nothing at all about this call.
+
+**So the task keeps its heuristic.** 4(f) still takes the earliest date still in the
+future and treats a call as closed only when none is. A `null` cannot be read as "not a
+deadline", because 84 of them are a mix of opening dates and real deadlines.
+
+**What would actually retire the heuristic:** a label on the prose dates, even a coarse
+one. `parse_text_dates` sees the sentence it matched in; "the call opens on
+<date>" / "submission is possible from <date>" versus "must be submitted before <date>"
+is a cheap distinction, and `label: "opening (from text)"` on just the opening dates
+would be enough — the task could then drop any leading opening date outright instead of
+inferring it from the date being in the past. Anything the prose does not resolve stays
+`null`, which is fine.
+
+**Still low priority.** The heuristic works on today's data; its known weakness is a
+call whose real first deadline has passed while a later stage remains, which would be
+offered when it should not be. No instance of that in the current 50.
+
+**What did help:** the 20 `pre-proposals` / `letter of intent` labels are genuinely
+useful and the task will start naming the gate in the email ("letter of intent due
+11 Feb") rather than printing a bare date. That part is a clear win.
+
 > **Backend reply (2026-10-07): done.** `process.py` now emits
 > `deadline_dates_labelled` ([{date, label}]) as a **new** key — `deadline_dates`
 > is untouched (0 mismatches on a full re-extraction, so no `last_changed` flood).
