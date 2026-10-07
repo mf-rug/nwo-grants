@@ -19,6 +19,7 @@ Everything the task needs is reachable from a cloud run:
 | profile cache | Google Sheet `1rT9GBDefOBAj9hufVOm5YGvF3jvrKkwtu7fnQR6freg`, tab `profiles` |
 | sent-log | the same Sheet, tab `sent` |
 | Postmark secret | Google Sheet `1H0bpMMiAt8ks9s0G54zYjMBBTOhUyn5Bs8JMYnjWMJ4`, `Sheet1` A1/B1, A2/B2 |
+| issue tracker | private repo `mf-rug/nwo-digest-ops` — see §"Reporting problems" |
 
 The repo stays public and holds **no** secrets and **no** subscriber data. The two
 private Sheets hold everything that must not be public, and both the profile cache
@@ -46,6 +47,21 @@ does not work:
 If the folder-grant bug is fixed upstream, moving back is still not obviously
 worth it: the cloud design has fewer moving parts and no sleep dependency.
 
+## Why this repo must stay public
+
+Making `nwo-grants` private looks tempting and breaks three things:
+
+- `digest.py` reads `grants.json` / `news.json` from the unauthenticated raw URL;
+- `app.py` reads the same `grants.json`, the per-grant markdown under `MD_BASE`,
+  and the unauthenticated commits API for its "last refreshed" date;
+- a scheduled run has **no** GitHub credentials in its shell — `gh api` returns
+  `403: GitHub access to this repository is not enabled for this session` — so
+  there is no authenticated fetch to fall back on. Pulling a 1.8 MB `grants.json`
+  through the MCP connector into context every week is not viable either.
+
+The public raw URL is load-bearing, and it is precisely why the cloud task needs no
+credentials at all. Anything that must be private goes in a Sheet or in the ops repo.
+
 ## The window and the sent-log
 
 These two are one mechanism; changing either alone breaks it.
@@ -69,6 +85,21 @@ grant, and the news item's `url` for a news item.
 **Ordering invariant: log only after the send succeeds.** If a send fails nothing
 is written, so those items stay eligible next week — which is the entire point. A
 log written before the send would reintroduce the bug it exists to fix.
+
+## Reporting problems
+
+Task runs file issues into the **private** repo `mf-rug/nwo-digest-ops` (issues
+only, no code). Separate because this repo is public and a report naturally wants
+to name a subscriber; private because the subscriber list is internal.
+
+The bar is deliberately high: **only something a person would want to change.** A
+run that worked files nothing. Runs search open issues first and comment on an
+existing one rather than duplicating. New issues carry the `agent-report` label.
+No subscriber addresses, names or profiles; no secrets, ever.
+
+If you maintain the scraper, it is worth watching — a matching rule that keeps
+misfiring usually means the data the matcher is given is wrong or missing, which is
+your end.
 
 ## Gotchas that have already bitten
 
@@ -134,6 +165,7 @@ The live task's prompt is authoritative; this is its shape.
 7. **After** each successful send, append one `sent` row per included item.
 8. Report sends with message IDs, verification drops, how many items were suppressed
    as already-sent, skipped subscribers, and any profile newly cached.
+9. File an issue in the ops repo **only** if something needs changing.
 
 Failures are reported, never worked around. A run that cannot do its job says so in
 its first line and sends nothing.
@@ -155,6 +187,5 @@ stays internal and the Sheet private.
 - The sent-log grows one row per item per recipient and is never pruned. At this
   list size that is years of headroom; if it ever matters, delete rows older than a
   few months — anything that old is outside the window anyway.
-- An item whose `last_changed` moves again after it was sent stays suppressed: the
-  log keys on the item, not on the version. A materially changed call will not be
-  re-sent.
+- An item whose `last_changed` moves after it was sent stays suppressed: the log
+  keys on the item, not on the version. Tracked as nwo-digest-ops#1.
