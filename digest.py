@@ -2,17 +2,18 @@
 """
 Weekly digest helper for the NWO grants newsletter.
 
-Does the deterministic parts only — the LLM (a local scheduled Claude task)
-handles interest-matching and composing. Two subcommands:
+Does the deterministic parts only — the LLM (a scheduled Claude task, running in
+the cloud) handles interest-matching and composing. Two subcommands:
 
     python3 digest.py candidates [--days 7] [--backfill]
-        Print this week's delta (new grants, just-opened, recent news /
+        Print the delta over the window (new grants, just-opened, recent news /
         pre-announcements) as JSON for the task to match against.
 
     python3 digest.py send --to a@b.c --subject "..." --html-file body.html
-        Send one email via Postmark. Reads the server token from the local
-        env var POSTMARK_TOKEN and the sender from POSTMARK_FROM — secrets
-        stay on this machine, never in code, prompts, or the repo.
+        Send one email via Postmark. Reads the server token from POSTMARK_TOKEN
+        and the sender from POSTMARK_FROM, either as env vars or from the
+        KEY=VALUE file named by $NWO_DIGEST_ENV. Secrets never live in code,
+        prompts, or this repo.
 
 Data is read from the public raw URLs by default (works anywhere); pass
 --local to use the checked-out grants.json / news.json instead.
@@ -56,6 +57,8 @@ def _grant_brief(g):
     purpose = _section(g, "purpose", 240)
     who = _section(g, "who_can_apply", 600)
     return {
+        # Stable key for the sent-log; the slug NWO uses in the call URL.
+        "id": g.get("id", ""),
         "title": g.get("title", ""),
         "url": g.get("url", ""),
         "status": g.get("status", ""),
