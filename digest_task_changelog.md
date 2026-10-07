@@ -117,9 +117,10 @@ evidence the digest went out.
 
 Nothing in the scraper or the data contract:
 
-- **Runs in the cloud**, no device binding, no connected folders. `digest.py` is
-  fetched each run from the public raw URL; it already reads `grants.json` and
-  `news.json` from public URLs, so no checkout was ever strictly needed.
+- **Runs in the cloud**, no device binding, no connected folders. *(The part of
+  this bullet about fetching and running `digest.py` each run was superseded the
+  same day — see §10. The task now fetches a precomputed `candidates.json` and
+  executes nothing.)*
 - **Postmark secret** → private Google Sheet (`1H0bpMMi…`), read at send time.
 - **Profile cache** → private Google Sheet (`1rT9GBDe…`, tab `profiles`).
 - **Requires the Google Sheets connector**, not just Drive — Drive's `update_file`
@@ -213,3 +214,69 @@ limits the damage from a slip, it does not license one.
 
 First issue filed: `nwo-digest-ops#1`, the sent-log keying on the item rather than
 its version (see §8's residual).
+
+## 10. The task executes no code (2026-10-07, supersedes part of §7)
+
+A manual run failed outright. The sandbox classifier refused to run the script the
+task had just downloaded:
+
+```
+Permission for this action was denied by the Claude Code auto mode classifier.
+Reason: [Code from External]
+```
+
+The `curl` succeeded; only `python3 digest.py` was denied, and the denial covers
+reaching the same outcome through another interpreter, host or later turn. Both
+halves of the task ran through that script, so the block was total: no digest went
+out. Reported by the run itself as `nwo-digest-ops#2` — the issue tracker from §9
+paid for itself on its first day.
+
+### Fix: the Action precomputes, the task only fetches
+
+`635f6e7` adds a step to the weekly Action:
+
+```yaml
+- name: Precompute digest candidates
+  run: python digest.py candidates --days 21 --local > candidates.json
+```
+
+and commits `candidates.json` alongside `grants.json`. The task fetches that file
+as **data**. Nothing is executed in the run.
+
+Rejected alternatives, for the record: reimplementing the delta in the task prompt
+(duplicated logic that drifts from `digest.py`) and inlining the 7 KB script into
+the prompt (same drift, plus an unreadable prompt). Precomputing keeps `digest.py`
+as the single source of truth, and the Action already has the data in hand.
+
+**Sending is script-free too.** The token goes into a `curl` config file written by
+the file-writing tool; only a path appears on the command line:
+`curl -X POST https://api.postmarkapp.com/email -K pm.conf -d @body.json`.
+Verified end to end with a dummy token (reached Postmark, returned 401) before the
+prompt was changed.
+
+### Schedule moved to Monday 16:00 Europe/Amsterdam
+
+Unrelated bug found while fixing the above. The Action starts Monday 06:00 UTC but
+has been *finishing* at 11:46, 11:56, 12:10, 12:52, 13:06 and 13:45 UTC as the
+scrape has grown — it used to finish by 07:10. The digest fired at 07:15 UTC, so it
+would have read the **previous week's** data essentially every week.
+
+16:00 Amsterdam is 14:00 UTC, which clears every run on record — by about fifteen
+minutes against the slowest. **If the scrape slows further, move the digest later.**
+A freshness guard now makes that failure loud rather than wrong: `candidates.json`
+carries a `generated` date, and a file more than 8 days old aborts the run with no
+email and an issue filed.
+
+### The digest no longer depends on the AI classifier
+
+Relevant if you are deciding whether `classify_grants.py` stays. **The digest does
+not need it.** `fields`, `can_lead` and `can_participate` are treated as optional
+corroboration; the authoritative sources are `who_can_apply` (600 chars of real
+prose), `target_groups`, `restrictions`, and the live call page fetched for every
+shortlisted item — all better evidence than a classifier's summary of the same text.
+The prompt states that an empty value means *not classified*, never "nobody is
+eligible", so nothing is silently excluded when it is off.
+
+Switch it off freely as far as the digest is concerned. Whether it stays is a
+question about `app.py` (`matches_position` and `matches_field` both depend on it),
+and that is your call, not the task's.
