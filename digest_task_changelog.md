@@ -687,6 +687,57 @@ Raised by `nwo-digest-ops#9`: time-since-PhD windows gate the whole talent line 
 Vidi, Vici, Rubicon) and `Position` cannot settle them, so without this field the rules
 either demote every talent call or ignore the condition. `digest.py` is unaffected.
 
+### Request G — `rolling` under-reports, and the top-level `deadline` can hold an opening date (raised 2026-10-07)
+
+From `nwo-digest-ops#10`. `impact-explorer-2026` is continuously open from 2026-10-06
+to 2027-10-05 and ships:
+
+```json
+"status": "upcoming", "deadline": "2026-10-06", "rolling": false,
+"deadline_dates_labelled": [
+  {"date": "2026-10-06", "label": null,
+   "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 …"},
+  {"date": "2027-10-05", "label": "Closing date full application", "context": ""}
+]
+```
+
+Three things wrong on one record: `rolling` is false for a call whose own prose says
+"on a continuous basis"; the headline `deadline` holds the date submissions OPEN; and
+that same date is unlabelled in the labelled list, where `opening (from text)` would
+have excluded it.
+
+**Why it matters more than it looks.** It was harmless on 2026-10-07 only because
+2026-10-06 was already past, so the gate fell through to the labelled 2027-10-05. Run a
+day earlier and 4(f) takes the opening date as the earliest future date, lands inside
+the three-week band, and demotes a call with twelve months left to run. `rolling` is
+consulted before any date logic, so a correct flag short-circuits the whole class.
+
+**Asked for**, in the reporter's order:
+
+1. Derive `rolling` from body text as well as the dates table. The cues are plain and
+   recurring: "on a continuous basis", "continuously", "submitted at any time", "no
+   intermediate deadlines". Three of the nine currently-flagged rolling calls use one
+   verbatim. `take-off-phase-1-feasibility-studies-wo-2026` is almost identical to
+   impact-explorer — continuous submission to a single end date, assessed in batches —
+   and IS flagged, so the gap is in detection, not in the concept.
+2. Label the first date of a "from <date> up to and including <date>" sentence as
+   `opening (from text)`. The sentence already distinguishes the two, and this is the
+   same mechanism Request E2 used for scope. **This is the generalisable one** — it also
+   retires part of the heuristic Request D left behind.
+3. Do not populate the top-level `deadline` from a date whose context marks it as an
+   opening. An empty `deadline` is more honest and is already handled downstream
+   (`computing-time-on-national-computing-facilities-0` ships `"deadline": ""`).
+
+**Interim measures, already in the task prompt.** The task now ignores the top-level
+`deadline` entirely and works from the labelled list; treats an unlabelled date whose
+context describes an opening the same as a labelled one; and overrides `rolling: false`
+when a context string carries continuous-submission prose, reporting every override.
+That defends the digest twice over without the data changing, so nothing is blocked.
+
+**Priority: medium.** Lower than F, higher than E1 — no live subscriber is affected
+today, but the failure is calendar-dependent rather than data-dependent, which makes it
+the kind that reappears without warning.
+
 ### Declined, for the record
 
 `nwo-digest-ops#3` also suggested promoting news items titled `Call open: ...` into
