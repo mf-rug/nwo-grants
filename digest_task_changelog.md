@@ -124,3 +124,71 @@ nothing, and the original failure mode is still only caught by the page fetch.
 
 A one-time `--backfill` send went out to the single consented subscriber
 (m.j.l.j.furst@rug.nl) on 2026-10-06. Weekly runs do **not** pass `--backfill`.
+
+---
+
+## 7. Architecture change (2026-10-07): device-bound → cloud-only
+
+**The device-bound design was broken and is gone.** `digest_task.md` has been
+rewritten; §1 of this file described the old harness and is now historical. What
+replaced it, and why, is below.
+
+### The bug that forced it
+
+Folders declared on a scheduled task are recorded but **never granted inside the
+task's runs**:
+
+- the task config reports `folders_state: FOLDERS_STATE_PRESENT` with both paths;
+- the run's own session reminder *lists* the folders as connected;
+- `get_device_info.connectedFolders` nevertheless returns `[]`, and `device_bash`
+  has no mounts, so every file step fails.
+
+Reproduced twice — once at 03:00 unattended, once on demand with the Mac awake on a
+newer app build (2.19675.1 → 2.26454.0 overnight, so it is not an update artifact).
+The device itself was reachable both times; only the folder grant was missing.
+
+**The run still recorded `ROUTINE_RUN_STATUS_SUCCEEDED`.** Run status reflects that
+the session finished, not that the task worked. Do not treat a green run as
+evidence the digest went out.
+
+### What changed
+
+Nothing in the scraper or the data contract. The move is entirely about where the
+task runs and where mutable state lives:
+
+- **Runs in the cloud**, no device binding, no connected folders. `digest.py` is
+  fetched each run from the public raw URL; it already reads `grants.json` and
+  `news.json` from public URLs, so no checkout was ever strictly needed.
+- **Postmark secret** → private Google Sheet (`1H0bpMMi…`), read at send time and
+  passed as env vars. It no longer lives only on one laptop. The repo still holds
+  no secrets.
+- **Profile cache** → private Google Sheet (`1rT9GBDe…`, tab `profiles`), replacing
+  `~/.nwo-digest-profiles.json`. Read *and written* in place.
+- **Requires the Google Sheets connector**, not just Drive. Drive's `update_file`
+  changes title and parent only, so Drive alone cannot write the cache. This was
+  the one genuine blocker to going cloud-only, and adding the connector removed it.
+- The sleep-dependency caveat in §1 is moot: a cloud task does not need the Mac.
+
+### Two storage traps, both hit for real
+
+- **Sheets coerces written values like the UI.** The CSV that seeded the cache
+  turned `2026-10-06` into the number `46301` with a date format. It displayed
+  correctly *and* `get_values` returned `"2026-10-06"`, so only a grid read showed
+  the real `userEnteredValue`. Fixed, and the task prompt now requires an
+  apostrophe prefix on dates. If you ever write to these Sheets from backend code,
+  do the same.
+- **Google Docs cannot hold machine-readable text.** Through the connector a Doc
+  reads back markdown-escaped (`\[`, `\_`) with blank lines injected, so JSON in a
+  Doc will not parse. The cache was briefly a Doc for this reason and was moved to
+  a Sheet. Sheets round-trip values exactly.
+
+### Unchanged, and still your side
+
+The matching contract from §5 and the `restrictions` handling from §6 carry over
+verbatim into the new prompt, including that `invited_only: false` is not evidence
+a call is open and that the per-call page fetch remains the primary guard. The
+backend follow-ups you shipped in `b0b4b20` are unaffected — `detect_restrictions()`
+and the widened `_grant_brief()` are exactly what the cloud task consumes.
+
+Nothing here asks anything of the scraper. It is recorded so you are not debugging
+a device-bound task that no longer exists.
