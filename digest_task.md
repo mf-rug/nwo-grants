@@ -118,17 +118,27 @@ would reintroduce the bug the log exists to fix.
 
 ## The task does not depend on the AI classifier
 
-`fields`, `can_lead` and `can_participate` came from `classify_grants.py`. The task
-treats them as **optional corroboration only**. Its authoritative eligibility
-sources are `who_can_apply` (600 chars of the real prose), `target_groups`,
-`restrictions`, and the live call page it fetches for every shortlisted item — all
-better evidence than a classifier's summary of the same text.
+**State as of 2026-10-07, verified against the working tree:** the classifier is
+*still in place*. `classify_grants.py` exists, the Action still runs its "Classify
+grants (AI)" step with `ANTHROPIC_API_KEY` and still pip-installs `anthropic`,
+`process.py` still carries `ai_classification` forward, `app.py` still has
+`matches_position`/`matches_field`, and 179 of the 225 records in `grants.json`
+still carry a classification. Commit `2db31bc`, whose message announces all of
+those removals, changed only documentation — see changelog §11, Request C.
+
+None of that matters to the digest, by design. `fields`, `can_lead` and
+`can_participate` are **optional corroboration only**. The task's authoritative
+eligibility sources are `who_can_apply` (600 chars of the real prose),
+`target_groups`, `restrictions`, and the live call page it fetches for every
+shortlisted item — all better evidence than a classifier's summary of the same
+text.
 
 The prompt states explicitly that an empty value means *not classified*, never
-"nobody is eligible", so nothing is silently excluded when the classifier is off.
-Verified by regenerating the candidates from a `grants.json` with every
-`ai_classification` stripped: identical keys, identical counts, `who_can_apply`,
-`target_groups` and `restrictions` untouched.
+"nobody is eligible", so nothing is silently excluded whether the classifier is
+on, off, or half-removed. Verified by regenerating the candidates from a
+`grants.json` with every `ai_classification` stripped: identical keys, identical
+counts, `who_can_apply`, `target_groups` and `restrictions` untouched. When the
+removal actually lands, nothing in the task needs changing.
 
 ## Reporting problems
 
@@ -159,6 +169,9 @@ subscriber addresses, names or profiles; no secrets, ever.
 - **Google Docs are not a machine-readable container.** Through the connector a Doc
   returns markdown-escaped text (`\[`, `\_`) with blank lines injected, so JSON
   stored in one will not parse. Sheets round-trip values exactly.
+- **A commit message is not evidence a change landed.** `2db31bc` announced five
+  code removals and contained only a doc edit. Check `git show --stat` before
+  writing docs — or a task prompt — against a claimed state.
 
 ## Matching rules (why they exist)
 
