@@ -1,13 +1,302 @@
 {
-  "generated": "2026-10-07",
+  "generated": "2026-10-12",
   "window_days": 21,
   "source_counts": {
-    "grants_total": 225,
-    "news_total": 23
+    "grants_total": 223,
+    "news_total": 27
   },
-  "new_grants": [],
-  "just_opened": [],
+  "new_grants": [
+    {
+      "id": "scientific-meetings-and-consultations-2027",
+      "title": "Scientific Meetings and Consultations 2027",
+      "url": "https://www.nwo.nl/en/calls/scientific-meetings-and-consultations-2027",
+      "status": "in_preparation",
+      "deadline": "2026-12-31",
+      "deadline_dates": [
+        "2026-12-31"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-12-31",
+          "label": "Closing date full application",
+          "context": ""
+        }
+      ],
+      "rolling": false,
+      "finance_type": "",
+      "programme": "Scientific Meetings and Consultations (ENW)",
+      "budget": "",
+      "target_groups": "",
+      "purpose": "",
+      "who_can_apply": "",
+      "details_published": false,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "ngf-big-chemistry-2026",
+      "title": "NGF - Big Chemistry 2026",
+      "url": "https://www.nwo.nl/en/calls/ngf-big-chemistry-2026",
+      "status": "in_preparation",
+      "deadline": "2027-02-23",
+      "deadline_dates": [
+        "2027-02-23"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-02-23",
+          "label": "Closing date full application",
+          "context": ""
+        }
+      ],
+      "rolling": false,
+      "finance_type": "",
+      "programme": "Big Chemistry",
+      "budget": "€2,525,719",
+      "target_groups": "",
+      "purpose": "",
+      "who_can_apply": "",
+      "details_published": false,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2026-10-12"
+    }
+  ],
+  "just_opened": [
+    {
+      "id": "antarctic-research-and-antarctica-insync",
+      "title": "Antarctic research and Antarctica InSync",
+      "url": "https://www.nwo.nl/en/calls/antarctic-research-and-antarctica-insync",
+      "status": "open",
+      "deadline": "2026-10-29",
+      "deadline_dates": [
+        "2026-10-29",
+        "2026-11-24",
+        "2027-02-16",
+        "2027-02-16"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-29",
+          "label": null,
+          "context": "The next Call for Transnational Access (CTA) closes Thursday 29 October 2026 at 16:00 CET."
+        },
+        {
+          "date": "2026-11-24",
+          "label": null,
+          "context": "The deadline for the submission of a Pre-Award Operational Support and Planning Questionnaire (OSPQ) for planned use of the facilities of the British Antarctic Survey and the Dutch"
+        },
+        {
+          "date": "2027-02-16",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2027-02-16",
+          "label": null,
+          "context": "The deadline for the submission of proposals is Tuesday 16 February 2027, before 14:00:00 CET ."
+        }
+      ],
+      "rolling": false,
+      "finance_type": "",
+      "programme": "Netherlands Polar Programme Polair Programma",
+      "budget": "€3,200,000",
+      "target_groups": "International Collaboration",
+      "purpose": "also contributes to Antarctica InSync. Proposals should address one or more of the InSync themes and contribute to harmonised measurements, sampling and analysis. Projects need to be embedded in international research expeditions and campai…",
+      "who_can_apply": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. Researchers at a university of applied sciences or a TO2 institute can also ap…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "perspectief-round-2026-2027",
+      "title": "Perspectief round 2026-2027",
+      "url": "https://www.nwo.nl/en/calls/perspectief-round-2026-2027",
+      "status": "open",
+      "deadline": "2026-11-24",
+      "deadline_dates": [
+        "2026-11-24",
+        "2027-05-25"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-24",
+          "label": "Closing date for pre-proposals",
+          "context": ""
+        },
+        {
+          "date": "2027-05-25",
+          "label": "Closing date full application",
+          "context": ""
+        }
+      ],
+      "rolling": false,
+      "finance_type": "Collaboration with Partners",
+      "programme": "Perspectief 2026-2027",
+      "budget": "€26,500,000",
+      "target_groups": "Interdisciplinary Collaboration",
+      "purpose": "Innovation that has an economic and social impact often requires a large-scale approach. Developing new technology requires setting up new lines of research, transcending old networks and creating close collaboration between scientists and …",
+      "who_can_apply": "Scientists, companies and social organisations can apply a comprehensive research project concerning new technology through consortia. Such a project usually consists of four to eight work packages which approach the overarching theme from various research directions, with an explicit focus on application. At least three knowledge institutions and four users must be represented in the consortium. In addition to academic parties, TO2 institutes and universities of applied sciences can also apply for funding under certain conditions. For each programme, users must contribute to the program costs…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "phds-in-the-humanities-2027",
+      "title": "PhDs in the Humanities 2027",
+      "url": "https://www.nwo.nl/en/calls/phds-in-the-humanities-2027",
+      "status": "open",
+      "deadline": "2027-02-16",
+      "deadline_dates": [
+        "2027-02-16"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-02-16",
+          "label": "Closing date full application",
+          "context": ""
+        }
+      ],
+      "rolling": false,
+      "finance_type": "",
+      "programme": "PhDs in the Humanities",
+      "budget": "€5,173,000",
+      "target_groups": "",
+      "purpose": "",
+      "who_can_apply": "",
+      "details_published": false,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "gravitation-2027-frontier-research-for-consortia",
+      "title": "Gravitation 2027 - Frontier research for consortia",
+      "url": "https://www.nwo.nl/en/calls/gravitation-2027-frontier-research-for-consortia",
+      "status": "open",
+      "deadline": "2027-03-30",
+      "deadline_dates": [
+        "2027-03-30",
+        "2027-03-30"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-03-30",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2027-03-30",
+          "label": null,
+          "context": "The deadline for submitting the proposals is 30 March 2027, before 14:00:00 CET ."
+        }
+      ],
+      "rolling": false,
+      "finance_type": "Curiosity Driven Research",
+      "programme": "Gravitation Zwaartekracht 2.0",
+      "budget": "€159,250,000",
+      "target_groups": "Interdisciplinary Collaboration",
+      "purpose": "The Gravitation programme brings together researchers from one or more disciplines into consortia capable of positioning themselves at the global forefront of their respective research fields.",
+      "who_can_apply": "Only the Executive Boards of universities based in the Kingdom of the Netherlands —as the primary recipients of funding from the Ministry of Education, Culture and Science (OCW) (first stream funding)— may submit proposals to NWO under this programme. Each Executive Board may submit a maximum of four proposals. The technical submission via ISAAC must be carried out by the consortium coordinator. The coordinator serves as the primary point of contact for the proposal and, together with up to five other ‘principal investigators’ (PIs), forms the consortium’s scientific leadership. In this Call f…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "impact-explorer-2026",
+      "title": "Impact Explorer 2026",
+      "url": "https://www.nwo.nl/en/calls/impact-explorer-2026",
+      "status": "open",
+      "deadline": "2027-10-05",
+      "deadline_dates": [
+        "2026-10-06",
+        "2027-10-05",
+        "2027-10-05"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-06",
+          "label": "opening (from text)",
+          "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
+        },
+        {
+          "date": "2027-10-05",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2027-10-05",
+          "label": "deadline (from text)",
+          "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
+        }
+      ],
+      "rolling": true,
+      "finance_type": "Curiosity Driven Research",
+      "programme": "Impact Explorer",
+      "budget": "€1,450,000",
+      "target_groups": "Collaboration with social partners Knowledge Utilisation",
+      "purpose": "The purpose of this grant, identically to the earlier Impact Explorer round, is to explore whether and how an unexpected research outcome, or an unexpected application of a research outcome, from curiosity-driven research can lead to societ…",
+      "who_can_apply": "Researchers with a running project in one of NWO or ZonMw's open competitions or talent line programmes can submit. For each ongoing project, only one proposal may be assessed in the Impact Explorer programme. Impact Explorer applications should be submitted with at least one Impact Partner. For specific conditions, see chapter 3.2 in the call.",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    }
+  ],
   "recent_news": [
+    {
+      "title": "Dutch Research Council (NWO) cancels subscriptions to Web of Science and Scopus",
+      "url": "https://www.nwo.nl/en/news/dutch-research-council-nwo-cancels-subscriptions-to-web-of-science-and-scopus",
+      "date": "2026-10-09",
+      "summary": "From 1 January 2027, NWO staff will no longer have access to the bibliographic databases Web of Science (Clarivate) and...",
+      "pre_announcement": false
+    },
+    {
+      "title": "Call for proposals: Antarctic Research and Antarctica InSync",
+      "url": "https://www.nwo.nl/en/news/call-for-proposals-antarctic-research-and-antarctica-insync",
+      "date": "2026-10-08",
+      "summary": "Researchers can now submit proposals for the Antarctic Research and Antarctica InSync grant round. With a total budget...",
+      "pre_announcement": false
+    },
+    {
+      "title": "Festive award ceremony for Spinoza and Stevin laureates, whom the minister ‘will be keeping a close eye on’",
+      "url": "https://www.nwo.nl/en/news/festive-award-ceremony-for-spinoza-and-stevin-laureates-whom-the-minister-will-be-keeping-a-close-eye-on",
+      "date": "2026-10-07",
+      "summary": "‘The Spinoza and Stevin Prizes are a mark of recognition, but also a mandate. The prizes reflect the expectation that...",
+      "pre_announcement": false
+    },
+    {
+      "title": "Impact Explorer 2026 now open for proposals",
+      "url": "https://www.nwo.nl/en/news/impact-explorer-2026-now-open-for-proposals",
+      "date": "2026-10-06",
+      "summary": "The Impact Explorer 2026 call is now open for proposals. Following the success of the previous round, NWO has increased...",
+      "pre_announcement": false
+    },
     {
       "title": "Pre-announcement: KIC call for research into circularity in offshore wind",
       "url": "https://www.nwo.nl/en/news/pre-announcement-kic-call-for-research-into-circularity-in-offshore-wind",
@@ -91,257 +380,9 @@
       "date": "2026-09-21",
       "summary": "The publication of the final brochure marks the official conclusion of the research programme ‘Social (re)integration of...",
       "pre_announcement": false
-    },
-    {
-      "title": "Seven grants awarded to explore natural biochemical diversity for more sustainable production processes",
-      "url": "https://www.nwo.nl/en/news/seven-grants-awarded-to-explore-natural-biochemical-diversity-for-more-sustainable-production-processes",
-      "date": "2026-09-17",
-      "summary": "NWO has awarded funding to seven projects under the KIC call ‘Biochemical Diversity’. The consortia, comprising public...",
-      "pre_announcement": false
-    },
-    {
-      "title": "Call open: Sustainable Blue Economy Partnership Fourth Joint Transnational call",
-      "url": "https://www.nwo.nl/en/news/call-open-sustainable-blue-economy-partnership-fourth-joint-transnational-call",
-      "date": "2026-09-16",
-      "summary": "The European partnership SBEP has launched its fourth call for proposals, titled: ‘Building a sustainable Blue Economy...",
-      "pre_announcement": false
     }
   ],
   "currently_open": [
-    {
-      "id": "dutch-research-agenda-research-along-routes-by-consortia-2026",
-      "title": "Dutch Research Agenda - Research along Routes by Consortia 2026",
-      "url": "https://www.nwo.nl/en/calls/dutch-research-agenda-research-along-routes-by-consortia-2026",
-      "status": "open",
-      "deadline": "",
-      "deadline_dates": [
-        "2026-03-17",
-        "2026-10-06",
-        "2026-10-06"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-03-17",
-          "label": null,
-          "context": "The NWA-ORC 2026 round has two phases: Registration for and participation in collaborative workshops (mandatory for main applicants) Between 6 February and 17 March 2026, NWO organ"
-        },
-        {
-          "date": "2026-10-06",
-          "label": "Closing date full application",
-          "context": ""
-        },
-        {
-          "date": "2026-10-06",
-          "label": null,
-          "context": "Submitting a proposal The deadline for submission of proposals via ISAAC is 6 October 2026, at 14:00:00 CEST ."
-        }
-      ],
-      "rolling": false,
-      "finance_type": "Collaboration with Partners",
-      "programme": "NWA ORC 2026",
-      "budget": "€87,000,000",
-      "target_groups": "Interdisciplinary Collaboration International Collaboration Collaboration with social partners Applied Sciences Research Researchers from Abroad Collaboration with Industry",
-      "purpose": "The aim of the NWA ORC 2026 call for proposals is to encourage research that is set up and carried out by inter- and transdisciplinary consortia that include representatives from the full breadth of the knowledge chain as well as relevant s…",
-      "who_can_apply": "Proposals should be submitted by a consortium in which the various types of research in the knowledge chain (fundamental, applied and practice-oriented) are represented. There are four categories of participant within a consortium: Main applicant; Co-applicant(s); Cooperating partner(s); Co-funder(s) (optional). The main applicant submits the application on behalf of the consortium. More information about the four categories of participants as well as specific requirements regarding who can apply, can be found in paragraph 3.1 of the call for proposals.",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [
-        {
-          "kind": "registration",
-          "mandatory": true,
-          "date": "2026-03-17",
-          "context": "The NWA-ORC 2026 round has two phases: Registration for and participation in collaborative workshops (mandatory for main applicants) Between 6 February and 17 March 2026, NWO organises collaborative w"
-        }
-      ],
-      "first_seen": ""
-    },
-    {
-      "id": "kic-early-detection-of-emerging-outbreaks-of-infectious-diseases",
-      "title": "KIC - Early detection of (emerging) outbreaks of infectious diseases",
-      "url": "https://www.nwo.nl/en/calls/kic-early-detection-of-emerging-outbreaks-of-infectious-diseases",
-      "status": "open",
-      "deadline": "",
-      "deadline_dates": [
-        "2026-03-19",
-        "2026-04-16",
-        "2026-10-06",
-        "2026-10-06"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-03-19",
-          "label": null,
-          "context": "The dates of the collaborative workshops are 19 March 2026 and 16 April 2026."
-        },
-        {
-          "date": "2026-04-16",
-          "label": null,
-          "context": "The dates of the collaborative workshops are 19 March 2026 and 16 April 2026."
-        },
-        {
-          "date": "2026-10-06",
-          "label": "Closing date full application",
-          "context": ""
-        },
-        {
-          "date": "2026-10-06",
-          "label": null,
-          "context": "The deadline for submission of full applications is 6 October 2026, 14:00:00 CEST."
-        }
-      ],
-      "rolling": false,
-      "finance_type": "Collaboration with Partners",
-      "programme": "Knowledge and Innovation Covenant KIC 2024-2027 Early detection of (emerging) outbreaks of infectious diseases",
-      "budget": "€7,000,000",
-      "target_groups": "Interdisciplinary Collaboration International Collaboration Collaboration with social partners Collaboration with Industry",
-      "purpose": "The aim of this programme is to develop and refine AI-driven early detection systems. The focus is on using and combining existing non-biomedical data sources for the early detection of infectious disease outbreaks. Combining these data sou…",
-      "who_can_apply": "Proposals are submitted by the main applicant and one or more co-applicants. Researchers may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at a research organisation. A proposal is written by a consortium in which besides the applicants two or more co-funders, and potentially one or more cooperation partners, are involved as well. All consortiumpartners should play an active role in the formulation of the research questions and in the design and implementation of the project. For more information: see …",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": ""
-    },
-    {
-      "id": "perspectief-round-2026-2027",
-      "title": "Perspectief round 2026-2027",
-      "url": "https://www.nwo.nl/en/calls/perspectief-round-2026-2027",
-      "status": "open",
-      "deadline": "2026-11-24",
-      "deadline_dates": [
-        "2026-10-06",
-        "2026-11-24",
-        "2027-05-25"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-10-06",
-          "label": "Closing date for letter of intent",
-          "context": ""
-        },
-        {
-          "date": "2026-11-24",
-          "label": "Closing date for pre-proposals",
-          "context": ""
-        },
-        {
-          "date": "2027-05-25",
-          "label": "Closing date full application",
-          "context": ""
-        }
-      ],
-      "rolling": false,
-      "finance_type": "Collaboration with Partners",
-      "programme": "Perspectief 2026-2027",
-      "budget": "€26,500,000",
-      "target_groups": "Interdisciplinary Collaboration",
-      "purpose": "Innovation that has an economic and social impact often requires a large-scale approach. Developing new technology requires setting up new lines of research, transcending old networks and creating close collaboration between scientists and …",
-      "who_can_apply": "Scientists, companies and social organisations can apply a comprehensive research project concerning new technology through consortia. Such a project usually consists of four to eight work packages which approach the overarching theme from various research directions, with an explicit focus on application. At least three knowledge institutions and four users must be represented in the consortium. In addition to academic parties, TO2 institutes and universities of applied sciences can also apply for funding under certain conditions. For each programme, users must contribute to the program costs…",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": ""
-    },
-    {
-      "id": "impact-explorer-2026",
-      "title": "Impact Explorer 2026",
-      "url": "https://www.nwo.nl/en/calls/impact-explorer-2026",
-      "status": "upcoming",
-      "deadline": "2027-10-05",
-      "deadline_dates": [
-        "2026-10-06",
-        "2027-10-05",
-        "2027-10-05"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-10-06",
-          "label": "opening (from text)",
-          "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
-        },
-        {
-          "date": "2027-10-05",
-          "label": "Closing date full application",
-          "context": ""
-        },
-        {
-          "date": "2027-10-05",
-          "label": "deadline (from text)",
-          "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
-        }
-      ],
-      "rolling": true,
-      "finance_type": "Curiosity Driven Research",
-      "programme": "Impact Explorer",
-      "budget": "€1,450,000",
-      "target_groups": "Collaboration with social partners Knowledge Utilisation",
-      "purpose": "The purpose of this grant, identically to the earlier Impact Explorer round, is to explore whether and how an unexpected research outcome, or an unexpected application of a research outcome, from curiosity-driven research can lead to societ…",
-      "who_can_apply": "Researchers with a running project in one of NWO or ZonMw's open competitions or talent line programmes can submit. For each ongoing project, only one proposal may be assessed in the Impact Explorer programme. Impact Explorer applications should be submitted with at least one Impact Partner. For specific conditions, see chapter 3.2 in the call.",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": ""
-    },
-    {
-      "id": "clean-energy-transition-partnership-joint-call-2026",
-      "title": "Clean Energy Transition Partnership Joint Call 2026",
-      "url": "https://www.nwo.nl/en/calls/clean-energy-transition-partnership-joint-call-2026",
-      "status": "open",
-      "deadline": "2026-10-08",
-      "deadline_dates": [
-        "2026-10-08",
-        "2026-10-08",
-        "2027-03-11",
-        "2027-03-11"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-10-08",
-          "label": "Closing date for pre-proposals",
-          "context": ""
-        },
-        {
-          "date": "2026-10-08",
-          "label": "deadline (from text)",
-          "context": "Pre- Proposal (compulsory) submission deadline: 8 October 2026, 14.00 CEST ."
-        },
-        {
-          "date": "2027-03-11",
-          "label": "Closing date full application",
-          "context": ""
-        },
-        {
-          "date": "2027-03-11",
-          "label": "deadline (from text)",
-          "context": "Full proposal submission deadline: 11 March 2027, 14.00 CET ."
-        }
-      ],
-      "rolling": false,
-      "finance_type": "Collaboration with Partners",
-      "programme": "Clean Energy Transition Partnership (CETP)",
-      "budget": "",
-      "target_groups": "Interdisciplinary Collaboration International Collaboration Applied Sciences Research Collaboration with Industry Collaboration with social partners",
-      "purpose": "The Clean Energy Transition Partnership (CETPartnership) is a multilateral and strategic partnership of national and regional research, development and innovation (RDI) programmes in European Member States and Associated Countries. The CETP…",
-      "who_can_apply": "This Call is open to transnational consortia of at least three partners requesting funding from three participating countries. At least two of these must be EU Member States or associated countries. Organisations which are not eligible for funding from a participating funder may join a consortium as self-funded partners, in addition to the minimum composition of the consortium. On the CETPartnership website, you can find a list of participating countries and search for partners using the partner search tool. Researchers from universities, universities of applied sciences and other knowledge or…",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": ""
-    },
     {
       "id": "kic-ai-for-agriculture-horticulture-water-and-food-2026",
       "title": "KIC AI for agriculture, horticulture, water and food 2026",
@@ -401,7 +442,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "preparing-for-tomorrow-societies-and-strategies-in-times-of-transition",
@@ -444,7 +485,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "kic-integrated-biorefineries-for-a-circular-future",
@@ -518,7 +559,7 @@
           "context": "Deadline for submission of the mandatory Letter of intent is 23 June 2026 14:00:00 CET (via e-mail) and 23 June 2026 23:59:59 BRT (SAGe) Deadline for submission of Proposals is 20 October 2026 14:00:0"
         }
       ],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "venture-challenge-spring-2027",
@@ -561,7 +602,44 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "kin-pact-network-grant-2026",
+      "title": "KIN Pact Network grant 2026",
+      "url": "https://www.nwo.nl/en/calls/kin-pact-network-grant-2026",
+      "status": "open",
+      "deadline": "2026-10-27",
+      "deadline_dates": [
+        "2026-10-27",
+        "2026-10-27"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-27",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2026-10-27",
+          "label": null,
+          "context": "Deadline for applications: 27 October 2026 at 14:00:00 uur CET"
+        }
+      ],
+      "rolling": false,
+      "finance_type": "Collaboration with Partners",
+      "programme": "Pact Netwerksubsidie",
+      "budget": "€480,000",
+      "target_groups": "Interdisciplinary Collaboration Collaboration with social partners Collaboration with Industry",
+      "purpose": "The aim of KIN Pact Network Grants is to provide financial support for setting up and professionalising transdisciplinary climate transition networks. This applies both to existing networks and to networks that have yet to start. KIN’s aim …",
+      "who_can_apply": "Employees of any legal entity registered in the Kingdom of the Netherlands are allowed to submit an application. One prerequisite for receiving a grant is that main and co-applicants representing existing or yet to be built networks are members of the KIN Pact at the time they submit their proposal. Main and co-applicants include at least one knowledge institution (i.e. organisations that conduct research, such as higher education institutions, scientific and applied research institutions, national government institutes and university medical centres), plus at least two civil society organisat…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
     },
     {
       "id": "holomicrobiome-2026-towards-novel-microbiome-applications-for-the-environment-food-and-health",
@@ -623,44 +701,7 @@
           "context": "Procedure Participation in the matchmaking is obligatory for main applicants."
         }
       ],
-      "first_seen": ""
-    },
-    {
-      "id": "kin-pact-network-grant-2026",
-      "title": "KIN Pact Network grant 2026",
-      "url": "https://www.nwo.nl/en/calls/kin-pact-network-grant-2026",
-      "status": "open",
-      "deadline": "2026-10-27",
-      "deadline_dates": [
-        "2026-10-27",
-        "2026-10-27"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-10-27",
-          "label": "Closing date full application",
-          "context": ""
-        },
-        {
-          "date": "2026-10-27",
-          "label": null,
-          "context": "Deadline for applications: 27 October 2026 at 14:00:00 uur CET"
-        }
-      ],
-      "rolling": false,
-      "finance_type": "Collaboration with Partners",
-      "programme": "Pact Netwerksubsidie",
-      "budget": "€480,000",
-      "target_groups": "Interdisciplinary Collaboration Collaboration with social partners Collaboration with Industry",
-      "purpose": "The aim of KIN Pact Network Grants is to provide financial support for setting up and professionalising transdisciplinary climate transition networks. This applies both to existing networks and to networks that have yet to start. KIN’s aim …",
-      "who_can_apply": "Employees of any legal entity registered in the Kingdom of the Netherlands are allowed to submit an application. One prerequisite for receiving a grant is that main and co-applicants representing existing or yet to be built networks are members of the KIN Pact at the time they submit their proposal. Main and co-applicants include at least one knowledge institution (i.e. organisations that conduct research, such as higher education institutions, scientific and applied research institutions, national government institutes and university medical centres), plus at least two civil society organisat…",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "accelerating-energy-transition-in-dutch-and-taiwanese-ports",
@@ -721,7 +762,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "antarctic-research-and-antarctica-insync",
@@ -759,8 +800,8 @@
       ],
       "rolling": false,
       "finance_type": "",
-      "programme": "Polair Programma",
-      "budget": "€3,000,000",
+      "programme": "Netherlands Polar Programme Polair Programma",
+      "budget": "€3,200,000",
       "target_groups": "International Collaboration",
       "purpose": "also contributes to Antarctica InSync. Proposals should address one or more of the InSync themes and contribute to harmonised measurements, sampling and analysis. Projects need to be embedded in international research expeditions and campai…",
       "who_can_apply": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. Researchers at a university of applied sciences or a TO2 institute can also ap…",
@@ -770,7 +811,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "scientific-meetings-and-consultations-2026",
@@ -873,7 +914,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "nwo-talent-programme-vidi-health-research-and-medical-sciences-zonmw-2026",
@@ -922,7 +963,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "nwo-talent-programme-vidi-applied-and-engineering-sciences-aes-2026",
@@ -971,56 +1012,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
-    },
-    {
-      "id": "nwo-talent-programme-vidi-social-sciences-and-humanities-ssh-2026",
-      "title": "NWO Talent Programme | Vidi - Social Sciences and Humanities (SSH) 2026",
-      "url": "https://www.nwo.nl/en/calls/nwo-talent-programme-vidi-social-sciences-and-humanities-ssh-2026",
-      "status": "open",
-      "deadline": "2026-11-03",
-      "deadline_dates": [
-        "2026-11-03",
-        "2026-11-03",
-        "2027-04-06",
-        "2027-04-06"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-11-03",
-          "label": "Closing date for pre-proposals",
-          "context": ""
-        },
-        {
-          "date": "2026-11-03",
-          "label": null,
-          "context": "The deadline for submitting preproposals is 3 November 2026, before 14:00:00 CET ."
-        },
-        {
-          "date": "2027-04-06",
-          "label": "Closing date full application",
-          "context": ""
-        },
-        {
-          "date": "2027-04-06",
-          "label": null,
-          "context": "The deadline for submitting full proposals is 6 April 2027, before 14:00:00 CEST ."
-        }
-      ],
-      "rolling": false,
-      "finance_type": "Talent Development",
-      "programme": "NWO Talent Programme Vidi SGW",
-      "budget": "",
-      "target_groups": "",
-      "purpose": "The aim of the NWO Talent Programme is to provide creative space for adventurous, talented, pioneering researchers to do research of their choice, develop their own line of research and further develop their talent.",
-      "who_can_apply": "The Vidi target group consists of researchers in transition to leadership, i.e. ready for the establishment of a research group or the expansion of a recent research group. The Vidi can contribute to the researcher's development in this area. The Vidi grant is aimed at researchers with academic qualities that clearly exceed what is customary and demonstrate the development of leadership and mentorships skills. Applications can be submitted by candidates who have obtained their PhD, irrespective of whether they hold tenured positions and of whether they come from the Netherlands or abroad. Cand…",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "nwo-talent-programme-vidi-science-2026",
@@ -1069,7 +1061,56 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "nwo-talent-programme-vidi-social-sciences-and-humanities-ssh-2026",
+      "title": "NWO Talent Programme | Vidi - Social Sciences and Humanities (SSH) 2026",
+      "url": "https://www.nwo.nl/en/calls/nwo-talent-programme-vidi-social-sciences-and-humanities-ssh-2026",
+      "status": "open",
+      "deadline": "2026-11-03",
+      "deadline_dates": [
+        "2026-11-03",
+        "2026-11-03",
+        "2027-04-06",
+        "2027-04-06"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-03",
+          "label": "Closing date for pre-proposals",
+          "context": ""
+        },
+        {
+          "date": "2026-11-03",
+          "label": null,
+          "context": "The deadline for submitting preproposals is 3 November 2026, before 14:00:00 CET ."
+        },
+        {
+          "date": "2027-04-06",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2027-04-06",
+          "label": null,
+          "context": "The deadline for submitting full proposals is 6 April 2027, before 14:00:00 CEST ."
+        }
+      ],
+      "rolling": false,
+      "finance_type": "Talent Development",
+      "programme": "NWO Talent Programme Vidi SGW",
+      "budget": "",
+      "target_groups": "",
+      "purpose": "The aim of the NWO Talent Programme is to provide creative space for adventurous, talented, pioneering researchers to do research of their choice, develop their own line of research and further develop their talent.",
+      "who_can_apply": "The Vidi target group consists of researchers in transition to leadership, i.e. ready for the establishment of a research group or the expansion of a recent research group. The Vidi can contribute to the researcher's development in this area. The Vidi grant is aimed at researchers with academic qualities that clearly exceed what is customary and demonstrate the development of leadership and mentorships skills. Applications can be submitted by candidates who have obtained their PhD, irrespective of whether they hold tenured positions and of whether they come from the Netherlands or abroad. Cand…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
     },
     {
       "id": "mosaic-30",
@@ -1118,7 +1159,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "partnership-water4all-sustainable-water-management",
@@ -1174,7 +1215,7 @@
           "context": "Deadline stage 1, pre-proposal (obligatory): 10 November 2026, 15:00 CET ."
         }
       ],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "novel-ecosystems-biodiversity-socio-ecological-consequences-and-future-trajectories-biodivfuture",
@@ -1211,7 +1252,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "financing-professional-doctorate-candidates-2026",
@@ -1242,7 +1283,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "thematic-digital-competence-centres-2026",
@@ -1292,7 +1333,7 @@
           "context": "Only applicants who contacted the relevant TDCC (LSH, NES, or SSH) before the deadline of that TDCC’s mandatory preliminary process are eligible."
         }
       ],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "sustainable-blue-economy-partnership-fourth-joint-transnational-co-funded-call",
@@ -1336,7 +1377,7 @@
           "context": "Deadline for submitting a pre-proposal (compulsory) is November 16th, 2026, 15:00 CET ."
         }
       ],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "tulip-fund",
@@ -1379,7 +1420,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "kic-innovative-early-diagnostics-of-digestive-diseases",
@@ -1428,7 +1469,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "driving-urban-transitions-call-2026",
@@ -1477,7 +1518,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "ssh-open-competition-expand-2026",
@@ -1532,7 +1573,44 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "perspectief-round-2026-2027",
+      "title": "Perspectief round 2026-2027",
+      "url": "https://www.nwo.nl/en/calls/perspectief-round-2026-2027",
+      "status": "open",
+      "deadline": "2026-11-24",
+      "deadline_dates": [
+        "2026-11-24",
+        "2027-05-25"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-11-24",
+          "label": "Closing date for pre-proposals",
+          "context": ""
+        },
+        {
+          "date": "2027-05-25",
+          "label": "Closing date full application",
+          "context": ""
+        }
+      ],
+      "rolling": false,
+      "finance_type": "Collaboration with Partners",
+      "programme": "Perspectief 2026-2027",
+      "budget": "€26,500,000",
+      "target_groups": "Interdisciplinary Collaboration",
+      "purpose": "Innovation that has an economic and social impact often requires a large-scale approach. Developing new technology requires setting up new lines of research, transcending old networks and creating close collaboration between scientists and …",
+      "who_can_apply": "Scientists, companies and social organisations can apply a comprehensive research project concerning new technology through consortia. Such a project usually consists of four to eight work packages which approach the overarching theme from various research directions, with an explicit focus on application. At least three knowledge institutions and four users must be represented in the consortium. In addition to academic parties, TO2 institutes and universities of applied sciences can also apply for funding under certain conditions. For each programme, users must contribute to the program costs…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
     },
     {
       "id": "open-competition-domain-science-m-2026--2027",
@@ -1581,7 +1659,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "rubicon-2026-3",
@@ -1618,7 +1696,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "take-off-phase-1-feasibility-studies-wo-2026",
@@ -1649,7 +1727,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "radioactive-waste-disposal-and-radiation-protection",
@@ -1680,7 +1758,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "doctoral-grant-for-teachers-2027-i",
@@ -1717,7 +1795,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "ssh-open-competition-explore-2027-round-1",
@@ -1766,7 +1844,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "kic-societal-earning-capacity-connection-synthesis-and-knowledge-utilisation",
@@ -1803,7 +1881,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "use-of-space-infrastructure-for-earth-observation-and-planetary-research-go",
@@ -1834,7 +1912,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "large-scale-research-infrastructure-lsri-national-roadmap-consortia-2026",
@@ -1871,7 +1949,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "raw-materials-partnership-jtc-2026",
@@ -1927,38 +2005,7 @@
           "context": "Deadline stage 1, pre-proposal (obligatory): 22 September 2026, 15:00 CEST ."
         }
       ],
-      "first_seen": ""
-    },
-    {
-      "id": "phds-in-the-humanities-2027",
-      "title": "PhDs in the Humanities 2027",
-      "url": "https://www.nwo.nl/en/calls/phds-in-the-humanities-2027",
-      "status": "in_preparation",
-      "deadline": "2027-02-16",
-      "deadline_dates": [
-        "2027-02-16"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2027-02-16",
-          "label": "Closing date full application",
-          "context": ""
-        }
-      ],
-      "rolling": false,
-      "finance_type": "",
-      "programme": "PhDs in the Humanities",
-      "budget": "€5,173,000",
-      "target_groups": "",
-      "purpose": "",
-      "who_can_apply": "",
-      "details_published": false,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "kic-3d-integration-technologies-and-sustainable-systemic-design-techniques-for-next-gen-semiconductor-equipment-0",
@@ -1989,44 +2036,87 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
-      "id": "gravitation-2027-frontier-research-for-consortia",
-      "title": "Gravitation 2027 - Frontier research for consortia",
-      "url": "https://www.nwo.nl/en/calls/gravitation-2027-frontier-research-for-consortia",
-      "status": "upcoming",
-      "deadline": "2027-03-30",
+      "id": "phds-in-the-humanities-2027",
+      "title": "PhDs in the Humanities 2027",
+      "url": "https://www.nwo.nl/en/calls/phds-in-the-humanities-2027",
+      "status": "open",
+      "deadline": "2027-02-16",
       "deadline_dates": [
-        "2027-03-30",
-        "2027-03-30"
+        "2027-02-16"
       ],
       "deadline_dates_labelled": [
         {
-          "date": "2027-03-30",
+          "date": "2027-02-16",
+          "label": "Closing date full application",
+          "context": ""
+        }
+      ],
+      "rolling": false,
+      "finance_type": "",
+      "programme": "PhDs in the Humanities",
+      "budget": "€5,173,000",
+      "target_groups": "",
+      "purpose": "",
+      "who_can_apply": "",
+      "details_published": false,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "clean-energy-transition-partnership-joint-call-2026",
+      "title": "Clean Energy Transition Partnership Joint Call 2026",
+      "url": "https://www.nwo.nl/en/calls/clean-energy-transition-partnership-joint-call-2026",
+      "status": "open",
+      "deadline": "2027-03-11",
+      "deadline_dates": [
+        "2026-10-08",
+        "2026-10-08",
+        "2027-03-11",
+        "2027-03-11"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-08",
+          "label": "Closing date for pre-proposals",
+          "context": ""
+        },
+        {
+          "date": "2026-10-08",
+          "label": "deadline (from text)",
+          "context": "Pre- Proposal (compulsory) submission deadline: 8 October 2026, 14.00 CEST ."
+        },
+        {
+          "date": "2027-03-11",
           "label": "Closing date full application",
           "context": ""
         },
         {
-          "date": "2027-03-30",
-          "label": null,
-          "context": "The deadline for submitting the proposals is 30 March 2027, before 14:00:00 CET ."
+          "date": "2027-03-11",
+          "label": "deadline (from text)",
+          "context": "Full proposal submission deadline: 11 March 2027, 14.00 CET ."
         }
       ],
       "rolling": false,
-      "finance_type": "Curiosity Driven Research",
-      "programme": "Gravitation",
-      "budget": "€159,250,000",
-      "target_groups": "Interdisciplinary Collaboration",
-      "purpose": "The Gravitation programme brings together researchers from one or more disciplines into consortia capable of positioning themselves at the global forefront of their respective research fields.",
-      "who_can_apply": "Only the Executive Boards of universities based in the Kingdom of the Netherlands —as the primary recipients of funding from the Ministry of Education, Culture and Science (OCW) (first stream funding)— may submit proposals to NWO under this programme. Each Executive Board may submit a maximum of four proposals. The technical submission via ISAAC must be carried out by the consortium coordinator. The coordinator serves as the primary point of contact for the proposal and, together with up to five other ‘principal investigators’ (PIs), forms the consortium’s scientific leadership. In this Call f…",
+      "finance_type": "Collaboration with Partners",
+      "programme": "Clean Energy Transition Partnership (CETP)",
+      "budget": "",
+      "target_groups": "Interdisciplinary Collaboration International Collaboration Applied Sciences Research Collaboration with Industry Collaboration with social partners",
+      "purpose": "The Clean Energy Transition Partnership (CETPartnership) is a multilateral and strategic partnership of national and regional research, development and innovation (RDI) programmes in European Member States and Associated Countries. The CETP…",
+      "who_can_apply": "This Call is open to transnational consortia of at least three partners requesting funding from three participating countries. At least two of these must be EU Member States or associated countries. Organisations which are not eligible for funding from a participating funder may join a consortium as self-funded partners, in addition to the minimum composition of the consortium. On the CETPartnership website, you can find a list of participating countries and search for partners using the partner search tool. Researchers from universities, universities of applied sciences and other knowledge or…",
       "details_published": true,
       "restrictions": {
         "invited_only": false,
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "reducing-drug-harm-towards-effective-societal-interventions",
@@ -2076,7 +2166,44 @@
           "context": "Participation in all synergy workshops in phase 2 is mandatory for the main applicants of the selected pre-proposals if they wish to act as main applicant of the full proposal."
         }
       ],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "gravitation-2027-frontier-research-for-consortia",
+      "title": "Gravitation 2027 - Frontier research for consortia",
+      "url": "https://www.nwo.nl/en/calls/gravitation-2027-frontier-research-for-consortia",
+      "status": "open",
+      "deadline": "2027-03-30",
+      "deadline_dates": [
+        "2027-03-30",
+        "2027-03-30"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-03-30",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2027-03-30",
+          "label": null,
+          "context": "The deadline for submitting the proposals is 30 March 2027, before 14:00:00 CET ."
+        }
+      ],
+      "rolling": false,
+      "finance_type": "Curiosity Driven Research",
+      "programme": "Gravitation Zwaartekracht 2.0",
+      "budget": "€159,250,000",
+      "target_groups": "Interdisciplinary Collaboration",
+      "purpose": "The Gravitation programme brings together researchers from one or more disciplines into consortia capable of positioning themselves at the global forefront of their respective research fields.",
+      "who_can_apply": "Only the Executive Boards of universities based in the Kingdom of the Netherlands —as the primary recipients of funding from the Ministry of Education, Culture and Science (OCW) (first stream funding)— may submit proposals to NWO under this programme. Each Executive Board may submit a maximum of four proposals. The technical submission via ISAAC must be carried out by the consortium coordinator. The coordinator serves as the primary point of contact for the proposal and, together with up to five other ‘principal investigators’ (PIs), forms the consortium’s scientific leadership. In this Call f…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
     },
     {
       "id": "weave-with-nwo-as-partner-agency-2026--2027",
@@ -2119,7 +2246,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "system-perspective-on-materials-for-strategic-autonomy-in-the-energy-transition",
@@ -2150,7 +2277,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "kic-mobile-and-modular-imaging-technology-for-a-healthy-and-safe-society",
@@ -2181,7 +2308,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "new-materials-and-production-processes-for-large-scale-energy-storage-and-conversion",
@@ -2212,7 +2339,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "kic-circularity-of-materials-components-and-structures-in-offshore-wind",
@@ -2243,7 +2370,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "kic-human-capital-and-digital-innovation-in-the-netherlands",
@@ -2274,7 +2401,50 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "impact-explorer-2026",
+      "title": "Impact Explorer 2026",
+      "url": "https://www.nwo.nl/en/calls/impact-explorer-2026",
+      "status": "open",
+      "deadline": "2027-10-05",
+      "deadline_dates": [
+        "2026-10-06",
+        "2027-10-05",
+        "2027-10-05"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-06",
+          "label": "opening (from text)",
+          "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
+        },
+        {
+          "date": "2027-10-05",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2027-10-05",
+          "label": "deadline (from text)",
+          "context": "Applications may be submitted to NWO on a continuous basis from Tuesday 6 October 2026 up to and including Tuesday 5 October 2027 before 14:00:00 CEST ."
+        }
+      ],
+      "rolling": true,
+      "finance_type": "Curiosity Driven Research",
+      "programme": "Impact Explorer",
+      "budget": "€1,450,000",
+      "target_groups": "Collaboration with social partners Knowledge Utilisation",
+      "purpose": "The purpose of this grant, identically to the earlier Impact Explorer round, is to explore whether and how an unexpected research outcome, or an unexpected application of a research outcome, from curiosity-driven research can lead to societ…",
+      "who_can_apply": "Researchers with a running project in one of NWO or ZonMw's open competitions or talent line programmes can submit. For each ongoing project, only one proposal may be assessed in the Impact Explorer programme. Impact Explorer applications should be submitted with at least one Impact Partner. For specific conditions, see chapter 3.2 in the call.",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
     },
     {
       "id": "computing-time-on-national-computing-facilities-0",
@@ -2297,7 +2467,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     },
     {
       "id": "open-access-books",
@@ -2320,7 +2490,7 @@
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": ""
+      "first_seen": "2020-01-01"
     }
   ]
 }
