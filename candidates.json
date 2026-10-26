@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-19",
+  "generated": "2026-10-26",
   "window_days": 21,
   "source_counts": {
     "grants_total": 225,
-    "news_total": 31
+    "news_total": 37
   },
   "new_grants": [
     {
@@ -38,12 +38,13 @@
       "first_seen": "2026-10-12"
     },
     {
-      "id": "ngf-big-chemistry-2026",
-      "title": "NGF - Big Chemistry 2026",
-      "url": "https://www.nwo.nl/en/calls/ngf-big-chemistry-2026",
-      "status": "in_preparation",
+      "id": "big-chemistry-2026",
+      "title": "Big Chemistry 2026",
+      "url": "https://www.nwo.nl/en/calls/big-chemistry-2026",
+      "status": "upcoming",
       "deadline": "2027-02-23",
       "deadline_dates": [
+        "2027-02-23",
         "2027-02-23"
       ],
       "deadline_dates_labelled": [
@@ -51,6 +52,11 @@
           "date": "2027-02-23",
           "label": "Closing date full application",
           "context": ""
+        },
+        {
+          "date": "2027-02-23",
+          "label": null,
+          "context": "Deadline application: Tuesday 23 February 2027, 14:00 CET"
         }
       ],
       "rolling": false,
@@ -58,20 +64,20 @@
       "programme": "Big Chemistry",
       "budget": "€2,525,719",
       "target_groups": "",
-      "purpose": "",
-      "who_can_apply": "",
-      "details_published": false,
+      "purpose": "This call aims to bridge the gap between experimental chemistry, automation and artificial intelligence. This can be achieved, for example, through the integration of technological reaction platforms for parallel and/or serial experiments, …",
+      "who_can_apply": "Applications are to be submitted by a main applicant and, if applicable, one or more co-applicants. An application is written by a consortium in which besides the applicants, other participants can be involved as well. There are four categories of participants that can participate in a consortium: Main applicant Co-applicant(s) Cooperation partner(s) Co-funder(s) A consortium should consist of at least a main applicant and a co-funder. Only main- and co-applicants applying under this Call for proposals are eligible to receive funding. Co-applicants can be employees of: the research organisatio…",
+      "details_published": true,
       "restrictions": {
         "invited_only": false,
         "note": ""
       },
       "prerequisites": [],
-      "first_seen": "2026-10-12"
+      "first_seen": "2026-10-26"
     },
     {
-      "id": "nwo-talentprogramma-vici-enw-2027",
-      "title": "NWO-Talentprogramma Vici ENW 2027",
-      "url": "https://www.nwo.nl/en/calls/nwo-talentprogramma-vici-enw-2027",
+      "id": "nwo-talentprogramma-vici-ttw-2027",
+      "title": "NWO-Talentprogramma Vici TTW 2027",
+      "url": "https://www.nwo.nl/en/calls/nwo-talentprogramma-vici-ttw-2027",
       "status": "in_preparation",
       "deadline": "2027-03-09",
       "deadline_dates": [
@@ -92,7 +98,7 @@
       ],
       "rolling": false,
       "finance_type": "",
-      "programme": "",
+      "programme": "Vici TTW",
       "budget": "",
       "target_groups": "",
       "purpose": "",
@@ -143,9 +149,9 @@
       "first_seen": "2026-10-19"
     },
     {
-      "id": "nwo-talentprogramma-vici-ttw-2027",
-      "title": "NWO-Talentprogramma Vici TTW 2027",
-      "url": "https://www.nwo.nl/en/calls/nwo-talentprogramma-vici-ttw-2027",
+      "id": "nwo-talentprogramma-vici-enw-2027",
+      "title": "NWO-Talentprogramma Vici ENW 2027",
+      "url": "https://www.nwo.nl/en/calls/nwo-talentprogramma-vici-enw-2027",
       "status": "in_preparation",
       "deadline": "2027-03-09",
       "deadline_dates": [
@@ -166,7 +172,7 @@
       ],
       "rolling": false,
       "finance_type": "",
-      "programme": "Vici TTW",
+      "programme": "",
       "budget": "",
       "target_groups": "",
       "purpose": "",
@@ -329,6 +335,49 @@
       "first_seen": "2020-01-01"
     },
     {
+      "id": "venture-challenge-spring-2027",
+      "title": "Venture Challenge Spring 2027",
+      "url": "https://www.nwo.nl/en/calls/venture-challenge-spring-2027",
+      "status": "open",
+      "deadline": "2026-12-10",
+      "deadline_dates": [
+        "2026-10-20",
+        "2026-12-10",
+        "2026-12-10"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-20",
+          "label": null,
+          "context": "Registration for the spring edition opens 20 October 2026 and closes on 10 December 2026 14:00:00 CET."
+        },
+        {
+          "date": "2026-12-10",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2026-12-10",
+          "label": null,
+          "context": "Registration for the spring edition opens 20 October 2026 and closes on 10 December 2026 14:00:00 CET."
+        }
+      ],
+      "rolling": false,
+      "finance_type": "Collaboration with Partners",
+      "programme": "Venture Challenge",
+      "budget": "€100,000",
+      "target_groups": "Knowledge Utilisation",
+      "purpose": "Many scientific findings never reach the market. Researchers often do not have the experience and knowledge needed to set up a commercial organization and to come to a market-ready product or service. It is usually too early for private inv…",
+      "who_can_apply": "The Venture Challenge is intended for teams of at least three and a maximum of four people who are planning to bring a product or service in the field of life sciences & health to the market as a new start-up. The product or service is based on a new technological discovery or a new application of existing technology, grounded in scientific research. More specifically, it concerns a new therapy or medicine, diagnostics, medical device or a technology for improving existing - or accelerating the development of new - therapies or medicines. The team consists of the person who made the scientific…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
       "id": "doctoral-grant-for-teachers-2027-i",
       "title": "Doctoral grant for teachers 2027-I",
       "url": "https://www.nwo.nl/en/calls/doctoral-grant-for-teachers-2027-i",
@@ -369,7 +418,7 @@
       "id": "phds-in-the-humanities-2027",
       "title": "PhDs in the Humanities 2027",
       "url": "https://www.nwo.nl/en/calls/phds-in-the-humanities-2027",
-      "status": "upcoming",
+      "status": "open",
       "deadline": "2027-02-16",
       "deadline_dates": [
         "2027-02-16",
@@ -485,6 +534,48 @@
   ],
   "recent_news": [
     {
+      "title": "New opportunities for innovation: six projects receive funding within the Open Technology Programme",
+      "url": "https://www.nwo.nl/en/news/new-opportunities-for-innovation-six-projects-receive-funding-within-the-open-technology-programme",
+      "date": "2026-10-26",
+      "summary": "New grants from NWO’s Open Technology Programme (OTP) are enabling pioneering research that could fundamentally...",
+      "pre_announcement": false
+    },
+    {
+      "title": "Call open: System Perspective on Materials for Strategic Autonomy in the Energy Transition",
+      "url": "https://www.nwo.nl/en/news/call-open-system-perspective-on-materials-for-strategic-autonomy-in-the-energy-transition",
+      "date": "2026-10-26",
+      "summary": "The call ‘System Perspective on Materials for Strategic Autonomy in the Energy Transition’ from the Dutch Research...",
+      "pre_announcement": false
+    },
+    {
+      "title": "109 Vidi grants awarded to talented researchers",
+      "url": "https://www.nwo.nl/en/news/109-vidi-grants-awarded-to-talented-researchers",
+      "date": "2026-10-22",
+      "summary": "NWO has awarded Vidi funding of up to 850,000 euros to no fewer than 109 researchers from the scientific fields of...",
+      "pre_announcement": false
+    },
+    {
+      "title": "PhDs in the Humanities 2027 open for applications",
+      "url": "https://www.nwo.nl/en/news/phds-in-the-humanities-2027-open-for-applications",
+      "date": "2026-10-22",
+      "summary": "Are you a talented researcher with a passion for the humanities? Then the PhDs in the Humanities call might be something...",
+      "pre_announcement": false
+    },
+    {
+      "title": "Revision of Netherlands Code of Conduct for Research Integrity (NGWI)",
+      "url": "https://www.nwo.nl/en/news/revision-of-netherlands-code-of-conduct-for-research-integrity-ngwi",
+      "date": "2026-10-20",
+      "summary": "Dutch research institutions will adopt a new Code of Conduct for Research Integrity with effect from 1 January 2027...",
+      "pre_announcement": false
+    },
+    {
+      "title": "Spring round Venture Challenge 2027 now open for proposals",
+      "url": "https://www.nwo.nl/en/news/spring-round-venture-challenge-2027-now-open-for-proposals",
+      "date": "2026-10-20",
+      "summary": "The 2027 spring round of the Venture Challenge program is now open for applications. This round is open to all Life...",
+      "pre_announcement": false
+    },
+    {
       "title": "FORRT awarded with the Leo Waaijers Open Science Award 2026",
       "url": "https://www.nwo.nlhttps://www.openscience.nl/nieuws/forrt-bekroond-met-leo-waaijers-open-science-award-2026",
       "date": "2026-10-14",
@@ -538,34 +629,6 @@
       "url": "https://www.nwo.nl/en/news/impact-explorer-2026-now-open-for-proposals",
       "date": "2026-10-06",
       "summary": "The Impact Explorer 2026 call is now open for proposals. Following the success of the previous round, NWO has increased...",
-      "pre_announcement": false
-    },
-    {
-      "title": "Pre-announcement: KIC call for research into circularity in offshore wind",
-      "url": "https://www.nwo.nl/en/news/pre-announcement-kic-call-for-research-into-circularity-in-offshore-wind",
-      "date": "2026-10-01",
-      "summary": "NWO is expected to launch the KIC call ‘Circularity of materials, components and structures in offshore wind’ in...",
-      "pre_announcement": true
-    },
-    {
-      "title": "National Thematic Committee on Biodiversity Research launched",
-      "url": "https://www.nwo.nl/en/news/national-thematic-committee-on-biodiversity-research-launched",
-      "date": "2026-09-30",
-      "summary": "The National Thematic Committee on Biodiversity Research (NTBO) has been launched. The committee brings together...",
-      "pre_announcement": false
-    },
-    {
-      "title": "Netherlands Polar Programme is looking for an experienced chair",
-      "url": "https://www.nwo.nl/en/news/netherlands-polar-programme-is-looking-for-an-experienced-chair",
-      "date": "2026-09-29",
-      "summary": "The Netherlands Polar Programme, operated by NWO and funded by five ministries, is looking for a new independent...",
-      "pre_announcement": false
-    },
-    {
-      "title": "Farewell interview with Jan de Boer - ‘NWO has become more proactive, which is good for science’",
-      "url": "https://www.nwo.nl/en/news/farewell-interview-with-jan-de-boer-nwo-has-become-more-proactive-which-is-good-for-science",
-      "date": "2026-09-28",
-      "summary": "With the departure of Jan de Boer, chair of the Domain Board Science, NWO is losing a dedicated and loyal board member...",
       "pre_announcement": false
     }
   ]
