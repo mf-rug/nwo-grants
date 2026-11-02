@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-26",
+  "generated": "2026-11-02",
   "window_days": 21,
   "source_counts": {
-    "grants_total": 225,
-    "news_total": 37
+    "grants_total": 228,
+    "news_total": 41
   },
   "new_grants": [
     {
@@ -184,50 +184,139 @@
       },
       "prerequisites": [],
       "first_seen": "2026-10-19"
-    }
-  ],
-  "just_opened": [
+    },
     {
-      "id": "antarctic-research-and-antarctica-insync",
-      "title": "Antarctic research and Antarctica InSync",
-      "url": "https://www.nwo.nl/en/calls/antarctic-research-and-antarctica-insync",
-      "status": "open",
-      "deadline": "2026-10-29",
+      "id": "sovereignty-over-software",
+      "title": "Sovereignty over Software",
+      "url": "https://www.nwo.nl/en/calls/sovereignty-over-software",
+      "status": "in_preparation",
+      "deadline": "2027-06-22",
       "deadline_dates": [
-        "2026-10-29",
-        "2026-11-24",
-        "2027-02-16",
-        "2027-02-16"
+        "2027-06-22"
       ],
       "deadline_dates_labelled": [
         {
-          "date": "2026-10-29",
-          "label": null,
-          "context": "The next Call for Transnational Access (CTA) closes Thursday 29 October 2026 at 16:00 CET."
-        },
-        {
-          "date": "2026-11-24",
-          "label": null,
-          "context": "The deadline for the submission of a Pre-Award Operational Support and Planning Questionnaire (OSPQ) for planned use of the facilities of the British Antarctic Survey and the Dutch"
-        },
-        {
-          "date": "2027-02-16",
+          "date": "2027-06-22",
           "label": "Closing date full application",
           "context": ""
-        },
-        {
-          "date": "2027-02-16",
-          "label": null,
-          "context": "The deadline for the submission of proposals is Tuesday 16 February 2027, before 14:00:00 CET ."
         }
       ],
       "rolling": false,
       "finance_type": "",
-      "programme": "Netherlands Polar Programme Polair Programma",
-      "budget": "€3,200,000",
-      "target_groups": "International Collaboration",
-      "purpose": "also contributes to Antarctica InSync. Proposals should address one or more of the InSync themes and contribute to harmonised measurements, sampling and analysis. Projects need to be embedded in international research expeditions and campai…",
-      "who_can_apply": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. Researchers at a university of applied sciences or a TO2 institute can also ap…",
+      "programme": "Soevereiniteit over Software",
+      "budget": "€7,000,000",
+      "target_groups": "",
+      "purpose": "",
+      "who_can_apply": "",
+      "details_published": false,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "nano-and-advanced-technologies-for-developing-diagnostic-tools-to-improve-the-detection-and-the-clinical-management-of-non-communicable-diseases",
+      "title": "Nano and advanced technologies for developing Diagnostic tools to improve the detection and the clinical management of non-communicable diseases",
+      "url": "https://www.nwo.nl/en/calls/nano-and-advanced-technologies-for-developing-diagnostic-tools-to-improve-the-detection-and-the-clinical-management-of-non-communicable-diseases",
+      "status": "in_preparation",
+      "deadline": "",
+      "deadline_dates": [],
+      "deadline_dates_labelled": [],
+      "rolling": false,
+      "finance_type": "",
+      "programme": "ERA for Health (ERA4Health)",
+      "budget": "€3,259,521",
+      "target_groups": "",
+      "purpose": "",
+      "who_can_apply": "",
+      "details_published": false,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "futurefoods-call-2026",
+      "title": "FutureFoodS Call 2026",
+      "url": "https://www.nwo.nl/en/calls/futurefoods-call-2026",
+      "status": "in_preparation",
+      "deadline": "",
+      "deadline_dates": [],
+      "deadline_dates_labelled": [],
+      "rolling": false,
+      "finance_type": "",
+      "programme": "FutureFoodS",
+      "budget": "",
+      "target_groups": "",
+      "purpose": "",
+      "who_can_apply": "",
+      "details_published": false,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2026-11-02"
+    }
+  ],
+  "just_opened": [
+    {
+      "id": "kic-ai-for-agriculture-horticulture-water-and-food-2026",
+      "title": "KIC AI for agriculture, horticulture, water and food 2026",
+      "url": "https://www.nwo.nl/en/calls/kic-ai-for-agriculture-horticulture-water-and-food-2026",
+      "status": "open",
+      "deadline": "2026-11-03",
+      "deadline_dates": [
+        "2026-04-02",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-09-29",
+        "2026-10-13",
+        "2026-11-03"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-04-02",
+          "label": null,
+          "context": "The matchmaking event will take place on 2 April 2026 ."
+        },
+        {
+          "date": "2026-06-30",
+          "label": "Closing date for letter of intent",
+          "context": ""
+        },
+        {
+          "date": "2026-06-30",
+          "label": null,
+          "context": "The deadline for submitting a statement of intent 30 June 2026."
+        },
+        {
+          "date": "2026-09-29",
+          "label": null,
+          "context": "The deadline for a request to review foreign organisations is 29 September 2026 ."
+        },
+        {
+          "date": "2026-10-13",
+          "label": null,
+          "context": "The deadline for submitting a full proposal is 13 October 2026 ."
+        },
+        {
+          "date": "2026-11-03",
+          "label": "Closing date full application",
+          "context": ""
+        }
+      ],
+      "rolling": false,
+      "finance_type": "Collaboration with Partners",
+      "programme": "Knowledge and Innovation Covenant AI for agriculture, horticulture, water and food 2026 KIC 2024-2027",
+      "budget": "€7,000,000",
+      "target_groups": "Interdisciplinary Collaboration Collaboration with social partners Applied Sciences Research Collaboration with Industry",
+      "purpose": "The aim of this research programme is to develop, apply, and expand AI methods that can contribute to finding solutions to urgent societal challenges within the agriculture, horticulture, water, and food sectors. AI technology can support t…",
+      "who_can_apply": "Proposals are submitted by the main applicant and one or more co-applicants. Researchers may submit an application if they have a tenured position (and therefore a paid position for an indefinite period*) or a tenure track agreement at a research organisation. A proposal is written by a consortium in which besides the applicants two or more co-funders, and potentially one or more cooperation partners, are involved as well. All consortiumpartners should play an active role in the formulation of the research questions and in the design and implementation of the project. For more information: see…",
       "details_published": true,
       "restrictions": {
         "invited_only": false,
@@ -240,7 +329,7 @@
       "id": "system-perspective-on-materials-for-strategic-autonomy-in-the-energy-transition",
       "title": "System Perspective on Materials for Strategic Autonomy in the Energy Transition",
       "url": "https://www.nwo.nl/en/calls/system-perspective-on-materials-for-strategic-autonomy-in-the-energy-transition",
-      "status": "upcoming",
+      "status": "open",
       "deadline": "2026-11-16",
       "deadline_dates": [
         "2026-11-16",
@@ -285,7 +374,7 @@
       "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "System perspective on materials for strategic autonomy in the energy transition",
-      "budget": "€3,343,000",
+      "budget": "€3,346,900",
       "target_groups": "Collaboration with Industry Collaboration with social partners Applied Sciences Research",
       "purpose": "The Dutch energy transition relies heavily on a broad range of materials. Increasing uncertainties related to availability, technical applicability and circular use, as well as international dependencies and global competition require new, …",
       "who_can_apply": "Applications within this Call for Proposals must be submitted by a main applicant on behalf of a consortium. Within the consortium, four categories of participants are distinguished: Main applicant Co-applicant(s) Collaboration partner(s) Co-funder(s) (optional) The consortium must consist of at least one main applicant, one co-applicant, and one collaboration partner.",
@@ -326,6 +415,55 @@
       "target_groups": "Interdisciplinary Collaboration",
       "purpose": "Innovation that has an economic and social impact often requires a large-scale approach. Developing new technology requires setting up new lines of research, transcending old networks and creating close collaboration between scientists and …",
       "who_can_apply": "Scientists, companies and social organisations can apply a comprehensive research project concerning new technology through consortia. Such a project usually consists of four to eight work packages which approach the overarching theme from various research directions, with an explicit focus on application. At least three knowledge institutions and four users must be represented in the consortium. In addition to academic parties, TO2 institutes and universities of applied sciences can also apply for funding under certain conditions. For each programme, users must contribute to the program costs…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "antarctic-research-and-antarctica-insync",
+      "title": "Antarctic research and Antarctica InSync",
+      "url": "https://www.nwo.nl/en/calls/antarctic-research-and-antarctica-insync",
+      "status": "open",
+      "deadline": "2026-11-24",
+      "deadline_dates": [
+        "2026-10-29",
+        "2026-11-24",
+        "2027-02-16",
+        "2027-02-16"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-29",
+          "label": null,
+          "context": "The next Call for Transnational Access (CTA) closes Thursday 29 October 2026 at 16:00 CET."
+        },
+        {
+          "date": "2026-11-24",
+          "label": null,
+          "context": "The deadline for the submission of a Pre-Award Operational Support and Planning Questionnaire (OSPQ) for planned use of the facilities of the British Antarctic Survey and the Dutch"
+        },
+        {
+          "date": "2027-02-16",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2027-02-16",
+          "label": null,
+          "context": "The deadline for the submission of proposals is Tuesday 16 February 2027, before 14:00:00 CET ."
+        }
+      ],
+      "rolling": false,
+      "finance_type": "",
+      "programme": "Netherlands Polar Programme Polair Programma",
+      "budget": "€3,200,000",
+      "target_groups": "International Collaboration",
+      "purpose": "also contributes to Antarctica InSync. Proposals should address one or more of the InSync themes and contribute to harmonised measurements, sampling and analysis. Projects need to be embedded in international research expeditions and campai…",
+      "who_can_apply": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. Researchers at a university of applied sciences or a TO2 institute can also ap…",
       "details_published": true,
       "restrictions": {
         "invited_only": false,
@@ -406,6 +544,55 @@
       "target_groups": "Teachers",
       "purpose": "Teachers from primary, secondary, further vocational, higher vocational and special education can receive a grant for a PhD study. The aim is to directly apply the knowledge and research experience acquired for the benefit of educational pr…",
       "who_can_apply": "You must hold a tenured position and you must be employed at an educational institute funded by the Dutch government.",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "ssh-open-competition-explore-2027-round-1",
+      "title": "SSH Open Competition Explore 2027 – round 1",
+      "url": "https://www.nwo.nl/en/calls/ssh-open-competition-explore-2027-round-1",
+      "status": "open",
+      "deadline": "2027-01-19",
+      "deadline_dates": [
+        "2027-01-19",
+        "2027-01-19",
+        "2027-04-06",
+        "2027-09-14"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-01-19",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2027-01-19",
+          "label": null,
+          "context": "For 2027, three deadlines for submitting applications are specified: Round 1: 19 January 2027, before 14:00:00 CET Round 2: 6 April 2027, before 14:00:00 CEST Round 3: 14 September"
+        },
+        {
+          "date": "2027-04-06",
+          "label": null,
+          "context": "For 2027, three deadlines for submitting applications are specified: Round 1: 19 January 2027, before 14:00:00 CET Round 2: 6 April 2027, before 14:00:00 CEST Round 3: 14 September"
+        },
+        {
+          "date": "2027-09-14",
+          "label": null,
+          "context": "For 2027, three deadlines for submitting applications are specified: Round 1: 19 January 2027, before 14:00:00 CET Round 2: 6 April 2027, before 14:00:00 CEST Round 3: 14 September"
+        }
+      ],
+      "rolling": false,
+      "finance_type": "Curiosity Driven Research",
+      "programme": "Open Competition SSH Explore",
+      "budget": "€4,000,000",
+      "target_groups": "",
+      "purpose": "Some research ideas are so innovative that they warrant investigation, even if the outcomes are still uncertain. These may include an innovative idea, a new method, an experimental approach or an ambitious research objective whose feasibili…",
+      "who_can_apply": "Researchers holding a PhD may submit a proposal provided they hold a paid position for at least the duration of the application process and the duration of the proposed project at one of research organisations mentioned in section 3.2 of the Call for proposals. Individuals with a zero-hour employment contract cannot submit a proposal. Additional conditions: an Explore proposal has a single applicant and no co-applicants; an applicant may not have already submitted a proposal in the same calendar year (2027) as a lead or co-applicant within the NWO/ZonMw Open Competition programme; at the time …",
       "details_published": true,
       "restrictions": {
         "invited_only": false,
@@ -534,6 +721,27 @@
   ],
   "recent_news": [
     {
+      "title": "Open Research Europe enables Dutch researchers to publish free of charge",
+      "url": "https://www.nwo.nl/en/news/open-research-europe-enables-dutch-researchers-to-publish-free-of-charge",
+      "date": "2026-11-02",
+      "summary": "Researchers affiliated with research institutions in the Netherlands can publish free of charge through Open Research...",
+      "pre_announcement": false
+    },
+    {
+      "title": "Positive mid-term evaluation of the Faculty of Impact",
+      "url": "https://www.nwo.nl/en/news/positive-mid-term-evaluation-of-the-faculty-of-impact",
+      "date": "2026-10-30",
+      "summary": "The Faculty of Impact (FoI) helps researchers to develop entrepreneurial skills and set up their own business or non...",
+      "pre_announcement": false
+    },
+    {
+      "title": "NWA strengthens the connection between science and society",
+      "url": "https://www.nwo.nl/en/news/nwa-strengthens-the-connection-between-science-and-society",
+      "date": "2026-10-28",
+      "summary": "The Dutch Research Agenda (NWA) emerged in response to questions from citizens about the world and the societal...",
+      "pre_announcement": false
+    },
+    {
       "title": "New opportunities for innovation: six projects receive funding within the Open Technology Programme",
       "url": "https://www.nwo.nl/en/news/new-opportunities-for-innovation-six-projects-receive-funding-within-the-open-technology-programme",
       "date": "2026-10-26",
@@ -545,6 +753,13 @@
       "url": "https://www.nwo.nl/en/news/call-open-system-perspective-on-materials-for-strategic-autonomy-in-the-energy-transition",
       "date": "2026-10-26",
       "summary": "The call ‘System Perspective on Materials for Strategic Autonomy in the Energy Transition’ from the Dutch Research...",
+      "pre_announcement": false
+    },
+    {
+      "title": "Grants for seventeen innovative research projects in the Open Competition Domain Science-M programme",
+      "url": "https://www.nwo.nl/en/news/grants-for-seventeen-innovative-research-projects-in-the-open-competition-domain-science-m-programme",
+      "date": "2026-10-26",
+      "summary": "The NWO Science Board has approved seventeen grant applications in the Open Competition Domain Science-M programme. The...",
       "pre_announcement": false
     },
     {
@@ -602,384 +817,62 @@
       "date": "2026-10-13",
       "summary": "The Netherlands should not be aiming for a smaller EU budget, but for a smart one. This is the case made today by Dutch...",
       "pre_announcement": false
-    },
-    {
-      "title": "Dutch Research Council (NWO) cancels subscriptions to Web of Science and Scopus",
-      "url": "https://www.nwo.nl/en/news/dutch-research-council-nwo-cancels-subscriptions-to-web-of-science-and-scopus",
-      "date": "2026-10-09",
-      "summary": "From 1 January 2027, NWO staff will no longer have access to the bibliographic databases Web of Science (Clarivate) and...",
-      "pre_announcement": false
-    },
-    {
-      "title": "Call for proposals: Antarctic Research and Antarctica InSync",
-      "url": "https://www.nwo.nl/en/news/call-for-proposals-antarctic-research-and-antarctica-insync",
-      "date": "2026-10-08",
-      "summary": "Researchers can now submit proposals for the Antarctic Research and Antarctica InSync grant round. With a total budget...",
-      "pre_announcement": false
-    },
-    {
-      "title": "Festive award ceremony for Spinoza and Stevin laureates, whom the minister ‘will be keeping a close eye on’",
-      "url": "https://www.nwo.nl/en/news/festive-award-ceremony-for-spinoza-and-stevin-laureates-whom-the-minister-will-be-keeping-a-close-eye-on",
-      "date": "2026-10-07",
-      "summary": "‘The Spinoza and Stevin Prizes are a mark of recognition, but also a mandate. The prizes reflect the expectation that...",
-      "pre_announcement": false
-    },
-    {
-      "title": "Impact Explorer 2026 now open for proposals",
-      "url": "https://www.nwo.nl/en/news/impact-explorer-2026-now-open-for-proposals",
-      "date": "2026-10-06",
-      "summary": "The Impact Explorer 2026 call is now open for proposals. Following the success of the previous round, NWO has increased...",
-      "pre_announcement": false
     }
   ],
   "currently_open": [
     {
-      "id": "kin-pact-network-grant-2026",
-      "title": "KIN Pact Network grant 2026",
-      "url": "https://www.nwo.nl/en/calls/kin-pact-network-grant-2026",
+      "id": "kic-ai-for-agriculture-horticulture-water-and-food-2026",
+      "title": "KIC AI for agriculture, horticulture, water and food 2026",
+      "url": "https://www.nwo.nl/en/calls/kic-ai-for-agriculture-horticulture-water-and-food-2026",
       "status": "open",
-      "deadline": "2026-10-27",
+      "deadline": "2026-11-03",
       "deadline_dates": [
-        "2026-10-27",
-        "2026-10-27"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-10-27",
-          "label": "Closing date full application",
-          "context": ""
-        },
-        {
-          "date": "2026-10-27",
-          "label": null,
-          "context": "Deadline for applications: 27 October 2026 at 14:00:00 uur CET"
-        }
-      ],
-      "rolling": false,
-      "finance_type": "Collaboration with Partners",
-      "programme": "Pact Netwerksubsidie",
-      "budget": "€480,000",
-      "target_groups": "Interdisciplinary Collaboration Collaboration with social partners Collaboration with Industry",
-      "purpose": "The aim of KIN Pact Network Grants is to provide financial support for setting up and professionalising transdisciplinary climate transition networks. This applies both to existing networks and to networks that have yet to start. KIN’s aim …",
-      "who_can_apply": "Employees of any legal entity registered in the Kingdom of the Netherlands are allowed to submit an application. One prerequisite for receiving a grant is that main and co-applicants representing existing or yet to be built networks are members of the KIN Pact at the time they submit their proposal. Main and co-applicants include at least one knowledge institution (i.e. organisations that conduct research, such as higher education institutions, scientific and applied research institutions, national government institutes and university medical centres), plus at least two civil society organisat…",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": "2020-01-01"
-    },
-    {
-      "id": "holomicrobiome-2026-towards-novel-microbiome-applications-for-the-environment-food-and-health",
-      "title": "Holomicrobiome 2026 - Towards novel microbiome applications for the environment, food and health",
-      "url": "https://www.nwo.nl/en/calls/holomicrobiome-2026-towards-novel-microbiome-applications-for-the-environment-food-and-health",
-      "status": "open",
-      "deadline": "2026-10-27",
-      "deadline_dates": [
-        "2026-06-25",
+        "2026-04-02",
+        "2026-06-30",
         "2026-06-30",
         "2026-09-29",
-        "2026-10-27",
-        "2026-10-27"
+        "2026-10-13",
+        "2026-11-03"
       ],
       "deadline_dates_labelled": [
         {
-          "date": "2026-06-25",
+          "date": "2026-04-02",
           "label": null,
-          "context": "Deadline registration for matchmaking: 25 June 2026, 14:00:00 CEST."
+          "context": "The matchmaking event will take place on 2 April 2026 ."
+        },
+        {
+          "date": "2026-06-30",
+          "label": "Closing date for letter of intent",
+          "context": ""
         },
         {
           "date": "2026-06-30",
           "label": null,
-          "context": "Matchmaking: 30 June 2026."
+          "context": "The deadline for submitting a statement of intent 30 June 2026."
         },
         {
           "date": "2026-09-29",
           "label": null,
-          "context": "Deadline request for assessment of organisations: 29 September 2026, 14:00:00 CEST."
+          "context": "The deadline for a request to review foreign organisations is 29 September 2026 ."
         },
         {
-          "date": "2026-10-27",
+          "date": "2026-10-13",
+          "label": null,
+          "context": "The deadline for submitting a full proposal is 13 October 2026 ."
+        },
+        {
+          "date": "2026-11-03",
           "label": "Closing date full application",
           "context": ""
-        },
-        {
-          "date": "2026-10-27",
-          "label": null,
-          "context": "Deadline application: 27 October 2026, 14:00:00 CET."
         }
       ],
       "rolling": false,
       "finance_type": "Collaboration with Partners",
-      "programme": "Holomicrobiome",
-      "budget": "€13,000,000",
-      "target_groups": "",
-      "purpose": "Our society faces major challenges in the areas of climate, environmental quality, circularity, and animal and public health. Microbiomes have the potential to offer sustainable solutions, for example by reducing harmful emissions in agricu…",
-      "who_can_apply": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a position at one of the Dutch knowledge organisations as mentioned in the Call for proposals. Applications are submitted by a main applicant and one or more co-applicants on behalf of the consortium. An important condition is that the main applicant (or their replacement) has participated in the matchmaking. Staff members of the following organisations may act as co-applicants: the research organisations listed under ‘main applicant’ in the Call for proposals; Dutch…",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [
-        {
-          "kind": "matchmaking",
-          "mandatory": true,
-          "date": "2026-06-25",
-          "context": "Procedure Participation in the matchmaking is obligatory for main applicants."
-        }
-      ],
-      "first_seen": "2020-01-01"
-    },
-    {
-      "id": "preparing-for-tomorrow-societies-and-strategies-in-times-of-transition",
-      "title": "Preparing for Tomorrow: Societies and Strategies in Times of Transition",
-      "url": "https://www.nwo.nl/en/calls/preparing-for-tomorrow-societies-and-strategies-in-times-of-transition",
-      "status": "open",
-      "deadline": "2026-10-28",
-      "deadline_dates": [
-        "2026-07-08",
-        "2026-10-14",
-        "2026-10-28"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-07-08",
-          "label": "Closing date for letter of intent",
-          "context": ""
-        },
-        {
-          "date": "2026-10-14",
-          "label": null,
-          "context": "The deadline for pre-submission, concerning the compliance assessment of organisations with NWO grant rules is 14 October 2026, 23:59 CEST."
-        },
-        {
-          "date": "2026-10-28",
-          "label": "Closing date full application",
-          "context": ""
-        }
-      ],
-      "rolling": false,
-      "finance_type": "",
-      "programme": "Trans-Atlantic Platform (T-AP) Trans-Atlantic Platform (T-AP) INT - Mondiale Programma’s -",
-      "budget": "€2,800,000",
-      "target_groups": "",
-      "purpose": "The Trans-Atlantic Platform (T-AP) call Preparing for Tomorrow: Societies and Strategies in Times of Transition invites critical discussion on key questions that will define our shared future: How can we strengthen society’s ability to anti…",
-      "who_can_apply": "For this transnational call, additional rules apply. For all Dutch applicants, NWO rules apply. Further details can be found in the national annex. Call applicants must apply as a transnational research partnership, comprising national research teams based in the participating T-AP countries listed above. Each proposal must include at least three eligible co-PIs from at least three different T-AP participating countries, with representation from both sides of the Atlantic. Applications must comply with all relevant eligibility requirements. If any research partner within a consortium is found …",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": "2020-01-01"
-    },
-    {
-      "id": "accelerating-energy-transition-in-dutch-and-taiwanese-ports",
-      "title": "Accelerating energy transition in Dutch and Taiwanese ports",
-      "url": "https://www.nwo.nl/en/calls/accelerating-energy-transition-in-dutch-and-taiwanese-ports",
-      "status": "open",
-      "deadline": "2026-10-29",
-      "deadline_dates": [
-        "2026-10-29",
-        "2026-10-29",
-        "2027-01-21",
-        "2027-02-04",
-        "2027-02-04",
-        "2027-03-04"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-10-29",
-          "label": "Closing date for letter of intent",
-          "context": ""
-        },
-        {
-          "date": "2026-10-29",
-          "label": null,
-          "context": "Applicants should be aware of four submission deadlines in this Call for proposals: The deadline for submitting statements of intent is 29 October 2026 , before 14:00:00 CET, at NW"
-        },
-        {
-          "date": "2027-01-21",
-          "label": null,
-          "context": "1 of the Call for proposals) is 21 January 2027, before 14:00:00 CET."
-        },
-        {
-          "date": "2027-02-04",
-          "label": "Closing date full application",
-          "context": ""
-        },
-        {
-          "date": "2027-02-04",
-          "label": null,
-          "context": "The deadline for submitting full proposals at NWO is 4 February 2027 , before 14:00:00 CET."
-        },
-        {
-          "date": "2027-03-04",
-          "label": null,
-          "context": "The deadline for submitting full proposals at NSTC (which is the same full proposal submitted to NWO) is 4 March 2027 (this is due to Chinese New Year holiday period)"
-        }
-      ],
-      "rolling": false,
-      "finance_type": "Collaboration with Partners",
-      "programme": "Collaboration Taiwan (NSTC)",
-      "budget": "€2,000,000",
-      "target_groups": "Interdisciplinary Collaboration International Collaboration Collaboration with social partners Applied Sciences Research Researchers from Abroad Collaboration with Industry",
-      "purpose": "This NSTC-NWO call aims to accelerate the energy transition within the Taiwanese and Dutch ports, and their integrated industrial complexes, through joint research collaborations stimulating knowledge accumulation and sharing. To ensure a h…",
-      "who_can_apply": "Each consortia will consist of a side based in The Netherlands (from here on NWO-side) and one based in Taiwan( (from here on NSTC-side). Annex 7.1 in the Call for proposals states the exact requirement for consortia, per funding council. For the NWO side of the consortium, the minimum requirements are: a main applicant who meets the NWO-criteria; a co-applicant who meets the NWO-criteria and is from a different organisation than the main applicant; a cooperation partner from a practitioner organisation, such as a business, (local) government, or nongovernmental organisation. Consortia are enc…",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": "2020-01-01"
-    },
-    {
-      "id": "antarctic-research-and-antarctica-insync",
-      "title": "Antarctic research and Antarctica InSync",
-      "url": "https://www.nwo.nl/en/calls/antarctic-research-and-antarctica-insync",
-      "status": "open",
-      "deadline": "2026-10-29",
-      "deadline_dates": [
-        "2026-10-29",
-        "2026-11-24",
-        "2027-02-16",
-        "2027-02-16"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-10-29",
-          "label": null,
-          "context": "The next Call for Transnational Access (CTA) closes Thursday 29 October 2026 at 16:00 CET."
-        },
-        {
-          "date": "2026-11-24",
-          "label": null,
-          "context": "The deadline for the submission of a Pre-Award Operational Support and Planning Questionnaire (OSPQ) for planned use of the facilities of the British Antarctic Survey and the Dutch"
-        },
-        {
-          "date": "2027-02-16",
-          "label": "Closing date full application",
-          "context": ""
-        },
-        {
-          "date": "2027-02-16",
-          "label": null,
-          "context": "The deadline for the submission of proposals is Tuesday 16 February 2027, before 14:00:00 CET ."
-        }
-      ],
-      "rolling": false,
-      "finance_type": "",
-      "programme": "Netherlands Polar Programme Polair Programma",
-      "budget": "€3,200,000",
-      "target_groups": "International Collaboration",
-      "purpose": "also contributes to Antarctica InSync. Proposals should address one or more of the InSync themes and contribute to harmonised measurements, sampling and analysis. Projects need to be embedded in international research expeditions and campai…",
-      "who_can_apply": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. Researchers at a university of applied sciences or a TO2 institute can also ap…",
-      "details_published": true,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": "2020-01-01"
-    },
-    {
-      "id": "scientific-meetings-and-consultations-2026",
-      "title": "Scientific Meetings and Consultations 2026",
-      "url": "https://www.nwo.nl/en/calls/scientific-meetings-and-consultations-2026",
-      "status": "open",
-      "deadline": "2026-10-29",
-      "deadline_dates": [
-        "2026-01-06",
-        "2026-02-27",
-        "2026-03-03",
-        "2026-04-23",
-        "2026-05-19",
-        "2026-07-09",
-        "2026-07-14",
-        "2026-09-01",
-        "2026-09-10",
-        "2026-10-29",
-        "2026-11-03",
-        "2026-11-03",
-        "2026-12-24"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-01-06",
-          "label": "opening (from text)",
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-02-27",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-03-03",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-04-23",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-05-19",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-07-09",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-07-14",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-09-01",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-09-10",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-10-29",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-11-03",
-          "label": "Upcoming submission date",
-          "context": ""
-        },
-        {
-          "date": "2026-11-03",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        },
-        {
-          "date": "2026-12-24",
-          "label": null,
-          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
-        }
-      ],
-      "rolling": true,
-      "finance_type": "",
-      "programme": "Scientific Meetings and Consultations (ENW)",
-      "budget": "€600,000",
-      "target_groups": "Interdisciplinary Collaboration International Collaboration Starting Researchers",
-      "purpose": "NWO perceives a duty to encourage national and international knowledge networks as well as to promote all forms of monodisciplinary, interdisciplinary and transdisciplinary collaboration, along with collaboration throughout the knowledge ch…",
-      "who_can_apply": "Full, associate and assistant professors, other researchers with a comparable position, postdocs, and PhD candidates may submit an application if they have a paid position, for at least until the meeting or consultation for which funding is requested, at one of the following organisations (see extra conditions in section 3.1 of the Call for proposals): Universities as referred to in Article 1.8(1) of the Higher Education and Scientific Research Act and universities listed in the Policy Rules for Universities in the Kingdom of the Netherlands University medical centres, by which is meant teachi…",
+      "programme": "Knowledge and Innovation Covenant AI for agriculture, horticulture, water and food 2026 KIC 2024-2027",
+      "budget": "€7,000,000",
+      "target_groups": "Interdisciplinary Collaboration Collaboration with social partners Applied Sciences Research Collaboration with Industry",
+      "purpose": "The aim of this research programme is to develop, apply, and expand AI methods that can contribute to finding solutions to urgent societal challenges within the agriculture, horticulture, water, and food sectors. AI technology can support t…",
+      "who_can_apply": "Proposals are submitted by the main applicant and one or more co-applicants. Researchers may submit an application if they have a tenured position (and therefore a paid position for an indefinite period*) or a tenure track agreement at a research organisation. A proposal is written by a consortium in which besides the applicants two or more co-funders, and potentially one or more cooperation partners, are involved as well. All consortiumpartners should play an active role in the formulation of the research questions and in the design and implementation of the project. For more information: see…",
       "details_published": true,
       "restrictions": {
         "invited_only": false,
@@ -1234,6 +1127,109 @@
       "first_seen": "2020-01-01"
     },
     {
+      "id": "scientific-meetings-and-consultations-2026",
+      "title": "Scientific Meetings and Consultations 2026",
+      "url": "https://www.nwo.nl/en/calls/scientific-meetings-and-consultations-2026",
+      "status": "open",
+      "deadline": "2026-11-03",
+      "deadline_dates": [
+        "2026-01-06",
+        "2026-02-27",
+        "2026-03-03",
+        "2026-04-23",
+        "2026-05-19",
+        "2026-07-09",
+        "2026-07-14",
+        "2026-09-01",
+        "2026-09-10",
+        "2026-10-29",
+        "2026-11-03",
+        "2026-11-03",
+        "2026-12-24"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-01-06",
+          "label": "opening (from text)",
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-02-27",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-03-03",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-04-23",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-05-19",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-07-09",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-07-14",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-09-01",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-09-10",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-10-29",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-11-03",
+          "label": "Upcoming submission date",
+          "context": ""
+        },
+        {
+          "date": "2026-11-03",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        },
+        {
+          "date": "2026-12-24",
+          "label": null,
+          "context": "Submission deadlines (deadline at 14:00:00 CE(S)T) Scientific meeting or consultation possible from: 6 January 2026 27 February 2026 3 March 2026 23 April 2026 19 May 2026 9 July 2"
+        }
+      ],
+      "rolling": true,
+      "finance_type": "",
+      "programme": "Scientific Meetings and Consultations (ENW)",
+      "budget": "€600,000",
+      "target_groups": "Interdisciplinary Collaboration International Collaboration Starting Researchers",
+      "purpose": "NWO perceives a duty to encourage national and international knowledge networks as well as to promote all forms of monodisciplinary, interdisciplinary and transdisciplinary collaboration, along with collaboration throughout the knowledge ch…",
+      "who_can_apply": "Full, associate and assistant professors, other researchers with a comparable position, postdocs, and PhD candidates may submit an application if they have a paid position, for at least until the meeting or consultation for which funding is requested, at one of the following organisations (see extra conditions in section 3.1 of the Call for proposals): Universities as referred to in Article 1.8(1) of the Higher Education and Scientific Research Act and universities listed in the Policy Rules for Universities in the Kingdom of the Netherlands University medical centres, by which is meant teachi…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
       "id": "partnership-water4all-sustainable-water-management",
       "title": "Partnership Water4All - Sustainable Water Management",
       "url": "https://www.nwo.nl/en/calls/partnership-water4all-sustainable-water-management",
@@ -1455,7 +1451,7 @@
       "id": "system-perspective-on-materials-for-strategic-autonomy-in-the-energy-transition",
       "title": "System Perspective on Materials for Strategic Autonomy in the Energy Transition",
       "url": "https://www.nwo.nl/en/calls/system-perspective-on-materials-for-strategic-autonomy-in-the-energy-transition",
-      "status": "upcoming",
+      "status": "open",
       "deadline": "2026-11-16",
       "deadline_dates": [
         "2026-11-16",
@@ -1500,7 +1496,7 @@
       "rolling": false,
       "finance_type": "Collaboration with Partners",
       "programme": "System perspective on materials for strategic autonomy in the energy transition",
-      "budget": "€3,343,000",
+      "budget": "€3,346,900",
       "target_groups": "Collaboration with Industry Collaboration with social partners Applied Sciences Research",
       "purpose": "The Dutch energy transition relies heavily on a broad range of materials. Increasing uncertainties related to availability, technical applicability and circular use, as well as international dependencies and global competition require new, …",
       "who_can_apply": "Applications within this Call for Proposals must be submitted by a main applicant on behalf of a consortium. Within the consortium, four categories of participants are distinguished: Main applicant Co-applicant(s) Collaboration partner(s) Co-funder(s) (optional) The consortium must consist of at least one main applicant, one co-applicant, and one collaboration partner.",
@@ -1795,6 +1791,55 @@
       "first_seen": "2020-01-01"
     },
     {
+      "id": "antarctic-research-and-antarctica-insync",
+      "title": "Antarctic research and Antarctica InSync",
+      "url": "https://www.nwo.nl/en/calls/antarctic-research-and-antarctica-insync",
+      "status": "open",
+      "deadline": "2026-11-24",
+      "deadline_dates": [
+        "2026-10-29",
+        "2026-11-24",
+        "2027-02-16",
+        "2027-02-16"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2026-10-29",
+          "label": null,
+          "context": "The next Call for Transnational Access (CTA) closes Thursday 29 October 2026 at 16:00 CET."
+        },
+        {
+          "date": "2026-11-24",
+          "label": null,
+          "context": "The deadline for the submission of a Pre-Award Operational Support and Planning Questionnaire (OSPQ) for planned use of the facilities of the British Antarctic Survey and the Dutch"
+        },
+        {
+          "date": "2027-02-16",
+          "label": "Closing date full application",
+          "context": ""
+        },
+        {
+          "date": "2027-02-16",
+          "label": null,
+          "context": "The deadline for the submission of proposals is Tuesday 16 February 2027, before 14:00:00 CET ."
+        }
+      ],
+      "rolling": false,
+      "finance_type": "",
+      "programme": "Netherlands Polar Programme Polair Programma",
+      "budget": "€3,200,000",
+      "target_groups": "International Collaboration",
+      "purpose": "also contributes to Antarctica InSync. Proposals should address one or more of the InSync themes and contribute to harmonised measurements, sampling and analysis. Projects need to be embedded in international research expeditions and campai…",
+      "who_can_apply": "Full, associate and assistant professors and other researchers with a comparable position may submit an application if they have a tenured position (and therefore a paid position for an indefinite period) or a tenure track agreement at one of the organisations mentioned in the Call for Proposals. Researchers with a one-year or a two-year employment contract who are expected to be offered a permanent employment contract after the initial one-year or two-year period has elapsed, are also eligible to submit a proposal. Researchers at a university of applied sciences or a TO2 institute can also ap…",
+      "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
       "id": "rubicon-2026-3",
       "title": "Rubicon 2026-3",
       "url": "https://www.nwo.nl/en/calls/rubicon-2026-3",
@@ -1906,37 +1951,6 @@
       "first_seen": "2020-01-01"
     },
     {
-      "id": "radioactive-waste-disposal-and-radiation-protection",
-      "title": "Radioactive waste disposal and radiation protection",
-      "url": "https://www.nwo.nl/en/calls/radioactive-waste-disposal-and-radiation-protection",
-      "status": "in_preparation",
-      "deadline": "2026-12-31",
-      "deadline_dates": [
-        "2026-12-31"
-      ],
-      "deadline_dates_labelled": [
-        {
-          "date": "2026-12-31",
-          "label": "Closing date full application",
-          "context": ""
-        }
-      ],
-      "rolling": false,
-      "finance_type": "",
-      "programme": "Dutch nuclear energy research programme Nucleaire eindberging en stralingsveiligheid",
-      "budget": "€15,500,000",
-      "target_groups": "",
-      "purpose": "",
-      "who_can_apply": "",
-      "details_published": false,
-      "restrictions": {
-        "invited_only": false,
-        "note": ""
-      },
-      "prerequisites": [],
-      "first_seen": "2020-01-01"
-    },
-    {
       "id": "doctoral-grant-for-teachers-2027-i",
       "title": "Doctoral grant for teachers 2027-I",
       "url": "https://www.nwo.nl/en/calls/doctoral-grant-for-teachers-2027-i",
@@ -1977,7 +1991,7 @@
       "id": "ssh-open-competition-explore-2027-round-1",
       "title": "SSH Open Competition Explore 2027 – round 1",
       "url": "https://www.nwo.nl/en/calls/ssh-open-competition-explore-2027-round-1",
-      "status": "upcoming",
+      "status": "open",
       "deadline": "2027-01-19",
       "deadline_dates": [
         "2027-01-19",
@@ -2244,6 +2258,43 @@
       "purpose": "The aim of the PhDs in the Humanities programme is to enable talented researchers to conduct independent PhD research. Prospective PhD candidates are referred to as ‘the candidate’ in this Call for proposals.",
       "who_can_apply": "PhDs in the Humanities offers talented researchers a paid PhD position.",
       "details_published": true,
+      "restrictions": {
+        "invited_only": false,
+        "note": ""
+      },
+      "prerequisites": [],
+      "first_seen": "2020-01-01"
+    },
+    {
+      "id": "radioactive-waste-disposal-and-radiation-protection",
+      "title": "Radioactive waste disposal and radiation protection",
+      "url": "https://www.nwo.nl/en/calls/radioactive-waste-disposal-and-radiation-protection",
+      "status": "in_preparation",
+      "deadline": "2027-02-16",
+      "deadline_dates": [
+        "2027-02-16",
+        "2027-09-07"
+      ],
+      "deadline_dates_labelled": [
+        {
+          "date": "2027-02-16",
+          "label": "Closing date for pre-proposals",
+          "context": ""
+        },
+        {
+          "date": "2027-09-07",
+          "label": "Closing date full application",
+          "context": ""
+        }
+      ],
+      "rolling": false,
+      "finance_type": "",
+      "programme": "Dutch nuclear energy research programme Stralingsbescherming en eindberging van radio-actief afval: socio-technische aspecten",
+      "budget": "€15,500,000",
+      "target_groups": "",
+      "purpose": "",
+      "who_can_apply": "",
+      "details_published": false,
       "restrictions": {
         "invited_only": false,
         "note": ""

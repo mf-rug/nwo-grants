@@ -1,5 +1,32 @@
 [
   {
+    "id": "open-research-europe-enables-dutch-researchers-to-publish-free-of-charge",
+    "title": "Open Research Europe enables Dutch researchers to publish free of charge",
+    "date": "2026-11-02",
+    "url": "https://www.nwo.nl/en/news/open-research-europe-enables-dutch-researchers-to-publish-free-of-charge",
+    "summary": "Researchers affiliated with research institutions in the Netherlands can publish free of charge through Open Research...",
+    "is_pre_announcement": false,
+    "first_seen": "2026-11-02"
+  },
+  {
+    "id": "positive-mid-term-evaluation-of-the-faculty-of-impact",
+    "title": "Positive mid-term evaluation of the Faculty of Impact",
+    "date": "2026-10-30",
+    "url": "https://www.nwo.nl/en/news/positive-mid-term-evaluation-of-the-faculty-of-impact",
+    "summary": "The Faculty of Impact (FoI) helps researchers to develop entrepreneurial skills and set up their own business or non...",
+    "is_pre_announcement": false,
+    "first_seen": "2026-11-02"
+  },
+  {
+    "id": "nwa-strengthens-the-connection-between-science-and-society",
+    "title": "NWA strengthens the connection between science and society",
+    "date": "2026-10-28",
+    "url": "https://www.nwo.nl/en/news/nwa-strengthens-the-connection-between-science-and-society",
+    "summary": "The Dutch Research Agenda (NWA) emerged in response to questions from citizens about the world and the societal...",
+    "is_pre_announcement": false,
+    "first_seen": "2026-11-02"
+  },
+  {
     "id": "new-opportunities-for-innovation-six-projects-receive-funding-within-the-open-technology-programme",
     "title": "New opportunities for innovation: six projects receive funding within the Open Technology Programme",
     "date": "2026-10-26",
@@ -16,6 +43,15 @@
     "summary": "The call ‘System Perspective on Materials for Strategic Autonomy in the Energy Transition’ from the Dutch Research...",
     "is_pre_announcement": false,
     "first_seen": "2026-10-26"
+  },
+  {
+    "id": "grants-for-seventeen-innovative-research-projects-in-the-open-competition-domain-science-m-programme",
+    "title": "Grants for seventeen innovative research projects in the Open Competition Domain Science-M programme",
+    "date": "2026-10-26",
+    "url": "https://www.nwo.nl/en/news/grants-for-seventeen-innovative-research-projects-in-the-open-competition-domain-science-m-programme",
+    "summary": "The NWO Science Board has approved seventeen grant applications in the Open Competition Domain Science-M programme. The...",
+    "is_pre_announcement": false,
+    "first_seen": "2026-11-02"
   },
   {
     "id": "109-vidi-grants-awarded-to-talented-researchers",
